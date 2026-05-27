@@ -10,8 +10,9 @@
     .grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}.full{grid-column:1/-1}
     input,select{width:100%;padding:10px;border:1px solid #ccc;border-radius:8px}.results{display:grid;gap:12px}.item{border:1px solid #ddd;border-radius:10px;padding:14px;background:#fff}
     .meta{font-size:14px;color:#666;margin:6px 0 10px} button{padding:10px 16px;border:0;border-radius:999px;background:#0b6b70;color:#fff;cursor:pointer}
-    #childSourceList{display:grid;gap:8px;margin-top:8px}.child-option{display:flex;align-items:center;gap:8px;padding:8px 10px;border:1px solid #ddd;border-radius:8px;background:#fafafa}.child-option input{width:auto;margin:0}
-    @media(max-width:800px){.grid{grid-template-columns:1fr}}
+    #childSourceList{display:grid;grid-template-columns:repeat(2,1fr);gap:8px;margin-top:8px}.child-option{display:flex;align-items:center;gap:8px;padding:6px 8px;border:1px solid #ddd;border-radius:8px;background:#fafafa;font-size:13px}.child-option input{width:auto}.child-option span{flex:1}
+    .child-controls{display:flex;gap:6px;margin-top:8px;margin-bottom:8px}.child-controls button{padding:6px 12px;font-size:13px}
+    @media(max-width:800px){.grid{grid-template-columns:1fr}.child-option{grid-column:1/-1}#childSourceList{grid-template-columns:1fr}}
   </style>
 </head>
 <body>
@@ -41,6 +42,10 @@
       
       <div class="full">
         <label>子來源（可複選；若未勾選則代表該群組全部）</label>
+        <div class="child-controls" id="childControls" style="display:none">
+          <button id="selectAllBtn" type="button" style="background:#555;flex:1">全選</button>
+          <button id="deselectAllBtn" type="button" style="background:#555;flex:1">全取消</button>
+        </div>
         <div id="childSourceList"></div>
       </div>
     </div>
@@ -104,7 +109,7 @@ function setDefaultDates() {
     startDateEl.value = toDateInputValue(sevenDaysAgo);
   }
 }
-      
+    
   
     function updateStatus(data) {
       const prettyTime = formatDateTime(data.generatedAt);
@@ -146,9 +151,11 @@ function setDefaultDates() {
     function renderChildOptions() {
       const scope = scopeSelect.value;
       const childSourceList = document.getElementById('childSourceList');
+      const childControls = document.getElementById('childControls');
   
       if (scope === 'all') {
         childSourceList.innerHTML = '<div class="muted">目前為全部來源模式，不需勾選子來源。</div>';
+        childControls.style.display = 'none';
         return;
       }
   
@@ -156,6 +163,7 @@ function setDefaultDates() {
   
       if (!group) {
         childSourceList.innerHTML = '';
+        childControls.style.display = 'none';
         return;
       }
   
@@ -167,6 +175,8 @@ function setDefaultDates() {
             <span>${child.name}</span>
           </label>
         `).join('');
+      
+      childControls.style.display = 'flex';
     }
   
     function render(items) {
@@ -239,6 +249,16 @@ function setDefaultDates() {
   
     scopeSelect.addEventListener('change', () => {
       renderChildOptions();
+      search();
+    });
+
+    document.getElementById('selectAllBtn').addEventListener('click', () => {
+      document.querySelectorAll('.child-checkbox').forEach(cb => cb.checked = true);
+      search();
+    });
+
+    document.getElementById('deselectAllBtn').addEventListener('click', () => {
+      document.querySelectorAll('.child-checkbox').forEach(cb => cb.checked = false);
       search();
     });
   
