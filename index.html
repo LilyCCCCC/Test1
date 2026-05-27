@@ -59,9 +59,11 @@
     const resultsEl = document.getElementById('results');
 
     async function init() {
+      const ts = Date.now();
+    
       const [sitesRes, dataRes] = await Promise.all([
-        fetch('./sites.json'),
-        fetch('./data/latest.json')
+        fetch(`./sites.json?t=${ts}`, { cache: 'no-store' }),
+        fetch(`./data/latest.json?t=${ts}`, { cache: 'no-store' })
       ]);
       
       const groups = await sitesRes.json();
@@ -69,7 +71,7 @@
       
       state.groups = groups.filter(g => g.enabled !== false);
       state.items = data.items || [];
-
+    
       renderScopeOptions();
       renderChildOptions();
       
