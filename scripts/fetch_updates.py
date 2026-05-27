@@ -99,7 +99,7 @@ def main():
     errors = []
 
     for group in groups:
-        if not site.get("enabled", True):
+        if not group.get("enabled", True):
             continue
 
         for site in group.get("children", []):
