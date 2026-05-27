@@ -1,8 +1,18 @@
 {
-  "generatedAt": "2026-05-27T03:49:42.215987+00:00",
-  "count": 60,
+  "generatedAt": "2026-05-27T06:18:13.848423+00:00",
+  "count": 160,
   "errors": [],
   "items": [
+    {
+      "siteId": "fda-consumer-health-information-updates",
+      "siteName": "Consumer Health Information Updates",
+      "region": "US",
+      "title": "Skip the Antibacterial Soap; Use Plain Soap and Water",
+      "url": "http://www.fda.gov/consumers/consumer-updates/skip-antibacterial-soap-use-plain-soap-and-water",
+      "publishedAt": "2026-05-26",
+      "excerpt": "There isn’t sufficient evidence to show that OTC antibacterial soaps are better at preventing illness than washing with plain soap and water. Washing your hands is easy, and it’s one of the most effective ways to prevent the spread of germs.",
+      "sourceType": "rss"
+    },
     {
       "siteId": "fda-whats-new-drugs",
       "siteName": "What's New: Drugs",
@@ -294,6 +304,16 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "fda-consumer-health-information-updates",
+      "siteName": "Consumer Health Information Updates",
+      "region": "US",
+      "title": "5 Medication Safety Tips for Older Adults",
+      "url": "http://www.fda.gov/consumers/consumer-updates/5-medication-safety-tips-older-adults",
+      "publishedAt": "2026-05-20",
+      "excerpt": "As we age, physical changes can affect the way our body handles medications and how medicines work, which can lead to complications. Even if your medications have worked well for you over the years, they might need to be adjusted or changed later in life. Here are some important safety tips.",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "fda-medwatch",
       "siteName": "MedWatch Safety Alerts",
       "region": "US",
@@ -361,6 +381,16 @@
       "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-recall-avid-medical-removes-convenience-kits-containing-namic-ra-syringes",
       "publishedAt": "2026-05-12",
       "excerpt": "The adaptor on Namic RA syringes may unwind during use. The resulting loose connection or disconnection may lead to infection, blood loss, or air embolism.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-consumer-health-information-updates",
+      "siteName": "Consumer Health Information Updates",
+      "region": "US",
+      "title": "Tobacco Products",
+      "url": "http://www.fda.gov/consumers/consumer-updates/tobacco-products",
+      "publishedAt": "2026-05-11",
+      "excerpt": "Tobacco comes in many forms, from cigars and cigarettes to smokeless tobacco and dissolvable nicotine products. FDA works to reduce the use of these products, and the harm that they cause. To learn more read these Consumer Updates.",
       "sourceType": "rss"
     },
     {
@@ -494,6 +524,86 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "fda-consumer-health-information-updates",
+      "siteName": "Consumer Health Information Updates",
+      "region": "US",
+      "title": "Radiation-Emitting Products",
+      "url": "http://www.fda.gov/consumers/consumer-updates/radiation-emitting-products",
+      "publishedAt": "2026-05-04",
+      "excerpt": "From medical X-ray scanners used to see inside the body to surgical lasers used for cosmetic purposes or to improve eyesight, FDA ensures the safety and effectiveness of a wide range or products that emit radiation. To learn more, read these Consumer Updates.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-consumer-health-information-updates",
+      "siteName": "Consumer Health Information Updates",
+      "region": "US",
+      "title": "Medical Devices",
+      "url": "http://www.fda.gov/consumers/consumer-updates/medical-devices",
+      "publishedAt": "2026-05-04",
+      "excerpt": "Consumer articles about medical devices.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-consumer-health-information-updates",
+      "siteName": "Consumer Health Information Updates",
+      "region": "US",
+      "title": "Is It Really 'FDA Approved'?",
+      "url": "http://www.fda.gov/consumers/consumer-updates/it-really-fda-approved",
+      "publishedAt": "2026-05-04",
+      "excerpt": "The FDA is responsible for protecting public health by regulating human drugs and biological products, animal drugs, medical devices, tobacco products, food (including animal food), cosmetics, and electronic products that emit radiation.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-consumer-health-information-updates",
+      "siteName": "Consumer Health Information Updates",
+      "region": "US",
+      "title": "Food",
+      "url": "http://www.fda.gov/consumers/consumer-updates/food",
+      "publishedAt": "2026-05-04",
+      "excerpt": "Timely articles and multimedia content about food and food-safety.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-consumer-health-information-updates",
+      "siteName": "Consumer Health Information Updates",
+      "region": "US",
+      "title": "Drugs",
+      "url": "http://www.fda.gov/consumers/consumer-updates/drugs",
+      "publishedAt": "2026-05-04",
+      "excerpt": "Consumer articles about over-the-counter and prescription drugs.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-consumer-health-information-updates",
+      "siteName": "Consumer Health Information Updates",
+      "region": "US",
+      "title": "Dietary Supplements",
+      "url": "http://www.fda.gov/consumers/consumer-updates/dietary-supplements",
+      "publishedAt": "2026-05-04",
+      "excerpt": "Dietary supplements are regulated by the FDA as food, not as drugs. However, many dietary supplements contain ingredients that have strong biological effects which may conflict with a medicine you are taking or a medical condition you may have. Products containing hidden drugs are also sometimes fal",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-consumer-health-information-updates",
+      "siteName": "Consumer Health Information Updates",
+      "region": "US",
+      "title": "Cosmetics",
+      "url": "http://www.fda.gov/consumers/consumer-updates/cosmetics",
+      "publishedAt": "2026-05-04",
+      "excerpt": "Consumer articles about cosmetics.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-consumer-health-information-updates",
+      "siteName": "Consumer Health Information Updates",
+      "region": "US",
+      "title": "Animal & Veterinary",
+      "url": "http://www.fda.gov/consumers/consumer-updates/animal-veterinary",
+      "publishedAt": "2026-05-04",
+      "excerpt": "Consumer articles from FDA about animal health and veterinary medicine.",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "fda-criminal-investigations-press-releases",
       "siteName": "Criminal Investigations Press Releases",
       "region": "US",
@@ -584,6 +694,16 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "fda-consumer-health-information-updates",
+      "siteName": "Consumer Health Information Updates",
+      "region": "US",
+      "title": "Animal Welfare, Testing and Research of FDA-Regulated Products",
+      "url": "http://www.fda.gov/consumers/consumer-updates/animal-welfare-testing-and-research-fda-regulated-products",
+      "publishedAt": "2026-04-20",
+      "excerpt": "FDA-regulated medical and veterinary products save lives. Products undergo different types of testing, including animal testing, to determine their safety and effectiveness. The FDA encourages and accepts scientifically valid alternatives to animal testing.",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "fda-criminal-investigations-press-releases",
       "siteName": "Criminal Investigations Press Releases",
       "region": "US",
@@ -601,6 +721,886 @@
       "url": "http://www.fda.gov/news-events/press-announcements/fda-issues-draft-guidance-genome-editing-safety-standards-advance-gene-therapy-development",
       "publishedAt": "2026-04-14",
       "excerpt": "The U.S. Food and Drug Administration today issued a draft guidance for sponsors seeking approval of human gene therapy products involving genome editing technologies.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-consumer-health-information-updates",
+      "siteName": "Consumer Health Information Updates",
+      "region": "US",
+      "title": "How Gene Therapy Can Cure or Treat Diseases",
+      "url": "http://www.fda.gov/consumers/consumer-updates/how-gene-therapy-can-cure-or-treat-diseases",
+      "publishedAt": "2026-03-26",
+      "excerpt": "Scientists have worked for decades on ways to modify or replace genes to treat, cure, or prevent illness. Advancements in science technology are changing the way we define disease, develop drugs, and prescribe treatments. The FDA has approved gene therapies for cancer, rare diseases.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-consumer-health-information-updates",
+      "siteName": "Consumer Health Information Updates",
+      "region": "US",
+      "title": "Hormone Replacement Therapies Can Help Women with Bothersome Menopausal Symptoms",
+      "url": "http://www.fda.gov/consumers/consumer-updates/hormone-replacement-therapies-can-help-women-bothersome-menopausal-symptoms",
+      "publishedAt": "2026-02-13",
+      "excerpt": "The effects of menopause can make a woman’s daily life much harder, and therapies approved by the FDA can help. But too many women might not use these treatments to lessen their menopause symptoms because of the risks associated with these drugs described in the drug labels’ boxed warnings.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-consumer-health-information-updates",
+      "siteName": "Consumer Health Information Updates",
+      "region": "US",
+      "title": "Vaccines, Blood & Biologics",
+      "url": "http://www.fda.gov/consumers/consumer-updates/vaccines-blood-biologics",
+      "publishedAt": "2026-02-09",
+      "excerpt": "From blood to vaccines, FDA protects and advances the public health by ensuring that biological products are safe, effective, and available to those who need them. Read these Consumer Updates to learn more.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-consumer-health-information-updates",
+      "siteName": "Consumer Health Information Updates",
+      "region": "US",
+      "title": "What Does FDA Approve? Part 2",
+      "url": "http://www.fda.gov/consumers/consumer-updates/what-does-fda-approve-part-2",
+      "publishedAt": "2026-01-27",
+      "excerpt": "The growing spread of rumors, misinformation and disinformation about science, medicine, and the FDA, is putting patients and consumers at risk. FDA is here to provide the facts.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-consumer-health-information-updates",
+      "siteName": "Consumer Health Information Updates",
+      "region": "US",
+      "title": "Products Claiming to \"Cure\" Cancer Are a Cruel Deception",
+      "url": "http://www.fda.gov/consumers/consumer-updates/products-claiming-cure-cancer-are-cruel-deception",
+      "publishedAt": "2026-01-22",
+      "excerpt": "Many ads on social media and \"healthy\" websites claim their products can cure cancer. They cannot.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-consumer-health-information-updates",
+      "siteName": "Consumer Health Information Updates",
+      "region": "US",
+      "title": "My Dog Has Cancer: What Do I Need to Know?",
+      "url": "http://www.fda.gov/consumers/consumer-updates/my-dog-has-cancer-what-do-i-need-know",
+      "publishedAt": "2026-01-16",
+      "excerpt": "Just as FDA reviews drugs for humans for safety and effectiveness before they can go on the market, the agency does the same for treatments for animals. Learn how FDA brings new oncology treatments to market and questions to ask your vet about your dog's cancer diagnosis.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-consumer-health-information-updates",
+      "siteName": "Consumer Health Information Updates",
+      "region": "US",
+      "title": "What You Should Know About Using Cannabis, Including CBD, When Pregnant or Breastfeeding",
+      "url": "http://www.fda.gov/consumers/consumer-updates/what-you-should-know-about-using-cannabis-including-cbd-when-pregnant-or-breastfeeding",
+      "publishedAt": "2026-01-06",
+      "excerpt": "FDA strongly advises against the use of cannabidiol (CBD), tetrahydrocannabinol (THC), and marijuana in any form during pregnancy or while breastfeeding.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-consumer-health-information-updates",
+      "siteName": "Consumer Health Information Updates",
+      "region": "US",
+      "title": "Nutrition",
+      "url": "http://www.fda.gov/consumers/consumer-updates/nutrition",
+      "publishedAt": "2026-01-06",
+      "excerpt": "The Nutrition Facts Label on food packaging is an important and easy way to get essential information to help you make healthy food choices. These FDA Consumer Updates are also a great resource for more nutrition facts, and other helpful information about the food you eat.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-disco",
+      "siteName": "Drug Information Soundcast in Clinical Oncology (D.I.S.C.O.)",
+      "region": "US",
+      "title": "FDA D.I.S.C.O. Burst Edition: FDA approval of Ryoncil (remestemcel-L-rknd) for steroid-refractory acute graft versus host disease in pediatric patients",
+      "url": "http://www.fda.gov/drugs/resources-information-approved-drugs/fda-disco-burst-edition-fda-approval-ryoncil-remestemcel-l-rknd-steroid-refractory-acute-graft",
+      "publishedAt": "2025-01-17",
+      "excerpt": "Listen to a soundcast of the 12.18.2024 FDA approval of Ryoncil (remestemcel-L-rknd) for steroid-refractory acute graft versus host disease in pediatric patients.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-drug-safety-podcasts",
+      "siteName": "Drug Safety Podcasts",
+      "region": "US",
+      "title": "Serious liver injury being observed in patients without cirrhosis taking Ocaliva (obeticholic acid) to treat primary biliary cholangitis",
+      "url": "http://www.fda.gov/drugs/fda-drug-safety-podcasts/serious-liver-injury-being-observed-patients-without-cirrhosis-taking-ocaliva-obeticholic-acid-treat",
+      "publishedAt": "2025-01-02",
+      "excerpt": "Serious liver injury being observed in patients without cirrhosis taking Ocaliva (obeticholic acid) to treat primary biliary cholangitis",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-disco",
+      "siteName": "Drug Information Soundcast in Clinical Oncology (D.I.S.C.O.)",
+      "region": "US",
+      "title": "FDA D.I.S.C.O. Burst Edition: FDA approval of Bizengri (zenocutuzumab-zbco) for Treatment of adults with advanced unresectable or metastatic pancreatic adenocarcinoma harboring a neuregulin 1 (NRG1) gene fusion with disease progression on or after prior systemic therapy",
+      "url": "http://www.fda.gov/drugs/resources-information-approved-drugs/fda-disco-burst-edition-fda-approval-bizengri-zenocutuzumab-zbco-treatment-adults-advanced",
+      "publishedAt": "2024-12-30",
+      "excerpt": "FDA D.I.S.C.O. Burst Edition: FDA approval of Bizengri (zenocutuzumab-zbco) for Treatment of adults with advanced unresectable or metastatic pancreatic adenocarcinoma harboring a neuregulin 1 (NRG1) gene fusion with disease progression on or after prior systemic therapy",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-disco",
+      "siteName": "Drug Information Soundcast in Clinical Oncology (D.I.S.C.O.)",
+      "region": "US",
+      "title": "FDA D.I.S.C.O. Burst Edition: FDA approval of Tecelra (afamitresgene autoleucel) for unresectable or metastatic synovial sarcoma",
+      "url": "http://www.fda.gov/drugs/resources-information-approved-drugs/fda-disco-burst-edition-fda-approval-tecelra-afamitresgene-autoleucel-unresectable-or-metastatic",
+      "publishedAt": "2024-11-18",
+      "excerpt": "Listen to a soundcast of the 8.2.2024 FDA approval of Tecelra (afamitresgene autoleucel) for unresectable or metastatic synovial sarcoma.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-disco",
+      "siteName": "Drug Information Soundcast in Clinical Oncology (D.I.S.C.O.)",
+      "region": "US",
+      "title": "FDA D.I.S.C.O. Burst Edition: FDA approval of Keytruda (pembrolizumab) for unresectable advanced or metastatic malignant pleural mesothelioma",
+      "url": "http://www.fda.gov/drugs/resources-information-approved-drugs/fda-disco-burst-edition-fda-approval-keytruda-pembrolizumab-unresectable-advanced-or-metastatic",
+      "publishedAt": "2024-11-14",
+      "excerpt": "Listen to a soundcast of the 9.17.2024 FDA approval of Keytruda (pembrolizumab) for unresectable advanced or metastatic malignant pleural mesothelioma.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-drug-safety-podcasts",
+      "siteName": "Drug Safety Podcasts",
+      "region": "US",
+      "title": "FDA adds warning about rare occurrence of serious liver injury with use of Veozah (fezolinetant) for hot flashes due to menopause",
+      "url": "http://www.fda.gov/drugs/fda-drug-safety-podcasts/fda-adds-warning-about-rare-occurrence-serious-liver-injury-use-veozah-fezolinetant-hot-flashes-due",
+      "publishedAt": "2024-09-20",
+      "excerpt": "Listen to an audio podcast of the September 12th, 2024 FDA Drug Safety Communication on rare occurrence of serious liver injury with use of Veozah (fezolinetant) for hot flashes due to menopause.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-disco",
+      "siteName": "Drug Information Soundcast in Clinical Oncology (D.I.S.C.O.)",
+      "region": "US",
+      "title": "FDA D.I.S.C.O. Burst Edition: FDA approvals of Augtyro (repotrectinib) for NTRK gene fusion-positive solid tumors and Krazati (adagrasib) for KRAS G12C-mutated colorectal cancer",
+      "url": "http://www.fda.gov/drugs/resources-information-approved-drugs/fda-disco-burst-edition-fda-approvals-augtyro-repotrectinib-ntrk-gene-fusion-positive-solid-tumors",
+      "publishedAt": "2024-08-16",
+      "excerpt": "Listen to a soundcast of the June 13, 2024, and June 21, 2024, Augtyro (repotrectinib) for NTRK gene fusion-positive solid tumors and Krazati (adagrasib) for KRAS G12C-mutated colorectal cancer.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-disco",
+      "siteName": "Drug Information Soundcast in Clinical Oncology (D.I.S.C.O.)",
+      "region": "US",
+      "title": "FDA D.I.S.C.O. Burst Edition: FDA approval of Retevmo (selpercatinib) for advanced or metastatic RET fusion-positive thyroid cancer",
+      "url": "http://www.fda.gov/drugs/resources-information-approved-drugs/fda-disco-burst-edition-fda-approval-retevmo-selpercatinib-advanced-or-metastatic-ret-fusion",
+      "publishedAt": "2024-07-02",
+      "excerpt": "Listen to a soundcast of the May 29, 2024, FDA approval of Retevmo (selpercatinib) for patients with advanced or metastatic RET fusion-positive thyroid cancer who require systemic therapy and who are radioactive iodine-refractory.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-disco",
+      "siteName": "Drug Information Soundcast in Clinical Oncology (D.I.S.C.O.)",
+      "region": "US",
+      "title": "FDA D.I.S.C.O. Burst Edition: FDA approval of Ojemda (tovorafenib) for relapsed or refractory pediatric low-grade glioma harboring a BRAF fusion or rearrangement, or BRAF V600 mutation",
+      "url": "http://www.fda.gov/drugs/resources-information-approved-drugs/fda-disco-burst-edition-fda-approval-ojemda-tovorafenib-relapsed-or-refractory-pediatric-low-grade",
+      "publishedAt": "2024-06-17",
+      "excerpt": "Listen to a soundcast of the April 23, 2024, FDA approval of Ojemda (tovorafenib) for relapsed or refractory pediatric low-grade glioma harboring a BRAF fusion or rearrangement, or BRAF V600 mutation.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-disco",
+      "siteName": "Drug Information Soundcast in Clinical Oncology (D.I.S.C.O.)",
+      "region": "US",
+      "title": "FDA D.I.S.C.O. Burst Edition: FDA approval of Enhertu (fam-trastuzumab deruxtecan-nxki) for unresectable or metastatic HER2-positive solid tumors",
+      "url": "http://www.fda.gov/drugs/resources-information-approved-drugs/fda-disco-burst-edition-fda-approval-enhertu-fam-trastuzumab-deruxtecan-nxki-unresectable-or",
+      "publishedAt": "2024-04-26",
+      "excerpt": "Listen to a soundcast of the April 5, 2024, FDA approval of Enhertu (fam-trastuzumab deruxtecan-nxki) for unresectable or metastatic HER2-positive solid tumors.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-drug-safety-podcasts",
+      "siteName": "Drug Safety Podcasts",
+      "region": "US",
+      "title": "FDA adds Boxed Warning for increased risk of severe hypocalcemia in patients with advanced chronic kidney disease taking osteoporosis medicine Prolia (denosumab)",
+      "url": "http://www.fda.gov/drugs/fda-drug-safety-podcasts/fda-adds-boxed-warning-increased-risk-severe-hypocalcemia-patients-advanced-chronic-kidney-disease",
+      "publishedAt": "2024-02-06",
+      "excerpt": "Listen to FDA Drug Safety Podcast titled, FDA adds Boxed Warning for increased risk of severe hypocalcemia in patients with advanced chronic kidney disease taking osteoporosis medicine Prolia (denosumab).",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-drug-safety-podcasts",
+      "siteName": "Drug Safety Podcasts",
+      "region": "US",
+      "title": "Update on FDA’s ongoing evaluation of reports of suicidal thoughts or actions in patients taking a certain type of medicines approved for type 2 diabetes and obesity",
+      "url": "http://www.fda.gov/drugs/fda-drug-safety-podcasts/update-fdas-ongoing-evaluation-reports-suicidal-thoughts-or-actions-patients-taking-certain-type",
+      "publishedAt": "2024-01-26",
+      "excerpt": "Listen to FDA Drug Safety Podcast, FDA's preliminary evaluation has not found evidence that use of GLP-1 RAs causes suicidal thoughts/actions.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-disco",
+      "siteName": "Drug Information Soundcast in Clinical Oncology (D.I.S.C.O.)",
+      "region": "US",
+      "title": "FDA D.I.S.C.O. Burst Edition: FDA approval of OGSIVEO (nirogacestat) for adult patients with progressing desmoid tumors who require systemic treatment",
+      "url": "http://www.fda.gov/drugs/resources-information-approved-drugs/fda-disco-burst-edition-fda-approval-ogsiveo-nirogacestat-adult-patients-progressing-desmoid-tumors",
+      "publishedAt": "2024-01-08",
+      "excerpt": "Listen to a soundcast of the November 27, 2023 FDA approval of OGSIVEO (nirogacestat) for adult patients with progressing desmoid tumors who require systemic treatment.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-disco",
+      "siteName": "Drug Information Soundcast in Clinical Oncology (D.I.S.C.O.)",
+      "region": "US",
+      "title": "FDA D.I.S.C.O. Burst Edition: FDA approval of Fruzaqla (fruquintinib) for adult patients with metastatic colorectal cancer",
+      "url": "http://www.fda.gov/drugs/resources-information-approved-drugs/fda-disco-burst-edition-fda-approval-fruzaqla-fruquintinib-adult-patients-metastatic-colorectal",
+      "publishedAt": "2024-01-05",
+      "excerpt": "FDA D.I.S.C.O. Burst Edition: FDA approval of Fruzaqla (fruquintinib) for adult patients with metastatic colorectal cancer",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-disco",
+      "siteName": "Drug Information Soundcast in Clinical Oncology (D.I.S.C.O.)",
+      "region": "US",
+      "title": "FDA D.I.S.C.O. Burst Edition: FDA approval of Augtyro (repotrectinib) for locally advanced or metastatic ROS1-positive non-small cell lung cancer",
+      "url": "http://www.fda.gov/drugs/resources-information-approved-drugs/fda-disco-burst-edition-fda-approval-augtyro-repotrectinib-locally-advanced-or-metastatic-ros1",
+      "publishedAt": "2024-01-05",
+      "excerpt": "FDA D.I.S.C.O. Burst Edition: FDA approval of Augtyro (repotrectinib) for locally advanced or metastatic ROS1-positive non-small cell lung cancer",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-drug-safety-podcasts",
+      "siteName": "Drug Safety Podcasts",
+      "region": "US",
+      "title": "FDA warns of rare but serious drug reaction to the antiseizure medicines levetiracetam (Keppra, Keppra XR, Elepsia XR, Spritam) and clobazam (Onfi, Sympazan)",
+      "url": "http://www.fda.gov/drugs/fda-drug-safety-podcasts/fda-warns-rare-serious-drug-reaction-antiseizure-medicines-levetiracetam-keppra-keppra-xr-elepsia-xr",
+      "publishedAt": "2023-12-08",
+      "excerpt": "Listen to an audio podcast of the November 28, 2023, FDA Drug Safety Communication, FDA warns of rare but serious drug reaction to the antiseizure medicines levetiracetam (Keppra, Keppra XR, Elepsia XR, Spritam) and clobazam (Onfi, Sympazan).",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-disco",
+      "siteName": "Drug Information Soundcast in Clinical Oncology (D.I.S.C.O.)",
+      "region": "US",
+      "title": "FDA D.I.S.C.O. Burst Edition: FDA approval of Tibsovo (ivosidenib) for patients with relapsed or refractory myelodysplastic syndromes with a susceptible isocitrate dehydrogenase-1 mutation",
+      "url": "http://www.fda.gov/drugs/resources-information-approved-drugs/fda-disco-burst-edition-fda-approval-tibsovo-ivosidenib-patients-relapsed-or-refractory",
+      "publishedAt": "2023-11-20",
+      "excerpt": "FDA D.I.S.C.O. Burst Edition: FDA approval of Tibsovo (ivosidenib) for patients with relapsed or refractory myelodysplastic syndromes with a susceptible isocitrate dehydrogenase-1 mutation",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-disco",
+      "siteName": "Drug Information Soundcast in Clinical Oncology (D.I.S.C.O.)",
+      "region": "US",
+      "title": "FDA D.I.S.C.O. Burst Edition: FDA approvals of Talvey (talquetamab-tgvs) for relapsed or refractory multiple myeloma, and Elrexfio (elranatamab-bcmm) for relapsed or refractory multiple myeloma",
+      "url": "http://www.fda.gov/drugs/resources-information-approved-drugs/fda-disco-burst-edition-fda-approvals-talvey-talquetamab-tgvs-relapsed-or-refractory-multiple",
+      "publishedAt": "2023-09-26",
+      "excerpt": "FDA D.I.S.C.O. Burst Edition: FDA approvals of Talvey (talquetamab-tgvs) for relapsed or refractory multiple myeloma, and Elrexfio (elranatamab-bcmm) for relapsed or refractory multiple myeloma",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-disco",
+      "siteName": "Drug Information Soundcast in Clinical Oncology (D.I.S.C.O.)",
+      "region": "US",
+      "title": "FDA D.I.S.C.O. Burst Edition: FDA approval of Lynparza (olaparib), with abiraterone and prednisone, for BRCA-mutated metastatic castration-resistant prostate cancer",
+      "url": "http://www.fda.gov/drugs/resources-information-approved-drugs/fda-disco-burst-edition-fda-approval-lynparza-olaparib-abiraterone-and-prednisone-brca-mutated",
+      "publishedAt": "2023-07-13",
+      "excerpt": "Listen to a soundcast of the May 31, 2023, FDA approval of Lynparza (olaparib), with abiraterone and prednisone, for BRCA-mutated metastatic castration-resistant prostate cancer.”",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-disco",
+      "siteName": "Drug Information Soundcast in Clinical Oncology (D.I.S.C.O.)",
+      "region": "US",
+      "title": "FDA D.I.S.C.O. Burst Edition: FDA approval of Epkinly (epcoritamab-bysp) for relapsed or refractory diffuse large B-cell lymphoma and high-grade B-cell lymphoma",
+      "url": "http://www.fda.gov/drugs/resources-information-approved-drugs/fda-disco-burst-edition-fda-approval-epkinly-epcoritamab-bysp-relapsed-or-refractory-diffuse-large-b",
+      "publishedAt": "2023-06-21",
+      "excerpt": "Listen to a soundcast of the May 19, 2023, FDA approval of Epkinly (epcoritamab-bysp) for relapsed or refractory diffuse large B-cell lymphoma and high-grade B-cell lymphoma.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-disco",
+      "siteName": "Drug Information Soundcast in Clinical Oncology (D.I.S.C.O.)",
+      "region": "US",
+      "title": "FDA D.I.S.C.O. Burst Edition: FDA approval of Polivy (polatuzumab vedotin-piiq) for previously untreated diffuse large B-cell lymphoma, not otherwise specified, and high-grade B-cell lymphoma",
+      "url": "http://www.fda.gov/drugs/resources-information-approved-drugs/fda-disco-burst-edition-fda-approval-polivy-polatuzumab-vedotin-piiq-previously-untreated-diffuse",
+      "publishedAt": "2023-06-07",
+      "excerpt": "Listen to a soundcast of the April 19, 2023, FDA approval of Polivy (polatuzumab vedotin-piiq) for previously untreated diffuse large B-cell lymphoma, not otherwise specified, and high-grade B-cell lymphoma.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-drug-safety-podcasts",
+      "siteName": "Drug Safety Podcasts",
+      "region": "US",
+      "title": "FDA updating warnings to improve safe use of prescription stimulants used to treat ADHD and other conditions",
+      "url": "http://www.fda.gov/drugs/fda-drug-safety-podcasts/fda-updating-warnings-improve-safe-use-prescription-stimulants-used-treat-adhd-and-other-conditions",
+      "publishedAt": "2023-05-31",
+      "excerpt": "Listen to an audio podcast of the May 11, 2023, FDA Drug Safety Communication on warnings to improve safe use of prescription stimulants used to treat ADHD and other conditions",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-disco",
+      "siteName": "Drug Information Soundcast in Clinical Oncology (D.I.S.C.O.)",
+      "region": "US",
+      "title": "FDA D.I.S.C.O. Burst Edition: FDA approval of Omisirge (omidubicel-onlv) to reduce time to neutrophil recovery and infection in patients with hematologic malignancies",
+      "url": "http://www.fda.gov/drugs/resources-information-approved-drugs/fda-disco-burst-edition-fda-approval-omisirge-omidubicel-onlv-reduce-time-neutrophil-recovery-and",
+      "publishedAt": "2023-05-25",
+      "excerpt": "Listen to a soundcast of the April 17, 2023, FDA approval of Omisirge (omidubicel-onlv) to reduce time to neutrophil recovery and infection in patients with hematologic malignancies.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-drug-safety-podcasts",
+      "siteName": "Drug Safety Podcasts",
+      "region": "US",
+      "title": "FDA updates prescribing information for all opioid pain medicines to provide additional guidance for safe use",
+      "url": "http://www.fda.gov/drugs/fda-drug-safety-podcasts/fda-updates-prescribing-information-all-opioid-pain-medicines-provide-additional-guidance-safe-use",
+      "publishedAt": "2023-05-10",
+      "excerpt": "Listen to an audio podcast of the April 13, 2023, FDA Drug Safety Communication, FDA updates prescribing information for all opioid pain medicines to provide additional guidance for safe use.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-disco",
+      "siteName": "Drug Information Soundcast in Clinical Oncology (D.I.S.C.O.)",
+      "region": "US",
+      "title": "FDA D.I.S.C.O. Burst Edition: FDA approval of Padcev (enfortumab vedotin-ejfv) with Keytruda (pembrolizumab) for locally advanced or metastatic urothelial carcinoma",
+      "url": "http://www.fda.gov/drugs/resources-information-approved-drugs/fda-disco-burst-edition-fda-approval-padcev-enfortumab-vedotin-ejfv-keytruda-pembrolizumab-locally",
+      "publishedAt": "2023-05-03",
+      "excerpt": "Listen to a soundcast of the April 19, 2023, FDA approval of Padcev (enfortumab vedotin-ejfv) with Keytruda (pembrolizumab) for locally advanced or metastatic urothelial carcinoma.”",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-disco",
+      "siteName": "Drug Information Soundcast in Clinical Oncology (D.I.S.C.O.)",
+      "region": "US",
+      "title": "FDA D.I.S.C.O. Burst Edition: FDA approval of Zynyz (retifanlimab-dlwr) for metastatic or recurrent locally advanced Merkel cell carcinoma",
+      "url": "http://www.fda.gov/drugs/resources-information-approved-drugs/fda-disco-burst-edition-fda-approval-zynyz-retifanlimab-dlwr-metastatic-or-recurrent-locally",
+      "publishedAt": "2023-04-20",
+      "excerpt": "Lsten to a soundcast of the March 22, 2023 FDA approval of Zynyz (retifanlimab-dlwr) for metastatic or recurrent locally advanced Merkel cell carcinoma.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-disco",
+      "siteName": "Drug Information Soundcast in Clinical Oncology (D.I.S.C.O.)",
+      "region": "US",
+      "title": "FDA D.I.S.C.O. Burst Edition: FDA approval of Tafinlar (dabrafenib) with Mekinist (trametinib) for pediatric patients with low-grade glioma with a BRAF V600E mutation",
+      "url": "http://www.fda.gov/drugs/resources-information-approved-drugs/fda-disco-burst-edition-fda-approval-tafinlar-dabrafenib-mekinist-trametinib-pediatric-patients-low",
+      "publishedAt": "2023-04-06",
+      "excerpt": "Listen to a soundcast of the March 16, 2023, FDA approval of Tafinlar (dabrafenib) for pediatric patients with low-grade glioma with a BRAF V600E mutation",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-disco",
+      "siteName": "Drug Information Soundcast in Clinical Oncology (D.I.S.C.O.)",
+      "region": "US",
+      "title": "FDA D.I.S.C.O. Burst Edition: FDA approval of Verzenio (abemaciclib) with endocrine therapy for patients with HR-positive, HER2-negative, node-positive, early breast cancer",
+      "url": "http://www.fda.gov/drugs/resources-information-approved-drugs/fda-disco-burst-edition-fda-approval-verzenio-abemaciclib-endocrine-therapy-patients-hr-positive",
+      "publishedAt": "2023-03-24",
+      "excerpt": "Listen to a soundcast of the March 3, 2023, FDA approval of Verzenio (abemaciclib) with endocrine therapy for patients with HR-positive, HER2-negative, node-positive, early breast cancer.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-disco",
+      "siteName": "Drug Information Soundcast in Clinical Oncology (D.I.S.C.O.)",
+      "region": "US",
+      "title": "FDA D.I.S.C.O. Burst Edition: FDA approval of Jemperli (dostarlimab-gxly) for dMMR endometrial cancer",
+      "url": "http://www.fda.gov/drugs/resources-information-approved-drugs/fda-disco-burst-edition-fda-approval-jemperli-dostarlimab-gxly-dmmr-endometrial-cancer",
+      "publishedAt": "2023-03-07",
+      "excerpt": "Listen to a soundcast of the February 9, 2023, FDA approval of Jemperli (dostarlimab-gxly) for mismatch repair deficient (dMMR) recurrent or advanced endometrial cancer that has progressed on or following a prior platinum-containing regimen.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-disco",
+      "siteName": "Drug Information Soundcast in Clinical Oncology (D.I.S.C.O.)",
+      "region": "US",
+      "title": "FDA D.I.S.C.O. Burst Edition: FDA approvals of Jaypirca (pirtobrutinib) for relapsed or refractory mantle cell lymphoma, and Orserdu (elacestrant) for ER-positive, HER2-negative, ESR1-mutated advanced or metastatic breast cancer",
+      "url": "http://www.fda.gov/drugs/resources-information-approved-drugs/fda-disco-burst-edition-fda-approvals-jaypirca-pirtobrutinib-relapsed-or-refractory-mantle-cell",
+      "publishedAt": "2023-03-01",
+      "excerpt": "Listen to a soundcast of the January 27, 2023, FDA approvals of Jaypirca (pirtobrutinib) for relapsed or refractory mantle cell lymphoma, and Orserdu (elacestrant) for ER-positive, HER2-negative, ESR1-mutated advanced or metastatic breast cancer.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-disco",
+      "siteName": "Drug Information Soundcast in Clinical Oncology (D.I.S.C.O.)",
+      "region": "US",
+      "title": "FDA D.I.S.C.O. Burst Edition: FDA approval of Trodelvy (sacituzumab govitecan-hziy) for HR-positive breast cancer",
+      "url": "http://www.fda.gov/drugs/resources-information-approved-drugs/fda-disco-burst-edition-fda-approval-trodelvy-sacituzumab-govitecan-hziy-hr-positive-breast-cancer",
+      "publishedAt": "2023-03-01",
+      "excerpt": "Listen to a soundcast of the February 3, 2023, FDA approval of Trodelvy (sacituzumab govitecan-hziy) for HR-positive breast cancer.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-disco",
+      "siteName": "Drug Information Soundcast in Clinical Oncology (D.I.S.C.O.)",
+      "region": "US",
+      "title": "FDA D.I.S.C.O. Burst Edition: FDA approval of Keytruda (pembrolizumab) as adjuvant treatment for non-small cell lung cancer",
+      "url": "http://www.fda.gov/drugs/resources-information-approved-drugs/fda-disco-burst-edition-fda-approval-keytruda-pembrolizumab-adjuvant-treatment-non-small-cell-lung",
+      "publishedAt": "2023-03-01",
+      "excerpt": "Listen to a soundcast of the January 26, 2023, FDA approval of Keytruda (pembrolizumab) as adjuvant treatment for non-small cell lung cancer",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-disco",
+      "siteName": "Drug Information Soundcast in Clinical Oncology (D.I.S.C.O.)",
+      "region": "US",
+      "title": "FDA D.I.S.C.O. Burst Edition: FDA approvals of Tukysa (tucatinib) with trastuzumab for colorectal cancer and Brukinsa (zanubrutinib) for chronic lymphocytic leukemia or small lymphocytic lymphoma",
+      "url": "http://www.fda.gov/drugs/resources-information-approved-drugs/fda-disco-burst-edition-fda-approvals-tukysa-tucatinib-trastuzumab-colorectal-cancer-and-brukinsa",
+      "publishedAt": "2023-02-16",
+      "excerpt": "Listen to a soundcast of the January 19, 2023, FDA approvals of Tukysa (tucatinib) with trastuzumab for colorectal cancer and Brukinsa (zanubrutinib) for chronic lymphocytic leukemia or small lymphocytic lymphoma.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-disco",
+      "siteName": "Drug Information Soundcast in Clinical Oncology (D.I.S.C.O.)",
+      "region": "US",
+      "title": "FDA D.I.S.C.O. Burst Edition: FDA approvals of Tecentriq (atezolizumab) for unresectable or metastatic alveolar soft part sarcoma, and Krazati (adagrasib) for KRAS G12C-mutated locally advanced or metastatic non-small cell lung cancer",
+      "url": "http://www.fda.gov/drugs/resources-information-approved-drugs/fda-disco-burst-edition-fda-approvals-tecentriq-atezolizumab-unresectable-or-metastatic-alveolar",
+      "publishedAt": "2023-01-23",
+      "excerpt": "Listen to a soundcast of the December 9 and 12, 2022, FDA approvals of Tecentriq (atezolizumab) for unresectable or metastatic alveolar soft part sarcoma, and Krazati (adagrasib) for KRAS G12C-mutated locally advanced or metastatic non-small cell lung cancer”",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-disco",
+      "siteName": "Drug Information Soundcast in Clinical Oncology (D.I.S.C.O.)",
+      "region": "US",
+      "title": "FDA D.I.S.C.O. Burst Edition: FDA approval of Adstiladrin (nadofaragene firadenovec-vncg) for patients with high-risk Bacillus Calmette-Guérin unresponsive non-muscle invasive bladder cancer with carcinoma in situ with or without papillary tumors",
+      "url": "http://www.fda.gov/drugs/resources-information-approved-drugs/fda-disco-burst-edition-fda-approval-adstiladrin-nadofaragene-firadenovec-vncg-patients-high-risk",
+      "publishedAt": "2023-01-20",
+      "excerpt": "Listen to a soundcast of the December 16, 2022, FDA approval of Adstiladrin (nadofaragene firadenovec-vncg) for patients with high-risk Bacillus Calmette-Guérin unresponsive non-muscle invasive bladder cancer with carcinoma in situ with or without papillary tumors.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-disco",
+      "siteName": "Drug Information Soundcast in Clinical Oncology (D.I.S.C.O.)",
+      "region": "US",
+      "title": "FDA D.I.S.C.O. Burst Edition: FDA approval of Lunsumio (mosunetuzumab-axgb) for adult patients with relapsed or refractory follicular lymphoma after two or more lines of systemic therapy",
+      "url": "http://www.fda.gov/drugs/resources-information-approved-drugs/fda-disco-burst-edition-fda-approval-lunsumio-mosunetuzumab-axgb-adult-patients-relapsed-or",
+      "publishedAt": "2023-01-19",
+      "excerpt": "Listen to a soundcast of the December 22, 2022, FDA approval of Lunsumio (mosunetuzumab-axgb) for ipatients with relapsed or refractory follicular lymphoma after two or more lines of systemic therapy.”",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-disco",
+      "siteName": "Drug Information Soundcast in Clinical Oncology (D.I.S.C.O.)",
+      "region": "US",
+      "title": "FDA D.I.S.C.O. Burst Edition: FDA approves updated drug labeling including new indications and dosing regimens for Xeloda (capecitabine) tablets under Project Renewal",
+      "url": "http://www.fda.gov/drugs/resources-information-approved-drugs/fda-disco-burst-edition-fda-approves-updated-drug-labeling-including-new-indications-and-dosing",
+      "publishedAt": "2023-01-17",
+      "excerpt": "Listen to a soundcast of the December 14, 2022, FDA approval of Xeloda (capecitabine) under Project Renewal, an initiative aimed at updating labeling information for certain older oncology drugs to ensure information is clinically meaningful and scientifically up to date.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-disco",
+      "siteName": "Drug Information Soundcast in Clinical Oncology (D.I.S.C.O.)",
+      "region": "US",
+      "title": "FDA D.I.S.C.O. Burst Edition: FDA approval of  Rezlidhia (olutasidenib) for relapsed or refractory acute myeloid leukemia with a susceptible IDH1 mutation",
+      "url": "http://www.fda.gov/drugs/resources-information-approved-drugs/fda-disco-burst-edition-fda-approval-rezlidhia-olutasidenib-relapsed-or-refractory-acute-myeloid",
+      "publishedAt": "2023-01-10",
+      "excerpt": "Listen to a soundcast of the December 1, 2022, FDA approval of Rezlidhia (olutasidenib) for relapsed or refractory acute myeloid leukemia with a susceptible IDH1 mutation.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-disco",
+      "siteName": "Drug Information Soundcast in Clinical Oncology (D.I.S.C.O.)",
+      "region": "US",
+      "title": "FDA D.I.S.C.O. Burst Edition: FDA approval of Elahere (mirvetuximab soravtansine-gynx) for FRα positive, platinum-resistant epithelial ovarian, fallopian tube, or peritoneal cancer",
+      "url": "http://www.fda.gov/drugs/resources-information-approved-drugs/fda-disco-burst-edition-fda-approval-elahere-mirvetuximab-soravtansine-gynx-fra-positive-platinum",
+      "publishedAt": "2023-01-06",
+      "excerpt": "FDA D.I.S.C.O. Burst Edition: FDA approval of Elahere (mirvetuximab soravtansine-gynx) for FRα positive, platinum-resistant epithelial ovarian, fallopian tube, or peritoneal cancer",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-disco",
+      "siteName": "Drug Information Soundcast in Clinical Oncology (D.I.S.C.O.)",
+      "region": "US",
+      "title": "FDA D.I.S.C.O. Burst Edition: FDA approves a new dosing regimen for asparaginase erwinia chrysanthemi (recombinant)",
+      "url": "http://www.fda.gov/drugs/resources-information-approved-drugs/fda-disco-burst-edition-fda-approves-new-dosing-regimen-asparaginase-erwinia-chrysanthemi",
+      "publishedAt": "2022-12-28",
+      "excerpt": "Listen to a soundcast of the November 18, 2022 FDA approval of a new dosing regimen for asparaginase erwinia chrysanthemi (recombinant).",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-drug-safety-podcasts",
+      "siteName": "Drug Safety Podcasts",
+      "region": "US",
+      "title": "FDA investigating risk of severe hypocalcemia in patients on dialysis receiving osteoporosis medicine Prolia (denosumab)",
+      "url": "http://www.fda.gov/drugs/fda-drug-safety-podcasts/fda-investigating-risk-severe-hypocalcemia-patients-dialysis-receiving-osteoporosis-medicine-prolia",
+      "publishedAt": "2022-12-16",
+      "excerpt": "FDA investigating risk of severe hypocalcemia in patients on dialysis receiving osteoporosis medicine Prolia (denosumab)",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-disco",
+      "siteName": "Drug Information Soundcast in Clinical Oncology (D.I.S.C.O.)",
+      "region": "US",
+      "title": "FDA D.I.S.C.O. Burst Edition: FDA approval of Adcetris (brentuximab vedotin) in combination with chemotherapy for pediatric patients with classical Hodgkin lymphoma",
+      "url": "http://www.fda.gov/drugs/resources-information-approved-drugs/fda-disco-burst-edition-fda-approval-adcetris-brentuximab-vedotin-combination-chemotherapy-pediatric",
+      "publishedAt": "2022-12-15",
+      "excerpt": "FDA D.I.S.C.O. Burst Edition: FDA approval of Adcetris (brentuximab vedotin) in combination with chemotherapy for pediatric patients with classical Hodgkin lymphoma",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-disco",
+      "siteName": "Drug Information Soundcast in Clinical Oncology (D.I.S.C.O.)",
+      "region": "US",
+      "title": "FDA D.I.S.C.O. Burst Edition: FDA approval of Libtayo (cemiplimab-rwlc) in combination with platinum-based chemotherapy for non-small cell lung cancer",
+      "url": "http://www.fda.gov/drugs/resources-information-approved-drugs/fda-disco-burst-edition-fda-approval-libtayo-cemiplimab-rwlc-combination-platinum-based-chemotherapy",
+      "publishedAt": "2022-12-05",
+      "excerpt": "Listen to a soundcast of the November 8th 2022  FDA approval of Libtayo (cemiplimab-rwlc)  in combination with platinum-based chemotherapy for non-small cell lung cancer",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-disco",
+      "siteName": "Drug Information Soundcast in Clinical Oncology (D.I.S.C.O.)",
+      "region": "US",
+      "title": "FDA D.I.S.C.O. Burst Edition: FDA approval of Imjudo (tremelimumab) in combination with Imfinzi (durvalumab) and platinum-based chemotherapy for metastatic non-small cell lung cancer",
+      "url": "http://www.fda.gov/drugs/resources-information-approved-drugs/fda-disco-burst-edition-fda-approval-imjudo-tremelimumab-combination-imfinzi-durvalumab-and-platinum",
+      "publishedAt": "2022-12-05",
+      "excerpt": "Listen to a soundcast of the November 10th 2022 FDA approval of Imjudo (tremelimumab) in combination with Imfinzi (durvalumab) and platinum-based chemotherapy for metastatic non-small cell lung cancer",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-disco",
+      "siteName": "Drug Information Soundcast in Clinical Oncology (D.I.S.C.O.)",
+      "region": "US",
+      "title": "FDA D.I.S.C.O. Burst Edition: FDA approvals of Imjudo (tremelimumab) in combination with durvalumab for unresectable hepatocellular carcinoma, and Tecvayli (teclistamab-cqyv) for relapsed or refractory multiple myeloma",
+      "url": "http://www.fda.gov/drugs/resources-information-approved-drugs/fda-disco-burst-edition-fda-approvals-imjudo-tremelimumab-combination-durvalumab-unresectable",
+      "publishedAt": "2022-11-23",
+      "excerpt": "Listen to a soundcast of the October 21st and 25th 2022, FDA approvals of Imjudo (tremelimumab) in combination with durvalumab for unresectable hepatocellular carcinoma, and Tecvayli (teclistamab-cqyv) for relapsed or refractory multiple myeloma.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-disco",
+      "siteName": "Drug Information Soundcast in Clinical Oncology (D.I.S.C.O.)",
+      "region": "US",
+      "title": "FDA D.I.S.C.O. Burst Edition: FDA approval of Lytgobi (futibatinib) for adult patients with previously treated, unresectable, locally advanced or metastatic intrahepatic cholangiocarcinoma harboring fibroblast growth factor receptor 2 gene fusions or other rearrangements",
+      "url": "http://www.fda.gov/drugs/resources-information-approved-drugs/fda-disco-burst-edition-fda-approval-lytgobi-futibatinib-adult-patients-previously-treated",
+      "publishedAt": "2022-11-23",
+      "excerpt": "Listen to a soundcast of the 9/30/22 FDA approval of Lytgobi (futibatinib) for adult patients with previously treated, unresectable, locally advanced or metastatic intrahepatic cholangiocarcinoma harboring fibroblast growth factor receptor 2 gene fusions or other rearrangements.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-disco",
+      "siteName": "Drug Information Soundcast in Clinical Oncology (D.I.S.C.O.)",
+      "region": "US",
+      "title": "FDA D.I.S.C.O. Burst Edition: FDA approvals of Retevmo (selpercatinib) for adult patients with locally advanced or metastatic RET fusion-positive solid tumors, and Retevmo (selpercatinib) for adult patients with locally advanced or metastatic RET fusion-positive non-small cell lung cancer",
+      "url": "http://www.fda.gov/drugs/resources-information-approved-drugs/fda-disco-burst-edition-fda-approvals-retevmo-selpercatinib-adult-patients-locally-advanced-or",
+      "publishedAt": "2022-11-03",
+      "excerpt": "Listen to a soundcast of the 9/21/22 FDA approval of Retevmo (selpercatinib) for adult patients with locally advanced or metastatic solid tumors with a rearranged during transfection gene fusion that have progressed on or following prior systemic treatment.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-disco",
+      "siteName": "Drug Information Soundcast in Clinical Oncology (D.I.S.C.O.)",
+      "region": "US",
+      "title": "FDA D.I.S.C.O. Burst Edition: FDA approval of Pedmark (sodium thiosulfate) to reduce the risk of ototoxicity associated with cisplatin in pediatric patients 1 month and older with localized, non-metastatic solid tumors",
+      "url": "http://www.fda.gov/drugs/resources-information-approved-drugs/fda-disco-burst-edition-fda-approval-pedmark-sodium-thiosulfate-reduce-risk-ototoxicity-associated",
+      "publishedAt": "2022-10-19",
+      "excerpt": "Listen to a soundcast of the September 20, 2022, the FDA approved sodium thiosulfate (brand name Pedmark) to reduce the risk of ototoxicity associated with cisplatin in pediatric patients 1 month and older with localized, non-metastatic solid tumors.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-disco",
+      "siteName": "Drug Information Soundcast in Clinical Oncology (D.I.S.C.O.)",
+      "region": "US",
+      "title": "FDA D.I.S.C.O. Burst Edition: FDA approval of Imfinzi (durvalumab) for adult patients with locally advanced or metastatic biliary tract cancer",
+      "url": "http://www.fda.gov/drugs/resources-information-approved-drugs/fda-disco-burst-edition-fda-approval-imfinzi-durvalumab-adult-patients-locally-advanced-or",
+      "publishedAt": "2022-10-17",
+      "excerpt": "Listen to a soundcast of the September 2nd, 2022 FDA approval of Imfinzi (durvalumab) for adult patients with locally advanced or metastatic biliary tract cancer.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-disco",
+      "siteName": "Drug Information Soundcast in Clinical Oncology (D.I.S.C.O.)",
+      "region": "US",
+      "title": "FDA D.I.S.C.O. Burst Edition: FDA approvals of Imbruvica (ibrutinib) for pediatric patients with chronic graft versus host disease, and Pemazyre (pemigatinib) for adults with relapsed or refractory myeloid/lymphoid neoplasms with FGFR1 rearrangement",
+      "url": "http://www.fda.gov/drugs/resources-information-approved-drugs/fda-disco-burst-edition-fda-approvals-imbruvica-ibrutinib-pediatric-patients-chronic-graft-versus",
+      "publishedAt": "2022-09-28",
+      "excerpt": "Listen to a soundcast of the 8/24/22 and 8/26/22 FDA approvals of Imbruvica (ibrutinib)  for pediatric patients with chronic graft versus host disease, including a new oral suspension, and Pemazyre (pemigatinib) for  relapsed or refractory myeloid/lymphoid neoplasms with FGFR1 rearrangement.”",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-disco",
+      "siteName": "Drug Information Soundcast in Clinical Oncology (D.I.S.C.O.)",
+      "region": "US",
+      "title": "FDA D.I.S.C.O. Burst Edition: FDA approvals of Tabrecta (capmatinib) for metastatic non-small cell lung cancer and Enhertu (fam-trastuzumab deruxtecan-nxki) for HER2-mutant non-small cell lung cancer",
+      "url": "http://www.fda.gov/drugs/resources-information-approved-drugs/fda-disco-burst-edition-fda-approvals-tabrecta-capmatinib-metastatic-non-small-cell-lung-cancer-and",
+      "publishedAt": "2022-09-07",
+      "excerpt": "Listen to a soundcast of the 8/10/2022 and 8/11/2022 FDA approvals of Tabrecta (capmatinib) for metastatic non-small cell lung cancer, and Enhertu (fam-trastuzumab deruxtecan-nxki) for unresectable or metastatic non-small cell lung cancer.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-disco",
+      "siteName": "Drug Information Soundcast in Clinical Oncology (D.I.S.C.O.)",
+      "region": "US",
+      "title": "FDA D.I.S.C.O. Burst Edition: FDA approvals of Enhertu (fam-trastuzumab deruxtecan-nxki)  for unresectable or metastatic HER2-low breast cancer, and Nubeqa (darolutamide) in combination with docetaxel for metastatic hormone-sensitive prostate cancer",
+      "url": "http://www.fda.gov/drugs/resources-information-approved-drugs/fda-disco-burst-edition-fda-approvals-enhertu-fam-trastuzumab-deruxtecan-nxki-unresectable-or",
+      "publishedAt": "2022-09-07",
+      "excerpt": "Listen to a soundcast of the 8/5/2022 FDA approvals of Enhertu (fam-trastuzumab deruxtecan-nxki) for patients unresectable or metastatic HER2-low breast cancer, and Nubeqa (darolutamide) for adult patients with metastatic hormone-sensitive prostate cancer.”",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-disco",
+      "siteName": "Drug Information Soundcast in Clinical Oncology (D.I.S.C.O.)",
+      "region": "US",
+      "title": "FDA D.I.S.C.O. Burst Edition: FDA approval of Xalkori (crizotinib) for ALK-positive inflammatory myofibroblastic tumor",
+      "url": "http://www.fda.gov/drugs/resources-information-approved-drugs/fda-disco-burst-edition-fda-approval-xalkori-crizotinib-alk-positive-inflammatory-myofibroblastic",
+      "publishedAt": "2022-08-01",
+      "excerpt": "Listen to a soundcast of the July 14, 2022 FDA approval of Xalkori (crizotinib) for ALK-positive inflammatory myofibroblastic tumor.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-drug-safety-podcasts",
+      "siteName": "Drug Safety Podcasts",
+      "region": "US",
+      "title": "FDA warns about possible increased risk of death and serious side effects with cancer drug Copiktra (duvelisib)",
+      "url": "http://www.fda.gov/drugs/fda-drug-safety-podcasts/fda-warns-about-possible-increased-risk-death-and-serious-side-effects-cancer-drug-copiktra",
+      "publishedAt": "2022-07-27",
+      "excerpt": "Listen to an audio podcast of the June 30, 2022, FDA Drug Safety Communication. Results from a clinical trial show a possible increased risk of death with Copiktra (active ingredient duvelisib) compared to another medicine to treat leukemia and lymphoma.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-disco",
+      "siteName": "Drug Information Soundcast in Clinical Oncology (D.I.S.C.O.)",
+      "region": "US",
+      "title": "FDA D.I.S.C.O. Burst Edition: FDA approval of Tafinlar (dabrafenib) in combination with Mekinist (trametinib) for unresectable or metastatic solid tumors with BRAF V600E mutation",
+      "url": "http://www.fda.gov/drugs/resources-information-approved-drugs/fda-disco-burst-edition-fda-approval-tafinlar-dabrafenib-combination-mekinist-trametinib",
+      "publishedAt": "2022-07-25",
+      "excerpt": "Listen to a soundcast of the June 22nd 2022  FDA approval of Tafinlar (dabrafenib) for in combination w/trametinib (brand name Mekinist) for unresectable or metastatic solid tumors with BRAF V600E mutation.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-disco",
+      "siteName": "Drug Information Soundcast in Clinical Oncology (D.I.S.C.O.)",
+      "region": "US",
+      "title": "FDA D.I.S.C.O. Burst Edition: FDA approval of Breyanzi (lisocabtagene maraleucel) for second-line treatment of large B-cell lymphoma",
+      "url": "http://www.fda.gov/drugs/resources-information-approved-drugs/fda-disco-burst-edition-fda-approval-breyanzi-lisocabtagene-maraleucel-second-line-treatment-large-b",
+      "publishedAt": "2022-07-21",
+      "excerpt": "FDA D.I.S.C.O. Burst Edition: FDA approval of Breyanzi (lisocabtagene maraleucel) for second-line treatment of large B-cell lymphoma",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-drug-safety-podcasts",
+      "siteName": "Drug Safety Podcasts",
+      "region": "US",
+      "title": "FDA withdrew its approval for the cancer medicine Ukoniq (umbralisib) due to safety concerns",
+      "url": "http://www.fda.gov/drugs/fda-drug-safety-podcasts/fda-withdrew-its-approval-cancer-medicine-ukoniq-umbralisib-due-safety-concerns",
+      "publishedAt": "2022-07-07",
+      "excerpt": "Listen to an audio podcast of the 6/1/22 for Ukoniq  . FDA withdrew its approval for the cancer medicine Ukoniq (active ingredient umbralisib) due to safety concerns. Ukoniq was approved to treat two specific types of lymphoma: marginal zone lymphoma (MZL) and follicular lymphoma (FL)",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-disco",
+      "siteName": "Drug Information Soundcast in Clinical Oncology (D.I.S.C.O.)",
+      "region": "US",
+      "title": "FDA D.I.S.C.O. Burst Edition: FDA approvals of Opdivo in combination with chemotherapy and Opdivo in combination with Yervoy for first-line advanced or metastatic esophageal squamous cell carcinoma, and Kymriah (tisagenlecleucel) for relapsed or refractory follicular lymphoma",
+      "url": "http://www.fda.gov/drugs/resources-information-approved-drugs/fda-disco-burst-edition-fda-approvals-opdivo-combination-chemotherapy-and-opdivo-combination-yervoy",
+      "publishedAt": "2022-06-23",
+      "excerpt": "Listen to a soundcast of the May 27, 2022 FDA approvals of Opdivo (nivolumab) and Yervoy (nivolumab and ipilimumab) for advanced or metastatic esophageal squamous cell carcinoma, and Kymriah (tisagenlecleucel) for relapsed or refractory follicular lymphoma.\"”",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-disco",
+      "siteName": "Drug Information Soundcast in Clinical Oncology (D.I.S.C.O.)",
+      "region": "US",
+      "title": "FDA D.I.S.C.O. Burst Edition: FDA approval of Tibsovo (ivosidenib) in combination with azacitidine for newly diagnosed acute myeloid leukemia with a susceptible IDH1 mutation, as detected by an FDA-approved test in adults 75 years or older, or who have comorbidities that preclude use of intensive induction chemotherapy",
+      "url": "http://www.fda.gov/drugs/resources-information-approved-drugs/fda-disco-burst-edition-fda-approval-tibsovo-ivosidenib-combination-azacitidine-newly-diagnosed",
+      "publishedAt": "2022-06-17",
+      "excerpt": "Listen to a soundcast of the 05/25/022, FDA approval of Tibsovo (ivosidenib) for newly diagnosed acute myeloid leukemia with a susceptible IDH1 mutation, as detected by an FDA-approved test in adults 75 years or older, or who have comorbidities that preclude use of intensive induction chemotherapy.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-disco",
+      "siteName": "Drug Information Soundcast in Clinical Oncology (D.I.S.C.O.)",
+      "region": "US",
+      "title": "FDA D.I.S.C.O. Burst Edition: FDA approval of Vidaza (azacitidine) for pediatric patients with newly diagnosed juvenile myelomonocytic leukemia",
+      "url": "http://www.fda.gov/drugs/resources-information-approved-drugs/fda-disco-burst-edition-fda-approval-vidaza-azacitidine-pediatric-patients-newly-diagnosed-juvenile",
+      "publishedAt": "2022-06-03",
+      "excerpt": "Listen to a soundcast of the May 20, 2022, the FDA approved azacitidine (brand name Vidaza) for pediatric patients with newly diagnosed juvenile myelomonocytic leukemia.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-drug-safety-podcasts",
+      "siteName": "Drug Safety Podcasts",
+      "region": "US",
+      "title": "FDA recommends thyroid monitoring in babies and young children who receive injections of iodine-containing contrast media for medical imaging",
+      "url": "http://www.fda.gov/drugs/fda-drug-safety-podcasts/fda-recommends-thyroid-monitoring-babies-and-young-children-who-receive-injections-iodine-containing",
+      "publishedAt": "2022-04-13",
+      "excerpt": "Listen to an audio podcast of the March 30, 2022 FDA Drug Safety Communication Iodinated Contrast Media",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-drug-safety-podcasts",
+      "siteName": "Drug Safety Podcasts",
+      "region": "US",
+      "title": "FDA investigating possible increased risk of death with lymphoma medicine Ukoniq (umbralisib)",
+      "url": "http://www.fda.gov/drugs/fda-drug-safety-podcasts/fda-investigating-possible-increased-risk-death-lymphoma-medicine-ukoniq-umbralisib",
+      "publishedAt": "2022-02-09",
+      "excerpt": "Listen to an audio podcast of the February 3, 2022, FDA Drug Safety Communication, FDA is investigating a possible increased risk of death with the cancer medicine Ukoniq (umbralisib). We are re-evaluating this risk against the benefits of Ukoniq for its approved uses.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-drug-safety-podcasts",
+      "siteName": "Drug Safety Podcasts",
+      "region": "US",
+      "title": "FDA warns about dental problems with buprenorphine medicines dissolved in the mouth to treat opioid use disorder and pain",
+      "url": "http://www.fda.gov/drugs/fda-drug-safety-podcasts/fda-warns-about-dental-problems-buprenorphine-medicines-dissolved-mouth-treat-opioid-use-disorder",
+      "publishedAt": "2022-01-24",
+      "excerpt": "Listen to an audio podcast of the January 12, 2022, FDA Drug Safety Communication warning that dental problems have been reported with medicines containing buprenorphine that are dissolved in the mouth.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-drug-safety-podcasts",
+      "siteName": "Drug Safety Podcasts",
+      "region": "US",
+      "title": "FDA warns that getting alcohol-based hand sanitizer in the eyes can cause serious injury",
+      "url": "http://www.fda.gov/drugs/fda-drug-safety-podcasts/fda-warns-getting-alcohol-based-hand-sanitizer-eyes-can-cause-serious-injury",
+      "publishedAt": "2021-11-09",
+      "excerpt": "“Listen to FDA Drug Podcast, FDA warns that getting alcohol-based hand sanitizer in the eyes can cause serious injury",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-drug-safety-podcasts",
+      "siteName": "Drug Safety Podcasts",
+      "region": "US",
+      "title": "FDA requires warnings about increased risk of serious heart-related events, cancer, blood clots, and death for JAK inhibitors that treat certain chronic inflammatory conditions",
+      "url": "http://www.fda.gov/drugs/fda-drug-safety-podcasts/fda-requires-warnings-about-increased-risk-serious-heart-related-events-cancer-blood-clots-and-death",
+      "publishedAt": "2021-09-08",
+      "excerpt": "Listen to an audio podcast of the September 1, 2021 FDA Drug Safety Communication on requiring revisions to the Boxed Warning for Xeljanz/Xeljanz XR, Olumiant, and Rinvoq to include information about the risks of serious heart-related events, cancer, blood clots, and death.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-drug-safety-podcasts",
+      "siteName": "Drug Safety Podcasts",
+      "region": "US",
+      "title": "FDA requests removal of strongest warning against using cholesterol-lowering statins during pregnancy; still advises most pregnant patients should stop taking statins",
+      "url": "http://www.fda.gov/drugs/fda-drug-safety-podcasts/fda-requests-removal-strongest-warning-against-using-cholesterol-lowering-statins-during-pregnancy",
+      "publishedAt": "2021-07-22",
+      "excerpt": "Listen to an audio podcast of the July 20, 2021 FDA Drug Safety Communication, FDA requests removal of strongest warning against using cholesterol-lowering statins during pregnancy; still advises most pregnant patients should stop taking statins",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-drug-safety-podcasts",
+      "siteName": "Drug Safety Podcasts",
+      "region": "US",
+      "title": "FDA warns that vapors from alcohol-based hand sanitizers can have side effects",
+      "url": "http://www.fda.gov/drugs/fda-drug-safety-podcasts/fda-warns-vapors-alcohol-based-hand-sanitizers-can-have-side-effects",
+      "publishedAt": "2021-06-21",
+      "excerpt": "Listen to an audio podcast of the June 16, 2021 Drug Safety Communication \"FDA warns that vapors from alcohol-based hand sanitizers can cause symptoms such as headache, nausea, and dizziness after applying to the skin\"",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-drug-safety-podcasts",
+      "siteName": "Drug Safety Podcasts",
+      "region": "US",
+      "title": "Due to risk of serious liver injury, FDA restricts use of obeticholic acid (Ocaliva) in primary biliary cholangitis (PBC) patients with advanced cirrhosis",
+      "url": "http://www.fda.gov/drugs/fda-drug-safety-podcasts/due-risk-serious-liver-injury-fda-restricts-use-obeticholic-acid-ocaliva-primary-biliary-cholangitis",
+      "publishedAt": "2021-06-03",
+      "excerpt": "Listen to FDA Drug Safety Podcast on due to risk of serious liver injury, FDA restricts use of Ocaliva in primary biliary cholangitis (PBC) patients with advanced cirrhosis",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-drug-safety-podcasts",
+      "siteName": "Drug Safety Podcasts",
+      "region": "US",
+      "title": "Studies show increased risk of heart rhythm problems with seizure and mental health medicine lamotrigine (Lamictal) in patients with heart disease",
+      "url": "http://www.fda.gov/drugs/fda-drug-safety-podcasts/studies-show-increased-risk-heart-rhythm-problems-seizure-and-mental-health-medicine-lamotrigine",
+      "publishedAt": "2021-04-02",
+      "excerpt": "Listen to an audio podcast of the March 31, 2021 FDA Drug Safety Communication that FDA review of studies show a potential increased risk of heart rhythm problems, in patients with heart disease taking lamotrigine (Lamictal). FDA requiring studies to evaluate heart risk across the drug class.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-drug-safety-podcasts",
+      "siteName": "Drug Safety Podcasts",
+      "region": "US",
+      "title": "FDA warns that abuse and misuse of the OTC nasal decongestant propylhexedrine can lead to serious harm",
+      "url": "http://www.fda.gov/drugs/fda-drug-safety-podcasts/fda-warns-abuse-and-misuse-otc-nasal-decongestant-propylhexedrine-can-lead-serious-harm",
+      "publishedAt": "2021-03-29",
+      "excerpt": "Listen to an audio podcast of the March 25, 2021 FDA Drug Safety Communication warning that abuse and misuse of the over the counter (OTC) nasal decongestant propylhexedrine (brand name Benzedrex) can lead to serious harm such as heart and mental health problems.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-drug-safety-podcasts",
+      "siteName": "Drug Safety Podcasts",
+      "region": "US",
+      "title": "Initial safety trial results find increased risk of serious heart-related problems and cancer with arthritis and ulcerative colitis medicine Xeljanz, Xeljanz XR (tofacitinib)",
+      "url": "http://www.fda.gov/drugs/fda-drug-safety-podcasts/initial-safety-trial-results-find-increased-risk-serious-heart-related-problems-and-cancer-arthritis",
+      "publishedAt": "2021-02-08",
+      "excerpt": "Listen to FDA Drug Safety Podcast on Drug Safety Communication titled \"Initial safety trial results find increased risk of serious heart-related problems and cancer with tofacitinib (Xeljanz, Xeljanz XR)",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-drug-safety-podcasts",
+      "siteName": "Drug Safety Podcasts",
+      "region": "US",
+      "title": "FDA recommends avoiding use of NSAIDs in pregnancy at 20 weeks or later because they can result in low amniotic fluid",
+      "url": "http://www.fda.gov/drugs/fda-drug-safety-podcasts/fda-recommends-avoiding-use-nsaids-pregnancy-20-weeks-or-later-because-they-can-result-low-amniotic",
+      "publishedAt": "2020-10-22",
+      "excerpt": "Listen to an audio podcast of the October 15, 2020 FDA Drug Safety Communication titled \"FDA recommends avoiding use of NSAIDs in pregnancy at 20 weeks or later because they can result in low amniotic fluid. This issue affects all NSAIDs availbale by prescription and over-the-counter (OTC).\"",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-drug-safety-podcasts",
+      "siteName": "Drug Safety Podcasts",
+      "region": "US",
+      "title": "FDA warns about serious problems with high doses of the allergy medicine diphenhydramine (Benadryl)",
+      "url": "http://www.fda.gov/drugs/fda-drug-safety-podcasts/fda-warns-about-serious-problems-high-doses-allergy-medicine-diphenhydramine-benadryl",
+      "publishedAt": "2020-09-29",
+      "excerpt": "Listen to FDA Drug Safety Podcast on Drug Safety Communication titled \"FDA warns about serious Problems with high doses of the allergy medicine diphenhydramine (Bendaryl).",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-drug-safety-podcasts",
+      "siteName": "Drug Safety Podcasts",
+      "region": "US",
+      "title": "FDA requiring Boxed Warning updated to improve safe use of benzodiazepine drug class",
+      "url": "http://www.fda.gov/drugs/fda-drug-safety-podcasts/fda-requiring-boxed-warning-updated-improve-safe-use-benzodiazepine-drug-class",
+      "publishedAt": "2020-09-29",
+      "excerpt": "Listen to an audio podcast of the September 23, 2020,  FDA Drug Safety communication to address the serious risks of abuse, addiction, physical dependence, and withdrawal reactions as FDA required the Boxed Warning be updated for all benzodiazepine medicines.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-drug-safety-podcasts",
+      "siteName": "Drug Safety Podcasts",
+      "region": "US",
+      "title": "FDA removes Boxed Warning about risk of leg and foot amputations for the diabetes medicine canagliflozin (Invokana, Invokamet, Invokamet XR)",
+      "url": "http://www.fda.gov/drugs/fda-drug-safety-podcasts/fda-removes-boxed-warning-about-risk-leg-and-foot-amputations-diabetes-medicine-canagliflozin",
+      "publishedAt": "2020-09-01",
+      "excerpt": "FDA removes Boxed Warning about risk of leg and foot amputations for the diabetes medicine canagliflozin (Invokana, Invokamet, Invokamet XR)",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-drug-safety-podcasts",
+      "siteName": "Drug Safety Podcasts",
+      "region": "US",
+      "title": "FDA recommends health care professionals discuss naloxone with all patients when prescribing opioid pain relievers or medicines to treat opioid use disorder",
+      "url": "http://www.fda.gov/drugs/fda-drug-safety-podcasts/fda-recommends-health-care-professionals-discuss-naloxone-all-patients-when-prescribing-opioid-pain",
+      "publishedAt": "2020-07-29",
+      "excerpt": "Listen to an audio podcast of the 07.23.2020 FDA Drug Safety Communication: FDA recommends HCPs discuss naloxone with all patients when prescribing opioid pain relievers or medicines to treat opioid use disorder",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-drug-safety-podcasts",
+      "siteName": "Drug Safety Podcasts",
+      "region": "US",
+      "title": "FDA cautions against use of hydroxychloroquine or chloroquine for COVID-19 outside of the hospital setting or a clinical trial due to risk of heart rhythm problems",
+      "url": "http://www.fda.gov/drugs/fda-drug-safety-podcasts/fda-cautions-against-use-hydroxychloroquine-or-chloroquine-covid-19-outside-hospital-setting-or",
+      "publishedAt": "2020-04-24",
+      "excerpt": "Listen to an audio podcast of the April 24, 2020 FDA Drug Safety  Communication: FDA cautions against use of hydroxychloroquine or chloroquine for COVID-19 outside of the hospital setting or a clinical trial due to risk of heart rhythm problems. Close supervision is recommended",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-drug-safety-podcasts",
+      "siteName": "Drug Safety Podcasts",
+      "region": "US",
+      "title": "FDA requests the withdrawal of the weight-loss drug Belviq, Belviq XR (lorcaserin) from the market",
+      "url": "http://www.fda.gov/drugs/fda-drug-safety-podcasts/fda-requests-withdrawal-weight-loss-drug-belviq-belviq-xr-lorcaserin-market",
+      "publishedAt": "2020-02-19",
+      "excerpt": "Listen to an audio podcast of the February 13 2020 FDA Drug Safety Communicationrequesting the withdrawal of the weight-loss drug Belviq, Belviq XR (lorcaserin) from the market. Potential risk of cancer outweighs the benefits.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-drug-safety-podcasts",
+      "siteName": "Drug Safety Podcasts",
+      "region": "US",
+      "title": "FDA strengthens warning that untreated constipation caused by schizophrenia medicine clozapine (Clozaril) can lead to serious bowel problems",
+      "url": "http://www.fda.gov/drugs/fda-drug-safety-podcasts/fda-strengthens-warning-untreated-constipation-caused-schizophrenia-medicine-clozapine-clozaril-can",
+      "publishedAt": "2020-02-10",
+      "excerpt": "Listen to an audio podcast of the January 28, 2020 FDA Drug Safety  Communication that FDA is strengthening an existing warning that constipation caused by the schizophrenia medicine clozapine (Clozaril, Fazaclo ODT, Versacloz, generics) can, uncommonly, progress to serious bowel complications.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-drug-safety-podcasts",
+      "siteName": "Drug Safety Podcasts",
+      "region": "US",
+      "title": "Safety clinical trial shows possible increased risk of cancer with weight-loss medicine Belviq, Belviq XR (lorcaserin)",
+      "url": "http://www.fda.gov/drugs/fda-drug-safety-podcasts/safety-clinical-trial-shows-possible-increased-risk-cancer-weight-loss-medicine-belviq-belviq-xr",
+      "publishedAt": "2020-01-23",
+      "excerpt": "Listen to an audio podcast of the January 14, 2020 FDA Drug Safety  Communication titled \"Safety clinical trial shows possible increased risk of cancer with weight-loss medicine Belviq, Belviq XR (lorcaserin).",
       "sourceType": "rss"
     }
   ]
