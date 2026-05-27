@@ -177,8 +177,8 @@
         "region": "EU",
         "type": "rss",
         "baseUrl": "https://www.ema.europa.eu/en/news-events/rss-feeds",
-        "rssUrl": "",
-        "enabled": false,
+        "rssUrl": "https://www.ema.europa.eu/en/whats-new.xml",
+        "enabled": true,
         "tags": ["updates", "website", "overview"]
       },
       {
