@@ -1,8 +1,18 @@
 {
-  "generatedAt": "2026-05-27T06:42:45.863431+00:00",
-  "count": 230,
+  "generatedAt": "2026-05-27T08:04:54.770037+00:00",
+  "count": 280,
   "errors": [],
   "items": [
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "List of European Union reference dates (EURD) and frequency of submission of periodic safety update reports (PSURs)",
+      "url": "https://www.ema.europa.eu/system/files/documents/other/160-eurd-list-publication-27-may-2026_new-revision_en.xlsx",
+      "publishedAt": "2026-05-27",
+      "excerpt": "List of European Union reference dates (EURD) and frequency of submission of periodic safety update reports (PSURs)",
+      "sourceType": "rss"
+    },
     {
       "siteId": "fda-food-safety-recalls",
       "siteName": "Food Safety Recalls",
@@ -11,6 +21,16 @@
       "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/total-nutrition-inc-recalls-tnvitamins-and-doctors-pride-ultra-potent-complete-green-superfood",
       "publishedAt": "2026-05-26",
       "excerpt": "Total Nutrition Inc. of Deer Park, NY is voluntarily recalling TNVitamins Ultra Potent Complete Green Superfood and Doctor’s Pride Complete Green Superfood Ultra Potent Moringa Capsules (120 count) because they have the potential to be contaminated with Salmonella, an organism which can cause seriou",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-consumer-health-information-updates",
+      "siteName": "Consumer Health Information Updates",
+      "region": "US",
+      "title": "Skip the Antibacterial Soap; Use Plain Soap and Water",
+      "url": "http://www.fda.gov/consumers/consumer-updates/skip-antibacterial-soap-use-plain-soap-and-water",
+      "publishedAt": "2026-05-26",
+      "excerpt": "There isn’t sufficient evidence to show that OTC antibacterial soaps are better at preventing illness than washing with plain soap and water. Washing your hands is easy, and it’s one of the most effective ways to prevent the spread of germs.",
       "sourceType": "rss"
     },
     {
@@ -54,6 +74,416 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Orphan designation: zilucoplan Treatment of myasthenia gravis, 18/07/2022 Withdrawn",
+      "url": "https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-22-2650",
+      "publishedAt": "2026-05-26",
+      "excerpt": "Orphan designation: zilucoplan Treatment of myasthenia gravis, 18/07/2022 Withdrawn",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Orphan designation: vutrisiran Treatment of Stargardt's disease, 10/08/2022 Withdrawn",
+      "url": "https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-22-2682",
+      "publishedAt": "2026-05-26",
+      "excerpt": "Orphan designation: vutrisiran Treatment of Stargardt's disease, 10/08/2022 Withdrawn",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Orphan designation: vincristine sulfate liposomes Treatment of acute lymphoblastic leukaemia, 08/07/2008 Withdrawn",
+      "url": "https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-08-555",
+      "publishedAt": "2026-05-26",
+      "excerpt": "Orphan designation: vincristine sulfate liposomes Treatment of acute lymphoblastic leukaemia, 08/07/2008 Withdrawn",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Orphan designation: tislelizumab Treatment of nasopharyngeal cancer, 21/06/2021 Withdrawn",
+      "url": "https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-21-2446",
+      "publishedAt": "2026-05-26",
+      "excerpt": "Orphan designation: tislelizumab Treatment of nasopharyngeal cancer, 21/06/2021 Withdrawn",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Orphan designation: sutimlimab Treatment of immune thrombocytopenia, 28/02/2020 Withdrawn",
+      "url": "https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-20-2258",
+      "publishedAt": "2026-05-26",
+      "excerpt": "Orphan designation: sutimlimab Treatment of immune thrombocytopenia, 28/02/2020 Withdrawn",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Orphan designation: sabatolimab Treatment of myelodysplastic syndromes, 20/08/2021 Withdrawn",
+      "url": "https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-21-2494",
+      "publishedAt": "2026-05-26",
+      "excerpt": "Orphan designation: sabatolimab Treatment of myelodysplastic syndromes, 20/08/2021 Withdrawn",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Orphan designation: recombinant monoclonal antibody to sialic acid-binding Ig-like lectin 8 Treatment of mastocytosis, 16/10/2017 Withdrawn",
+      "url": "https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-17-1929",
+      "publishedAt": "2026-05-26",
+      "excerpt": "Orphan designation: recombinant monoclonal antibody to sialic acid-binding Ig-like lectin 8 Treatment of mastocytosis, 16/10/2017 Withdrawn",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Orphan designation: recombinant human monoclonal antibody of the IgG1 kappa class against human macrophage colony-stimulating factor (lacnotuzumab) Treatment of tenosynovial giant cell tumour, localised and diffuse type, 15/10/2014 Withdrawn",
+      "url": "https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-14-1350",
+      "publishedAt": "2026-05-26",
+      "excerpt": "Orphan designation: recombinant human monoclonal antibody of the IgG1 kappa class against human macrophage colony-stimulating factor (lacnotuzumab) Treatment of tenosynovial giant cell tumour, localised and diffuse type, 15/10/2014 Withdrawn",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Orphan designation: recombinant human factor IX protein modified with three point mutations (dalcinonacog alfa) Treatment of haemophilia B, 20/06/2017 Withdrawn",
+      "url": "https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-17-1884",
+      "publishedAt": "2026-05-26",
+      "excerpt": "Orphan designation: recombinant human factor IX protein modified with three point mutations (dalcinonacog alfa) Treatment of haemophilia B, 20/06/2017 Withdrawn",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Orphan designation: ovine anti-colchicine polyclonal antibody fragments Treatment of colchicine poisoning, 17/12/2010 Withdrawn",
+      "url": "https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-10-825",
+      "publishedAt": "2026-05-26",
+      "excerpt": "Orphan designation: ovine anti-colchicine polyclonal antibody fragments Treatment of colchicine poisoning, 17/12/2010 Withdrawn",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Orphan designation: oregovomab Treatment of ovarian cancer, 30/07/2002 Withdrawn",
+      "url": "https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-02-109",
+      "publishedAt": "2026-05-26",
+      "excerpt": "Orphan designation: oregovomab Treatment of ovarian cancer, 30/07/2002 Withdrawn",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Orphan designation: navitoclax Treatment of myelofibrosis, 16/12/2019 Withdrawn",
+      "url": "https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-19-2233",
+      "publishedAt": "2026-05-26",
+      "excerpt": "Orphan designation: navitoclax Treatment of myelofibrosis, 16/12/2019 Withdrawn",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Orphan designation: macitentan Treatment of pulmonary arterial hypertension, 27/09/2011 Withdrawn",
+      "url": "https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-11-909",
+      "publishedAt": "2026-05-26",
+      "excerpt": "Orphan designation: macitentan Treatment of pulmonary arterial hypertension, 27/09/2011 Withdrawn",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Orphan designation: macitentan Treatment of idiopathic pulmonary fibrosis, 28/01/2010 Withdrawn",
+      "url": "https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-09-707",
+      "publishedAt": "2026-05-26",
+      "excerpt": "Orphan designation: macitentan Treatment of idiopathic pulmonary fibrosis, 28/01/2010 Withdrawn",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Orphan designation: macitentan Treatment of functional single ventricle congenital heart disease, 20/05/2021 Withdrawn",
+      "url": "https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-21-2428",
+      "publishedAt": "2026-05-26",
+      "excerpt": "Orphan designation: macitentan Treatment of functional single ventricle congenital heart disease, 20/05/2021 Withdrawn",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Orphan designation: macitentan Treatment of chronic thromboembolic pulmonary hypertension, 10/12/2021 Withdrawn",
+      "url": "https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-21-2533",
+      "publishedAt": "2026-05-26",
+      "excerpt": "Orphan designation: macitentan Treatment of chronic thromboembolic pulmonary hypertension, 10/12/2021 Withdrawn",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Orphan designation: humanised fusion protein consisting of extracellular domain of CD24 linked to IgG1 Fc domain Prevention of graft-versus-host disease, 11/11/2015 Withdrawn",
+      "url": "https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-15-1575",
+      "publishedAt": "2026-05-26",
+      "excerpt": "Orphan designation: humanised fusion protein consisting of extracellular domain of CD24 linked to IgG1 Fc domain Prevention of graft-versus-host disease, 11/11/2015 Withdrawn",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Orphan designation: humanised IgG2k Fc-modified bispecific monoclonal antibody against CD3 and BCMA Treatment of multiple myeloma, 19/07/2021 Withdrawn",
+      "url": "https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-21-2471",
+      "publishedAt": "2026-05-26",
+      "excerpt": "Orphan designation: humanised IgG2k Fc-modified bispecific monoclonal antibody against CD3 and BCMA Treatment of multiple myeloma, 19/07/2021 Withdrawn",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Orphan designation: genetically modified serotype 5/3 adenovirus coding for granulocyte-macrophage colony-stimulating factor Treatment of soft tissue sarcoma, 19/06/2013 Withdrawn",
+      "url": "https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-13-1145",
+      "publishedAt": "2026-05-26",
+      "excerpt": "Orphan designation: genetically modified serotype 5/3 adenovirus coding for granulocyte-macrophage colony-stimulating factor Treatment of soft tissue sarcoma, 19/06/2013 Withdrawn",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Orphan designation: genetically modified serotype 5/3 adenovirus coding for granulocyte macrophage colony-stimulating factor Treatment of malignant mesothelioma, 16/12/2014 Withdrawn",
+      "url": "https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-14-1398",
+      "publishedAt": "2026-05-26",
+      "excerpt": "Orphan designation: genetically modified serotype 5/3 adenovirus coding for granulocyte macrophage colony-stimulating factor Treatment of malignant mesothelioma, 16/12/2014 Withdrawn",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Orphan designation: cedazuridine,decitabine Treatment of myelodysplastic syndromes, 16/08/2023 Withdrawn",
+      "url": "https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-23-2825",
+      "publishedAt": "2026-05-26",
+      "excerpt": "Orphan designation: cedazuridine,decitabine Treatment of myelodysplastic syndromes, 16/08/2023 Withdrawn",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Orphan designation: antisense NF-kBp65 oligonucleotide Treatment of active ulcerative colitis, 30/07/2002 Withdrawn",
+      "url": "https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-02-106",
+      "publishedAt": "2026-05-26",
+      "excerpt": "Orphan designation: antisense NF-kBp65 oligonucleotide Treatment of active ulcerative colitis, 30/07/2002 Withdrawn",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Orphan designation: anti-SIGLEC8 IgG1 humanised monoclonal antibody Treatment of eosinophilic gastroenteritis, 19/02/2021 Withdrawn",
+      "url": "https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-21-2400",
+      "publishedAt": "2026-05-26",
+      "excerpt": "Orphan designation: anti-SIGLEC8 IgG1 humanised monoclonal antibody Treatment of eosinophilic gastroenteritis, 19/02/2021 Withdrawn",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Orphan designation: adeno-associated virus vector serotype hu37 encoding human factor VIII Treatment of  haemophilia A, 22/04/2020 Withdrawn",
+      "url": "https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-20-2274",
+      "publishedAt": "2026-05-26",
+      "excerpt": "Orphan designation: adeno-associated virus vector serotype hu37 encoding human factor VIII Treatment of  haemophilia A, 22/04/2020 Withdrawn",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Orphan designation: adeno-associated viral vector serotype 8 containing the human acid alpha-glucosidase gene Treatment of glycogen storage disease type II (Pompe's disease), 16/04/2018 Withdrawn",
+      "url": "https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-18-2007",
+      "publishedAt": "2026-05-26",
+      "excerpt": "Orphan designation: adeno-associated viral vector serotype 8 containing the human acid alpha-glucosidase gene Treatment of glycogen storage disease type II (Pompe's disease), 16/04/2018 Withdrawn",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Orphan designation: acetylsalicylic acid Treatment of polycythaemia vera, 29/07/2004 Withdrawn",
+      "url": "https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-04-208",
+      "publishedAt": "2026-05-26",
+      "excerpt": "Orphan designation: acetylsalicylic acid Treatment of polycythaemia vera, 29/07/2004 Withdrawn",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Orphan designation: Treatment of paroxysmal nocturnal haemoglobinuria, 19/02/2021 Withdrawn",
+      "url": "https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-21-2401",
+      "publishedAt": "2026-05-26",
+      "excerpt": "Orphan designation: Treatment of paroxysmal nocturnal haemoglobinuria, 19/02/2021 Withdrawn",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Orphan designation: Treatment of Alagille syndrome, 09/08/2012 Withdrawn",
+      "url": "https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-12-1040",
+      "publishedAt": "2026-05-26",
+      "excerpt": "Orphan designation: Treatment of Alagille syndrome, 09/08/2012 Withdrawn",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Orphan designation: S)-3-((S)-2-(2-((2,6-difluorophenyl)amino)-2-oxoacetamido)propanamido)-4-oxo-5-(2,3,5,6-tetrafluorophenoxy)pentanoic acid Treatment of primary sclerosing cholangitis, 16/10/2017 Withdrawn",
+      "url": "https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-17-1914",
+      "publishedAt": "2026-05-26",
+      "excerpt": "Orphan designation: S)-3-((S)-2-(2-((2,6-difluorophenyl)amino)-2-oxoacetamido)propanamido)-4-oxo-5-(2,3,5,6-tetrafluorophenoxy)pentanoic acid Treatment of primary sclerosing cholangitis, 16/10/2017 Withdrawn",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Orphan designation: N-(5-tert-Butylisoxazol-3-yl)-N'-{4-[7-(2-(morpholin-4-yl)ethoxy) imidazo[2,1-b][1,3]benzothiazol-2-yl]phenyl}urea di-hydrochloride salt Treatment of acute myeloid leukaemia, 23/03/2009 Withdrawn",
+      "url": "https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-09-622",
+      "publishedAt": "2026-05-26",
+      "excerpt": "Orphan designation: N-(5-tert-Butylisoxazol-3-yl)-N'-{4-[7-(2-(morpholin-4-yl)ethoxy) imidazo[2,1-b][1,3]benzothiazol-2-yl]phenyl}urea di-hydrochloride salt Treatment of acute myeloid leukaemia, 23/03/2009 Withdrawn",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Orphan designation: Mavoglurant  Treatment of fragile X syndrome, 10/10/2012 Withdrawn",
+      "url": "https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-12-1046",
+      "publishedAt": "2026-05-26",
+      "excerpt": "Orphan designation: Mavoglurant  Treatment of fragile X syndrome, 10/10/2012 Withdrawn",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Orphan designation: Marzeptacog alfa (activated) Treatment of haemophilia B, 01/04/2019 Withdrawn",
+      "url": "https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-19-2151",
+      "publishedAt": "2026-05-26",
+      "excerpt": "Orphan designation: Marzeptacog alfa (activated) Treatment of haemophilia B, 01/04/2019 Withdrawn",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Orphan designation: Ilginatinib maleate Treatment of myelofibrosis, 25/07/2023 Withdrawn",
+      "url": "https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-23-2803",
+      "publishedAt": "2026-05-26",
+      "excerpt": "Orphan designation: Ilginatinib maleate Treatment of myelofibrosis, 25/07/2023 Withdrawn",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Orphan designation: Humanised monoclonal antibody against P-selectin (crizanlizumab) Treatment of sickle cell disease, 09/08/2012 Withdrawn",
+      "url": "https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-12-1034",
+      "publishedAt": "2026-05-26",
+      "excerpt": "Orphan designation: Humanised monoclonal antibody against P-selectin (crizanlizumab) Treatment of sickle cell disease, 09/08/2012 Withdrawn",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Orphan designation: Human platelet antigen-1a immunoglobulin Prevention of fetal and neonatal alloimmune thrombocytopenia, 27/10/2011 Withdrawn",
+      "url": "https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-11-922",
+      "publishedAt": "2026-05-26",
+      "excerpt": "Orphan designation: Human platelet antigen-1a immunoglobulin Prevention of fetal and neonatal alloimmune thrombocytopenia, 27/10/2011 Withdrawn",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Orphan designation: Dantrolene sodium Treatment of Wolfram syndrome, 12/12/2016 Withdrawn",
+      "url": "https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-16-1800",
+      "publishedAt": "2026-05-26",
+      "excerpt": "Orphan designation: Dantrolene sodium Treatment of Wolfram syndrome, 12/12/2016 Withdrawn",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Orphan designation: Copanlisib Treatment of marginal zone lymphoma, 24/08/2018 Withdrawn",
+      "url": "https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-18-2064",
+      "publishedAt": "2026-05-26",
+      "excerpt": "Orphan designation: Copanlisib Treatment of marginal zone lymphoma, 24/08/2018 Withdrawn",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Orphan designation: 5-Methyl-pyridine-2-sulfonic acid{6-(2-hydroxy-ethoxy)-5-(2-methoxy-phenoxy)-2-[2-(1H-tetrazol-5-yl)-pyridin-4-yl]-pyrimidin-4-yl}-amide sodium salt Treatment of aneurysmal subarachnoid haemorrhage, 12/12/2003 Withdrawn",
+      "url": "https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-03-182",
+      "publishedAt": "2026-05-26",
+      "excerpt": "Orphan designation: 5-Methyl-pyridine-2-sulfonic acid{6-(2-hydroxy-ethoxy)-5-(2-methoxy-phenoxy)-2-[2-(1H-tetrazol-5-yl)-pyridin-4-yl]-pyrimidin-4-yl}-amide sodium salt Treatment of aneurysmal subarachnoid haemorrhage, 12/12/2003 Withdrawn",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Orphan designation: 2-[3-(2-chloro-4-{[5-cyclopropyl-3-(2,6-dichlorophenyl)-1,2-oxazol-4-yl]methoxy}phenyl)-3-hydroxyazetidin-1-yl]pyridine-4-carboxylic acid-2-amino-2-(hydroxymethyl)propane-1,3-diol (1/1) Treatment of primary sclerosing cholangitis, 01/04/2019 Withdrawn",
+      "url": "https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-19-2147",
+      "publishedAt": "2026-05-26",
+      "excerpt": "Orphan designation: 2-[3-(2-chloro-4-{[5-cyclopropyl-3-(2,6-dichlorophenyl)-1,2-oxazol-4-yl]methoxy}phenyl)-3-hydroxyazetidin-1-yl]pyridine-4-carboxylic acid-2-amino-2-(hydroxymethyl)propane-1,3-diol (1/1) Treatment of primary sclerosing cholangitis, 01/04/2019 Withdrawn",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Orphan designation: 1-[(3S)-3-{4-amino-3-[(3,5-dimethoxyphenyl)ethynyl]-1H-pyrazolo[3,4-d]pyrimidin-1-yl}pyrrolidin-1-yl]-2-propen-1-one (futibatinib) Treatment of biliary tract cancer, 01/04/2019 Withdrawn",
+      "url": "https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-19-2146",
+      "publishedAt": "2026-05-26",
+      "excerpt": "Orphan designation: 1-[(3S)-3-{4-amino-3-[(3,5-dimethoxyphenyl)ethynyl]-1H-pyrazolo[3,4-d]pyrimidin-1-yl}pyrrolidin-1-yl]-2-propen-1-one (futibatinib) Treatment of biliary tract cancer, 01/04/2019 Withdrawn",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "One Health approach",
+      "url": "https://www.ema.europa.eu/en/partners-networks/one-health-approach",
+      "publishedAt": "2026-05-26",
+      "excerpt": "One Health approach",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "fda-whats-new-drugs",
       "siteName": "What's New: Drugs",
       "region": "US",
@@ -61,6 +491,16 @@
       "url": "http://www.fda.gov/drugs/novel-drug-approvals-fda/novel-drug-approvals-2026",
       "publishedAt": "2026-05-26",
       "excerpt": "Novel Drug Approvals for 2026",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Medicinal products for human use: monthly figures - April 2026",
+      "url": "https://www.ema.europa.eu/system/files/documents/report/2026-04-human-maa-paa-report-en.pdf",
+      "publishedAt": "2026-05-26",
+      "excerpt": "Medicinal products for human use: monthly figures - April 2026",
       "sourceType": "rss"
     },
     {
@@ -111,6 +551,56 @@
       "url": "http://www.fda.gov/industry/fda-data-standards-advisory-board/individual-case-safety-reports",
       "publishedAt": "2026-05-26",
       "excerpt": "This web page is dedicated to the health and regulatory data standard:  Individual Case Safety Report",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Tysabri, natalizumab, Date of authorisation: 27/06/2006, Revision: 52, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/tysabri",
+      "publishedAt": "2026-05-26",
+      "excerpt": "Human medicines European public assessment report (EPAR): Tysabri, natalizumab, Date of authorisation: 27/06/2006, Revision: 52, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Pomalidomide Zentiva, pomalidomide, Date of authorisation: 24/07/2024, Revision: 2, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/pomalidomide-zentiva",
+      "publishedAt": "2026-05-26",
+      "excerpt": "Human medicines European public assessment report (EPAR): Pomalidomide Zentiva, pomalidomide, Date of authorisation: 24/07/2024, Revision: 2, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Poherdy, pertuzumab, Date of authorisation: 23/04/2026, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/poherdy",
+      "publishedAt": "2026-05-26",
+      "excerpt": "Human medicines European public assessment report (EPAR): Poherdy, pertuzumab, Date of authorisation: 23/04/2026, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Fycompa, perampanel, Date of authorisation: 23/07/2012, Revision: 36, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/fycompa",
+      "publishedAt": "2026-05-26",
+      "excerpt": "Human medicines European public assessment report (EPAR): Fycompa, perampanel, Date of authorisation: 23/07/2012, Revision: 36, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Avonex, interferon beta-1a, Date of authorisation: 13/03/1997, Revision: 41, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/avonex",
+      "publishedAt": "2026-05-26",
+      "excerpt": "Human medicines European public assessment report (EPAR): Avonex, interferon beta-1a, Date of authorisation: 13/03/1997, Revision: 41, Status: Authorised",
       "sourceType": "rss"
     },
     {
@@ -184,6 +674,16 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "EU recommendations for 2026/2027 seasonal flu vaccine composition",
+      "url": "https://www.ema.europa.eu/en/news/eu-recommendations-2026-2027-seasonal-flu-vaccine-composition",
+      "publishedAt": "2026-05-26",
+      "excerpt": "EU recommendations for 2026/2027 seasonal flu vaccine composition",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "fda-whats-new-drugs",
       "siteName": "What's New: Drugs",
       "region": "US",
@@ -211,6 +711,16 @@
       "url": "http://www.fda.gov/drugs/compounding-quality-center-excellence/compounding-quality-center-excellence-recorded-webinars",
       "publishedAt": "2026-05-26",
       "excerpt": "The FDA Compounding Quality Center of Excellence offers free recorded webinars to provide information about current good manufacturing practice standards and the agency’s inspectional processes.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Amended Biologics Working Party Vaccines Quality Operational Expert Group (BV-OEG) Influenza Meeting: EU recommendations for the seasonal influenza vaccine composition for the season 2026/2027",
+      "url": "https://www.ema.europa.eu/system/files/documents/regulatory-procedural-guideline/second-amended-eu-recommendation-vaccine-composition-2026-2027_en.pdf",
+      "publishedAt": "2026-05-26",
+      "excerpt": "Amended Biologics Working Party Vaccines Quality Operational Expert Group (BV-OEG) Influenza Meeting: EU recommendations for the seasonal influenza vaccine composition for the season 2026/2027",
       "sourceType": "rss"
     },
     {
@@ -1264,16 +1774,6 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "fda-consumer-health-information-updates",
-      "siteName": "Consumer Health Information Updates",
-      "region": "US",
-      "title": "Children's Health",
-      "url": "http://www.fda.gov/consumers/consumer-updates/childrens-health",
-      "publishedAt": "2025-12-18",
-      "excerpt": "Kids aren't just small adults. From diet and nutrition to their reactions to medicine, their bodies are unique. Read these Consumer Updates to learn more.",
-      "sourceType": "rss"
-    },
-    {
       "siteId": "fda-health-fraud",
       "siteName": "Health Fraud",
       "region": "US",
@@ -1427,6 +1927,16 @@
       "siteId": "fda-outbreaks",
       "siteName": "FDA Outbreaks",
       "region": "US",
+      "title": "Outbreak Investigation of Listeria monocytogenes: Fresh Express Packaged Salad (December 2021)",
+      "url": "http://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-listeria-monocytogenes-fresh-express-packaged-salad-december-2021",
+      "publishedAt": "2025-03-26",
+      "excerpt": "The FDA and CDC, in collaboration with state and local partners, are investigating a multistate outbreak of Listeria monocytogenes infections.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-outbreaks",
+      "siteName": "FDA Outbreaks",
+      "region": "US",
       "title": "Outbreak Investigation of Listeria monocytogenes: Enoki Mushrooms (November 2022)",
       "url": "http://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-listeria-monocytogenes-enoki-mushrooms-november-2022",
       "publishedAt": "2025-03-26",
@@ -1461,16 +1971,6 @@
       "url": "http://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-listeria-monocytogenes-hispanic-style-fresh-and-soft-cheeses-february-2021",
       "publishedAt": "2025-03-26",
       "excerpt": "The FDA, along with CDC and state and local partners, are investigating a multistate outbreak of Listeria monocytogenes infections potentially linked to Hispanic-style fresh and soft cheeses.",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-outbreaks",
-      "siteName": "FDA Outbreaks",
-      "region": "US",
-      "title": "Outbreak Investigation of Hepatitis A Virus Infections: Frozen Strawberries (February 2023)",
-      "url": "http://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-hepatitis-virus-infections-frozen-strawberries-february-2023",
-      "publishedAt": "2025-03-26",
-      "excerpt": "The FDA and CDC, in collaboration with state and local partners, are investigating an outbreak of hepatitis A virus infections linked to frozen organic strawberries imported from certain farms located in Baja California, Mexico by a common supplier.",
       "sourceType": "rss"
     },
     {
