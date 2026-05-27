@@ -40,8 +40,8 @@
         "region": "US",
         "type": "rss",
         "baseUrl": "https://www.fda.gov/about-fda/contact-fda/subscribe-podcasts-and-news-feeds",
-        "rssUrl": "",
-        "enabled": false,
+        "rssUrl": "https://www.fda.gov/about-fda/contact-fda/stay-informed/rss-feeds/drugs/rss.xml",
+        "enabled": true,
         "tags": ["drug"]
       }
     ]
