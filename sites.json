@@ -50,8 +50,8 @@
         "region": "US",
         "type": "rss",
         "baseUrl": "https://www.fda.gov/about-fda/contact-fda/subscribe-podcasts-and-news-feeds",
-        "rssUrl": "",
-        "enabled": false,
+        "rssUrl": "https://www.fda.gov/about-fda/contact-fda/stay-informed/rss-feeds/fda-outbreaks/rss.xml",
+        "enabled": true,
         "tags": ["outbreak", "food safety"]
       },
       {
@@ -60,8 +60,8 @@
         "region": "US",
         "type": "rss",
         "baseUrl": "https://www.fda.gov/about-fda/contact-fda/subscribe-podcasts-and-news-feeds",
-        "rssUrl": "",
-        "enabled": false,
+        "rssUrl": "https://www.fda.gov/about-fda/contact-fda/stay-informed/rss-feeds/food-allergies/rss.xml",
+        "enabled": true,
         "tags": ["food", "allergy"]
       },
       {
@@ -70,8 +70,8 @@
         "region": "US",
         "type": "rss",
         "baseUrl": "https://www.fda.gov/about-fda/contact-fda/subscribe-podcasts-and-news-feeds",
-        "rssUrl": "",
-        "enabled": false,
+        "rssUrl": "https://www.fda.gov/about-fda/contact-fda/stay-informed/rss-feeds/food-safety-recalls/rss.xml",
+        "enabled": true,
         "tags": ["food safety", "recall"]
       },
       {
@@ -80,8 +80,8 @@
         "region": "US",
         "type": "rss",
         "baseUrl": "https://www.fda.gov/about-fda/contact-fda/subscribe-podcasts-and-news-feeds",
-        "rssUrl": "",
-        "enabled": false,
+        "rssUrl": "https://www.fda.gov/about-fda/contact-fda/stay-informed/rss-feeds/health-fraud/rss.xml",
+        "enabled": true,
         "tags": ["fraud", "enforcement"]
       },
       {
