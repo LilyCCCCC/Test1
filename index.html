@@ -8,13 +8,10 @@
     body{font-family:Arial,sans-serif;max-width:1100px;margin:0 auto;padding:24px;background:#f8f8f5;color:#222}
     h1{margin-bottom:8px} .muted{color:#666} .panel{background:#fff;border:1px solid #ddd;border-radius:12px;padding:16px;margin:16px 0}
     .grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px;box-sizing:border-box}.full{grid-column:1/-1}
-    input,select{width:100%;padding:10px;border:1px solid #ccc;border-radius:8px;box-sizing:border-box}.results{display:grid;gap:12px}.item{border:1px solid #ddd;border-radius:10px;padding:14px;background:#fafafa}
+    input,select{width:100%;padding:10px;border:1px solid #ccc;border-radius:8px;box-sizing:border-box}.results{display:grid;gap:12px}.item{border:1px solid #ddd;border-radius:10px;padding:14px;background:#fff}
     .meta{font-size:14px;color:#666;margin:6px 0 10px} button{padding:10px 16px;border:0;border-radius:999px;background:#0b6b70;color:#fff;cursor:pointer}
-    #childSourceList{display:grid;grid-template-columns:repeat(2,1fr);gap:8px;margin-top:8px}.child-option{display:flex;align-items:center;gap:8px;padding:6px 8px;border:1px solid #ddd;border-radius:6px}
+    #childSourceList{display:grid;grid-template-columns:repeat(2,1fr);gap:8px;margin-top:8px}.child-option{display:flex;align-items:center;gap:8px;padding:6px 8px;border:1px solid #ddd;border-radius:8px;background:#fafafa;font-size:13px;box-sizing:border-box}.child-option input{width:auto;min-width:16px}.child-option span{flex:1}
     .child-controls{display:flex;gap:10px;margin-top:8px;margin-bottom:8px;flex-wrap:wrap}.child-controls button{padding:6px 12px;font-size:13px}
-    .excerpt{background:#f0f8fa;border-left:4px solid #0b6b70;padding:10px 12px;margin:10px 0;border-radius:4px;font-size:14px;line-height:1.6;color:#333}
-    .excerpt-label{font-size:12px;color:#0b6b70;font-weight:bold;margin-bottom:6px;text-transform:uppercase}
-    a{color:#0b6b70;text-decoration:none}a:hover{text-decoration:underline}
     @media(max-width:800px){.grid{grid-template-columns:1fr}#childSourceList{grid-template-columns:1fr}}
   </style>
 </head>
@@ -181,12 +178,6 @@ function setDefaultDates() {
       
       childControls.style.display = 'flex';
     }
-
-    function cleanExcerpt(excerpt) {
-      if (!excerpt) return '';
-      // 移除末尾的 [...] 並修剪空白
-      return excerpt.replace(/\[\.\.\.\]\s*$/, '').trim();
-    }
   
     function render(items) {
       if (!items.length) {
@@ -194,22 +185,14 @@ function setDefaultDates() {
         return;
       }
   
-      resultsEl.innerHTML = items.map(item => {
-        const cleanedExcerpt = cleanExcerpt(item.excerpt);
-        return `
-          <article class="item">
-            <h3>${item.title}</h3>
-            <div class="meta">${item.siteName}｜${item.region || ''}｜${item.publishedAt || '無日期'}｜${item.sourceType}</div>
-            ${cleanedExcerpt ? `
-              <div class="excerpt">
-                <div class="excerpt-label">📋 摘要</div>
-                <p>${cleanedExcerpt}</p>
-              </div>
-            ` : ''}
-            <a href="${item.url}" target="_blank" rel="noopener noreferrer">開啟原文 →</a>
-          </article>
-        `;
-      }).join('');
+      resultsEl.innerHTML = items.map(item => `
+        <article class="item">
+          <h3>${item.title}</h3>
+          <div class="meta">${item.siteName}｜${item.region || ''}｜${item.publishedAt || '無日期'}｜${item.sourceType}</div>
+          <p>${item.excerpt || ''}</p>
+          <a href="${item.url}" target="_blank" rel="noopener noreferrer">開啟原文</a>
+        </article>
+      `).join('');
     }
   
     function search() {
