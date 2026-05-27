@@ -163,6 +163,122 @@
         "rssUrl": "",
         "enabled": false,
         "tags": ["vaccines", "blood", "biologics"]
+      },
+
+      {
+    "groupId": "ema",
+    "groupName": "EMA",
+    "enabled": false,
+    "children": [
+      {
+        "id": "ema-whats-new",
+        "name": "What's new",
+        "region": "EU",
+        "type": "rss",
+        "baseUrl": "https://www.ema.europa.eu/en/news-events/rss-feeds",
+        "rssUrl": "",
+        "enabled": false,
+        "tags": ["updates", "website", "overview"]
+      },
+      {
+        "id": "ema-news-and-press-releases",
+        "name": "News and press releases",
+        "region": "EU",
+        "type": "rss",
+        "baseUrl": "https://www.ema.europa.eu/en/news-events/rss-feeds",
+        "rssUrl": "",
+        "enabled": false,
+        "tags": ["news", "press releases", "announcements"]
+      },
+      {
+        "id": "ema-regulatory-and-procedural-guidelines",
+        "name": "Regulatory and procedural guidelines (human and veterinary)",
+        "region": "EU",
+        "type": "rss",
+        "baseUrl": "https://www.ema.europa.eu/en/news-events/rss-feeds",
+        "rssUrl": "",
+        "enabled": false,
+        "tags": ["guidelines", "regulatory", "procedural"]
+      },
+      {
+        "id": "ema-scientific-guidelines",
+        "name": "Scientific guidelines (human and veterinary)",
+        "region": "EU",
+        "type": "rss",
+        "baseUrl": "https://www.ema.europa.eu/en/news-events/rss-feeds",
+        "rssUrl": "",
+        "enabled": false,
+        "tags": ["guidelines", "scientific", "technical"]
+      },
+      {
+        "id": "ema-eurd-list",
+        "name": "European Union reference dates (EURD) list",
+        "region": "EU",
+        "type": "rss",
+        "baseUrl": "https://www.ema.europa.eu/en/news-events/rss-feeds",
+        "rssUrl": "",
+        "enabled": false,
+        "tags": ["EURD", "pharmacovigilance", "PSUR"]
+      },
+      {
+        "id": "ema-human-medicines-epars-and-summaries-of-opinion",
+        "name": "Human medicines: EPARs and summaries of opinion",
+        "region": "EU",
+        "type": "rss",
+        "baseUrl": "https://www.ema.europa.eu/en/news-events/rss-feeds",
+        "rssUrl": "",
+        "enabled": false,
+        "tags": ["human medicines", "EPAR", "summaries of opinion"]
+      },
+      {
+        "id": "ema-orphan-designations",
+        "name": "Orphan designations",
+        "region": "EU",
+        "type": "rss",
+        "baseUrl": "https://www.ema.europa.eu/en/news-events/rss-feeds",
+        "rssUrl": "",
+        "enabled": false,
+        "tags": ["orphan", "designation", "rare disease"]
+      },
+      {
+        "id": "ema-withdrawn-applications",
+        "name": "Withdrawn applications",
+        "region": "EU",
+        "type": "rss",
+        "baseUrl": "https://www.ema.europa.eu/en/news-events/rss-feeds",
+        "rssUrl": "",
+        "enabled": false,
+        "tags": ["withdrawn", "applications", "marketing authorisation"]
+      },
+      {
+        "id": "ema-public-consultations",
+        "name": "Public consultations",
+        "region": "EU",
+        "type": "rss",
+        "baseUrl": "https://www.ema.europa.eu/en/news-events/rss-feeds",
+        "rssUrl": "",
+        "enabled": false,
+        "tags": ["consultation", "draft", "public comments"]
+      },
+      {
+        "id": "ema-inspections",
+        "name": "Inspections",
+        "region": "EU",
+        "type": "rss",
+        "baseUrl": "https://www.ema.europa.eu/en/news-events/rss-feeds",
+        "rssUrl": "",
+        "enabled": false,
+        "tags": ["inspections", "GMP", "compliance"]
+      },
+      {
+        "id": "ema-human-medicines-highlights-newsletter",
+        "name": "Human Medicines Highlights newsletter",
+        "region": "EU",
+        "type": "rss",
+        "baseUrl": "https://www.ema.europa.eu/en/news-events/rss-feeds",
+        "rssUrl": "",
+        "enabled": false,
+        "tags": ["newsletter", "human medicines", "highlights"]
       }
     ]
   }
