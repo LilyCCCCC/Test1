@@ -10,8 +10,8 @@
         "region": "US",
         "type": "rss",
         "baseUrl": "https://www.fda.gov/about-fda/contact-fda/subscribe-podcasts-and-news-feeds",
-        "rssUrl": "",
-        "enabled": false,
+        "rssUrl": "https://www.fda.gov/about-fda/contact-fda/stay-informed/rss-feeds/consumers/rss.xml",
+        "enabled": true,
         "tags": ["consumer", "health information"]
       },
       {
@@ -30,8 +30,8 @@
         "region": "US",
         "type": "rss",
         "baseUrl": "https://www.fda.gov/about-fda/contact-fda/subscribe-podcasts-and-news-feeds",
-        "rssUrl": "",
-        "enabled": false,
+        "rssUrl": "https://www.fda.gov/about-fda/contact-fda/stay-informed/rss-feeds/disco/rss.xml",
+        "enabled": true,
         "tags": ["oncology", "podcast", "drug"]
       },
       {
@@ -40,8 +40,8 @@
         "region": "US",
         "type": "rss",
         "baseUrl": "https://www.fda.gov/about-fda/contact-fda/subscribe-podcasts-and-news-feeds",
-        "rssUrl": "",
-        "enabled": false,
+        "rssUrl": "https://www.fda.gov/about-fda/contact-fda/stay-informed/rss-feeds/drug-safety-podcast/rss.xml",
+        "enabled": true,
         "tags": ["drug safety", "podcast"]
       },
       {
