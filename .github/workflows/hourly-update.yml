@@ -1,0 +1,35 @@
+name: Hourly Update
+
+on:
+  schedule:
+    # 每小時的第 0 分鐘執行（UTC 時間）
+    - cron: "0 * * * *"
+  workflow_dispatch: # 允許手動觸發
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Run update script
+        run: |
+          # 這裡寫你實際要執行的指令，例如：
+          # npm install
+          # node scripts/update-latest.js
+          echo "Running hourly update..."
+
+      - name: Commit and push if changed
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/latest.json
+          git diff --quiet && git diff --staged --quiet || git commit -m "chore: update latest.json [skip ci]"
+          git push
