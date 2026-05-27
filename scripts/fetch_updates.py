@@ -94,20 +94,29 @@ def fetch_webpage(site):
 
 
 def main():
-    sites = json.loads(SITES_FILE.read_text(encoding="utf-8"))
+    groups = json.loads(SITES_FILE.read_text(encoding="utf-8"))
     all_items = []
     errors = []
 
-    for site in sites:
+    for group in groups:
         if not site.get("enabled", True):
             continue
+
+        for site in group.get("children", []):
+            if not site.get("enabled", True):
+                continue
+                
         try:
             if site.get("type") == "rss":
                 all_items.extend(fetch_rss(site))
             elif site.get("type") == "webpage":
                 all_items.extend(fetch_webpage(site))
         except Exception as exc:
-            errors.append({"siteId": site.get("id"), "error": str(exc)})
+            errors.append({
+                "groupId": group.get("groupId"),
+                "siteId": site.get("id"),
+                "error": str(exc)
+            })
 
     all_items.sort(
         key=lambda x: (x.get("publishedAt") or "", x.get("title") or ""),
