@@ -10,6 +10,7 @@
     .grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}.full{grid-column:1/-1}
     input,select{width:100%;padding:10px;border:1px solid #ccc;border-radius:8px}.results{display:grid;gap:12px}.item{border:1px solid #ddd;border-radius:10px;padding:14px;background:#fff}
     .meta{font-size:14px;color:#666;margin:6px 0 10px} button{padding:10px 16px;border:0;border-radius:999px;background:#0b6b70;color:#fff;cursor:pointer}
+    #childSourceList{display:grid;gap:8px;margin-top:8px}.child-option{display:flex;align-items:center;gap:8px;padding:8px 10px;border:1px solid #ddd;border-radius:8px;background:#fafafa}.child-option input{width:auto;margin:0}
     @media(max-width:800px){.grid{grid-template-columns:1fr}}
   </style>
 </head>
@@ -32,10 +33,15 @@
         <input id="endDate" type="date">
       </div>
       <div class="full">
-        <label>來源選擇</label>
-        <select id="sourceMode">
+        <label>搜尋範圍</label>
+        <select id="scopeSelect">
           <option value="all">全部來源</option>
         </select>
+      </div>
+      
+      <div class="full">
+        <label>子來源（可複選；若未勾選則代表該群組全部）</label>
+        <div id="childSourceList"></div>
       </div>
     </div>
     <div style="margin-top:12px"><button id="searchBtn">搜尋</button></div>
@@ -47,7 +53,7 @@
   </section>
 
   <script>
-    const state = { sites: [], items: [] };
+    const state = { groups: [], items: [] };
     const sourceMode = document.getElementById('sourceMode');
     const statusEl = document.getElementById('status');
     const resultsEl = document.getElementById('results');
@@ -57,15 +63,54 @@
         fetch('./sites.json'),
         fetch('./data/latest.json')
       ]);
-      const sites = await sitesRes.json();
+      
+      const groups = await sitesRes.json();
       const data = await dataRes.json();
-      state.sites = sites.filter(s => s.enabled !== false);
+      
+      state.groups = groups.filter(g => g.enabled !== false);
       state.items = data.items || [];
-      sourceMode.innerHTML = '<option value="all">全部來源</option>' + state.sites.map(s => `<option value="${s.id}">${s.name}</option>`).join('');
+
+      renderScopeOptions();
+      renderChildOptions();
+      
       statusEl.textContent = `最新更新：${data.generatedAt || 'N/A'}；共 ${data.count || 0} 筆`;
       render(state.items);
     }
 
+    function renderScopeOptions() {
+      const scopeSelect = document.getElementById('scopeSelect');
+      scopeSelect.innerHTML =
+        '<option value="all">全部來源</option>' +
+        state.groups.map(g => `<option value="${g.groupId}">${g.groupName}</option>`).join('');
+    }
+    
+    function renderChildOptions() {
+      const scope = document.getElementById('scopeSelect').value;
+      const childSourceList = document.getElementById('childSourceList');
+    
+      if (scope === 'all') {
+        childSourceList.innerHTML = '<div class="muted">目前為全部來源模式，不需勾選子來源。</div>';
+        return;
+      }
+    
+      const group = state.groups.find(g => g.groupId === scope);
+    
+      if (!group) {
+        childSourceList.innerHTML = '';
+        return;
+      }
+    
+      childSourceList.innerHTML = group.children
+        .filter(child => child.enabled !== false)
+        .map(child => `
+          <label class="child-option">
+            <input type="checkbox" class="child-checkbox" value="${child.id}">
+            <span>${child.name}</span>
+          </label>
+        `).join('');
+    }
+    
+    
     function render(items) {
       if (!items.length) {
         resultsEl.innerHTML = '<div class="item">沒有符合條件的資料。</div>';
@@ -82,22 +127,52 @@
     }
 
     function search() {
-      const source = sourceMode.value;
+      const scope = document.getElementById('scopeSelect').value;
       const startDate = document.getElementById('startDate').value;
       const endDate = document.getElementById('endDate').value;
-      const keywords = document.getElementById('keywords').value.split(',').map(v => v.trim().toLowerCase()).filter(Boolean);
+      const keywords = document.getElementById('keywords').value
+        .split(',')
+        .map(v => v.trim().toLowerCase())
+        .filter(Boolean);
+    
+      const checkedChildren = Array.from(document.querySelectorAll('.child-checkbox:checked'))
+        .map(cb => cb.value);
+    
       let items = [...state.items];
-      if (source !== 'all') items = items.filter(i => i.siteId === source);
-      if (startDate) items = items.filter(i => (i.publishedAt || '') >= startDate);
-      if (endDate) items = items.filter(i => (i.publishedAt || '') <= endDate);
-      if (keywords.length) items = items.filter(i => {
-        const text = `${i.title} ${i.excerpt}`.toLowerCase();
-        return keywords.some(k => text.includes(k));
-      });
+    
+      if (scope !== 'all') {
+        const group = state.groups.find(g => g.groupId === scope);
+    
+        if (group) {
+          const enabledChildren = group.children
+            .filter(child => child.enabled !== false)
+            .map(child => child.id);
+    
+          const targetIds = checkedChildren.length ? checkedChildren : enabledChildren;
+          items = items.filter(i => targetIds.includes(i.siteId));
+        }
+      }
+    
+      if (startDate) {
+        items = items.filter(i => (i.publishedAt || '') >= startDate);
+      }
+    
+      if (endDate) {
+        items = items.filter(i => (i.publishedAt || '') <= endDate);
+      }
+    
+      if (keywords.length) {
+        items = items.filter(i => {
+          const text = `${i.title} ${i.excerpt}`.toLowerCase();
+          return keywords.some(k => text.includes(k));
+        });
+      }
+    
       render(items);
     }
 
     document.getElementById('searchBtn').addEventListener('click', search);
+    document.getElementById('scopeSelect').addEventListener('change', renderChildOptions);
     init().catch(err => {
       statusEl.textContent = '載入失敗，請確認 sites.json 與 data/latest.json 已部署。';
       resultsEl.innerHTML = `<div class="item">${err.message}</div>`;
