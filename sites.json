@@ -13,6 +13,36 @@
         "rssUrl": "http://www.fda.gov/AboutFDA/ContactFDA/StayInformed/RSSFeeds/MedWatch/rss.xml",
         "enabled": true,
         "tags": ["safety", "drug", "device"]
+      },
+      {
+        "id": "fda-press-releases",
+        "name": "Press Releases",
+        "region": "US",
+        "type": "rss",
+        "baseUrl": "https://www.fda.gov/about-fda/contact-fda/subscribe-podcasts-and-news-feeds",
+        "rssUrl": "",
+        "enabled": true,
+        "tags": ["press", "agency"]
+      },
+      {
+        "id": "fda-recalls",
+        "name": "Recalls",
+        "region": "US",
+        "type": "rss",
+        "baseUrl": "https://www.fda.gov/about-fda/contact-fda/subscribe-podcasts-and-news-feeds",
+        "rssUrl": "",
+        "enabled": false,
+        "tags": ["recall", "safety"]
+      },
+      {
+        "id": "fda-whats-new-drugs",
+        "name": "What's New: Drugs",
+        "region": "US",
+        "type": "rss",
+        "baseUrl": "https://www.fda.gov/about-fda/contact-fda/subscribe-podcasts-and-news-feeds",
+        "rssUrl": "",
+        "enabled": false,
+        "tags": ["drug"]
       }
     ]
   }
