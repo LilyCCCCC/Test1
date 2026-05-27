@@ -78,6 +78,33 @@
         hour12: false,
         timeZone: 'Asia/Taipei'
       });
+
+    }
+
+function toDateInputValue(date) {
+  const yyyy = date.getFullYear();
+  const mm = String(date.getMonth() + 1).padStart(2, '0');
+  const dd = String(date.getDate()).padStart(2, '0');
+  return `${yyyy}-${mm}-${dd}`;
+}
+
+function setDefaultDates() {
+  const startDateEl = document.getElementById('startDate');
+  const endDateEl = document.getElementById('endDate');
+
+  const today = new Date();
+  const sevenDaysAgo = new Date();
+  sevenDaysAgo.setDate(today.getDate() - 7);
+
+  if (!endDateEl.value) {
+    endDateEl.value = toDateInputValue(today);
+  }
+
+  if (!startDateEl.value) {
+    startDateEl.value = toDateInputValue(sevenDaysAgo);
+  }
+}
+      
     }
   
     function updateStatus(data) {
@@ -105,6 +132,7 @@
   
       renderScopeOptions();
       renderChildOptions();
+      setDefaultDates();
       updateStatus(data);
       updateSearchSummary(state.items.length);
       render(state.items);
