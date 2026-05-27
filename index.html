@@ -44,12 +44,16 @@
         <div id="childSourceList"></div>
       </div>
     </div>
-    <div style="margin-top:12px"><button id="searchBtn">搜尋</button></div>
+    <div style="margin-top:12px;display:flex;gap:10px;flex-wrap:wrap">
+      <button id="searchBtn">搜尋</button>
+      <button id="reloadBtn" type="button" style="background:#555">重新載入最新資料</button>
+    </div>
   </section>
 
   <section class="panel">
     <div class="muted" id="status">載入中...</div>
-    <div class="results" id="results"></div>
+    <div class="muted" id="searchSummary" style="margin-top:6px"></div>
+    <div class="results" id="results" style="margin-top:12px"></div>
   </section>
 
   <script>
@@ -57,51 +61,77 @@
     const scopeSelect = document.getElementById('scopeSelect');
     const statusEl = document.getElementById('status');
     const resultsEl = document.getElementById('results');
-
+    const searchSummaryEl = document.getElementById('searchSummary');
+  
+    function formatDateTime(isoString) {
+      if (!isoString) return 'N/A';
+  
+      const date = new Date(isoString);
+  
+      return date.toLocaleString('zh-TW', {
+        year: 'numeric',
+        month: '2-digit',
+        day: '2-digit',
+        hour: '2-digit',
+        minute: '2-digit',
+        second: '2-digit',
+        hour12: false,
+        timeZone: 'Asia/Taipei'
+      });
+    }
+  
+    function updateStatus(data) {
+      const prettyTime = formatDateTime(data.generatedAt);
+      statusEl.textContent = `最新更新：${prettyTime}（台灣時間）｜資料總筆數：${data.count || 0} 筆`;
+    }
+  
+    function updateSearchSummary(count) {
+      searchSummaryEl.textContent = `目前這個搜尋條件共找到 ${count} 筆結果。`;
+    }
+  
     async function init() {
       const ts = Date.now();
-    
+  
       const [sitesRes, dataRes] = await Promise.all([
         fetch(`./sites.json?t=${ts}`, { cache: 'no-store' }),
         fetch(`./data/latest.json?t=${ts}`, { cache: 'no-store' })
       ]);
-      
+  
       const groups = await sitesRes.json();
       const data = await dataRes.json();
-      
+  
       state.groups = groups.filter(g => g.enabled !== false);
       state.items = data.items || [];
-    
+  
       renderScopeOptions();
       renderChildOptions();
-      
-      statusEl.textContent = `最新更新：${data.generatedAt || 'N/A'}；共 ${data.count || 0} 筆`;
+      updateStatus(data);
+      updateSearchSummary(state.items.length);
       render(state.items);
     }
-
+  
     function renderScopeOptions() {
-      const scopeSelect = document.getElementById('scopeSelect');
       scopeSelect.innerHTML =
         '<option value="all">全部來源</option>' +
         state.groups.map(g => `<option value="${g.groupId}">${g.groupName}</option>`).join('');
     }
-    
+  
     function renderChildOptions() {
-      const scope = document.getElementById('scopeSelect').value;
+      const scope = scopeSelect.value;
       const childSourceList = document.getElementById('childSourceList');
-    
+  
       if (scope === 'all') {
         childSourceList.innerHTML = '<div class="muted">目前為全部來源模式，不需勾選子來源。</div>';
         return;
       }
-    
+  
       const group = state.groups.find(g => g.groupId === scope);
-    
+  
       if (!group) {
         childSourceList.innerHTML = '';
         return;
       }
-    
+  
       childSourceList.innerHTML = group.children
         .filter(child => child.enabled !== false)
         .map(child => `
@@ -111,13 +141,13 @@
           </label>
         `).join('');
     }
-    
-    
+  
     function render(items) {
       if (!items.length) {
         resultsEl.innerHTML = '<div class="item">沒有符合條件的資料。</div>';
         return;
       }
+  
       resultsEl.innerHTML = items.map(item => `
         <article class="item">
           <h3>${item.title}</h3>
@@ -127,55 +157,80 @@
         </article>
       `).join('');
     }
-
+  
     function search() {
-      const scope = document.getElementById('scopeSelect').value;
+      const scope = scopeSelect.value;
       const startDate = document.getElementById('startDate').value;
       const endDate = document.getElementById('endDate').value;
       const keywords = document.getElementById('keywords').value
         .split(',')
         .map(v => v.trim().toLowerCase())
         .filter(Boolean);
-    
+  
       const checkedChildren = Array.from(document.querySelectorAll('.child-checkbox:checked'))
         .map(cb => cb.value);
-    
+  
       let items = [...state.items];
-    
+  
       if (scope !== 'all') {
         const group = state.groups.find(g => g.groupId === scope);
-    
+  
         if (group) {
           const enabledChildren = group.children
             .filter(child => child.enabled !== false)
             .map(child => child.id);
-    
+  
           const targetIds = checkedChildren.length ? checkedChildren : enabledChildren;
           items = items.filter(i => targetIds.includes(i.siteId));
         }
       }
-    
+  
       if (startDate) {
         items = items.filter(i => (i.publishedAt || '') >= startDate);
       }
-    
+  
       if (endDate) {
         items = items.filter(i => (i.publishedAt || '') <= endDate);
       }
-    
+  
       if (keywords.length) {
         items = items.filter(i => {
-          const text = `${i.title} ${i.excerpt}`.toLowerCase();
+          const text = `${itemText(i.title)} ${itemText(i.excerpt)}`;
           return keywords.some(k => text.includes(k));
         });
       }
-    
+  
+      updateSearchSummary(items.length);
       render(items);
     }
-
+  
+    function itemText(value) {
+      return (value || '').toLowerCase();
+    }
+  
     document.getElementById('searchBtn').addEventListener('click', search);
-    document.getElementById('scopeSelect').addEventListener('change', renderChildOptions);
-    init().catch(err => {
+  
+    scopeSelect.addEventListener('change', () => {
+      renderChildOptions();
+      search();
+    });
+  
+    document.getElementById('reloadBtn').addEventListener('click', async () => {
+      statusEl.textContent = '重新載入最新資料中...';
+      searchSummaryEl.textContent = '';
+  
+      try {
+        await init();
+        search();
+      } catch (err) {
+        statusEl.textContent = '重新載入失敗，請稍後再試。';
+        resultsEl.innerHTML = `<div class="item">${err.message}</div>`;
+      }
+    });
+  
+    init().then(() => {
+      search();
+    }).catch(err => {
       statusEl.textContent = '載入失敗，請確認 sites.json 與 data/latest.json 已部署。';
       resultsEl.innerHTML = `<div class="item">${err.message}</div>`;
     });
