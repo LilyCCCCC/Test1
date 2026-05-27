@@ -163,9 +163,10 @@
         "rssUrl": "",
         "enabled": false,
         "tags": ["vaccines", "blood", "biologics"]
-      },
-
-      {
+      }
+    ]
+  },
+  {
     "groupId": "ema",
     "groupName": "EMA",
     "enabled": false,
