@@ -169,7 +169,7 @@
   {
     "groupId": "ema",
     "groupName": "EMA",
-    "enabled": false,
+    "enabled": true,
     "children": [
       {
         "id": "ema-whats-new",
