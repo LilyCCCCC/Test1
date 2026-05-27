@@ -10,11 +10,25 @@
     .grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px;box-sizing:border-box}.full{grid-column:1/-1}
     input,select{width:100%;padding:10px;border:1px solid #ccc;border-radius:8px;box-sizing:border-box}.results{display:grid;gap:12px}.item{border:1px solid #ddd;border-radius:10px;padding:14px;background:#fafafa}
     .meta{font-size:14px;color:#666;margin:6px 0 10px} button{padding:10px 16px;border:0;border-radius:999px;background:#0b6b70;color:#fff;cursor:pointer}
+    button:hover{background:#084d51;transition:background 0.2s}
     #childSourceList{display:grid;grid-template-columns:repeat(2,1fr);gap:8px;margin-top:8px}.child-option{display:flex;align-items:center;gap:8px;padding:6px 8px;border:1px solid #ddd;border-radius:6px}
     .child-controls{display:flex;gap:10px;margin-top:8px;margin-bottom:8px;flex-wrap:wrap}.child-controls button{padding:6px 12px;font-size:13px}
     .excerpt{background:#f0f8fa;border-left:4px solid #0b6b70;padding:10px 12px;margin:10px 0;border-radius:4px;font-size:14px;line-height:1.6;color:#333}
     .excerpt-label{font-size:12px;color:#0b6b70;font-weight:bold;margin-bottom:6px;text-transform:uppercase}
     a{color:#0b6b70;text-decoration:none}a:hover{text-decoration:underline}
+    .expand-btn{background:#0b6b70;padding:8px 14px;font-size:13px;margin-top:8px}
+    .item-actions{margin-top:10px;display:flex;gap:8px;flex-wrap:wrap}
+    .expanded-content{background:#f5f5f5;border:1px solid #ddd;border-radius:8px;margin-top:12px;padding:14px;max-height:0;overflow:hidden;transition:max-height 0.3s ease-out}
+    .expanded-content.active{max-height:2000px;transition:max-height 0.5s ease-in}
+    .analysis-section{margin:12px 0;padding:0}
+    .analysis-title{font-size:13px;font-weight:bold;color:#0b6b70;text-transform:uppercase;margin:10px 0 8px;display:flex;align-items:center;gap:6px}
+    .analysis-content{font-size:13px;line-height:1.7;color:#333}
+    .analysis-content ul{margin:6px 0;padding-left:20px}
+    .analysis-content li{margin:4px 0}
+    .source-info{font-size:12px;color:#999;margin-top:10px;padding-top:10px;border-top:1px solid #ddd}
+    .loading{color:#0b6b70;font-style:italic}
+    .error{color:#d9534f;background:#f2dede;padding:10px;border-radius:4px;margin:10px 0}
+    .success{color:#31708f;background:#d9edf7;padding:10px;border-radius:4px;margin:10px 0}
     @media(max-width:800px){.grid{grid-template-columns:1fr}#childSourceList{grid-template-columns:1fr}}
   </style>
 </head>
@@ -86,34 +100,32 @@
         hour12: false,
         timeZone: 'Asia/Taipei'
       });
-
     }
 
-function toDateInputValue(date) {
-  const yyyy = date.getFullYear();
-  const mm = String(date.getMonth() + 1).padStart(2, '0');
-  const dd = String(date.getDate()).padStart(2, '0');
-  return `${yyyy}-${mm}-${dd}`;
-}
+    function toDateInputValue(date) {
+      const yyyy = date.getFullYear();
+      const mm = String(date.getMonth() + 1).padStart(2, '0');
+      const dd = String(date.getDate()).padStart(2, '0');
+      return `${yyyy}-${mm}-${dd}`;
+    }
 
-function setDefaultDates() {
-  const startDateEl = document.getElementById('startDate');
-  const endDateEl = document.getElementById('endDate');
+    function setDefaultDates() {
+      const startDateEl = document.getElementById('startDate');
+      const endDateEl = document.getElementById('endDate');
 
-  const today = new Date();
-  const sevenDaysAgo = new Date();
-  sevenDaysAgo.setDate(today.getDate() - 7);
+      const today = new Date();
+      const sevenDaysAgo = new Date();
+      sevenDaysAgo.setDate(today.getDate() - 7);
 
-  if (!endDateEl.value) {
-    endDateEl.value = toDateInputValue(today);
-  }
+      if (!endDateEl.value) {
+        endDateEl.value = toDateInputValue(today);
+      }
 
-  if (!startDateEl.value) {
-    startDateEl.value = toDateInputValue(sevenDaysAgo);
-  }
-}
+      if (!startDateEl.value) {
+        startDateEl.value = toDateInputValue(sevenDaysAgo);
+      }
+    }
     
-  
     function updateStatus(data) {
       const prettyTime = formatDateTime(data.generatedAt);
       statusEl.textContent = `最新更新：${prettyTime}（台灣時間）｜資料總筆數：${data.count || 0} 筆`;
@@ -184,8 +196,127 @@ function setDefaultDates() {
 
     function cleanExcerpt(excerpt) {
       if (!excerpt) return '';
-      // 移除末尾的 [...] 並修剪空白
       return excerpt.replace(/\[\.\.\.\]\s*$/, '').trim();
+    }
+
+    function extractKeyPoints(text) {
+      if (!text) return [];
+      
+      // 分割段落
+      const paragraphs = text.split(/[\n\r]+/).filter(p => p.trim().length > 10);
+      
+      // 提取前 3-5 個最長且包含關鍵詞的段落
+      const keyPoints = paragraphs
+        .map(p => p.trim())
+        .filter(p => p.length > 20 && !p.match(/^(http|www)/i))
+        .slice(0, 5);
+      
+      return keyPoints;
+    }
+
+    function extractConclusion(text) {
+      if (!text) return '';
+      
+      const lines = text.split(/[\n\r]+/).filter(p => p.trim().length > 0);
+      
+      // 找結論相關的段落（通常在最後）
+      for (let i = lines.length - 1; i >= Math.max(0, lines.length - 5); i--) {
+        if (lines[i].length > 20) {
+          return lines[i].trim();
+        }
+      }
+      
+      return lines[Math.floor(lines.length / 2)]?.trim() || '內容已爬取';
+    }
+
+    async function fetchAndAnalyze(url, itemId) {
+      const expandedDiv = document.getElementById(`expanded-${itemId}`);
+      const contentDiv = document.getElementById(`content-${itemId}`);
+      
+      try {
+        contentDiv.innerHTML = '<div class="loading">正在爬取內容...</div>';
+        
+        // 使用免費代理服務爬取內容
+        const proxyUrl = `https://api.allorigins.win/raw?url=${encodeURIComponent(url)}`;
+        const response = await fetch(proxyUrl);
+        
+        if (!response.ok) {
+          throw new Error(`HTTP ${response.status}`);
+        }
+        
+        const html = await response.text();
+        
+        // 移除 script 和 style 標籤
+        const cleaned = html
+          .replace(/<script\b[^<]*(?:(?!<\/script>)<[^<]*)*<\/script>/gi, '')
+          .replace(/<style\b[^<]*(?:(?!<\/style>)<[^<]*)*<\/style>/gi, '')
+          .replace(/<[^>]+>/g, ' ')
+          .replace(/\s+/g, ' ')
+          .trim();
+        
+        if (cleaned.length < 50) {
+          throw new Error('爬取內容過短，可能頁面結構異常');
+        }
+        
+        // 提取重點和結論
+        const keyPoints = extractKeyPoints(cleaned);
+        const conclusion = extractConclusion(cleaned);
+        const fetchTime = formatDateTime(new Date().toISOString());
+        
+        // 生成分析內容
+        let analysisHTML = `
+          <div class="analysis-section">
+            <div class="analysis-title">📖 正文重點</div>
+            <div class="analysis-content">
+              <ul>
+                ${keyPoints.map(point => `<li>${point}</li>`).join('')}
+              </ul>
+            </div>
+          </div>
+          
+          <div class="analysis-section">
+            <div class="analysis-title">💡 結論</div>
+            <div class="analysis-content">
+              ${conclusion}
+            </div>
+          </div>
+          
+          <div class="source-info">
+            <strong>原文來源：</strong> <a href="${url}" target="_blank" rel="noopener noreferrer">${url.substring(0, 60)}...</a><br>
+            <strong>爬取時間：</strong> ${fetchTime}
+          </div>
+        `;
+        
+        contentDiv.innerHTML = analysisHTML;
+      } catch (error) {
+        contentDiv.innerHTML = `
+          <div class="error">
+            <strong>❌ 爬取失敗</strong><br>
+            ${error.message}<br>
+            <small>可能原因：網站拒絕爬蟲、頁面結構異常或網路問題</small><br>
+            <a href="${url}" target="_blank" rel="noopener noreferrer" style="color:#d9534f;text-decoration:underline">點此直接開啟原文</a>
+          </div>
+        `;
+      }
+      
+      expandedDiv.classList.add('active');
+    }
+
+    function toggleExpand(itemId) {
+      const expandedDiv = document.getElementById(`expanded-${itemId}`);
+      const contentDiv = document.getElementById(`content-${itemId}`);
+      
+      if (expandedDiv.classList.contains('active')) {
+        expandedDiv.classList.remove('active');
+      } else {
+        if (!contentDiv.dataset.loaded) {
+          const url = contentDiv.dataset.url;
+          contentDiv.dataset.loaded = 'true';
+          fetchAndAnalyze(url, itemId);
+        } else {
+          expandedDiv.classList.add('active');
+        }
+      }
     }
   
     function render(items) {
@@ -194,8 +325,9 @@ function setDefaultDates() {
         return;
       }
   
-      resultsEl.innerHTML = items.map(item => {
+      resultsEl.innerHTML = items.map((item, index) => {
         const cleanedExcerpt = cleanExcerpt(item.excerpt);
+        const itemId = `item-${index}-${Date.now()}`;
         return `
           <article class="item">
             <h3>${item.title}</h3>
@@ -206,7 +338,16 @@ function setDefaultDates() {
                 <p>${cleanedExcerpt}</p>
               </div>
             ` : ''}
-            <a href="${item.url}" target="_blank" rel="noopener noreferrer">開啟原文 →</a>
+            <div class="item-actions">
+              <button class="expand-btn" onclick="toggleExpand('${itemId}')">📖 展開全文分析</button>
+              <a href="${item.url}" target="_blank" rel="noopener noreferrer" style="padding:8px 14px;background:#999;color:white;border-radius:999px;text-decoration:none;font-size:13px;display:inline-block">🔗 開啟原文</a>
+            </div>
+            <div id="expanded-${itemId}" class="expanded-content">
+              <div class="analysis-section" style="margin-top:0">
+                <div class="analysis-title">📰 文章分析</div>
+              </div>
+              <div id="content-${itemId}" class="analysis-content" data-url="${item.url}"></div>
+            </div>
           </article>
         `;
       }).join('');
