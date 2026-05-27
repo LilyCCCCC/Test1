@@ -1,0 +1,12 @@
+[
+  {
+    "id": "fda-medwatch",
+    "name": "FDA MedWatch",
+    "region": "US",
+    "baseUrl": "https://www.fda.gov/safety/medwatch-fda-safety-information-and-adverse-event-reporting-program/medwatch-rss-feed",
+    "type": "rss",
+    "rssUrl": "http://www.fda.gov/AboutFDA/ContactFDA/StayInformed/RSSFeeds/MedWatch/rss.xml",
+    "enabled": true,
+    "tags": ["safety", "drug", "device"]
+  }
+]
