@@ -318,7 +318,7 @@
           <p>${escapeHtml(item.excerpt || '')}</p>
           <div class="item-actions">
             <a class="link-btn" href="${escapeHtml(item.url || '#')}" target="_blank" rel="noopener noreferrer">開啟原文</a>
-            <button type="button" class="save-btn ${saved ? 'saved' : ''}" onclick="${saved ? `toggleDone(${JSON.stringify(item.url || '')})` : `saveItemByUrl(${JSON.stringify(item.url || '')})`}">${saved ? '已收藏' : '收藏'}</button>
+            <button type="button" class="save-btn ${saved ? 'saved' : ''}" data-url="${escapeHtml(item.url || '')}">${saved ? '已收藏' : '收藏'}</button>
           </div>
         </article>`;
       }).join('');
@@ -414,19 +414,28 @@
       URL.revokeObjectURL(a.href);
     });
 
-    const toggleSavedBtn = document.getElementById('toggleSavedBtn');
-    if (toggleSavedBtn) {
-      toggleSavedBtn.addEventListener('click', () => {
-        const panel = document.getElementById('savedPanel');
-        panel.open = !panel.open;
-      });
-    }
+    document.getElementById('toggleSavedBtn').addEventListener('click', () => {
+      const panel = document.getElementById('savedPanel');
+      panel.open = !panel.open;
+    });
 
     document.getElementById('clearSavedBtn').addEventListener('click', () => {
       if (!confirm('確定要清空 inbox 嗎？')) return;
       setSavedItems([]);
       renderSavedItems();
       search();
+    });
+
+    document.addEventListener('click', (e) => {
+      const btn = e.target.closest('.save-btn[data-url]');
+      if (!btn) return;
+      const url = btn.dataset.url;
+      if (!url) return;
+      if (btn.classList.contains('saved')) {
+        toggleDone(url);
+      } else {
+        saveItemByUrl(url);
+      }
     });
 
     init().then(() => {
