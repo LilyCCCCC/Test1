@@ -2,7 +2,7 @@ name: Hourly regulatory updates
 
 on:
   schedule:
-    - cron: '*/5 * * * *'
+    - cron: '23 * * * *'
   workflow_dispatch:
 
 permissions:
