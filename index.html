@@ -210,8 +210,8 @@
           <p>${escapeHtml(item.excerpt || '')}</p>
           <div class="item-actions">
             <a class="link-btn" href="${escapeHtml(item.url || '#')}" target="_blank" rel="noopener noreferrer">開啟原文</a>
-            <button type="button" class="save-btn ${item.done ? 'saved' : ''}" onclick="toggleDone(${JSON.stringify(item.url || '')})">${item.done ? '移回 Inbox' : '標記完成'}</button>
-            <button type="button" class="save-btn" onclick="removeSavedItem(${JSON.stringify(item.url || '')})">移除</button>
+            <button type="button" class="save-btn ${item.done ? 'saved' : ''}" data-done-url="${escapeHtml(item.url || '')}">${item.done ? '移回 Inbox' : '標記完成'}</button>
+            <button type="button" class="save-btn" data-remove-url="${escapeHtml(item.url || '')}">移除</button>
           </div>
           <div class="saved-note">
             <label>Review 備註</label>
@@ -427,14 +427,29 @@
     });
 
     document.addEventListener('click', (e) => {
-      const btn = e.target.closest('.save-btn[data-url]');
-      if (!btn) return;
-      const url = btn.dataset.url;
-      if (!url) return;
-      if (btn.classList.contains('saved')) {
-        toggleDone(url);
-      } else {
-        saveItemByUrl(url);
+      const saveBtn = e.target.closest('.save-btn[data-url]');
+      if (saveBtn) {
+        const url = saveBtn.dataset.url;
+        if (!url) return;
+        if (saveBtn.classList.contains('saved')) {
+          toggleDone(url);
+        } else {
+          saveItemByUrl(url);
+        }
+        return;
+      }
+
+      const doneBtn = e.target.closest('[data-done-url]');
+      if (doneBtn) {
+        const url = doneBtn.dataset.doneUrl;
+        if (url) toggleDone(url);
+        return;
+      }
+
+      const removeBtn = e.target.closest('[data-remove-url]');
+      if (removeBtn) {
+        const url = removeBtn.dataset.removeUrl;
+        if (url) removeSavedItem(url);
       }
     });
 
