@@ -18,7 +18,9 @@
     .child-controls{display:flex;gap:10px;margin-top:8px;margin-bottom:8px;flex-wrap:wrap}.child-controls button{padding:6px 12px;font-size:13px}
     .item-actions{display:flex;gap:10px;flex-wrap:wrap;margin-top:10px;align-items:center}
     .link-btn{display:inline-block;padding:10px 16px;border-radius:999px;background:#0b6b70;color:#fff;text-decoration:none}
-    .secondary-btn{background:#555}.danger-btn{background:#8b1e3f}
+    .secondary-btn{background:#e5e7eb;color:#374151}.danger-btn{background:#e5e7eb;color:#374151}.light-btn{background:#e5e7eb;color:#374151}
+    .save-btn{background:#e5e7eb;color:#374151;font-size:12px;padding:6px 10px;border-radius:999px}
+    .save-btn.saved{background:#d1d5db;color:#111827}
     .saved-note{margin-top:10px}
     details.panel summary::-webkit-details-marker{display:none}
     details.panel[open] summary{margin-bottom:8px}
@@ -65,14 +67,19 @@
   </section>
 
   <details class="panel" id="savedPanel" style="margin-top:16px">
-    <summary style="cursor:pointer;list-style:none">
-      <h2 style="display:inline;margin:0">我的收藏 / Review list</h2>
-      <span class="muted" style="margin-left:10px">點一下展開/收合</span>
+    <summary style="cursor:pointer;list-style:none;display:block">
+      <div style="display:flex;justify-content:space-between;align-items:center;gap:12px;flex-wrap:wrap">
+        <div>
+          <h2 style="display:inline;margin:0">我的收藏 / Review list</h2>
+          <span class="muted" style="margin-left:10px;font-size:12px">點一下展開/收合</span>
+        </div>
+        <button id="toggleSavedBtn" type="button" class="light-btn" style="font-size:12px;padding:6px 10px;background:#e5e7eb;color:#374151">收藏區</button>
+      </div>
     </summary>
     <p class="muted">收藏後會先進入 inbox，方便之後 review、分類、加註記。資料保存在目前瀏覽器。</p>
     <div style="margin-top:12px;display:flex;gap:10px;flex-wrap:wrap">
-      <button id="exportSavedBtn" type="button" class="secondary-btn">匯出收藏 JSON</button>
-      <button id="clearSavedBtn" type="button" class="danger-btn">清空 inbox</button>
+      <button id="exportSavedBtn" type="button" class="secondary-btn" style="font-size:12px;padding:6px 10px;background:#e5e7eb;color:#374151">匯出收藏 JSON</button>
+      <button id="clearSavedBtn" type="button" class="danger-btn" style="font-size:12px;padding:6px 10px;background:#e5e7eb;color:#374151">清空 inbox</button>
     </div>
     <div class="results" id="savedResults" style="margin-top:12px"></div>
   </details>
@@ -203,8 +210,8 @@
           <p>${escapeHtml(item.excerpt || '')}</p>
           <div class="item-actions">
             <a class="link-btn" href="${escapeHtml(item.url || '#')}" target="_blank" rel="noopener noreferrer">開啟原文</a>
-            <button type="button" class="${item.done ? 'secondary-btn' : 'danger-btn'}" onclick="toggleDone(${JSON.stringify(item.url || '')})">${item.done ? '移回 Inbox' : '標記完成'}</button>
-            <button type="button" class="danger-btn" onclick="removeSavedItem(${JSON.stringify(item.url || '')})">移除</button>
+            <button type="button" class="save-btn ${item.done ? 'saved' : ''}" onclick="toggleDone(${JSON.stringify(item.url || '')})">${item.done ? '移回 Inbox' : '標記完成'}</button>
+            <button type="button" class="save-btn" onclick="removeSavedItem(${JSON.stringify(item.url || '')})">移除</button>
           </div>
           <div class="saved-note">
             <label>Review 備註</label>
@@ -311,7 +318,7 @@
           <p>${escapeHtml(item.excerpt || '')}</p>
           <div class="item-actions">
             <a class="link-btn" href="${escapeHtml(item.url || '#')}" target="_blank" rel="noopener noreferrer">開啟原文</a>
-            <button type="button" class="${saved ? 'secondary-btn' : ''}" onclick="${saved ? `toggleDone(${JSON.stringify(item.url || '')})` : `saveItemByUrl(${JSON.stringify(item.url || '')})`}">${saved ? '移到 Inbox/完成' : '收藏'}</button>
+            <button type="button" class="save-btn ${saved ? 'saved' : ''}" onclick="${saved ? `toggleDone(${JSON.stringify(item.url || '')})` : `saveItemByUrl(${JSON.stringify(item.url || '')})`}">${saved ? '已收藏' : '收藏'}</button>
           </div>
         </article>`;
       }).join('');
@@ -406,6 +413,14 @@
       a.click();
       URL.revokeObjectURL(a.href);
     });
+
+    const toggleSavedBtn = document.getElementById('toggleSavedBtn');
+    if (toggleSavedBtn) {
+      toggleSavedBtn.addEventListener('click', () => {
+        const panel = document.getElementById('savedPanel');
+        panel.open = !panel.open;
+      });
+    }
 
     document.getElementById('clearSavedBtn').addEventListener('click', () => {
       if (!confirm('確定要清空 inbox 嗎？')) return;
