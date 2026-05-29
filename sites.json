@@ -356,6 +356,46 @@
         "rssUrl": "https://www.pmda.go.jp/rss_011.xml",
         "enabled": true,
         "tags": ["news", "reviews", "announcements"]
+      },
+      {
+        "id": "safety-measures",
+        "name": "Safety Measures",
+        "region": "JP",
+        "type": "rss",
+        "baseUrl": "https://www.pmda.go.jp/english/index.html",
+        "rssUrl": "https://www.pmda.go.jp/rss_013.xml",
+        "enabled": true,
+        "tags": ["news", "safety", "announcements"]
+      },
+      {
+        "id": "services-for-healtheffects",
+        "name": "Services for HealthEffects",
+        "region": "JP",
+        "type": "rss",
+        "baseUrl": "https://www.pmda.go.jp/english/index.html",
+        "rssUrl": "https://www.pmda.go.jp/rss_014.xml",
+        "enabled": true,
+        "tags": ["news", "services", "announcements"]
+      },
+      {
+        "id": "rs-standard-development-jp",
+        "name": "RS / Standard Development / JP",
+        "region": "JP",
+        "type": "rss",
+        "baseUrl": "https://www.pmda.go.jp/english/index.html",
+        "rssUrl": "https://www.pmda.go.jp/rss_012.xml",
+        "enabled": true,
+        "tags": ["news", "standard", "announcements"]
+      },
+      {
+        "id": "international-activities",
+        "name": "International Activities",
+        "region": "JP",
+        "type": "rss",
+        "baseUrl": "https://www.pmda.go.jp/english/index.html",
+        "rssUrl": "https://www.pmda.go.jp/rss_009.xml",
+        "enabled": true,
+        "tags": ["news", "international", "announcements"]
       }
     ]
   }
