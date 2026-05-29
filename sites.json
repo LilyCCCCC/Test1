@@ -266,7 +266,7 @@
         "type": "rss",
         "baseUrl": "https://www.fda.gov.tw/tc/rss.aspx",
         "rssUrl": "https://www.fda.gov.tw/tc/rssAnnouncement.ashx",
-        "enabled": ture,
+        "enabled": true,
         "tags": ["updates", "website", "overview"]
       },
       {
