@@ -253,4 +253,33 @@
       }
     ]
   }
+
+{
+    "groupId": "tfda",
+    "groupName": "TFDA",
+    "enabled": true,
+    "children": [
+      {
+        "id": "notice-from-tfda",
+        "name": "公告",
+        "region": "TW",
+        "type": "rss",
+        "baseUrl": "https://www.fda.gov.tw/tc/rss.aspx",
+        "rssUrl": "",
+        "enabled": false,
+        "tags": ["updates", "website", "overview"]
+      },
+      {
+        "id": "tfda-news-and-press-releases",
+        "name": "新聞",
+        "region": "TW",
+        "type": "rss",
+        "baseUrl": "https://www.fda.gov.tw/tc/rss.aspx",
+        "rssUrl": "",
+        "enabled": false,
+        "tags": ["news", "press releases", "announcements"]
+      }
+    ]
+  }
+  
 ]
