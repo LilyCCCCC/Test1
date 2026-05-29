@@ -157,8 +157,8 @@
         "region": "EU",
         "type": "rss",
         "baseUrl": "https://www.ema.europa.eu/en/news-events/rss-feeds",
-        "rssUrl": "",
-        "enabled": false,
+        "rssUrl": "https://www.ema.europa.eu/en/news.xml",
+        "enabled": true,
         "tags": ["news", "press releases", "announcements"]
       },
       {
@@ -167,8 +167,8 @@
         "region": "EU",
         "type": "rss",
         "baseUrl": "https://www.ema.europa.eu/en/news-events/rss-feeds",
-        "rssUrl": "",
-        "enabled": false,
+        "rssUrl": "https://www.ema.europa.eu/en/regulatory-and-procedural-guideline.xml",
+        "enabled": true,
         "tags": ["guidelines", "regulatory", "procedural"]
       },
       {
@@ -177,8 +177,8 @@
         "region": "EU",
         "type": "rss",
         "baseUrl": "https://www.ema.europa.eu/en/news-events/rss-feeds",
-        "rssUrl": "",
-        "enabled": false,
+        "rssUrl": "https://www.ema.europa.eu/en/scientific-guidelines.xml",
+        "enabled": true,
         "tags": ["guidelines", "scientific", "technical"]
       },
       {
@@ -187,8 +187,8 @@
         "region": "EU",
         "type": "rss",
         "baseUrl": "https://www.ema.europa.eu/en/news-events/rss-feeds",
-        "rssUrl": "",
-        "enabled": false,
+        "rssUrl": "https://www.ema.europa.eu/en/eurd-list.xml",
+        "enabled": true,
         "tags": ["EURD", "pharmacovigilance", "PSUR"]
       },
       {
@@ -197,8 +197,8 @@
         "region": "EU",
         "type": "rss",
         "baseUrl": "https://www.ema.europa.eu/en/news-events/rss-feeds",
-        "rssUrl": "",
-        "enabled": false,
+        "rssUrl": "https://www.ema.europa.eu/en/human-medicine-new.xml",
+        "enabled": true,
         "tags": ["human medicines", "EPAR", "summaries of opinion"]
       },
       {
@@ -207,8 +207,8 @@
         "region": "EU",
         "type": "rss",
         "baseUrl": "https://www.ema.europa.eu/en/news-events/rss-feeds",
-        "rssUrl": "",
-        "enabled": false,
+        "rssUrl": "https://www.ema.europa.eu/en/orphan.xml",
+        "enabled": true,
         "tags": ["orphan", "designation", "rare disease"]
       },
       {
@@ -217,8 +217,8 @@
         "region": "EU",
         "type": "rss",
         "baseUrl": "https://www.ema.europa.eu/en/news-events/rss-feeds",
-        "rssUrl": "",
-        "enabled": false,
+        "rssUrl": "https://www.ema.europa.eu/en/withdrawn-applications.xml",
+        "enabled": true,
         "tags": ["withdrawn", "applications", "marketing authorisation"]
       },
       {
@@ -227,8 +227,8 @@
         "region": "EU",
         "type": "rss",
         "baseUrl": "https://www.ema.europa.eu/en/news-events/rss-feeds",
-        "rssUrl": "",
-        "enabled": false,
+        "rssUrl": "https://www.ema.europa.eu/en/public-consultations.xml",
+        "enabled": true,
         "tags": ["consultation", "draft", "public comments"]
       },
       {
@@ -237,8 +237,8 @@
         "region": "EU",
         "type": "rss",
         "baseUrl": "https://www.ema.europa.eu/en/news-events/rss-feeds",
-        "rssUrl": "",
-        "enabled": false,
+        "rssUrl": "https://www.ema.europa.eu/en/inspections.xml",
+        "enabled": true,
         "tags": ["inspections", "GMP", "compliance"]
       },
       {
@@ -247,8 +247,8 @@
         "region": "EU",
         "type": "rss",
         "baseUrl": "https://www.ema.europa.eu/en/news-events/rss-feeds",
-        "rssUrl": "",
-        "enabled": false,
+        "rssUrl": "https://www.ema.europa.eu/en/new-human-medicine-new.xml",
+        "enabled": true,
         "tags": ["newsletter", "human medicines", "highlights"]
       }
     ]
