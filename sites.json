@@ -275,9 +275,59 @@
         "region": "TW",
         "type": "rss",
         "baseUrl": "https://www.fda.gov.tw/tc/rss.aspx",
-        "rssUrl": "",
-        "enabled": false,
+        "rssUrl": "https://www.fda.gov.tw/tc/rssNews.ashx",
+        "enabled": true,
         "tags": ["news", "press releases", "announcements"]
+      },
+      {
+        "id": "medicines-medical-devices-and-cosmetics",
+        "name": "藥品、醫療器材及化粧品類",
+        "region": "TW",
+        "type": "rss",
+        "baseUrl": "https://www.fda.gov.tw/tc/rss.aspx",
+        "rssUrl": "https://www.fda.gov.tw/tc/rssLawMedical.ashx",
+        "enabled": true,
+        "tags": ["regulations", "notice", "announcements"]
+      },
+      {
+        "id": "controlled-drugs",
+        "name": "管制藥品類",
+        "region": "TW",
+        "type": "rss",
+        "baseUrl": "https://www.fda.gov.tw/tc/rss.aspx",
+        "rssUrl": "https://www.fda.gov.tw/tc/rssLawControlled.ashx",
+        "enabled": true,
+        "tags": ["regulations", "notice", "announcements"]
+      },
+      {
+        "id": "light-drugs",
+        "name": "消費紅綠燈-國際藥品",
+        "region": "TW",
+        "type": "rss",
+        "baseUrl": "https://www.fda.gov.tw/tc/rss.aspx",
+        "rssUrl": "https://www.fda.gov.tw/tc/rssLight_Drug.ashx",
+        "enabled": true,
+        "tags": ["notice", "announcements"]
+      },
+      {
+        "id": "fees-and-other-charges",
+        "name": "規費與其他類",
+        "region": "TW",
+        "type": "rss",
+        "baseUrl": "https://www.fda.gov.tw/tc/rss.aspx",
+        "rssUrl": "https://www.fda.gov.tw/tc/rssLawFees.ashx",
+        "enabled": true,
+        "tags": ["fees", "charges", "others"]
+      },
+      {
+        "id": "legislative-amendments-section",
+        "name": "修法專區",
+        "region": "TW",
+        "type": "rss",
+        "baseUrl": "https://www.fda.gov.tw/tc/rss.aspx",
+        "rssUrl": "https://www.fda.gov.tw/tc/rssLawAmending.ashx",
+        "enabled": true,
+        "tags": ["act", "others"]
       }
     ]
   }
