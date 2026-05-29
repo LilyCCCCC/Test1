@@ -5,6 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Regulatory News</title>
   <style>
+    html{scroll-behavior:smooth}
     body{font-family:Arial,sans-serif;max-width:1100px;margin:0 auto;padding:24px;background:#f8f8f5;color:#222}
     h1{margin-bottom:8px} .muted{color:#666} .panel{background:#fff;border:1px solid #ddd;border-radius:12px;padding:16px;margin:16px 0}
     .grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px;box-sizing:border-box}.full{grid-column:1/-1}
@@ -24,6 +25,8 @@
     .saved-note{margin-top:10px}
     details.panel summary::-webkit-details-marker{display:none}
     details.panel[open] summary{margin-bottom:8px}
+    .floating-btn{position:fixed;right:20px;bottom:20px;z-index:999;border:none;border-radius:999px;padding:10px 14px;background:#0b6b70;color:#fff;box-shadow:0 6px 18px rgba(0,0,0,.15);cursor:pointer}
+    .floating-btn:hover{background:#095b5f}
     @media(max-width:800px){.grid{grid-template-columns:1fr}#childSourceList{grid-template-columns:1fr}}
   </style>
 </head>
@@ -90,6 +93,8 @@
     <div class="results" id="results" style="margin-top:12px"></div>
   </section>
 
+  <button id="scrollToSavedBtn" type="button" class="floating-btn">↑ 收藏頂端</button>
+
   <script>
     const state = { groups: [], items: [] };
     const SAVED_KEY = 'regulatorySavedItems';
@@ -102,16 +107,7 @@
     function formatDateTime(isoString) {
       if (!isoString) return 'N/A';
       const date = new Date(isoString);
-      return date.toLocaleString('zh-TW', {
-        year: 'numeric',
-        month: '2-digit',
-        day: '2-digit',
-        hour: '2-digit',
-        minute: '2-digit',
-        second: '2-digit',
-        hour12: false,
-        timeZone: 'Asia/Taipei'
-      });
+      return date.toLocaleString('zh-TW', { year: 'numeric', month: '2-digit', day: '2-digit', hour: '2-digit', minute: '2-digit', second: '2-digit', hour12: false, timeZone: 'Asia/Taipei' });
     }
 
     function escapeHtml(value) {
@@ -136,7 +132,6 @@
       const today = new Date();
       const sevenDaysAgo = new Date();
       sevenDaysAgo.setDate(today.getDate() - 7);
-
       if (!endDateEl.value) endDateEl.value = toDateInputValue(today);
       if (!startDateEl.value) startDateEl.value = toDateInputValue(sevenDaysAgo);
     }
@@ -158,18 +153,7 @@
       if (!item) return;
       const savedItems = getSavedItems();
       if (savedItems.some(saved => saved.url === item.url)) return;
-      savedItems.unshift({
-        title: item.title || '',
-        url: item.url || '',
-        siteName: item.siteName || '',
-        region: item.region || '',
-        publishedAt: item.publishedAt || '',
-        excerpt: item.excerpt || '',
-        sourceType: item.sourceType || '',
-        savedAt: new Date().toISOString(),
-        note: '',
-        done: false
-      });
+      savedItems.unshift({ title: item.title || '', url: item.url || '', siteName: item.siteName || '', region: item.region || '', publishedAt: item.publishedAt || '', excerpt: item.excerpt || '', sourceType: item.sourceType || '', savedAt: new Date().toISOString(), note: '', done: false });
       setSavedItems(savedItems);
       renderSavedItems();
       search();
@@ -197,12 +181,7 @@
       const savedItems = getSavedItems();
       const inboxItems = savedItems.filter(item => !item.done);
       const archivedItems = savedItems.filter(item => item.done);
-
-      if (!savedItems.length) {
-        savedResultsEl.innerHTML = '<div class="item">目前沒有收藏文章。</div>';
-        return;
-      }
-
+      if (!savedItems.length) { savedResultsEl.innerHTML = '<div class="item">目前沒有收藏文章。</div>'; return; }
       const renderCard = (item) => `
         <article class="item">
           <h3>${escapeHtml(item.title)}</h3>
@@ -218,7 +197,6 @@
             <textarea data-note-url="${escapeHtml(item.url || '')}" placeholder="寫下 review 重點 / 待追蹤事項">${escapeHtml(item.note || '')}</textarea>
           </div>
         </article>`;
-
       savedResultsEl.innerHTML = `
         <div class="panel" style="margin:0;padding:12px;border-radius:10px">
           <h3 style="margin:0 0 8px 0">Inbox</h3>
@@ -230,10 +208,7 @@
           ${archivedItems.length ? archivedItems.map(renderCard).join('') : '<div class="item">Archived 裡目前沒有文章。</div>'}
         </div>
       `;
-
-      document.querySelectorAll('[data-note-url]').forEach(el => {
-        el.addEventListener('change', e => updateSavedNote(e.target.dataset.noteUrl, e.target.value));
-      });
+      document.querySelectorAll('[data-note-url]').forEach(el => { el.addEventListener('change', e => updateSavedNote(e.target.dataset.noteUrl, e.target.value)); });
     }
 
     function updateStatus(data) {
@@ -241,9 +216,7 @@
       statusEl.textContent = `最新更新：${prettyTime}（台灣時間）｜資料總筆數：${data.count || 0} 筆`;
     }
 
-    function updateSearchSummary(count) {
-      searchSummaryEl.textContent = `目前這個搜尋條件共找到 ${count} 筆結果。`;
-    }
+    function updateSearchSummary(count) { searchSummaryEl.textContent = `目前這個搜尋條件共找到 ${count} 筆結果。`; }
 
     async function init() {
       const ts = Date.now();
@@ -251,13 +224,10 @@
         fetch(`./sites.json?t=${ts}`, { cache: 'no-store' }),
         fetch(`./data/latest.json?t=${ts}`, { cache: 'no-store' })
       ]);
-
       const groups = await sitesRes.json();
       const data = await dataRes.json();
-
       state.groups = groups.filter(g => g.enabled !== false);
       state.items = data.items || [];
-
       renderScopeOptions();
       renderChildOptions();
       setDefaultDates();
@@ -267,52 +237,25 @@
     }
 
     function renderScopeOptions() {
-      scopeSelect.innerHTML =
-        '<option value="all">全部來源</option>' +
-        state.groups.map(g => `<option value="${g.groupId}">${g.groupName}</option>`).join('');
+      scopeSelect.innerHTML = '<option value="all">全部來源</option>' + state.groups.map(g => `<option value="${g.groupId}">${g.groupName}</option>`).join('');
     }
 
     function renderChildOptions() {
       const scope = scopeSelect.value;
       const childSourceList = document.getElementById('childSourceList');
       const childControls = document.getElementById('childControls');
-
-      if (scope === 'all') {
-        childSourceList.innerHTML = '<div class="muted">目前為全部來源模式，不需勾選子來源。</div>';
-        childControls.style.display = 'none';
-        return;
-      }
-
+      if (scope === 'all') { childSourceList.innerHTML = '<div class="muted">目前為全部來源模式，不需勾選子來源。</div>'; childControls.style.display = 'none'; return; }
       const group = state.groups.find(g => g.groupId === scope);
-
-      if (!group) {
-        childSourceList.innerHTML = '';
-        childControls.style.display = 'none';
-        return;
-      }
-
-      childSourceList.innerHTML = group.children
-        .filter(child => child.enabled !== false)
-        .map(child => `
-          <label class="child-option">
-            <input type="checkbox" class="child-checkbox" value="${child.id}">
-            <span>${child.name}</span>
-          </label>
-        `).join('');
-
+      if (!group) { childSourceList.innerHTML = ''; childControls.style.display = 'none'; return; }
+      childSourceList.innerHTML = group.children.filter(child => child.enabled !== false).map(child => `<label class="child-option"><input type="checkbox" class="child-checkbox" value="${child.id}"><span>${child.name}</span></label>`).join('');
       childControls.style.display = 'flex';
     }
 
     function render(items) {
-      if (!items.length) {
-        resultsEl.innerHTML = '<div class="item">沒有符合條件的資料。</div>';
-        return;
-      }
-
+      if (!items.length) { resultsEl.innerHTML = '<div class="item">沒有符合條件的資料。</div>'; return; }
       resultsEl.innerHTML = items.map(item => {
         const saved = isSaved(item);
-        return `
-        <article class="item">
+        return `<article class="item">
           <h3>${escapeHtml(item.title)}</h3>
           <div class="meta">${escapeHtml(item.siteName)}｜${escapeHtml(item.region || '')}｜${escapeHtml(item.publishedAt || '無日期')}｜${escapeHtml(item.sourceType || '')}</div>
           <p>${escapeHtml(item.excerpt || '')}</p>
@@ -328,138 +271,53 @@
       const scope = scopeSelect.value;
       const startDate = document.getElementById('startDate').value;
       const endDate = document.getElementById('endDate').value;
-      const keywords = document.getElementById('keywords').value
-        .split(',')
-        .map(v => v.trim().toLowerCase())
-        .filter(Boolean);
-
-      const checkedChildren = Array.from(document.querySelectorAll('.child-checkbox:checked'))
-        .map(cb => cb.value);
-
+      const keywords = document.getElementById('keywords').value.split(',').map(v => v.trim().toLowerCase()).filter(Boolean);
+      const checkedChildren = Array.from(document.querySelectorAll('.child-checkbox:checked')).map(cb => cb.value);
       let items = [...state.items];
-
       if (scope !== 'all') {
         const group = state.groups.find(g => g.groupId === scope);
-
         if (group) {
-          const enabledChildren = group.children
-            .filter(child => child.enabled !== false)
-            .map(child => child.id);
-
+          const enabledChildren = group.children.filter(child => child.enabled !== false).map(child => child.id);
           const targetIds = checkedChildren.length ? checkedChildren : enabledChildren;
           items = items.filter(i => targetIds.includes(i.siteId));
         }
       }
-
-      if (startDate) {
-        items = items.filter(i => (i.publishedAt || '') >= startDate);
-      }
-
-      if (endDate) {
-        items = items.filter(i => (i.publishedAt || '') <= endDate);
-      }
-
-      if (keywords.length) {
-        items = items.filter(i => {
-          const text = `${itemText(i.title)} ${itemText(i.excerpt)}`;
-          return keywords.some(k => text.includes(k));
-        });
-      }
-
+      if (startDate) items = items.filter(i => (i.publishedAt || '') >= startDate);
+      if (endDate) items = items.filter(i => (i.publishedAt || '') <= endDate);
+      if (keywords.length) items = items.filter(i => { const text = `${itemText(i.title)} ${itemText(i.excerpt)}`; return keywords.some(k => text.includes(k)); });
       updateSearchSummary(items.length);
       render(items);
     }
 
-    function itemText(value) {
-      return (value || '').toLowerCase();
-    }
+    function itemText(value) { return (value || '').toLowerCase(); }
 
     document.getElementById('searchBtn').addEventListener('click', search);
-
-    scopeSelect.addEventListener('change', () => {
-      renderChildOptions();
-      search();
-    });
-
-    document.getElementById('selectAllBtn').addEventListener('click', () => {
-      document.querySelectorAll('.child-checkbox').forEach(cb => cb.checked = true);
-      search();
-    });
-
-    document.getElementById('deselectAllBtn').addEventListener('click', () => {
-      document.querySelectorAll('.child-checkbox').forEach(cb => cb.checked = false);
-      search();
-    });
-
-    document.getElementById('reloadBtn').addEventListener('click', async () => {
-      statusEl.textContent = '重新載入最新資料中...';
-      searchSummaryEl.textContent = '';
-
-      try {
-        await init();
-        renderSavedItems();
-        search();
-      } catch (err) {
-        statusEl.textContent = '重新載入失敗，請稍後再試。';
-        resultsEl.innerHTML = `<div class="item">${escapeHtml(err.message)}</div>`;
-      }
-    });
-
-    document.getElementById('exportSavedBtn').addEventListener('click', () => {
-      const blob = new Blob([JSON.stringify(getSavedItems(), null, 2)], { type: 'application/json' });
-      const a = document.createElement('a');
-      a.href = URL.createObjectURL(blob);
-      a.download = `regulatory-saved-items-${toDateInputValue(new Date())}.json`;
-      a.click();
-      URL.revokeObjectURL(a.href);
-    });
-
-    document.getElementById('toggleSavedBtn').addEventListener('click', () => {
-      const panel = document.getElementById('savedPanel');
-      panel.open = !panel.open;
-    });
-
-    document.getElementById('clearSavedBtn').addEventListener('click', () => {
-      if (!confirm('確定要清空 inbox 嗎？')) return;
-      setSavedItems([]);
-      renderSavedItems();
-      search();
-    });
+    scopeSelect.addEventListener('change', () => { renderChildOptions(); search(); });
+    document.getElementById('selectAllBtn').addEventListener('click', () => { document.querySelectorAll('.child-checkbox').forEach(cb => cb.checked = true); search(); });
+    document.getElementById('deselectAllBtn').addEventListener('click', () => { document.querySelectorAll('.child-checkbox').forEach(cb => cb.checked = false); search(); });
+    document.getElementById('reloadBtn').addEventListener('click', async () => { statusEl.textContent = '重新載入最新資料中...'; searchSummaryEl.textContent = ''; try { await init(); renderSavedItems(); search(); } catch (err) { statusEl.textContent = '重新載入失敗，請稍後再試。'; resultsEl.innerHTML = `<div class="item">${escapeHtml(err.message)}</div>`; } });
+    document.getElementById('exportSavedBtn').addEventListener('click', () => { const blob = new Blob([JSON.stringify(getSavedItems(), null, 2)], { type: 'application/json' }); const a = document.createElement('a'); a.href = URL.createObjectURL(blob); a.download = `regulatory-saved-items-${toDateInputValue(new Date())}.json`; a.click(); URL.revokeObjectURL(a.href); });
+    document.getElementById('toggleSavedBtn').addEventListener('click', () => { const panel = document.getElementById('savedPanel'); panel.open = !panel.open; });
+    document.getElementById('clearSavedBtn').addEventListener('click', () => { if (!confirm('確定要清空 inbox 嗎？')) return; setSavedItems([]); renderSavedItems(); search(); });
+    document.getElementById('scrollToSavedBtn').addEventListener('click', () => { const panel = document.getElementById('savedPanel'); panel.open = true; panel.scrollIntoView({ behavior: 'smooth', block: 'start' }); });
 
     document.addEventListener('click', (e) => {
       const saveBtn = e.target.closest('.save-btn[data-url]');
       if (saveBtn) {
         const url = saveBtn.dataset.url;
         if (!url) return;
-        if (saveBtn.classList.contains('saved')) {
-          toggleDone(url);
-        } else {
-          saveItemByUrl(url);
-        }
+        const savedItems = getSavedItems();
+        const exists = savedItems.find(item => item.url === url);
+        if (exists) removeSavedItem(url); else saveItemByUrl(url);
         return;
       }
-
       const doneBtn = e.target.closest('[data-done-url]');
-      if (doneBtn) {
-        const url = doneBtn.dataset.doneUrl;
-        if (url) toggleDone(url);
-        return;
-      }
-
+      if (doneBtn) { const url = doneBtn.dataset.doneUrl; if (url) toggleDone(url); return; }
       const removeBtn = e.target.closest('[data-remove-url]');
-      if (removeBtn) {
-        const url = removeBtn.dataset.removeUrl;
-        if (url) removeSavedItem(url);
-      }
+      if (removeBtn) { const url = removeBtn.dataset.removeUrl; if (url) removeSavedItem(url); }
     });
 
-    init().then(() => {
-      renderSavedItems();
-      search();
-    }).catch(err => {
-      statusEl.textContent = '載入失敗，請確認 sites.json 與 data/latest.json 已部署。';
-      resultsEl.innerHTML = `<div class="item">${escapeHtml(err.message)}</div>`;
-    });
+    init().then(() => { renderSavedItems(); search(); }).catch(err => { statusEl.textContent = '載入失敗，請確認 sites.json 與 data/latest.json 已部署。'; resultsEl.innerHTML = `<div class="item">${escapeHtml(err.message)}</div>`; });
   </script>
 </body>
 </html>
