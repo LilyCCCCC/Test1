@@ -330,6 +330,34 @@
         "tags": ["act", "others"]
       }
     ]
+  },
+
+  {
+    "groupId": "pmda",
+    "groupName": "PMDA",
+    "enabled": true,
+    "children": [
+      {
+        "id": "what's-new",
+        "name": "What's New",
+        "region": "JP",
+        "type": "rss",
+        "baseUrl": "https://www.pmda.go.jp/english/index.html",
+        "rssUrl": "https://www.pmda.go.jp/rss_008.xml",
+        "enabled": true,
+        "tags": ["updates", "website", "overview"]
+      },
+      {
+        "id": "reviews",
+        "name": "Reviews",
+        "region": "JP",
+        "type": "rss",
+        "baseUrl": "https://www.pmda.go.jp/english/index.html",
+        "rssUrl": "https://www.pmda.go.jp/rss_011.xml",
+        "enabled": true,
+        "tags": ["news", "reviews", "announcements"]
+      }
+    ]
   }
   
 ]
