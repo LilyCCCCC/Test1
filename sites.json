@@ -25,26 +25,6 @@
         "tags": ["criminal investigations", "press releases"]
       },
       {
-        "id": "fda-disco",
-        "name": "Drug Information Soundcast in Clinical Oncology (D.I.S.C.O.)",
-        "region": "US",
-        "type": "rss",
-        "baseUrl": "https://www.fda.gov/about-fda/contact-fda/subscribe-podcasts-and-news-feeds",
-        "rssUrl": "https://www.fda.gov/about-fda/contact-fda/stay-informed/rss-feeds/disco/rss.xml",
-        "enabled": true,
-        "tags": ["oncology", "podcast", "drug"]
-      },
-      {
-        "id": "fda-drug-safety-podcasts",
-        "name": "Drug Safety Podcasts",
-        "region": "US",
-        "type": "rss",
-        "baseUrl": "https://www.fda.gov/about-fda/contact-fda/subscribe-podcasts-and-news-feeds",
-        "rssUrl": "https://www.fda.gov/about-fda/contact-fda/stay-informed/rss-feeds/drug-safety-podcast/rss.xml",
-        "enabled": true,
-        "tags": ["drug safety", "podcast"]
-      },
-      {
         "id": "fda-outbreaks",
         "name": "FDA Outbreaks",
         "region": "US",
@@ -100,8 +80,8 @@
         "region": "US",
         "type": "rss",
         "baseUrl": "https://www.fda.gov/about-fda/contact-fda/subscribe-podcasts-and-news-feeds",
-        "rssUrl": "",
-        "enabled": false,
+        "rssUrl": "https://www.fda.gov/about-fda/contact-fda/stay-informed/rss-feeds/ora-foia-electronic-reading-room/rss.xml",
+        "enabled": true,
         "tags": ["ora", "foia"]
       },
       {
@@ -110,8 +90,8 @@
         "region": "US",
         "type": "rss",
         "baseUrl": "https://www.fda.gov/about-fda/contact-fda/subscribe-podcasts-and-news-feeds",
-        "rssUrl": "",
-        "enabled": false,
+        "rssUrl": "https://www.fda.gov/about-fda/contact-fda/stay-informed/rss-feeds/press-releases/rss.xml",
+        "enabled": true,
         "tags": ["press", "agency"]
       },
       {
@@ -120,8 +100,8 @@
         "region": "US",
         "type": "rss",
         "baseUrl": "https://www.fda.gov/about-fda/contact-fda/subscribe-podcasts-and-news-feeds",
-        "rssUrl": "",
-        "enabled": false,
+        "rssUrl": "https://www.fda.gov/about-fda/contact-fda/stay-informed/rss-feeds/rss-podcast-QA-FDA/rss.xml",
+        "enabled": true,
         "tags": ["q&a", "podcast", "agency"]
       },
       {
@@ -130,8 +110,8 @@
         "region": "US",
         "type": "rss",
         "baseUrl": "https://www.fda.gov/about-fda/contact-fda/subscribe-podcasts-and-news-feeds",
-        "rssUrl": "",
-        "enabled": false,
+        "rssUrl": "https://www.fda.gov/about-fda/contact-fda/stay-informed/rss-feeds/recalls/rss.xml",
+        "enabled": true,
         "tags": ["recall", "safety"]
       },
       {
@@ -140,8 +120,8 @@
         "region": "US",
         "type": "rss",
         "baseUrl": "https://www.fda.gov/about-fda/contact-fda/subscribe-podcasts-and-news-feeds",
-        "rssUrl": "",
-        "enabled": false,
+        "rssUrl": "https://www.fda.gov/about-fda/contact-fda/stay-informed/rss-feeds/tainted-dietary-supplements/rss.xml",
+        "enabled": true,
         "tags": ["dietary supplements", "tainted products"]
       },
       {
@@ -153,16 +133,6 @@
         "rssUrl": "https://www.fda.gov/about-fda/contact-fda/stay-informed/rss-feeds/drugs/rss.xml",
         "enabled": true,
         "tags": ["drug", "approval", "update"]
-      },
-      {
-        "id": "fda-whats-new-vaccines-blood-biologics",
-        "name": "What's New: Vaccines, Blood and Biologics",
-        "region": "US",
-        "type": "rss",
-        "baseUrl": "https://www.fda.gov/about-fda/contact-fda/subscribe-podcasts-and-news-feeds",
-        "rssUrl": "",
-        "enabled": false,
-        "tags": ["vaccines", "blood", "biologics"]
       }
     ]
   },
