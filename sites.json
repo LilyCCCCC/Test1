@@ -5,6 +5,46 @@
     "enabled": true,
     "children": [
       {
+        "id": "fda-whats-new-drugs",
+        "name": "What's New: Drugs",
+        "region": "US",
+        "type": "rss",
+        "baseUrl": "https://www.fda.gov/about-fda/contact-fda/subscribe-podcasts-and-news-feeds",
+        "rssUrl": "https://www.fda.gov/about-fda/contact-fda/stay-informed/rss-feeds/drugs/rss.xml",
+        "enabled": true,
+        "tags": ["drug", "approval", "update"]
+      }
+      {
+        "id": "fda-press-releases",
+        "name": "Press Releases",
+        "region": "US",
+        "type": "rss",
+        "baseUrl": "https://www.fda.gov/about-fda/contact-fda/subscribe-podcasts-and-news-feeds",
+        "rssUrl": "https://www.fda.gov/about-fda/contact-fda/stay-informed/rss-feeds/press-releases/rss.xml",
+        "enabled": true,
+        "tags": ["press", "agency"]
+      },
+      {
+        "id": "fda-qa-with-fda",
+        "name": "Q&A with FDA",
+        "region": "US",
+        "type": "rss",
+        "baseUrl": "https://www.fda.gov/about-fda/contact-fda/subscribe-podcasts-and-news-feeds",
+        "rssUrl": "https://www.fda.gov/about-fda/contact-fda/stay-informed/rss-feeds/rss-podcast-QA-FDA/rss.xml",
+        "enabled": true,
+        "tags": ["q&a", "podcast", "agency"]
+      },
+      {
+        "id": "fda-recalls",
+        "name": "Recalls",
+        "region": "US",
+        "type": "rss",
+        "baseUrl": "https://www.fda.gov/about-fda/contact-fda/subscribe-podcasts-and-news-feeds",
+        "rssUrl": "https://www.fda.gov/about-fda/contact-fda/stay-informed/rss-feeds/recalls/rss.xml",
+        "enabled": true,
+        "tags": ["recall", "safety"]
+      },
+      {
         "id": "fda-consumer-health-information-updates",
         "name": "Consumer Health Information Updates",
         "region": "US",
@@ -85,36 +125,6 @@
         "tags": ["ora", "foia"]
       },
       {
-        "id": "fda-press-releases",
-        "name": "Press Releases",
-        "region": "US",
-        "type": "rss",
-        "baseUrl": "https://www.fda.gov/about-fda/contact-fda/subscribe-podcasts-and-news-feeds",
-        "rssUrl": "https://www.fda.gov/about-fda/contact-fda/stay-informed/rss-feeds/press-releases/rss.xml",
-        "enabled": true,
-        "tags": ["press", "agency"]
-      },
-      {
-        "id": "fda-qa-with-fda",
-        "name": "Q&A with FDA",
-        "region": "US",
-        "type": "rss",
-        "baseUrl": "https://www.fda.gov/about-fda/contact-fda/subscribe-podcasts-and-news-feeds",
-        "rssUrl": "https://www.fda.gov/about-fda/contact-fda/stay-informed/rss-feeds/rss-podcast-QA-FDA/rss.xml",
-        "enabled": true,
-        "tags": ["q&a", "podcast", "agency"]
-      },
-      {
-        "id": "fda-recalls",
-        "name": "Recalls",
-        "region": "US",
-        "type": "rss",
-        "baseUrl": "https://www.fda.gov/about-fda/contact-fda/subscribe-podcasts-and-news-feeds",
-        "rssUrl": "https://www.fda.gov/about-fda/contact-fda/stay-informed/rss-feeds/recalls/rss.xml",
-        "enabled": true,
-        "tags": ["recall", "safety"]
-      },
-      {
         "id": "fda-tainted-products-dietary-supplements",
         "name": "Tainted Products That are Marketed as Dietary Supplements",
         "region": "US",
@@ -123,16 +133,6 @@
         "rssUrl": "https://www.fda.gov/about-fda/contact-fda/stay-informed/rss-feeds/tainted-dietary-supplements/rss.xml",
         "enabled": true,
         "tags": ["dietary supplements", "tainted products"]
-      },
-      {
-        "id": "fda-whats-new-drugs",
-        "name": "What's New: Drugs",
-        "region": "US",
-        "type": "rss",
-        "baseUrl": "https://www.fda.gov/about-fda/contact-fda/subscribe-podcasts-and-news-feeds",
-        "rssUrl": "https://www.fda.gov/about-fda/contact-fda/stay-informed/rss-feeds/drugs/rss.xml",
-        "enabled": true,
-        "tags": ["drug", "approval", "update"]
       }
     ]
   },
