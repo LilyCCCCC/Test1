@@ -343,8 +343,8 @@
         "region": "JP",
         "type": "rss",
         "baseUrl": "https://www.pmda.go.jp/english/index.html",
-        "rssUrl": "https://www.pmda.go.jp/rss_008.xml",
-        "enabled": true,
+        "rssUrl": "",
+        "enabled": false,
         "tags": ["updates", "website", "overview"]
       },
       {
