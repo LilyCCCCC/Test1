@@ -398,16 +398,6 @@
         "tags": ["news", "international", "announcements"]
       },
       {
-        "id": "international-activities",
-        "name": "International Activities (JP)",
-        "region": "JP",
-        "type": "rss",
-        "baseUrl": "https://www.pmda.go.jp/index.html",
-        "rssUrl": "https://www.pmda.go.jp/rss_015.xml",
-        "enabled": true,
-        "tags": ["news", "international", "announcements"]
-      },
-      {
         "id": "PMDAの新着情報",
         "name": "What's New (JP)",
         "region": "JP",
@@ -416,6 +406,66 @@
         "rssUrl": "https://www.pmda.go.jp/rss_015.xml",
         "enabled": true,
         "tags": ["news", "all", "announcements"]
+      },
+      {
+        "id": "PMDA：トップ 承認審査",
+        "name": "Review for (marketing) approval (JP)",
+        "region": "JP",
+        "type": "rss",
+        "baseUrl": "https://www.pmda.go.jp/index.html",
+        "rssUrl": "https://www.pmda.go.jp/rss_021.xml",
+        "enabled": true,
+        "tags": ["news", "approval", "announcements"]
+      },
+      {
+        "id": "PMDA：トップ 安全対策",
+        "name": "Safety Measures (JP)",
+        "region": "JP",
+        "type": "rss",
+        "baseUrl": "https://www.pmda.go.jp/index.html",
+        "rssUrl": "https://www.pmda.go.jp/rss_018.xml",
+        "enabled": true,
+        "tags": ["news", "approval", "announcements"]
+      },
+      {
+        "id": "PMDA：トップ 安全対策",
+        "name": "Adverse Health Effects Relief (JP)",
+        "region": "JP",
+        "type": "rss",
+        "baseUrl": "https://www.pmda.go.jp/index.html",
+        "rssUrl": "https://www.pmda.go.jp/rss_019.xml",
+        "enabled": true,
+        "tags": ["adverse", "health", "announcements"]
+      },
+      {
+        "id": "PMDA：トップ RS・基準作成・日本薬局方",
+        "name": "RS, Standards Creation, Japanese Pharmacy (JP)",
+        "region": "JP",
+        "type": "rss",
+        "baseUrl": "https://www.pmda.go.jp/index.html",
+        "rssUrl": "https://www.pmda.go.jp/rss_017.xml",
+        "enabled": true,
+        "tags": ["adverse", "health", "announcements"]
+      },
+      {
+        "id": "PMDA：トップ 国際活動",
+        "name": "International (JP)",
+        "region": "JP",
+        "type": "rss",
+        "baseUrl": "https://www.pmda.go.jp/index.html",
+        "rssUrl": "https://www.pmda.go.jp/rss_017.xml",
+        "enabled": true,
+        "tags": ["international", "activities", "announcements"]
+      },
+      {
+        "id": "PMDA：トップ その他",
+        "name": "Others (JP)",
+        "region": "JP",
+        "type": "rss",
+        "baseUrl": "https://www.pmda.go.jp/index.html",
+        "rssUrl": "https://www.pmda.go.jp/rss_016.xml",
+        "enabled": true,
+        "tags": ["international", "activities", "announcements"]
       }
     ]
   }
