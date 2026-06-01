@@ -339,7 +339,7 @@
     "children": [
       {
         "id": "what's-new",
-        "name": "What's New",
+        "name": "What's New (EN)",
         "region": "JP",
         "type": "rss",
         "baseUrl": "https://www.pmda.go.jp/english/index.html",
@@ -349,7 +349,7 @@
       },
       {
         "id": "reviews",
-        "name": "Reviews",
+        "name": "Reviews (EN)",
         "region": "JP",
         "type": "rss",
         "baseUrl": "https://www.pmda.go.jp/english/index.html",
@@ -359,7 +359,7 @@
       },
       {
         "id": "safety-measures",
-        "name": "Safety Measures",
+        "name": "Safety Measures (EN)",
         "region": "JP",
         "type": "rss",
         "baseUrl": "https://www.pmda.go.jp/english/index.html",
@@ -369,7 +369,7 @@
       },
       {
         "id": "services-for-healtheffects",
-        "name": "Services for HealthEffects",
+        "name": "Services for HealthEffects (EN)",
         "region": "JP",
         "type": "rss",
         "baseUrl": "https://www.pmda.go.jp/english/index.html",
@@ -379,7 +379,7 @@
       },
       {
         "id": "rs-standard-development-jp",
-        "name": "RS / Standard Development / JP",
+        "name": "RS / Standard Development / JP (EN)",
         "region": "JP",
         "type": "rss",
         "baseUrl": "https://www.pmda.go.jp/english/index.html",
@@ -389,13 +389,33 @@
       },
       {
         "id": "international-activities",
-        "name": "International Activities",
+        "name": "International Activities (EN)",
         "region": "JP",
         "type": "rss",
         "baseUrl": "https://www.pmda.go.jp/english/index.html",
         "rssUrl": "https://www.pmda.go.jp/rss_009.xml",
         "enabled": true,
         "tags": ["news", "international", "announcements"]
+      },
+      {
+        "id": "international-activities",
+        "name": "International Activities (JP)",
+        "region": "JP",
+        "type": "rss",
+        "baseUrl": "https://www.pmda.go.jp/index.html",
+        "rssUrl": "https://www.pmda.go.jp/rss_015.xml",
+        "enabled": true,
+        "tags": ["news", "international", "announcements"]
+      },
+      {
+        "id": "PMDAの新着情報",
+        "name": "What's New (JP)",
+        "region": "JP",
+        "type": "rss",
+        "baseUrl": "https://www.pmda.go.jp/index.html",
+        "rssUrl": "https://www.pmda.go.jp/rss_015.xml",
+        "enabled": true,
+        "tags": ["news", "all", "announcements"]
       }
     ]
   }
