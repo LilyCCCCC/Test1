@@ -1,63 +1,7 @@
 {
-  "generatedAt": "2026-06-02T05:12:33.321466+00:00",
-  "count": 675,
-  "errors": [
-    {
-      "groupId": "ema",
-      "siteId": "ema-whats-new",
-      "error": "403 Client Error: Forbidden for url: https://www.ema.europa.eu/en/whats-new.xml"
-    },
-    {
-      "groupId": "ema",
-      "siteId": "ema-news-and-press-releases",
-      "error": "403 Client Error: Forbidden for url: https://www.ema.europa.eu/en/news.xml"
-    },
-    {
-      "groupId": "ema",
-      "siteId": "ema-regulatory-and-procedural-guidelines",
-      "error": "403 Client Error: Forbidden for url: https://www.ema.europa.eu/en/regulatory-and-procedural-guideline.xml"
-    },
-    {
-      "groupId": "ema",
-      "siteId": "ema-scientific-guidelines",
-      "error": "403 Client Error: Forbidden for url: https://www.ema.europa.eu/en/scientific-guidelines.xml"
-    },
-    {
-      "groupId": "ema",
-      "siteId": "ema-eurd-list",
-      "error": "403 Client Error: Forbidden for url: https://www.ema.europa.eu/en/eurd-list.xml"
-    },
-    {
-      "groupId": "ema",
-      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
-      "error": "403 Client Error: Forbidden for url: https://www.ema.europa.eu/en/human-medicine-new.xml"
-    },
-    {
-      "groupId": "ema",
-      "siteId": "ema-orphan-designations",
-      "error": "403 Client Error: Forbidden for url: https://www.ema.europa.eu/en/orphan.xml"
-    },
-    {
-      "groupId": "ema",
-      "siteId": "ema-withdrawn-applications",
-      "error": "403 Client Error: Forbidden for url: https://www.ema.europa.eu/en/withdrawn-applications.xml"
-    },
-    {
-      "groupId": "ema",
-      "siteId": "ema-public-consultations",
-      "error": "403 Client Error: Forbidden for url: https://www.ema.europa.eu/en/public-consultations.xml"
-    },
-    {
-      "groupId": "ema",
-      "siteId": "ema-inspections",
-      "error": "403 Client Error: Forbidden for url: https://www.ema.europa.eu/en/inspections.xml"
-    },
-    {
-      "groupId": "ema",
-      "siteId": "ema-human-medicines-highlights-newsletter",
-      "error": "403 Client Error: Forbidden for url: https://www.ema.europa.eu/en/new-human-medicine-new.xml"
-    }
-  ],
+  "generatedAt": "2026-06-02T12:14:53.120578+00:00",
+  "count": 831,
+  "errors": [],
   "items": [
     {
       "siteId": "notice-from-tfda",
@@ -65,6 +9,16 @@
       "region": "TW",
       "title": "預告「藥事法」部分條文修正草案。",
       "url": "http://www.fda.gov.tw/tc/newsContent.aspx?cid=5072&id=31558&utm_source=rss&utm_medium=feed&utm_campaign=rss_subscription",
+      "publishedAt": "2026-06-02",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "notice-from-tfda",
+      "siteName": "公告",
+      "region": "TW",
+      "title": "本署簡化申請藥品臨床試驗計畫案(含新案及變更案)之送審文件",
+      "url": "http://www.fda.gov.tw/tc/newsContent.aspx?cid=3&id=31561&utm_source=rss&utm_medium=feed&utm_campaign=rss_subscription",
       "publishedAt": "2026-06-02",
       "excerpt": "",
       "sourceType": "rss"
@@ -90,6 +44,16 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
+      "region": "JP",
+      "title": "[安全]「アトモキセチンカプセル25mg「サワイ」ニトロソアミン化合物の管理について」及び「ジェイゾロフトOD錠ニトロソアミン化合物検出のお知らせ」を掲載しました",
+      "url": "https://www.pmda.go.jp/safety/info-services/drugs/0371.html",
+      "publishedAt": "2026-06-02",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "PMDA：トップ 安全対策",
       "siteName": "Safety Measures (JP)",
       "region": "JP",
@@ -105,6 +69,16 @@
       "region": "JP",
       "title": "[医薬]「コルヒチンの使用にあたっての留意事項について」を掲載しました",
       "url": "https://www.pmda.go.jp/safety/info-services/drugs/0010.html",
+      "publishedAt": "2026-06-02",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Safety Measures (JP)",
+      "region": "JP",
+      "title": "[医薬]「アトモキセチンカプセル25mg「サワイ」ニトロソアミン化合物の管理について」及び「ジェイゾロフトOD錠ニトロソアミン化合物検出のお知らせ」を掲載しました",
+      "url": "https://www.pmda.go.jp/safety/info-services/drugs/0371.html",
       "publishedAt": "2026-06-02",
       "excerpt": "",
       "sourceType": "rss"
@@ -135,6 +109,96 @@
       "region": "JP",
       "title": "[その他]「AI利活用に関する基本的考え方」検討PTを設置しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/cross-sectional-project/0001.html",
+      "publishedAt": "2026-06-02",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Website outages and upgrades",
+      "url": "https://www.ema.europa.eu/en/about-us/about-website/website-outages-upgrades",
+      "publishedAt": "2026-06-02",
+      "excerpt": "Website outages and upgrades",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Meeting summaries of the Immunisation and Vaccine Monitoring Advisory Board (IVMAB)",
+      "url": "https://www.ema.europa.eu/system/files/documents/report/ivmab-summary-vmp-en_0.pdf",
+      "publishedAt": "2026-06-02",
+      "excerpt": "Meeting summaries of the Immunisation and Vaccine Monitoring Advisory Board (IVMAB)",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Akynzeo, netupitant,palonosetron, Date of authorisation: 27/05/2015, Revision: 22, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/akynzeo",
+      "publishedAt": "2026-06-02",
+      "excerpt": "Human medicines European public assessment report (EPAR): Akynzeo, netupitant,palonosetron, Date of authorisation: 27/05/2015, Revision: 22, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Akynzeo, netupitant,palonosetron, Date of authorisation: 27/05/2015, Revision: 22, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/akynzeo",
+      "publishedAt": "2026-06-02",
+      "excerpt": "Human medicines European public assessment report (EPAR): Akynzeo, netupitant,palonosetron, Date of authorisation: 27/05/2015, Revision: 22, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Frequently asked questions",
+      "url": "https://www.ema.europa.eu/en/about-us/frequently-asked-questions",
+      "publishedAt": "2026-06-02",
+      "excerpt": "Frequently asked questions",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "European platform for regulatory science research meeting: June 2026 , Online, from 16 June 2026, 14:00 (CEST) to 16 June 2026, 18:00 (CEST)",
+      "url": "https://www.ema.europa.eu/en/events/european-platform-regulatory-science-research-meeting-june-2026",
+      "publishedAt": "2026-06-02",
+      "excerpt": "European platform for regulatory science research meeting: June 2026 , Online, from 16 June 2026, 14:00 (CEST) to 16 June 2026, 18:00 (CEST)",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "EMEA-001134-PIP01-11",
+      "url": "https://www.ema.europa.eu/en/medicines/human/paediatric-investigation-plans/emea-001134-pip01-11",
+      "publishedAt": "2026-06-02",
+      "excerpt": "EMEA-001134-PIP01-11",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Data protection notice for legal entity and bank account validation regarding payments",
+      "url": "https://www.ema.europa.eu/system/files/documents/other/ema-010-dpn-legal-entity-bank-account-en.pdf",
+      "publishedAt": "2026-06-02",
+      "excerpt": "Data protection notice for legal entity and bank account validation regarding payments",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "notice-from-tfda",
+      "siteName": "公告",
+      "region": "TW",
+      "title": "115年6月2日公告修正「指示藥品審查基準」",
+      "url": "http://www.fda.gov.tw/tc/newsContent.aspx?cid=3&id=31562&utm_source=rss&utm_medium=feed&utm_campaign=rss_subscription",
       "publishedAt": "2026-06-02",
       "excerpt": "",
       "sourceType": "rss"
@@ -460,6 +524,26 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "United for Health: EMA in WorldPride 2026",
+      "url": "https://www.ema.europa.eu/en/news/united-health-ema-worldpride-2026",
+      "publishedAt": "2026-06-01",
+      "excerpt": "United for Health: EMA in WorldPride 2026",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-news-and-press-releases",
+      "siteName": "News and press releases",
+      "region": "EU",
+      "title": "United for Health: EMA in WorldPride 2026",
+      "url": "https://www.ema.europa.eu/en/news/united-health-ema-worldpride-2026",
+      "publishedAt": "2026-06-01",
+      "excerpt": "June is PRIDE month and EMA starts a two-month celebration of diversity and inclusion in science and healthcare, leading up to its participation in the world-famous Amsterdam…,         Our strength in the EU comes from our unity in diversity. Equality and non-discrimination are critical everywhere, but in health they can make the difference between…,   EMA staff will be joined on the boat by representatives of patient organisations such as EURORDIS-Rare Diseases Europe, European AIDS Treatment G",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "fda-whats-new-drugs",
       "siteName": "What's New: Drugs",
       "region": "US",
@@ -467,6 +551,26 @@
       "url": "http://www.fda.gov/drugs/development-resources/reviews-pediatric-studies-conducted-under-bpca-and-pediatric-assessments-conducted-under-prea-2012",
       "publishedAt": "2026-06-01",
       "excerpt": "The following are the medical, statistical, and clinical pharmacology reviews of pediatric studies conducted in response to a Written Request issued under the BPCA and pediatric assessments conducted under PREA.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Pharmacovigilance-related regulatory recommendations for centrally authorised veterinary medicinal products during 2026",
+      "url": "https://www.ema.europa.eu/system/files/documents/regulatory-procedural-guideline/cvmp-phv-pi-updates-2026-en_0.pdf",
+      "publishedAt": "2026-06-01",
+      "excerpt": "Pharmacovigilance-related regulatory recommendations for centrally authorised veterinary medicinal products during 2026",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-regulatory-and-procedural-guidelines",
+      "siteName": "Regulatory and procedural guidelines (human and veterinary)",
+      "region": "EU",
+      "title": "Pharmacovigilance-related regulatory recommendations for centrally authorised veterinary medicinal products during 2026",
+      "url": "https://www.ema.europa.eu/en/documents/regulatory-procedural-guideline/pharmacovigilance-related-regulatory-recommendations-centrally-authorised-veterinary-medicinal-products-during-2026_en.pdf",
+      "publishedAt": "2026-06-01",
+      "excerpt": "Pharmacovigilance-related regulatory recommendations for centrally authorised veterinary medicinal products during 2026",
       "sourceType": "rss"
     },
     {
@@ -497,6 +601,256 @@
       "url": "http://www.fda.gov/drugs/novel-drug-approvals-fda/novel-drug-approvals-2026",
       "publishedAt": "2026-06-01",
       "excerpt": "Novel Drug Approvals for 2026",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "New product information wording: extracts from PRAC recommendations on signals adopted at the 12-15 January 2026 PRAC",
+      "url": "https://www.ema.europa.eu/system/files/documents/prac-recommendation/new-product-information-wording-jan-2026_en.pdf",
+      "publishedAt": "2026-06-01",
+      "excerpt": "New product information wording: extracts from PRAC recommendations on signals adopted at the 12-15 January 2026 PRAC",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Minutes - HMA-EMA joint Network Data Steering Group meeting - 15 April 2026",
+      "url": "https://www.ema.europa.eu/system/files/documents/minutes/minutes-network-data-steering-group-15-april-2026-en.pdf",
+      "publishedAt": "2026-06-01",
+      "excerpt": "Minutes - HMA-EMA joint Network Data Steering Group meeting - 15 April 2026",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Zepzelca, lurbinectedin, Date of authorisation: 29/05/2026, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/zepzelca",
+      "publishedAt": "2026-06-01",
+      "excerpt": "Human medicines European public assessment report (EPAR): Zepzelca, lurbinectedin, Date of authorisation: 29/05/2026, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Zepzelca, lurbinectedin, Date of authorisation: 29/05/2026, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/zepzelca",
+      "publishedAt": "2026-06-01",
+      "excerpt": "Human medicines European public assessment report (EPAR): Zepzelca, lurbinectedin, Date of authorisation: 29/05/2026, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Nemluvio, nemolizumab, Date of authorisation: 12/02/2025, Revision: 6, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/nemluvio",
+      "publishedAt": "2026-06-01",
+      "excerpt": "Human medicines European public assessment report (EPAR): Nemluvio, nemolizumab, Date of authorisation: 12/02/2025, Revision: 6, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Nemluvio, nemolizumab, Date of authorisation: 12/02/2025, Revision: 6, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/nemluvio",
+      "publishedAt": "2026-06-01",
+      "excerpt": "Human medicines European public assessment report (EPAR): Nemluvio, nemolizumab, Date of authorisation: 12/02/2025, Revision: 6, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Lopinavir/Ritonavir Viatris (previously Ritonavir Mylan), lopinavir,ritonavir, Date of authorisation: 14/01/2016, Revision: 24, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/lopinavir-ritonavir-viatris",
+      "publishedAt": "2026-06-01",
+      "excerpt": "Human medicines European public assessment report (EPAR): Lopinavir/Ritonavir Viatris (previously Ritonavir Mylan), lopinavir,ritonavir, Date of authorisation: 14/01/2016, Revision: 24, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Lopinavir/Ritonavir Viatris (previously Ritonavir Mylan), lopinavir,ritonavir, Date of authorisation: 14/01/2016, Revision: 24, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/lopinavir-ritonavir-viatris",
+      "publishedAt": "2026-06-01",
+      "excerpt": "Human medicines European public assessment report (EPAR): Lopinavir/Ritonavir Viatris (previously Ritonavir Mylan), lopinavir,ritonavir, Date of authorisation: 14/01/2016, Revision: 24, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Kapruvia, difelikefalin, Date of authorisation: 25/04/2022, Revision: 5, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/kapruvia",
+      "publishedAt": "2026-06-01",
+      "excerpt": "Human medicines European public assessment report (EPAR): Kapruvia, difelikefalin, Date of authorisation: 25/04/2022, Revision: 5, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Kapruvia, difelikefalin, Date of authorisation: 25/04/2022, Revision: 5, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/kapruvia",
+      "publishedAt": "2026-06-01",
+      "excerpt": "Human medicines European public assessment report (EPAR): Kapruvia, difelikefalin, Date of authorisation: 25/04/2022, Revision: 5, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Jinarc, tolvaptan, Date of authorisation: 27/05/2015, Revision: 25, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/jinarc",
+      "publishedAt": "2026-06-01",
+      "excerpt": "Human medicines European public assessment report (EPAR): Jinarc, tolvaptan, Date of authorisation: 27/05/2015, Revision: 25, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Jinarc, tolvaptan, Date of authorisation: 27/05/2015, Revision: 25, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/jinarc",
+      "publishedAt": "2026-06-01",
+      "excerpt": "Human medicines European public assessment report (EPAR): Jinarc, tolvaptan, Date of authorisation: 27/05/2015, Revision: 25, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Imatinib Accord, imatinib, Date of authorisation: 30/06/2013, Revision: 26, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/imatinib-accord",
+      "publishedAt": "2026-06-01",
+      "excerpt": "Human medicines European public assessment report (EPAR): Imatinib Accord, imatinib, Date of authorisation: 30/06/2013, Revision: 26, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Imatinib Accord, imatinib, Date of authorisation: 30/06/2013, Revision: 26, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/imatinib-accord",
+      "publishedAt": "2026-06-01",
+      "excerpt": "Human medicines European public assessment report (EPAR): Imatinib Accord, imatinib, Date of authorisation: 30/06/2013, Revision: 26, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Eurneffy, epinephrine, Date of authorisation: 22/08/2024, Revision: 7, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/eurneffy",
+      "publishedAt": "2026-06-01",
+      "excerpt": "Human medicines European public assessment report (EPAR): Eurneffy, epinephrine, Date of authorisation: 22/08/2024, Revision: 7, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Eurneffy, epinephrine, Date of authorisation: 22/08/2024, Revision: 7, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/eurneffy",
+      "publishedAt": "2026-06-01",
+      "excerpt": "Human medicines European public assessment report (EPAR): Eurneffy, epinephrine, Date of authorisation: 22/08/2024, Revision: 7, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Emadine, emedastine, Date of authorisation: 27/01/1999, Revision: 29, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/emadine",
+      "publishedAt": "2026-06-01",
+      "excerpt": "Human medicines European public assessment report (EPAR): Emadine, emedastine, Date of authorisation: 27/01/1999, Revision: 29, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Emadine, emedastine, Date of authorisation: 27/01/1999, Revision: 29, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/emadine",
+      "publishedAt": "2026-06-01",
+      "excerpt": "Human medicines European public assessment report (EPAR): Emadine, emedastine, Date of authorisation: 27/01/1999, Revision: 29, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Carvykti, ciltacabtagene autoleucel, Date of authorisation: 25/05/2022, Revision: 18, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/carvykti",
+      "publishedAt": "2026-06-01",
+      "excerpt": "Human medicines European public assessment report (EPAR): Carvykti, ciltacabtagene autoleucel, Date of authorisation: 25/05/2022, Revision: 18, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Carvykti, ciltacabtagene autoleucel, Date of authorisation: 25/05/2022, Revision: 18, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/carvykti",
+      "publishedAt": "2026-06-01",
+      "excerpt": "Human medicines European public assessment report (EPAR): Carvykti, ciltacabtagene autoleucel, Date of authorisation: 25/05/2022, Revision: 18, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Capvaxive, pneumococcal polysaccharide conjugate vaccine (21-valent), Date of authorisation: 24/03/2025, Revision: 4, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/capvaxive",
+      "publishedAt": "2026-06-01",
+      "excerpt": "Human medicines European public assessment report (EPAR): Capvaxive, pneumococcal polysaccharide conjugate vaccine (21-valent), Date of authorisation: 24/03/2025, Revision: 4, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Capvaxive, pneumococcal polysaccharide conjugate vaccine (21-valent), Date of authorisation: 24/03/2025, Revision: 4, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/capvaxive",
+      "publishedAt": "2026-06-01",
+      "excerpt": "Human medicines European public assessment report (EPAR): Capvaxive, pneumococcal polysaccharide conjugate vaccine (21-valent), Date of authorisation: 24/03/2025, Revision: 4, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Abrysvo, respiratory syncytial virus vaccine (bivalent, recombinant), Date of authorisation: 23/08/2023, Revision: 14, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/abrysvo",
+      "publishedAt": "2026-06-01",
+      "excerpt": "Human medicines European public assessment report (EPAR): Abrysvo, respiratory syncytial virus vaccine (bivalent, recombinant), Date of authorisation: 23/08/2023, Revision: 14, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Abrysvo, respiratory syncytial virus vaccine (bivalent, recombinant), Date of authorisation: 23/08/2023, Revision: 14, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/abrysvo",
+      "publishedAt": "2026-06-01",
+      "excerpt": "Human medicines European public assessment report (EPAR): Abrysvo, respiratory syncytial virus vaccine (bivalent, recombinant), Date of authorisation: 23/08/2023, Revision: 14, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Herbal medicinal product: Lecithinum ex soya, Glycine max  (L.) Merr., P: Draft published",
+      "url": "https://www.ema.europa.eu/en/medicines/herbal/lecithinum-ex-soya",
+      "publishedAt": "2026-06-01",
+      "excerpt": "Herbal medicinal product: Lecithinum ex soya, Glycine max  (L.) Merr., P: Draft published",
       "sourceType": "rss"
     },
     {
@@ -587,6 +941,16 @@
       "url": "http://www.fda.gov/drugs/drug-approvals-and-databases/drugsfda-data-files",
       "publishedAt": "2026-06-01",
       "excerpt": "Drugs@FDA Downloadable Data File in ZIP format, Data Definitions, and Entity Relationship Diagram (ERD)",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Combination Products Operational Group: agendas and highlight reports",
+      "url": "https://www.ema.europa.eu/en/human-regulatory-overview/medical-devices/combination-products-operational-group/combination-products-operational-group-agendas-highlight-reports",
+      "publishedAt": "2026-06-01",
+      "excerpt": "Combination Products Operational Group: agendas and highlight reports",
       "sourceType": "rss"
     },
     {
@@ -940,6 +1304,96 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "ema-regulatory-and-procedural-guidelines",
+      "siteName": "Regulatory and procedural guidelines (human and veterinary)",
+      "region": "EU",
+      "title": "List of centrally authorised products with safety-related changes to the product information",
+      "url": "https://www.ema.europa.eu/en/documents/regulatory-procedural-guideline/list-centrally-authorised-products-safety-related-changes-product-information_en.xlsx",
+      "publishedAt": "2026-05-29",
+      "excerpt": "List of centrally authorised products with safety-related changes to the product information",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Vyepti, eptinezumab, Date of authorisation: 24/01/2022, Revision: 8, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/vyepti",
+      "publishedAt": "2026-05-29",
+      "excerpt": "Human medicines European public assessment report (EPAR): Vyepti, eptinezumab, Date of authorisation: 24/01/2022, Revision: 8, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Tysabri, natalizumab, Date of authorisation: 27/06/2006, Revision: 52, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/tysabri",
+      "publishedAt": "2026-05-29",
+      "excerpt": "Human medicines European public assessment report (EPAR): Tysabri, natalizumab, Date of authorisation: 27/06/2006, Revision: 52, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Teriflunomide Viatris (previously Teriflunomide Mylan), teriflunomide, Date of authorisation: 09/11/2022, Revision: 8, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/teriflunomide-viatris",
+      "publishedAt": "2026-05-29",
+      "excerpt": "Human medicines European public assessment report (EPAR): Teriflunomide Viatris (previously Teriflunomide Mylan), teriflunomide, Date of authorisation: 09/11/2022, Revision: 8, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Ranluspec, ranibizumab, Date of authorisation: 10/02/2026, Revision: 2, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/ranluspec",
+      "publishedAt": "2026-05-29",
+      "excerpt": "Human medicines European public assessment report (EPAR): Ranluspec, ranibizumab, Date of authorisation: 10/02/2026, Revision: 2, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Ozurdex, dexamethasone, Date of authorisation: 26/07/2010, Revision: 22, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/ozurdex",
+      "publishedAt": "2026-05-29",
+      "excerpt": "Human medicines European public assessment report (EPAR): Ozurdex, dexamethasone, Date of authorisation: 26/07/2010, Revision: 22, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Optison, perflutren, Date of authorisation: 17/05/1998, Revision: 20, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/optison",
+      "publishedAt": "2026-05-29",
+      "excerpt": "Human medicines European public assessment report (EPAR): Optison, perflutren, Date of authorisation: 17/05/1998, Revision: 20, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Comirnaty, COVID-19 mRNA vaccine, Date of authorisation: 21/12/2020, Revision: 62, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/comirnaty",
+      "publishedAt": "2026-05-29",
+      "excerpt": "Human medicines European public assessment report (EPAR): Comirnaty, COVID-19 mRNA vaccine, Date of authorisation: 21/12/2020, Revision: 62, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Caprelsa, vandetanib, Date of authorisation: 16/02/2012, Revision: 31, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/caprelsa",
+      "publishedAt": "2026-05-29",
+      "excerpt": "Human medicines European public assessment report (EPAR): Caprelsa, vandetanib, Date of authorisation: 16/02/2012, Revision: 31, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "fda-whats-new-drugs",
       "siteName": "What's New: Drugs",
       "region": "US",
@@ -1000,6 +1454,16 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "ema-news-and-press-releases",
+      "siteName": "News and press releases",
+      "region": "EU",
+      "title": "ETF recommends updating COVID-19 vaccines to target XFG variant",
+      "url": "https://www.ema.europa.eu/en/news/etf-recommends-updating-covid-19-vaccines-target-xfg-variant",
+      "publishedAt": "2026-05-29",
+      "excerpt": "EMA’s Emergency Task Force (ETF) has recommended updating COVID-19 vaccines to target the new SARS-CoV-2 variant XFG for the 2026/2027 vaccination campaign.XFG is part of the…",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "fda-medwatch",
       "siteName": "MedWatch Safety Alerts",
       "region": "US",
@@ -1007,6 +1471,36 @@
       "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/dexcom-uncovers-theft-scrapped-product-notifies-potentially-impacted-users",
       "publishedAt": "2026-05-29",
       "excerpt": "SAN DIEGO – MAY 26, 2026 – DexCom, Inc. (Nasdaq: DXCM), the global leader in glucose biosensing, announced today through ongoing quality and accounting reviews it recently identified certain lots of Dexcom G7 sensors originally designated as scrap and intended for destruction were stolen during the",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-scientific-guidelines",
+      "siteName": "Scientific guidelines (human and veterinary)",
+      "region": "EU",
+      "title": "Concept paper on the need for revision of the guideline on the development of medicinal products for the treatment of smoking",
+      "url": "https://www.ema.europa.eu/en/documents/scientific-guideline/concept-paper-need-revision-guideline-development-medicinal-products-treatment-smoking_en.pdf",
+      "publishedAt": "2026-05-29",
+      "excerpt": "Concept paper on the need for revision of the guideline on the development of medicinal products for the treatment of smoking",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-public-consultations",
+      "siteName": "Public consultations",
+      "region": "EU",
+      "title": "Concept paper on the need for revision of the guideline on the development of medicinal products for the treatment of smoking",
+      "url": "https://www.ema.europa.eu/en/documents/scientific-guideline/concept-paper-need-revision-guideline-development-medicinal-products-treatment-smoking_en.pdf",
+      "publishedAt": "2026-05-29",
+      "excerpt": "Concept paper on the need for revision of the guideline on the development of medicinal products for the treatment of smoking",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-recalls",
+      "siteName": "Recalls",
+      "region": "US",
+      "title": "Champion Foods Recalls Some Batches of Motor City Pizza Co. 5 Cheese Bread Because of Possible Health Risk",
+      "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/champion-foods-recalls-some-batches-motor-city-pizza-co-5-cheese-bread-because-possible-health-risk",
+      "publishedAt": "2026-05-29",
+      "excerpt": "MAY 29, 2026 – Champion Foods LLC of New Boston, Michigan, is voluntarily recalling certain batches of Motor City Pizza Co. 5 Cheese Bread (“5 Cheese Bread”) because they have the potential to be contaminated with Salmonella. This action follows a California Dairies, Inc. milk powder recall due to a",
       "sourceType": "rss"
     },
     {
@@ -1190,6 +1684,96 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "ema-regulatory-and-procedural-guidelines",
+      "siteName": "Regulatory and procedural guidelines (human and veterinary)",
+      "region": "EU",
+      "title": "Product Management Services (PMS) - Implementation of International Organization for Standardization (ISO) standards for the identification of medicinal products (IDMP) in Europe - Chapter 3",
+      "url": "https://www.ema.europa.eu/en/documents/regulatory-procedural-guideline/product-management-services-pms-implementation-international-organization-standardization-iso-standards-identification-medicinal-products-idmp-europe-chapter-3_en.pdf",
+      "publishedAt": "2026-05-28",
+      "excerpt": "Product Management Services (PMS) - Implementation of International Organization for Standardization (ISO) standards for the identification of medicinal products (IDMP) in Europe - Chapter 3",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Spikevax (previously COVID-19 Vaccine Moderna), COVID-19 mRNA vaccine, Date of authorisation: 06/01/2021, Revision: 61, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/spikevax",
+      "publishedAt": "2026-05-28",
+      "excerpt": "Human medicines European public assessment report (EPAR): Spikevax (previously COVID-19 Vaccine Moderna), COVID-19 mRNA vaccine, Date of authorisation: 06/01/2021, Revision: 61, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Pomalidomide Teva, pomalidomide, Date of authorisation: 14/11/2024, Revision: 2, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/pomalidomide-teva",
+      "publishedAt": "2026-05-28",
+      "excerpt": "Human medicines European public assessment report (EPAR): Pomalidomide Teva, pomalidomide, Date of authorisation: 14/11/2024, Revision: 2, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Joenja, leniolisib, Date of authorisation: 21/05/2026, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/joenja",
+      "publishedAt": "2026-05-28",
+      "excerpt": "Human medicines European public assessment report (EPAR): Joenja, leniolisib, Date of authorisation: 21/05/2026, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Fubelv, etanercept, Date of authorisation: 23/04/2026, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/fubelv",
+      "publishedAt": "2026-05-28",
+      "excerpt": "Human medicines European public assessment report (EPAR): Fubelv, etanercept, Date of authorisation: 23/04/2026, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Camcevi, leuprorelin, Date of authorisation: 24/05/2022, Revision: 6, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/camcevi",
+      "publishedAt": "2026-05-28",
+      "excerpt": "Human medicines European public assessment report (EPAR): Camcevi, leuprorelin, Date of authorisation: 24/05/2022, Revision: 6, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Beromun, tasonermin, Date of authorisation: 12/04/1999, Revision: 16, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/beromun",
+      "publishedAt": "2026-05-28",
+      "excerpt": "Human medicines European public assessment report (EPAR): Beromun, tasonermin, Date of authorisation: 12/04/1999, Revision: 16, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Aquipta, atogepant, Date of authorisation: 11/08/2023, Revision: 5, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/aquipta",
+      "publishedAt": "2026-05-28",
+      "excerpt": "Human medicines European public assessment report (EPAR): Aquipta, atogepant, Date of authorisation: 11/08/2023, Revision: 5, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Adtralza, tralokinumab, Date of authorisation: 17/06/2021, Revision: 10, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/adtralza",
+      "publishedAt": "2026-05-28",
+      "excerpt": "Human medicines European public assessment report (EPAR): Adtralza, tralokinumab, Date of authorisation: 17/06/2021, Revision: 10, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "reviews",
       "siteName": "Reviews (EN)",
       "region": "JP",
@@ -1270,6 +1854,156 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "ema-eurd-list",
+      "siteName": "European Union reference dates (EURD) list",
+      "region": "EU",
+      "title": "List of European Union reference dates (EURD) and frequency of submission of periodic safety update reports (PSURs)",
+      "url": "https://www.ema.europa.eu/en/documents/other/list-european-union-reference-dates-eurd-frequency-submission-periodic-safety-update-reports-psurs_en.xlsx",
+      "publishedAt": "2026-05-27",
+      "excerpt": "List of European Union reference dates (EURD) and frequency of submission of periodic safety update reports (PSURs)",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Yesintek, ustekinumab, Date of authorisation: 14/02/2025, Revision: 4, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/yesintek",
+      "publishedAt": "2026-05-27",
+      "excerpt": "Human medicines European public assessment report (EPAR): Yesintek, ustekinumab, Date of authorisation: 14/02/2025, Revision: 4, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Xenleta, lefamulin, Date of authorisation: 27/07/2020, Revision: 3, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/xenleta",
+      "publishedAt": "2026-05-27",
+      "excerpt": "Human medicines European public assessment report (EPAR): Xenleta, lefamulin, Date of authorisation: 27/07/2020, Revision: 3, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Verzenios, abemaciclib, Date of authorisation: 26/09/2018, Revision: 19, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/verzenios",
+      "publishedAt": "2026-05-27",
+      "excerpt": "Human medicines European public assessment report (EPAR): Verzenios, abemaciclib, Date of authorisation: 26/09/2018, Revision: 19, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Trumenba, meningococcal group b vaccine (recombinant, adsorbed), Date of authorisation: 24/05/2017, Revision: 23, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/trumenba",
+      "publishedAt": "2026-05-27",
+      "excerpt": "Human medicines European public assessment report (EPAR): Trumenba, meningococcal group b vaccine (recombinant, adsorbed), Date of authorisation: 24/05/2017, Revision: 23, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Tevimbra, tislelizumab, Date of authorisation: 15/09/2023, Revision: 17, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/tevimbra",
+      "publishedAt": "2026-05-27",
+      "excerpt": "Human medicines European public assessment report (EPAR): Tevimbra, tislelizumab, Date of authorisation: 15/09/2023, Revision: 17, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Sunosi, solriamfetol, Date of authorisation: 16/01/2020, Revision: 11, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/sunosi",
+      "publishedAt": "2026-05-27",
+      "excerpt": "Human medicines European public assessment report (EPAR): Sunosi, solriamfetol, Date of authorisation: 16/01/2020, Revision: 11, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Rezdiffra, resmetirom, Date of authorisation: 18/08/2025, Revision: 1, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/rezdiffra",
+      "publishedAt": "2026-05-27",
+      "excerpt": "Human medicines European public assessment report (EPAR): Rezdiffra, resmetirom, Date of authorisation: 18/08/2025, Revision: 1, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Qdenga, dengue tetravalent vaccine (live, attenuated), Date of authorisation: 05/12/2022, Revision: 7, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/qdenga",
+      "publishedAt": "2026-05-27",
+      "excerpt": "Human medicines European public assessment report (EPAR): Qdenga, dengue tetravalent vaccine (live, attenuated), Date of authorisation: 05/12/2022, Revision: 7, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Poherdy, pertuzumab, Date of authorisation: 23/04/2026, Revision: 1, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/poherdy",
+      "publishedAt": "2026-05-27",
+      "excerpt": "Human medicines European public assessment report (EPAR): Poherdy, pertuzumab, Date of authorisation: 23/04/2026, Revision: 1, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Otulfi, ustekinumab, Date of authorisation: 25/09/2024, Revision: 6, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/otulfi",
+      "publishedAt": "2026-05-27",
+      "excerpt": "Human medicines European public assessment report (EPAR): Otulfi, ustekinumab, Date of authorisation: 25/09/2024, Revision: 6, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Opdualag, relatlimab,nivolumab, Date of authorisation: 15/09/2022, Revision: 8, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/opdualag",
+      "publishedAt": "2026-05-27",
+      "excerpt": "Human medicines European public assessment report (EPAR): Opdualag, relatlimab,nivolumab, Date of authorisation: 15/09/2022, Revision: 8, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Imcivree, setmelanotide, Date of authorisation: 16/07/2021, Revision: 15, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/imcivree",
+      "publishedAt": "2026-05-27",
+      "excerpt": "Human medicines European public assessment report (EPAR): Imcivree, setmelanotide, Date of authorisation: 16/07/2021, Revision: 15, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Calquence, acalabrutinib, Date of authorisation: 05/11/2020, Revision: 12, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/calquence",
+      "publishedAt": "2026-05-27",
+      "excerpt": "Human medicines European public assessment report (EPAR): Calquence, acalabrutinib, Date of authorisation: 05/11/2020, Revision: 12, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Cablivi, caplacizumab, Date of authorisation: 30/08/2018, Revision: 12, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/cablivi",
+      "publishedAt": "2026-05-27",
+      "excerpt": "Human medicines European public assessment report (EPAR): Cablivi, caplacizumab, Date of authorisation: 30/08/2018, Revision: 12, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "fda-medwatch",
       "siteName": "MedWatch Safety Alerts",
       "region": "US",
@@ -1284,7 +2018,7 @@
       "siteName": "MedWatch Safety Alerts",
       "region": "US",
       "title": "Early Alert: Heart Pump Issue from Abiomed",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-heart-pump-issue-abiomed",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-heart-pump-issue-abiomed-0",
       "publishedAt": "2026-05-27",
       "excerpt": "Specific Impella CP Sets are out of specification; use may result in low purge pressure events from the onset of the case",
       "sourceType": "rss"
@@ -1420,6 +2154,426 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "ema-orphan-designations",
+      "siteName": "Orphan designations",
+      "region": "EU",
+      "title": "Orphan designation: zilucoplan Treatment of myasthenia gravis, 18/07/2022 Withdrawn",
+      "url": "https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-22-2650",
+      "publishedAt": "2026-05-26",
+      "excerpt": "Orphan designation: zilucoplan Treatment of myasthenia gravis, 18/07/2022 Withdrawn",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-orphan-designations",
+      "siteName": "Orphan designations",
+      "region": "EU",
+      "title": "Orphan designation: vutrisiran Treatment of Stargardt's disease, 10/08/2022 Withdrawn",
+      "url": "https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-22-2682",
+      "publishedAt": "2026-05-26",
+      "excerpt": "Orphan designation: vutrisiran Treatment of Stargardt's disease, 10/08/2022 Withdrawn",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-orphan-designations",
+      "siteName": "Orphan designations",
+      "region": "EU",
+      "title": "Orphan designation: vincristine sulfate liposomes Treatment of acute lymphoblastic leukaemia, 08/07/2008 Withdrawn",
+      "url": "https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-08-555",
+      "publishedAt": "2026-05-26",
+      "excerpt": "Orphan designation: vincristine sulfate liposomes Treatment of acute lymphoblastic leukaemia, 08/07/2008 Withdrawn",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-orphan-designations",
+      "siteName": "Orphan designations",
+      "region": "EU",
+      "title": "Orphan designation: tislelizumab Treatment of nasopharyngeal cancer, 21/06/2021 Withdrawn",
+      "url": "https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-21-2446",
+      "publishedAt": "2026-05-26",
+      "excerpt": "Orphan designation: tislelizumab Treatment of nasopharyngeal cancer, 21/06/2021 Withdrawn",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-orphan-designations",
+      "siteName": "Orphan designations",
+      "region": "EU",
+      "title": "Orphan designation: sutimlimab Treatment of immune thrombocytopenia, 28/02/2020 Withdrawn",
+      "url": "https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-20-2258",
+      "publishedAt": "2026-05-26",
+      "excerpt": "Orphan designation: sutimlimab Treatment of immune thrombocytopenia, 28/02/2020 Withdrawn",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-orphan-designations",
+      "siteName": "Orphan designations",
+      "region": "EU",
+      "title": "Orphan designation: sabatolimab Treatment of myelodysplastic syndromes, 20/08/2021 Withdrawn",
+      "url": "https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-21-2494",
+      "publishedAt": "2026-05-26",
+      "excerpt": "Orphan designation: sabatolimab Treatment of myelodysplastic syndromes, 20/08/2021 Withdrawn",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-orphan-designations",
+      "siteName": "Orphan designations",
+      "region": "EU",
+      "title": "Orphan designation: recombinant monoclonal antibody to sialic acid-binding Ig-like lectin 8 Treatment of mastocytosis, 16/10/2017 Withdrawn",
+      "url": "https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-17-1929",
+      "publishedAt": "2026-05-26",
+      "excerpt": "Orphan designation: recombinant monoclonal antibody to sialic acid-binding Ig-like lectin 8 Treatment of mastocytosis, 16/10/2017 Withdrawn",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-orphan-designations",
+      "siteName": "Orphan designations",
+      "region": "EU",
+      "title": "Orphan designation: recombinant human monoclonal antibody of the IgG1 kappa class against human macrophage colony-stimulating factor (lacnotuzumab) Treatment of tenosynovial giant cell tumour, localised and diffuse type, 15/10/2014 Withdrawn",
+      "url": "https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-14-1350",
+      "publishedAt": "2026-05-26",
+      "excerpt": "Orphan designation: recombinant human monoclonal antibody of the IgG1 kappa class against human macrophage colony-stimulating factor (lacnotuzumab) Treatment of tenosynovial giant cell tumour, localised and diffuse type, 15/10/2014 Withdrawn",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-orphan-designations",
+      "siteName": "Orphan designations",
+      "region": "EU",
+      "title": "Orphan designation: recombinant human factor IX protein modified with three point mutations (dalcinonacog alfa) Treatment of haemophilia B, 20/06/2017 Withdrawn",
+      "url": "https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-17-1884",
+      "publishedAt": "2026-05-26",
+      "excerpt": "Orphan designation: recombinant human factor IX protein modified with three point mutations (dalcinonacog alfa) Treatment of haemophilia B, 20/06/2017 Withdrawn",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-orphan-designations",
+      "siteName": "Orphan designations",
+      "region": "EU",
+      "title": "Orphan designation: pegylated adrenomedullin Treatment of acute respiratory distress syndrome (ARDS), 27/07/2020 Withdrawn",
+      "url": "https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-20-2301",
+      "publishedAt": "2026-05-26",
+      "excerpt": "Orphan designation: pegylated adrenomedullin Treatment of acute respiratory distress syndrome (ARDS), 27/07/2020 Withdrawn",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-orphan-designations",
+      "siteName": "Orphan designations",
+      "region": "EU",
+      "title": "Orphan designation: ovine anti-colchicine polyclonal antibody fragments Treatment of colchicine poisoning, 17/12/2010 Withdrawn",
+      "url": "https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-10-825",
+      "publishedAt": "2026-05-26",
+      "excerpt": "Orphan designation: ovine anti-colchicine polyclonal antibody fragments Treatment of colchicine poisoning, 17/12/2010 Withdrawn",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-orphan-designations",
+      "siteName": "Orphan designations",
+      "region": "EU",
+      "title": "Orphan designation: oregovomab Treatment of ovarian cancer, 30/07/2002 Withdrawn",
+      "url": "https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-02-109",
+      "publishedAt": "2026-05-26",
+      "excerpt": "Orphan designation: oregovomab Treatment of ovarian cancer, 30/07/2002 Withdrawn",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-orphan-designations",
+      "siteName": "Orphan designations",
+      "region": "EU",
+      "title": "Orphan designation: navitoclax Treatment of myelofibrosis, 16/12/2019 Withdrawn",
+      "url": "https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-19-2233",
+      "publishedAt": "2026-05-26",
+      "excerpt": "Orphan designation: navitoclax Treatment of myelofibrosis, 16/12/2019 Withdrawn",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-orphan-designations",
+      "siteName": "Orphan designations",
+      "region": "EU",
+      "title": "Orphan designation: macitentan Treatment of pulmonary arterial hypertension, 27/09/2011 Withdrawn",
+      "url": "https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-11-909",
+      "publishedAt": "2026-05-26",
+      "excerpt": "Orphan designation: macitentan Treatment of pulmonary arterial hypertension, 27/09/2011 Withdrawn",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-orphan-designations",
+      "siteName": "Orphan designations",
+      "region": "EU",
+      "title": "Orphan designation: macitentan Treatment of idiopathic pulmonary fibrosis, 28/01/2010 Withdrawn",
+      "url": "https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-09-707",
+      "publishedAt": "2026-05-26",
+      "excerpt": "Orphan designation: macitentan Treatment of idiopathic pulmonary fibrosis, 28/01/2010 Withdrawn",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-orphan-designations",
+      "siteName": "Orphan designations",
+      "region": "EU",
+      "title": "Orphan designation: macitentan Treatment of functional single ventricle congenital heart disease, 20/05/2021 Withdrawn",
+      "url": "https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-21-2428",
+      "publishedAt": "2026-05-26",
+      "excerpt": "Orphan designation: macitentan Treatment of functional single ventricle congenital heart disease, 20/05/2021 Withdrawn",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-orphan-designations",
+      "siteName": "Orphan designations",
+      "region": "EU",
+      "title": "Orphan designation: macitentan Treatment of chronic thromboembolic pulmonary hypertension, 10/12/2021 Withdrawn",
+      "url": "https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-21-2533",
+      "publishedAt": "2026-05-26",
+      "excerpt": "Orphan designation: macitentan Treatment of chronic thromboembolic pulmonary hypertension, 10/12/2021 Withdrawn",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-orphan-designations",
+      "siteName": "Orphan designations",
+      "region": "EU",
+      "title": "Orphan designation: humanised fusion protein consisting of extracellular domain of CD24 linked to IgG1 Fc domain Prevention of graft-versus-host disease, 11/11/2015 Withdrawn",
+      "url": "https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-15-1575",
+      "publishedAt": "2026-05-26",
+      "excerpt": "Orphan designation: humanised fusion protein consisting of extracellular domain of CD24 linked to IgG1 Fc domain Prevention of graft-versus-host disease, 11/11/2015 Withdrawn",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-orphan-designations",
+      "siteName": "Orphan designations",
+      "region": "EU",
+      "title": "Orphan designation: humanised IgG2k Fc-modified bispecific monoclonal antibody against CD3 and BCMA Treatment of multiple myeloma, 19/07/2021 Withdrawn",
+      "url": "https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-21-2471",
+      "publishedAt": "2026-05-26",
+      "excerpt": "Orphan designation: humanised IgG2k Fc-modified bispecific monoclonal antibody against CD3 and BCMA Treatment of multiple myeloma, 19/07/2021 Withdrawn",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-orphan-designations",
+      "siteName": "Orphan designations",
+      "region": "EU",
+      "title": "Orphan designation: genetically modified serotype 5/3 adenovirus coding for granulocyte-macrophage colony-stimulating factor Treatment of soft tissue sarcoma, 19/06/2013 Withdrawn",
+      "url": "https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-13-1145",
+      "publishedAt": "2026-05-26",
+      "excerpt": "Orphan designation: genetically modified serotype 5/3 adenovirus coding for granulocyte-macrophage colony-stimulating factor Treatment of soft tissue sarcoma, 19/06/2013 Withdrawn",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-orphan-designations",
+      "siteName": "Orphan designations",
+      "region": "EU",
+      "title": "Orphan designation: genetically modified serotype 5/3 adenovirus coding for granulocyte macrophage colony-stimulating factor Treatment of malignant mesothelioma, 16/12/2014 Withdrawn",
+      "url": "https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-14-1398",
+      "publishedAt": "2026-05-26",
+      "excerpt": "Orphan designation: genetically modified serotype 5/3 adenovirus coding for granulocyte macrophage colony-stimulating factor Treatment of malignant mesothelioma, 16/12/2014 Withdrawn",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-orphan-designations",
+      "siteName": "Orphan designations",
+      "region": "EU",
+      "title": "Orphan designation: cedazuridine,decitabine Treatment of myelodysplastic syndromes, 16/08/2023 Withdrawn",
+      "url": "https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-23-2825",
+      "publishedAt": "2026-05-26",
+      "excerpt": "Orphan designation: cedazuridine,decitabine Treatment of myelodysplastic syndromes, 16/08/2023 Withdrawn",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-orphan-designations",
+      "siteName": "Orphan designations",
+      "region": "EU",
+      "title": "Orphan designation: antisense NF-kBp65 oligonucleotide Treatment of active ulcerative colitis, 30/07/2002 Withdrawn",
+      "url": "https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-02-106",
+      "publishedAt": "2026-05-26",
+      "excerpt": "Orphan designation: antisense NF-kBp65 oligonucleotide Treatment of active ulcerative colitis, 30/07/2002 Withdrawn",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-orphan-designations",
+      "siteName": "Orphan designations",
+      "region": "EU",
+      "title": "Orphan designation: anti-SIGLEC8 IgG1 humanised monoclonal antibody Treatment of eosinophilic gastroenteritis, 19/02/2021 Withdrawn",
+      "url": "https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-21-2400",
+      "publishedAt": "2026-05-26",
+      "excerpt": "Orphan designation: anti-SIGLEC8 IgG1 humanised monoclonal antibody Treatment of eosinophilic gastroenteritis, 19/02/2021 Withdrawn",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-orphan-designations",
+      "siteName": "Orphan designations",
+      "region": "EU",
+      "title": "Orphan designation: adeno-associated virus vector serotype hu37 encoding human factor VIII Treatment of  haemophilia A, 22/04/2020 Withdrawn",
+      "url": "https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-20-2274",
+      "publishedAt": "2026-05-26",
+      "excerpt": "Orphan designation: adeno-associated virus vector serotype hu37 encoding human factor VIII Treatment of  haemophilia A, 22/04/2020 Withdrawn",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-orphan-designations",
+      "siteName": "Orphan designations",
+      "region": "EU",
+      "title": "Orphan designation: adeno-associated viral vector serotype 8 containing the human acid alpha-glucosidase gene Treatment of glycogen storage disease type II (Pompe's disease), 16/04/2018 Withdrawn",
+      "url": "https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-18-2007",
+      "publishedAt": "2026-05-26",
+      "excerpt": "Orphan designation: adeno-associated viral vector serotype 8 containing the human acid alpha-glucosidase gene Treatment of glycogen storage disease type II (Pompe's disease), 16/04/2018 Withdrawn",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-orphan-designations",
+      "siteName": "Orphan designations",
+      "region": "EU",
+      "title": "Orphan designation: acetylsalicylic acid Treatment of polycythaemia vera, 29/07/2004 Withdrawn",
+      "url": "https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-04-208",
+      "publishedAt": "2026-05-26",
+      "excerpt": "Orphan designation: acetylsalicylic acid Treatment of polycythaemia vera, 29/07/2004 Withdrawn",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-orphan-designations",
+      "siteName": "Orphan designations",
+      "region": "EU",
+      "title": "Orphan designation: acalabrutinib Treatment of mantle cell lymphoma, 21/03/2016 Withdrawn",
+      "url": "https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-16-1625",
+      "publishedAt": "2026-05-26",
+      "excerpt": "Orphan designation: acalabrutinib Treatment of mantle cell lymphoma, 21/03/2016 Withdrawn",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-orphan-designations",
+      "siteName": "Orphan designations",
+      "region": "EU",
+      "title": "Orphan designation: Treatment of paroxysmal nocturnal haemoglobinuria, 19/02/2021 Withdrawn",
+      "url": "https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-21-2401",
+      "publishedAt": "2026-05-26",
+      "excerpt": "Orphan designation: Treatment of paroxysmal nocturnal haemoglobinuria, 19/02/2021 Withdrawn",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-orphan-designations",
+      "siteName": "Orphan designations",
+      "region": "EU",
+      "title": "Orphan designation: Treatment of Alagille syndrome, 09/08/2012 Withdrawn",
+      "url": "https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-12-1040",
+      "publishedAt": "2026-05-26",
+      "excerpt": "Orphan designation: Treatment of Alagille syndrome, 09/08/2012 Withdrawn",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-orphan-designations",
+      "siteName": "Orphan designations",
+      "region": "EU",
+      "title": "Orphan designation: S)-3-((S)-2-(2-((2,6-difluorophenyl)amino)-2-oxoacetamido)propanamido)-4-oxo-5-(2,3,5,6-tetrafluorophenoxy)pentanoic acid Treatment of primary sclerosing cholangitis, 16/10/2017 Withdrawn",
+      "url": "https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-17-1914",
+      "publishedAt": "2026-05-26",
+      "excerpt": "Orphan designation: S)-3-((S)-2-(2-((2,6-difluorophenyl)amino)-2-oxoacetamido)propanamido)-4-oxo-5-(2,3,5,6-tetrafluorophenoxy)pentanoic acid Treatment of primary sclerosing cholangitis, 16/10/2017 Withdrawn",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-orphan-designations",
+      "siteName": "Orphan designations",
+      "region": "EU",
+      "title": "Orphan designation: N-(5-tert-Butylisoxazol-3-yl)-N'-{4-[7-(2-(morpholin-4-yl)ethoxy) imidazo[2,1-b][1,3]benzothiazol-2-yl]phenyl}urea di-hydrochloride salt Treatment of acute myeloid leukaemia, 23/03/2009 Withdrawn",
+      "url": "https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-09-622",
+      "publishedAt": "2026-05-26",
+      "excerpt": "Orphan designation: N-(5-tert-Butylisoxazol-3-yl)-N'-{4-[7-(2-(morpholin-4-yl)ethoxy) imidazo[2,1-b][1,3]benzothiazol-2-yl]phenyl}urea di-hydrochloride salt Treatment of acute myeloid leukaemia, 23/03/2009 Withdrawn",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-orphan-designations",
+      "siteName": "Orphan designations",
+      "region": "EU",
+      "title": "Orphan designation: Mavoglurant  Treatment of fragile X syndrome, 10/10/2012 Withdrawn",
+      "url": "https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-12-1046",
+      "publishedAt": "2026-05-26",
+      "excerpt": "Orphan designation: Mavoglurant  Treatment of fragile X syndrome, 10/10/2012 Withdrawn",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-orphan-designations",
+      "siteName": "Orphan designations",
+      "region": "EU",
+      "title": "Orphan designation: Marzeptacog alfa (activated) Treatment of haemophilia B, 01/04/2019 Withdrawn",
+      "url": "https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-19-2151",
+      "publishedAt": "2026-05-26",
+      "excerpt": "Orphan designation: Marzeptacog alfa (activated) Treatment of haemophilia B, 01/04/2019 Withdrawn",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-orphan-designations",
+      "siteName": "Orphan designations",
+      "region": "EU",
+      "title": "Orphan designation: Ilginatinib maleate Treatment of myelofibrosis, 25/07/2023 Withdrawn",
+      "url": "https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-23-2803",
+      "publishedAt": "2026-05-26",
+      "excerpt": "Orphan designation: Ilginatinib maleate Treatment of myelofibrosis, 25/07/2023 Withdrawn",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-orphan-designations",
+      "siteName": "Orphan designations",
+      "region": "EU",
+      "title": "Orphan designation: Humanised monoclonal antibody against P-selectin (crizanlizumab) Treatment of sickle cell disease, 09/08/2012 Withdrawn",
+      "url": "https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-12-1034",
+      "publishedAt": "2026-05-26",
+      "excerpt": "Orphan designation: Humanised monoclonal antibody against P-selectin (crizanlizumab) Treatment of sickle cell disease, 09/08/2012 Withdrawn",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-orphan-designations",
+      "siteName": "Orphan designations",
+      "region": "EU",
+      "title": "Orphan designation: Human platelet antigen-1a immunoglobulin Prevention of fetal and neonatal alloimmune thrombocytopenia, 27/10/2011 Withdrawn",
+      "url": "https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-11-922",
+      "publishedAt": "2026-05-26",
+      "excerpt": "Orphan designation: Human platelet antigen-1a immunoglobulin Prevention of fetal and neonatal alloimmune thrombocytopenia, 27/10/2011 Withdrawn",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-orphan-designations",
+      "siteName": "Orphan designations",
+      "region": "EU",
+      "title": "Orphan designation: Dantrolene sodium Treatment of Wolfram syndrome, 12/12/2016 Withdrawn",
+      "url": "https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-16-1800",
+      "publishedAt": "2026-05-26",
+      "excerpt": "Orphan designation: Dantrolene sodium Treatment of Wolfram syndrome, 12/12/2016 Withdrawn",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-orphan-designations",
+      "siteName": "Orphan designations",
+      "region": "EU",
+      "title": "Orphan designation: Copanlisib Treatment of marginal zone lymphoma, 24/08/2018 Withdrawn",
+      "url": "https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-18-2064",
+      "publishedAt": "2026-05-26",
+      "excerpt": "Orphan designation: Copanlisib Treatment of marginal zone lymphoma, 24/08/2018 Withdrawn",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-orphan-designations",
+      "siteName": "Orphan designations",
+      "region": "EU",
+      "title": "Orphan designation: 5-Methyl-pyridine-2-sulfonic acid{6-(2-hydroxy-ethoxy)-5-(2-methoxy-phenoxy)-2-[2-(1H-tetrazol-5-yl)-pyridin-4-yl]-pyrimidin-4-yl}-amide sodium salt Treatment of aneurysmal subarachnoid haemorrhage, 12/12/2003 Withdrawn",
+      "url": "https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-03-182",
+      "publishedAt": "2026-05-26",
+      "excerpt": "Orphan designation: 5-Methyl-pyridine-2-sulfonic acid{6-(2-hydroxy-ethoxy)-5-(2-methoxy-phenoxy)-2-[2-(1H-tetrazol-5-yl)-pyridin-4-yl]-pyrimidin-4-yl}-amide sodium salt Treatment of aneurysmal subarachnoid haemorrhage, 12/12/2003 Withdrawn",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-orphan-designations",
+      "siteName": "Orphan designations",
+      "region": "EU",
+      "title": "Orphan designation: 2-[3-(2-chloro-4-{[5-cyclopropyl-3-(2,6-dichlorophenyl)-1,2-oxazol-4-yl]methoxy}phenyl)-3-hydroxyazetidin-1-yl]pyridine-4-carboxylic acid-2-amino-2-(hydroxymethyl)propane-1,3-diol (1/1) Treatment of primary sclerosing cholangitis, 01/04/2019 Withdrawn",
+      "url": "https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-19-2147",
+      "publishedAt": "2026-05-26",
+      "excerpt": "Orphan designation: 2-[3-(2-chloro-4-{[5-cyclopropyl-3-(2,6-dichlorophenyl)-1,2-oxazol-4-yl]methoxy}phenyl)-3-hydroxyazetidin-1-yl]pyridine-4-carboxylic acid-2-amino-2-(hydroxymethyl)propane-1,3-diol (1/1) Treatment of primary sclerosing cholangitis, 01/04/2019 Withdrawn",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-orphan-designations",
+      "siteName": "Orphan designations",
+      "region": "EU",
+      "title": "Orphan designation: 1-[(3S)-3-{4-amino-3-[(3,5-dimethoxyphenyl)ethynyl]-1H-pyrazolo[3,4-d]pyrimidin-1-yl}pyrrolidin-1-yl]-2-propen-1-one (futibatinib) Treatment of biliary tract cancer, 01/04/2019 Withdrawn",
+      "url": "https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-19-2146",
+      "publishedAt": "2026-05-26",
+      "excerpt": "Orphan designation: 1-[(3S)-3-{4-amino-3-[(3,5-dimethoxyphenyl)ethynyl]-1H-pyrazolo[3,4-d]pyrimidin-1-yl}pyrrolidin-1-yl]-2-propen-1-one (futibatinib) Treatment of biliary tract cancer, 01/04/2019 Withdrawn",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "fda-medwatch",
       "siteName": "MedWatch Safety Alerts",
       "region": "US",
@@ -1460,6 +2614,46 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Ucedane, carglumic acid, Date of authorisation: 23/06/2017, Revision: 14, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/ucedane",
+      "publishedAt": "2026-05-26",
+      "excerpt": "Human medicines European public assessment report (EPAR): Ucedane, carglumic acid, Date of authorisation: 23/06/2017, Revision: 14, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Pomalidomide Zentiva, pomalidomide, Date of authorisation: 24/07/2024, Revision: 2, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/pomalidomide-zentiva",
+      "publishedAt": "2026-05-26",
+      "excerpt": "Human medicines European public assessment report (EPAR): Pomalidomide Zentiva, pomalidomide, Date of authorisation: 24/07/2024, Revision: 2, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Fycompa, perampanel, Date of authorisation: 23/07/2012, Revision: 36, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/fycompa",
+      "publishedAt": "2026-05-26",
+      "excerpt": "Human medicines European public assessment report (EPAR): Fycompa, perampanel, Date of authorisation: 23/07/2012, Revision: 36, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Avonex, interferon beta-1a, Date of authorisation: 13/03/1997, Revision: 41, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/avonex",
+      "publishedAt": "2026-05-26",
+      "excerpt": "Human medicines European public assessment report (EPAR): Avonex, interferon beta-1a, Date of authorisation: 13/03/1997, Revision: 41, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "reviews",
       "siteName": "Reviews (EN)",
       "region": "JP",
@@ -1467,6 +2661,16 @@
       "url": "https://www.pmda.go.jp/english/review-services/reviews/approved-information/0004.html",
       "publishedAt": "2026-05-26",
       "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-news-and-press-releases",
+      "siteName": "News and press releases",
+      "region": "EU",
+      "title": "EU recommendations for 2026/2027 seasonal flu vaccine composition",
+      "url": "https://www.ema.europa.eu/en/news/eu-recommendations-2026-2027-seasonal-flu-vaccine-composition",
+      "publishedAt": "2026-05-26",
+      "excerpt": "This news announcement was updated on two occasions. On 7 May 2026, it was updated to include additional recommendations for strains for seasonal egg-derived and live-attenuated…",
       "sourceType": "rss"
     },
     {
@@ -1497,6 +2701,16 @@
       "url": "http://www.fda.gov/drugs/cder-foia-electronic-reading-room/dabur-india-limited-01162026",
       "publishedAt": "2026-05-26",
       "excerpt": "Dabur India Limited - 01/16/2026. Country: India. Record Type: 483",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-regulatory-and-procedural-guidelines",
+      "siteName": "Regulatory and procedural guidelines (human and veterinary)",
+      "region": "EU",
+      "title": "Amended Biologics Working Party Vaccines Quality Operational Expert Group (BV-OEG) Influenza Meeting: EU recommendations for the seasonal influenza vaccine composition for the season 2026/2027",
+      "url": "https://www.ema.europa.eu/en/documents/regulatory-procedural-guideline/amended-biologics-working-party-vaccines-quality-operational-expert-group-bv-oeg-influenza-meeting-eu-recommendations-seasonal-influenza-vaccine-composition-season-2026-2027_en.pdf",
+      "publishedAt": "2026-05-26",
+      "excerpt": "Amended Biologics Working Party Vaccines Quality Operational Expert Group (BV-OEG) Influenza Meeting: EU recommendations for the seasonal influenza vaccine composition for the season 2026/2027",
       "sourceType": "rss"
     },
     {
@@ -1810,6 +3024,206 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "ema-regulatory-and-procedural-guidelines",
+      "siteName": "Regulatory and procedural guidelines (human and veterinary)",
+      "region": "EU",
+      "title": "Questions and answers on periodic safety update report single-assessment (PSUSA): Guidance document for assessors",
+      "url": "https://www.ema.europa.eu/en/documents/regulatory-procedural-guideline/questions-answers-periodic-safety-update-report-single-assessment-psusa-guidance-document-assessors_en.pdf",
+      "publishedAt": "2026-05-22",
+      "excerpt": "Questions and answers on periodic safety update report single-assessment (PSUSA): Guidance document for assessors",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-orphan-designations",
+      "siteName": "Orphan designations",
+      "region": "EU",
+      "title": "Orphan designation: bevacizumab Treatment of hereditary haemorrhagic telangiectasia, 16/12/2014 Positive",
+      "url": "https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-14-1390",
+      "publishedAt": "2026-05-22",
+      "excerpt": "Orphan designation: bevacizumab Treatment of hereditary haemorrhagic telangiectasia, 16/12/2014 Positive",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-orphan-designations",
+      "siteName": "Orphan designations",
+      "region": "EU",
+      "title": "Orphan designation: alpelisib Treatment of PIK3CA related overgrowth spectrum, 26/03/2021 Positive",
+      "url": "https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-21-2420",
+      "publishedAt": "2026-05-22",
+      "excerpt": "Orphan designation: alpelisib Treatment of PIK3CA related overgrowth spectrum, 26/03/2021 Positive",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-orphan-designations",
+      "siteName": "Orphan designations",
+      "region": "EU",
+      "title": "Orphan designation: Copper (64Cu) oxodotreotide Diagnosis of neuroendocrine neoplasms, 09/12/2022 Positive",
+      "url": "https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-22-2727",
+      "publishedAt": "2026-05-22",
+      "excerpt": "Orphan designation: Copper (64Cu) oxodotreotide Diagnosis of neuroendocrine neoplasms, 09/12/2022 Positive",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-news-and-press-releases",
+      "siteName": "News and press releases",
+      "region": "EU",
+      "title": "New medicine for two types of pulmonary fibrosis",
+      "url": "https://www.ema.europa.eu/en/news/new-medicine-two-types-pulmonary-fibrosis",
+      "publishedAt": "2026-05-22",
+      "excerpt": "EMA has recommended granting a marketing authorisation in the European Union (EU) for Jascayd (nerandomilast) to treat adults with idiopathic pulmonary fibrosis (IPF) or…",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-news-and-press-releases",
+      "siteName": "News and press releases",
+      "region": "EU",
+      "title": "Meeting highlights from the Committee for Veterinary Medicinal Products (CVMP) 19-21 May 2026",
+      "url": "https://www.ema.europa.eu/en/news/meeting-highlights-committee-veterinary-medicinal-products-cvmp-19-21-may-2026",
+      "publishedAt": "2026-05-22",
+      "excerpt": "CVMP opinions on veterinary medicinal productsThe Committee adopted a positive opinion for a marketing authorisation for Nobivac NXT HC, for the active immunisation of cats…",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-news-and-press-releases",
+      "siteName": "News and press releases",
+      "region": "EU",
+      "title": "Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 18-21 May 2026",
+      "url": "https://www.ema.europa.eu/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-18-21-may-2026",
+      "publishedAt": "2026-05-22",
+      "excerpt": "Eight new medicines recommended for approvalEMA’s human medicines committee (CHMP) recommended eight medicines for approval at its May 2026 meeting.Jascayd (nerandomilast)…,       CHMP statistics  Key figures from the May 2026 CHMP meeting are represented in the graphic below.     ,                                                                                                                                                     CHMP statistics:…,       Positive recommendations on new medicines, ",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Yttriga, yttrium [90Y] chloride, Date of authorisation: 19/01/2006, Revision: 11, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/yttriga",
+      "publishedAt": "2026-05-22",
+      "excerpt": "Human medicines European public assessment report (EPAR): Yttriga, yttrium [90Y] chloride, Date of authorisation: 19/01/2006, Revision: 11, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-highlights-newsletter",
+      "siteName": "Human Medicines Highlights newsletter",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Vislyfa, ranibizumab, Status: Opinion",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/vislyfa",
+      "publishedAt": "2026-05-22",
+      "excerpt": "Human medicines European public assessment report (EPAR): Vislyfa, ranibizumab, Status: Opinion",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-highlights-newsletter",
+      "siteName": "Human Medicines Highlights newsletter",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Vijoice, alpelisib, Status: Opinion",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/vijoice",
+      "publishedAt": "2026-05-22",
+      "excerpt": "Human medicines European public assessment report (EPAR): Vijoice, alpelisib, Status: Opinion",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Uplizna, inebilizumab, Date of authorisation: 25/04/2022, Revision: 10, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/uplizna",
+      "publishedAt": "2026-05-22",
+      "excerpt": "Human medicines European public assessment report (EPAR): Uplizna, inebilizumab, Date of authorisation: 25/04/2022, Revision: 10, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Piasky, crovalimab, Date of authorisation: 22/08/2024, Revision: 4, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/piasky",
+      "publishedAt": "2026-05-22",
+      "excerpt": "Human medicines European public assessment report (EPAR): Piasky, crovalimab, Date of authorisation: 22/08/2024, Revision: 4, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-withdrawn-applications",
+      "siteName": "Withdrawn applications",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Orblid, bevacizumab, Status: Application withdrawn",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/orblid",
+      "publishedAt": "2026-05-22",
+      "excerpt": "Human medicines European public assessment report (EPAR): Orblid, bevacizumab, Status: Application withdrawn",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-highlights-newsletter",
+      "siteName": "Human Medicines Highlights newsletter",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Liraglutide STADA, liraglutide, Status: Opinion",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/liraglutide-stada",
+      "publishedAt": "2026-05-22",
+      "excerpt": "Human medicines European public assessment report (EPAR): Liraglutide STADA, liraglutide, Status: Opinion",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-highlights-newsletter",
+      "siteName": "Human Medicines Highlights newsletter",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Etcamah, camizestrant, Status: Opinion",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/etcamah",
+      "publishedAt": "2026-05-22",
+      "excerpt": "Human medicines European public assessment report (EPAR): Etcamah, camizestrant, Status: Opinion",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-highlights-newsletter",
+      "siteName": "Human Medicines Highlights newsletter",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Deqtynet, copper (64Cu) oxodotreotide, Status: Opinion",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/deqtynet",
+      "publishedAt": "2026-05-22",
+      "excerpt": "Human medicines European public assessment report (EPAR): Deqtynet, copper (64Cu) oxodotreotide, Status: Opinion",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-highlights-newsletter",
+      "siteName": "Human Medicines Highlights newsletter",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Colchicine Agepha Pharma, colchicine, Status: Opinion",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/colchicine-agepha-pharma",
+      "publishedAt": "2026-05-22",
+      "excerpt": "Human medicines European public assessment report (EPAR): Colchicine Agepha Pharma, colchicine, Status: Opinion",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Adempas, riociguat, Date of authorisation: 27/03/2014, Revision: 18, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/adempas",
+      "publishedAt": "2026-05-22",
+      "excerpt": "Human medicines European public assessment report (EPAR): Adempas, riociguat, Date of authorisation: 27/03/2014, Revision: 18, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-highlights-newsletter",
+      "siteName": "Human Medicines Highlights newsletter",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Ablymico, liraglutide, Status: Opinion",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/ablymico",
+      "publishedAt": "2026-05-22",
+      "excerpt": "Human medicines European public assessment report (EPAR): Ablymico, liraglutide, Status: Opinion",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-scientific-guidelines",
+      "siteName": "Scientific guidelines (human and veterinary)",
+      "region": "EU",
+      "title": "Guideline on good pharmacovigilance practices (GVP): Module VII – Periodic safety update report - Explanatory note",
+      "url": "https://www.ema.europa.eu/en/documents/scientific-guideline/guideline-good-pharmacovigilance-practices-gvp-module-vii-periodic-safety-update-report-explanatory-note_en.pdf",
+      "publishedAt": "2026-05-22",
+      "excerpt": "Guideline on good pharmacovigilance practices (GVP): Module VII – Periodic safety update report - Explanatory note",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "fda-press-releases",
       "siteName": "Press Releases",
       "region": "US",
@@ -1970,6 +3384,16 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "ema-regulatory-and-procedural-guidelines",
+      "siteName": "Regulatory and procedural guidelines (human and veterinary)",
+      "region": "EU",
+      "title": "Guidance on the details of the classification of variations requiring assessment according to Article 62 of Regulation (EU) 2019/6 for veterinary medicinal products and on the documentation to be submitted pursuant to those variations",
+      "url": "https://www.ema.europa.eu/en/documents/regulatory-procedural-guideline/guidance-details-classification-variations-requiring-assessment-according-article-62-regulation-eu-2019-6-veterinary-medicinal-products-documentation-be-submitted-pursuant-those-variations_en.pdf",
+      "publishedAt": "2026-05-21",
+      "excerpt": "Guidance on the details of the classification of variations requiring assessment according to Article 62 of Regulation (EU) 2019/6 for veterinary medicinal products and on the documentation to be submitted pursuant to those variations",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "fda-medwatch",
       "siteName": "MedWatch Safety Alerts",
       "region": "US",
@@ -1977,6 +3401,16 @@
       "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-heart-pump-controller-issue-abiomed",
       "publishedAt": "2026-05-21",
       "excerpt": "A software error may cause the Automated Impella Controller to restart when used in conjunction with left ventricular Impella devices.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-news-and-press-releases",
+      "siteName": "News and press releases",
+      "region": "EU",
+      "title": "EMA closed on Whit Monday, 25 May",
+      "url": "https://www.ema.europa.eu/en/news/ema-closed-whit-monday-25-may",
+      "publishedAt": "2026-05-21",
+      "excerpt": "EMA’s office is closed on 25 May, to mark Whit Monday. The office reopens 08:30 on Tuesday, 26 May.The product emergency hotline is available outside working hours and on…",
       "sourceType": "rss"
     },
     {
@@ -2005,16 +3439,6 @@
       "region": "JP",
       "title": "[採用]事務補助員（医薬翻訳事務）の募集について（採用時期を更新しました）",
       "url": "https://www.pmda.go.jp/recruit/0429.html",
-      "publishedAt": "2026-05-20",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
-      "region": "JP",
-      "title": "[審査]医薬品横断的コンパニオン診断薬等により適応判定が可能な医薬品の情報（2026年5月14日版）を掲載しました",
-      "url": "https://www.pmda.go.jp/review-services/drug-reviews/review-information/cd/0001.html",
       "publishedAt": "2026-05-20",
       "excerpt": "",
       "sourceType": "rss"
@@ -2057,6 +3481,16 @@
       "url": "https://www.pmda.go.jp/english/rs-sb-std/rs/0027.html",
       "publishedAt": "2026-05-20",
       "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-highlights-newsletter",
+      "siteName": "Human Medicines Highlights newsletter",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Iloperidone Vanda Pharmaceuticals, iloperidone, Status: Opinion",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/iloperidone-vanda-pharmaceuticals",
+      "publishedAt": "2026-05-20",
+      "excerpt": "Human medicines European public assessment report (EPAR): Iloperidone Vanda Pharmaceuticals, iloperidone, Status: Opinion",
       "sourceType": "rss"
     },
     {
@@ -2107,6 +3541,16 @@
       "url": "http://www.fda.gov/news-events/press-announcements/fda-warns-retailers-selling-illegal-tobacco-products-look-everyday-products",
       "publishedAt": "2026-05-20",
       "excerpt": "FDA Warns Retailers Selling Illegal Tobacco Products That Look Like Everyday Products",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-news-and-press-releases",
+      "siteName": "News and press releases",
+      "region": "EU",
+      "title": "EU tracks progress towards 2030 clinical trial targets",
+      "url": "https://www.ema.europa.eu/en/news/eu-tracks-progress-towards-2030-clinical-trial-targets",
+      "publishedAt": "2026-05-20",
+      "excerpt": "The European Commission (EC), the Heads of Medicines Agencies (HMA) and EMA have published their first report tracking progress against the EU’s new clinical trial targets.…",
       "sourceType": "rss"
     },
     {
@@ -2257,6 +3701,56 @@
       "url": "https://www.pmda.go.jp/review-services/drug-reviews/about-reviews/devices/0031.html",
       "publishedAt": "2026-05-18",
       "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-orphan-designations",
+      "siteName": "Orphan designations",
+      "region": "EU",
+      "title": "Orphan designation: serplulimab Treatment of small cell lung cancer, 20/02/2025 Withdrawn",
+      "url": "https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-22-2731",
+      "publishedAt": "2026-05-18",
+      "excerpt": "Orphan designation: serplulimab Treatment of small cell lung cancer, 20/02/2025 Withdrawn",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-orphan-designations",
+      "siteName": "Orphan designations",
+      "region": "EU",
+      "title": "Orphan designation: orvepitant maleate Treatment of idiopathic pulmonary fibrosis, 21/11/2025 Withdrawn",
+      "url": "https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-25-3159",
+      "publishedAt": "2026-05-18",
+      "excerpt": "Orphan designation: orvepitant maleate Treatment of idiopathic pulmonary fibrosis, 21/11/2025 Withdrawn",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-orphan-designations",
+      "siteName": "Orphan designations",
+      "region": "EU",
+      "title": "Orphan designation: adeno-associated viral vector serotype 9 containing the human mini-dystrophin gene Treatment of Duchenne muscular dystrophy, 29/08/2016 Withdrawn",
+      "url": "https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-16-1716",
+      "publishedAt": "2026-05-18",
+      "excerpt": "Orphan designation: adeno-associated viral vector serotype 9 containing the human mini-dystrophin gene Treatment of Duchenne muscular dystrophy, 29/08/2016 Withdrawn",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-orphan-designations",
+      "siteName": "Orphan designations",
+      "region": "EU",
+      "title": "Orphan designation: RNA editing antisense oligonucleotide against the Z mutation of the human SERPINA1 mRNA transcript, sodium salt Treatment of alpha-1 antitrypsin deficiency, 22/08/2025 Withdrawn",
+      "url": "https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-25-3114",
+      "publishedAt": "2026-05-18",
+      "excerpt": "Orphan designation: RNA editing antisense oligonucleotide against the Z mutation of the human SERPINA1 mRNA transcript, sodium salt Treatment of alpha-1 antitrypsin deficiency, 22/08/2025 Withdrawn",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-orphan-designations",
+      "siteName": "Orphan designations",
+      "region": "EU",
+      "title": "Orphan designation: 4-[(3S)-3-aminopyrrolidin-1-yl]-6-cyano-5-(3,5-difluorophenyl)-N-[(2S)-1,1,1-trifluoropropan-2-yl]pyridine-3-carboxamide Treatment of congenital hyperinsulinism, 09/12/2020 Withdrawn",
+      "url": "https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-20-2376",
+      "publishedAt": "2026-05-18",
+      "excerpt": "Orphan designation: 4-[(3S)-3-aminopyrrolidin-1-yl]-6-cyano-5-(3,5-difluorophenyl)-N-[(2S)-1,1,1-trifluoropropan-2-yl]pyridine-3-carboxamide Treatment of congenital hyperinsulinism, 09/12/2020 Withdrawn",
       "sourceType": "rss"
     },
     {
@@ -2520,16 +4014,6 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "fda-recalls",
-      "siteName": "Recalls",
-      "region": "US",
-      "title": "HH Fresh Trading. Recalls TW Enoki Mushrooms 150g Because of Possible Health Risk",
-      "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/hh-fresh-trading-recalls-tw-enoki-mushrooms-150g-because-possible-health-risk",
-      "publishedAt": "2026-05-13",
-      "excerpt": "HH Fresh Trading of Los Angeles, California State is recalling 120 cases of Enoki Mushroom 150g, because it has the potential to be contaminated with Listeria monocytogenes, an organism which can cause serious and sometimes fatal infections in young children, frail or elderly people, and others with",
-      "sourceType": "rss"
-    },
-    {
       "siteId": "fda-food-safety-recalls",
       "siteName": "Food Safety Recalls",
       "region": "US",
@@ -2630,6 +4114,36 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "ema-news-and-press-releases",
+      "siteName": "News and press releases",
+      "region": "EU",
+      "title": "EMA welcomes political agreement on Critical Medicines Act",
+      "url": "https://www.ema.europa.eu/en/news/ema-welcomes-political-agreement-critical-medicines-act",
+      "publishedAt": "2026-05-12",
+      "excerpt": "EMA welcomes the provisional agreement reached by the European Parliament and the Council of the European Union on the proposed Critical Medicines Act (CMA), which represents an…,         “At a time of increasing global disruptions, resilient and secure supply chains for critical medicines are essential to protect public health across the EU.\n\nToday’s…,   In recent years, EU Member States have faced serious medicine shortages and global challenges such as the COVID-19 pandemic and geopolitical t",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-news-and-press-releases",
+      "siteName": "News and press releases",
+      "region": "EU",
+      "title": "EMA business hours over Ascension Day holidays, 14 and 15 May",
+      "url": "https://www.ema.europa.eu/en/news/ema-business-hours-over-ascension-day-holidays-14-15-may",
+      "publishedAt": "2026-05-12",
+      "excerpt": "EMA's office is closed from 18:00 on 13 May 2026 until 08:30 on 18 May 2026.The product emergency hotline is available outside working hours and on public holidays. To reach…",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-news-and-press-releases",
+      "siteName": "News and press releases",
+      "region": "EU",
+      "title": "EMA actively monitoring cruise ship Hantavirus outbreak",
+      "url": "https://www.ema.europa.eu/en/news/ema-actively-monitoring-cruise-ship-hantavirus-outbreak",
+      "publishedAt": "2026-05-12",
+      "excerpt": "EMA is actively monitoring the ongoing hantavirus outbreak linked to a cruise ship, in coordination with other EU bodies.The virus has been identified as Andes hantavirus, the…",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "fda-medwatch",
       "siteName": "MedWatch Safety Alerts",
       "region": "US",
@@ -2700,16 +4214,6 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "fda-medwatch",
-      "siteName": "MedWatch Safety Alerts",
-      "region": "US",
-      "title": "Convenience Kit Recall: Aligned Medical Solutions Removes Convenience Kits Containing Namic RA Syringes",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-recall-aligned-medical-solutions-removes-convenience-kits-containing-namic-ra",
-      "publishedAt": "2026-05-11",
-      "excerpt": "The adaptor on Namic RA syringes may unwind during use. The resulting loose connection or disconnection may lead to infection, blood loss, or air embolism.",
-      "sourceType": "rss"
-    },
-    {
       "siteId": "notice-from-tfda",
       "siteName": "公告",
       "region": "TW",
@@ -2767,6 +4271,16 @@
       "url": "http://www.fda.gov/about-fda/fda-commissioner/sca-pharmaceuticals-llc-windsor-ct-483-issued-03132026",
       "publishedAt": "2026-05-08",
       "excerpt": "Task Description Request Please post to the OII FOIA Electronic Reading Room Record Date 3/13/2026 Short Title (70 char) SCA Pharmaceuticals LLC. Windsor, CT. 483 issued 03/13/2026 FEI Number 3013736415 Firm Name SCA Pharmaceuticals LLC Record Type 483 State CT Establishment Type Outsourcing Facilit",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-news-and-press-releases",
+      "siteName": "News and press releases",
+      "region": "EU",
+      "title": "Meeting highlights from the Pharmacovigilance Risk Assessment Committee (PRAC) 4-7 May 2026",
+      "url": "https://www.ema.europa.eu/en/news/meeting-highlights-pharmacovigilance-risk-assessment-committee-prac-4-7-may-2026",
+      "publishedAt": "2026-05-08",
+      "excerpt": "At its monthly meeting, EMA’s safety committee (PRAC) carried out its broad range of responsibilities, which cover all aspects of the risk management of the use of medicines:…,       Agenda                        Agenda of the PRAC meeting 4-7 May 2026Draft                Reference Number: EMA/PRAC/89531/2026 Corr…,       PRAC statistics: May 2026      ,                         PRAC statistics: May 2026                    English (EN) (104.16 KB - PDF)First published: 08/05/2026            View ",
       "sourceType": "rss"
     },
     {
@@ -2943,16 +4457,6 @@
       "siteId": "notice-from-tfda",
       "siteName": "公告",
       "region": "TW",
-      "title": "預告修正「健康食品之調節血脂功能評估方法」草案",
-      "url": "http://www.fda.gov.tw/tc/newsContent.aspx?cid=5072&id=31536&utm_source=rss&utm_medium=feed&utm_campaign=rss_subscription",
-      "publishedAt": "2026-05-05",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "notice-from-tfda",
-      "siteName": "公告",
-      "region": "TW",
       "title": "預告修正「健康食品之調節血糖功能評估方法」草案",
       "url": "http://www.fda.gov.tw/tc/newsContent.aspx?cid=5072&id=31537&utm_source=rss&utm_medium=feed&utm_campaign=rss_subscription",
       "publishedAt": "2026-05-05",
@@ -3007,6 +4511,16 @@
       "url": "http://www.fda.gov/news-events/press-announcements/fda-expands-market-access-authorizes-new-ends-products",
       "publishedAt": "2026-05-05",
       "excerpt": "FDA today authorized the marketing of four Glas electronic nicotine delivery systems (ENDS) through the premarket tobacco product application (PMTA) pathway.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-inspections",
+      "siteName": "Inspections",
+      "region": "EU",
+      "title": "Template - Request for compliance check on an agreed paediatric investigation plan (PIP)",
+      "url": "https://www.ema.europa.eu/system/files/documents/template-form/compliance-request-template-applicants-en.docx",
+      "publishedAt": "2026-05-04",
+      "excerpt": "Template - Request for compliance check on an agreed paediatric investigation plan (PIP)",
       "sourceType": "rss"
     },
     {
@@ -3220,16 +4734,6 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "notice-from-tfda",
-      "siteName": "公告",
-      "region": "TW",
-      "title": "公告「人類胞外體製劑臨床試驗申請指引」",
-      "url": "http://www.fda.gov.tw/tc/newsContent.aspx?cid=3&id=31534&utm_source=rss&utm_medium=feed&utm_campaign=rss_subscription",
-      "publishedAt": "2026-04-29",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
       "siteId": "fda-ora-foia-electronic-reading-room",
       "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
       "region": "US",
@@ -3285,16 +4789,6 @@
       "region": "JP",
       "title": "医療機器リスク管理計画（RMP）に関する情報を更新しました",
       "url": "https://www.pmda.go.jp/safety/info-services/devices/0125.html",
-      "publishedAt": "2026-04-28",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "PMDA：トップ 安全対策",
-      "siteName": "Safety Measures (JP)",
-      "region": "JP",
-      "title": "[医薬]デュロキセチン塩酸塩製剤におけるニトロソアミン類検出のお知らせを掲載しました",
-      "url": "https://www.pmda.go.jp/safety/info-services/drugs/0371.html",
       "publishedAt": "2026-04-28",
       "excerpt": "",
       "sourceType": "rss"
@@ -6806,6 +8300,16 @@
       "title": "國產食品產製前配方審查審查費收費標準",
       "url": "http://www.fda.gov.tw/tc/includes/GetFile.ashx?id=72&mid=46&utm_source=rss&utm_medium=feed&utm_campaign=rss_subscription",
       "publishedAt": "2009-11-27",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-medwatch",
+      "siteName": "MedWatch Safety Alerts",
+      "region": "US",
+      "title": "",
+      "url": "http://www.fda.gov/node/",
+      "publishedAt": null,
       "excerpt": "",
       "sourceType": "rss"
     }
