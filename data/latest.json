@@ -1,54 +1,144 @@
 {
-  "generatedAt": "2026-06-08T21:22:30.711935+00:00",
+  "generatedAt": "2026-06-09T10:44:14.590403+00:00",
   "count": 634,
   "errors": [
     {
       "groupId": "tfda",
       "siteId": "notice-from-tfda",
-      "error": "HTTPSConnectionPool(host='www.fda.gov.tw', port=443): Max retries exceeded with url: /tc/rssAnnouncement.ashx (Caused by NewConnectionError(\"HTTPSConnection(host='www.fda.gov.tw', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable\"))"
+      "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
     },
     {
       "groupId": "tfda",
       "siteId": "tfda-news-and-press-releases",
-      "error": "HTTPSConnectionPool(host='www.fda.gov.tw', port=443): Max retries exceeded with url: /tc/rssNews.ashx (Caused by NewConnectionError(\"HTTPSConnection(host='www.fda.gov.tw', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable\"))"
+      "error": "HTTPSConnectionPool(host='www.fda.gov.tw', port=443): Max retries exceeded with url: /tc/rssNews.ashx (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1016)')))"
     },
     {
       "groupId": "tfda",
       "siteId": "medicines-medical-devices-and-cosmetics",
-      "error": "HTTPSConnectionPool(host='www.fda.gov.tw', port=443): Max retries exceeded with url: /tc/rssLawMedical.ashx (Caused by NewConnectionError(\"HTTPSConnection(host='www.fda.gov.tw', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable\"))"
+      "error": "HTTPSConnectionPool(host='www.fda.gov.tw', port=443): Max retries exceeded with url: /tc/rssLawMedical.ashx (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1016)')))"
     },
     {
       "groupId": "tfda",
       "siteId": "controlled-drugs",
-      "error": "HTTPSConnectionPool(host='www.fda.gov.tw', port=443): Max retries exceeded with url: /tc/rssLawControlled.ashx (Caused by NewConnectionError(\"HTTPSConnection(host='www.fda.gov.tw', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable\"))"
+      "error": "HTTPSConnectionPool(host='www.fda.gov.tw', port=443): Max retries exceeded with url: /tc/rssLawControlled.ashx (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1016)')))"
     },
     {
       "groupId": "tfda",
       "siteId": "light-drugs",
-      "error": "HTTPSConnectionPool(host='www.fda.gov.tw', port=443): Max retries exceeded with url: /tc/rssLight_Drug.ashx (Caused by NewConnectionError(\"HTTPSConnection(host='www.fda.gov.tw', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable\"))"
+      "error": "HTTPSConnectionPool(host='www.fda.gov.tw', port=443): Max retries exceeded with url: /tc/rssLight_Drug.ashx (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1016)')))"
     },
     {
       "groupId": "tfda",
       "siteId": "fees-and-other-charges",
-      "error": "HTTPSConnectionPool(host='www.fda.gov.tw', port=443): Max retries exceeded with url: /tc/rssLawFees.ashx (Caused by NewConnectionError(\"HTTPSConnection(host='www.fda.gov.tw', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable\"))"
+      "error": "HTTPSConnectionPool(host='www.fda.gov.tw', port=443): Max retries exceeded with url: /tc/rssLawFees.ashx (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1016)')))"
     },
     {
       "groupId": "tfda",
       "siteId": "legislative-amendments-section",
-      "error": "HTTPSConnectionPool(host='www.fda.gov.tw', port=443): Max retries exceeded with url: /tc/rssLawAmending.ashx (Caused by NewConnectionError(\"HTTPSConnection(host='www.fda.gov.tw', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable\"))"
+      "error": "HTTPSConnectionPool(host='www.fda.gov.tw', port=443): Max retries exceeded with url: /tc/rssLawAmending.ashx (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1016)')))"
     },
     {
       "groupId": "pmda",
       "siteId": "PMDA：トップ 国際活動",
-      "error": "HTTPSConnectionPool(host='www.pmda.go.jp', port=443): Max retries exceeded with url: /rss_017.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.pmda.go.jp', port=443) at 0x7fbfd194f6d0>, 'Connection to www.pmda.go.jp timed out. (connect timeout=30)'))"
+      "error": "HTTPSConnectionPool(host='www.pmda.go.jp', port=443): Max retries exceeded with url: /rss_017.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.pmda.go.jp', port=443) at 0x7f88d37f2e50>, 'Connection to www.pmda.go.jp timed out. (connect timeout=30)'))"
     },
     {
       "groupId": "pmda",
       "siteId": "PMDA：トップ その他",
-      "error": "HTTPSConnectionPool(host='www.pmda.go.jp', port=443): Max retries exceeded with url: /rss_016.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.pmda.go.jp', port=443) at 0x7fbfd1905450>, 'Connection to www.pmda.go.jp timed out. (connect timeout=30)'))"
+      "error": "HTTPSConnectionPool(host='www.pmda.go.jp', port=443): Max retries exceeded with url: /rss_016.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.pmda.go.jp', port=443) at 0x7f88d36583d0>, 'Connection to www.pmda.go.jp timed out. (connect timeout=30)'))"
     }
   ],
   "items": [
+    {
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
+      "region": "JP",
+      "title": "[審査]2026年度 新再生医療等製品の承認品目一覧を掲載しました",
+      "url": "https://www.pmda.go.jp/review-services/drug-reviews/review-information/ctp/0018.html",
+      "publishedAt": "2026-06-09",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
+      "region": "JP",
+      "title": "[安全]クラスI回収 該当回収品目　照射濃厚血小板-LRBS「日赤」",
+      "url": "https://www.pmda.go.jp/safety/info-services/drugs/calling-attention/recall-info/0002.html",
+      "publishedAt": "2026-06-09",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Safety Measures (JP)",
+      "region": "JP",
+      "title": "[医薬]クラスI回収 該当回収品目　照射濃厚血小板-LRBS「日赤」",
+      "url": "https://www.pmda.go.jp/safety/info-services/drugs/calling-attention/recall-info/0002.html",
+      "publishedAt": "2026-06-09",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "PMDA：トップ 承認審査",
+      "siteName": "Review for (marketing) approval (JP)",
+      "region": "JP",
+      "title": "[再生]2026年度 新再生医療等製品の承認品目一覧を掲載しました",
+      "url": "https://www.pmda.go.jp/review-services/drug-reviews/review-information/ctp/0018.html",
+      "publishedAt": "2026-06-09",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Rinvoq, upadacitinib, Date of authorisation: 16/12/2019, Revision: 30, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/rinvoq",
+      "publishedAt": "2026-06-09",
+      "excerpt": "Human medicines European public assessment report (EPAR): Rinvoq, upadacitinib, Date of authorisation: 16/12/2019, Revision: 30, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Rinvoq, upadacitinib, Date of authorisation: 16/12/2019, Revision: 30, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/rinvoq",
+      "publishedAt": "2026-06-09",
+      "excerpt": "Human medicines European public assessment report (EPAR): Rinvoq, upadacitinib, Date of authorisation: 16/12/2019, Revision: 30, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "EMA/HMA European platform for regulatory science research platform meeting – draft agenda",
+      "url": "https://www.ema.europa.eu/system/files/documents/agenda/2026-06-16-draft-agenda-meeting-european-platform-regulatory-science-research_en.pdf",
+      "publishedAt": "2026-06-09",
+      "excerpt": "EMA/HMA European platform for regulatory science research platform meeting – draft agenda",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Agenda - Clinical trials information system information day webinar",
+      "url": "https://www.ema.europa.eu/system/files/documents/agenda/2-ctis-info-event-17-june-2026-draft-agend-en.pdf",
+      "publishedAt": "2026-06-09",
+      "excerpt": "Agenda - Clinical trials information system information day webinar",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Agenda - Challenges in drug development, regulation and clinical practice in immune thrombocytopenia",
+      "url": "https://www.ema.europa.eu/system/files/documents/agenda/agenda-workshop-immune-thrombocytopenia-30-june-20-en.pdf",
+      "publishedAt": "2026-06-09",
+      "excerpt": "Agenda - Challenges in drug development, regulation and clinical practice in immune thrombocytopenia",
+      "sourceType": "rss"
+    },
     {
       "siteId": "PMDAの新着情報",
       "siteName": "What's New (JP)",
@@ -390,6 +480,16 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "fda-medwatch",
+      "siteName": "MedWatch Safety Alerts",
+      "region": "US",
+      "title": "Early Alert: Breathing Circuit Set Issue from Hamilton Medical",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-breathing-circuit-set-issue-hamilton-medical",
+      "publishedAt": "2026-06-08",
+      "excerpt": "The ventilator breathing circuits are intended to connect a ventilator to a patient tube or mask. Obstruction may result in inadequate ventilation",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "ema-whats-new",
       "siteName": "What's new",
       "region": "EU",
@@ -450,6 +550,16 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "fda-medwatch",
+      "siteName": "MedWatch Safety Alerts",
+      "region": "US",
+      "title": "BD Issues Nationwide Recall for Specific Lots of ChloraPrep™ Clear Single Sterile 1 mL and FREPP™ Clear 1.5 mL Applicators Due to Microbial Contamination",
+      "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/bd-issues-nationwide-recall-specific-lots-chlorapreptm-clear-single-sterile-1-ml-and-frepptm-clear",
+      "publishedAt": "2026-06-08",
+      "excerpt": "FRANKLIN LAKES, N.J. (June 06, 2026) – BD (Becton, Dickinson and Company) is voluntarily recalling lot 4032183 of ChloraPrep™ Clear 1 mL Single Sterile and lot 4073005 of FREPP™ Clear 1.5 mL applicators with paper lidding to the consumer level. These products are being recalled due to fungal contami",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "fda-whats-new-drugs",
       "siteName": "What's New: Drugs",
       "region": "US",
@@ -477,16 +587,6 @@
       "url": "https://www.ema.europa.eu/system/files/documents/agenda/draft-prac-agenda-8-11-june-2026-publication_en.pdf",
       "publishedAt": "2026-06-08",
       "excerpt": "Agenda of the PRAC meeting 8-11 June 2026",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "ema-whats-new",
-      "siteName": "What's new",
-      "region": "EU",
-      "title": "Agenda - Clinical trials information system information day webinar",
-      "url": "https://www.ema.europa.eu/system/files/documents/agenda/ctis-info-event-17-june-2026-en.pdf",
-      "publishedAt": "2026-06-08",
-      "excerpt": "Agenda - Clinical trials information system information day webinar",
       "sourceType": "rss"
     },
     {
@@ -1050,16 +1150,6 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "ema-whats-new",
-      "siteName": "What's new",
-      "region": "EU",
-      "title": "Agenda - Challenges in drug development, regulation and clinical practice in immune thrombocytopenia",
-      "url": "https://www.ema.europa.eu/system/files/documents/agenda/agenda-workshop-immune-thrombocytopenia-30-june-2026_en.pdf",
-      "publishedAt": "2026-06-05",
-      "excerpt": "Agenda - Challenges in drug development, regulation and clinical practice in immune thrombocytopenia",
-      "sourceType": "rss"
-    },
-    {
       "siteId": "PMDAの新着情報",
       "siteName": "What's New (JP)",
       "region": "JP",
@@ -1093,16 +1183,6 @@
       "siteId": "PMDAの新着情報",
       "siteName": "What's New (JP)",
       "region": "JP",
-      "title": "[安全]クラスI回収 該当回収品目　照射赤血球液-LR「日赤」、新鮮凍結血漿-LR「日赤」480、新鮮凍結血漿-LR「日赤」240、他3件",
-      "url": "https://www.pmda.go.jp/safety/info-services/drugs/calling-attention/recall-info/0002.html",
-      "publishedAt": "2026-06-04",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
-      "region": "JP",
       "title": "[基準]Early Consideration：モノクローナル抗体の一般毒性評価についての考え（Early Consideration）の英語版を掲載しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/guidance-guideline/0003.html",
       "publishedAt": "2026-06-04",
@@ -1125,16 +1205,6 @@
       "region": "JP",
       "title": "[国際][イベント]「PMDA-ATC 10周年記念セレモニー」の開催報告を掲載しました",
       "url": "https://www.pmda.go.jp/int-activities/symposia/0169.html",
-      "publishedAt": "2026-06-04",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "PMDA：トップ 安全対策",
-      "siteName": "Safety Measures (JP)",
-      "region": "JP",
-      "title": "[医薬]クラスI回収 該当回収品目　照射赤血球液-LR「日赤」、新鮮凍結血漿-LR「日赤」480、新鮮凍結血漿-LR「日赤」240、他3件",
-      "url": "https://www.pmda.go.jp/safety/info-services/drugs/calling-attention/recall-info/0002.html",
       "publishedAt": "2026-06-04",
       "excerpt": "",
       "sourceType": "rss"
@@ -1320,16 +1390,6 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "ema-whats-new",
-      "siteName": "What's new",
-      "region": "EU",
-      "title": "Human medicines European public assessment report (EPAR): Enflonsia, clesrovimab, Date of authorisation: 15/04/2026, Revision: 1, Status: Authorised",
-      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/enflonsia",
-      "publishedAt": "2026-06-04",
-      "excerpt": "Human medicines European public assessment report (EPAR): Enflonsia, clesrovimab, Date of authorisation: 15/04/2026, Revision: 1, Status: Authorised",
-      "sourceType": "rss"
-    },
-    {
       "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
       "siteName": "Human medicines: EPARs and summaries of opinion",
       "region": "EU",
@@ -1427,16 +1487,6 @@
       "url": "https://www.ema.europa.eu/en/medicines/human/paediatric-investigation-plans/ema-pe-0000232769",
       "publishedAt": "2026-06-04",
       "excerpt": "EMA/PE/0000232769",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "ema-whats-new",
-      "siteName": "What's new",
-      "region": "EU",
-      "title": "EMA/PE/0000232764",
-      "url": "https://www.ema.europa.eu/en/medicines/human/paediatric-investigation-plans/ema-pe-0000232764",
-      "publishedAt": "2026-06-04",
-      "excerpt": "EMA/PE/0000232764",
       "sourceType": "rss"
     },
     {
@@ -2500,16 +2550,6 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
-      "siteName": "Human medicines: EPARs and summaries of opinion",
-      "region": "EU",
-      "title": "Human medicines European public assessment report (EPAR): Optison, perflutren, Date of authorisation: 17/05/1998, Revision: 20, Status: Authorised",
-      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/optison",
-      "publishedAt": "2026-05-29",
-      "excerpt": "Human medicines European public assessment report (EPAR): Optison, perflutren, Date of authorisation: 17/05/1998, Revision: 20, Status: Authorised",
-      "sourceType": "rss"
-    },
-    {
       "siteId": "fda-press-releases",
       "siteName": "Press Releases",
       "region": "US",
@@ -2764,7 +2804,7 @@
       "siteName": "MedWatch Safety Alerts",
       "region": "US",
       "title": "Early Alert: Heart Pump Issue from Abiomed",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-heart-pump-issue-abiomed",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-heart-pump-issue-abiomed-0",
       "publishedAt": "2026-05-27",
       "excerpt": "Specific Impella CP Sets are out of specification; use may result in low purge pressure events from the onset of the case",
       "sourceType": "rss"
@@ -3423,16 +3463,6 @@
       "siteId": "PMDAの新着情報",
       "siteName": "What's New (JP)",
       "region": "JP",
-      "title": "[安全]「不具合が疑われる症例報告に関する情報（医療機器）」に2026年1月分の情報を追加しました",
-      "url": "https://www.pmda.go.jp/safety/info-services/devices/0090.html",
-      "publishedAt": "2026-05-25",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
-      "region": "JP",
       "title": "[安全]「不具合が疑われる症例報告に関する情報（コンビネーション製品）」に2026年1月分の情報を追加しました",
       "url": "https://www.pmda.go.jp/safety/info-services/drugs/adr-info/malfunctions-combination-drugs/0001.html",
       "publishedAt": "2026-05-25",
@@ -3800,16 +3830,6 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "fda-medwatch",
-      "siteName": "MedWatch Safety Alerts",
-      "region": "US",
-      "title": "Ventilator Recall: React Health Removes VOCSN V+Pro Ventilators",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/ventilator-recall-react-health-removes-vocsn-vpro-ventilators",
-      "publishedAt": "2026-05-21",
-      "excerpt": "React Health is removing affected devices due to a manufacturing process deviation that may result in an undetected oxygen leak condition.",
-      "sourceType": "rss"
-    },
-    {
       "siteId": "fda-recalls",
       "siteName": "Recalls",
       "region": "US",
@@ -3860,16 +3880,6 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "fda-medwatch",
-      "siteName": "MedWatch Safety Alerts",
-      "region": "US",
-      "title": "Early Alert: Heart Pump Controller Issue from Abiomed",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-heart-pump-controller-issue-abiomed",
-      "publishedAt": "2026-05-21",
-      "excerpt": "A software error may cause the Automated Impella Controller to restart when used in conjunction with left ventricular Impella devices.",
-      "sourceType": "rss"
-    },
-    {
       "siteId": "ema-news-and-press-releases",
       "siteName": "News and press releases",
       "region": "EU",
@@ -3880,31 +3890,11 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "fda-medwatch",
-      "siteName": "MedWatch Safety Alerts",
-      "region": "US",
-      "title": "Automated Compounding System Recall: Omnicell Removes Syringe Labels Used with the i.v.STATION Automated Compounding System",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/automated-compounding-system-recall-omnicell-removes-syringe-labels-used-ivstation-automated",
-      "publishedAt": "2026-05-21",
-      "excerpt": "Certain labels used with i.v.STATION automated compounding systems may not be detected, leading to mislabeled sterile filled syringes.",
-      "sourceType": "rss"
-    },
-    {
       "siteId": "PMDA：トップ 承認審査",
       "siteName": "Review for (marketing) approval (JP)",
       "region": "JP",
       "title": "[部外][医薬]厚生労働省及びシンガポール保健科学庁Health Sciences Authority間で締結された規制協力覚書の取扱い及びGMP分野の規制協力強化に関するQ&amp;Aを公開しました",
       "url": "https://www.pmda.go.jp/review-services/gmp-qms-gctp/gmp/0001.html",
-      "publishedAt": "2026-05-20",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "PMDA：トップ 承認審査",
-      "siteName": "Review for (marketing) approval (JP)",
-      "region": "JP",
-      "title": "[全製品]IRB登録情報を更新しました",
-      "url": "https://www.pmda.go.jp/review-services/trials/0008.html",
       "publishedAt": "2026-05-20",
       "excerpt": "",
       "sourceType": "rss"
@@ -6113,16 +6103,6 @@
       "siteId": "fda-outbreaks",
       "siteName": "FDA Outbreaks",
       "region": "US",
-      "title": "Outbreak Investigation of Listeria monocytogenes: Fresh Express Packaged Salad (December 2021)",
-      "url": "http://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-listeria-monocytogenes-fresh-express-packaged-salad-december-2021",
-      "publishedAt": "2025-03-26",
-      "excerpt": "The FDA and CDC, in collaboration with state and local partners, are investigating a multistate outbreak of Listeria monocytogenes infections.",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-outbreaks",
-      "siteName": "FDA Outbreaks",
-      "region": "US",
       "title": "Outbreak Investigation of Listeria monocytogenes: Enoki Mushrooms (November 2022)",
       "url": "http://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-listeria-monocytogenes-enoki-mushrooms-november-2022",
       "publishedAt": "2025-03-26",
@@ -6157,6 +6137,16 @@
       "url": "http://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-listeria-monocytogenes-hispanic-style-fresh-and-soft-cheeses-february-2021",
       "publishedAt": "2025-03-26",
       "excerpt": "The FDA, along with CDC and state and local partners, are investigating a multistate outbreak of Listeria monocytogenes infections potentially linked to Hispanic-style fresh and soft cheeses.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-outbreaks",
+      "siteName": "FDA Outbreaks",
+      "region": "US",
+      "title": "Outbreak Investigation of Hepatitis A Virus Infections: Frozen Strawberries (February 2023)",
+      "url": "http://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-hepatitis-virus-infections-frozen-strawberries-february-2023",
+      "publishedAt": "2025-03-26",
+      "excerpt": "The FDA and CDC, in collaboration with state and local partners, are investigating an outbreak of hepatitis A virus infections linked to frozen organic strawberries imported from certain farms located in Baja California, Mexico by a common supplier.",
       "sourceType": "rss"
     },
     {
@@ -6387,6 +6377,16 @@
       "url": "http://www.fda.gov/drugs/news-events-human-drugs/conversation-paxlovid",
       "publishedAt": "2022-07-20",
       "excerpt": "In today’s episode, we’ll be discussing Paxlovid, which is now widely available in community pharmacies.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-medwatch",
+      "siteName": "MedWatch Safety Alerts",
+      "region": "US",
+      "title": "",
+      "url": "http://www.fda.gov/node/",
+      "publishedAt": null,
+      "excerpt": "",
       "sourceType": "rss"
     }
   ]
