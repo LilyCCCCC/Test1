@@ -1,16 +1,31 @@
 {
-  "generatedAt": "2026-06-11T12:54:32.829366+00:00",
-  "count": 789,
+  "generatedAt": "2026-06-11T21:35:52.125849+00:00",
+  "count": 711,
   "errors": [
     {
       "groupId": "pmda",
+      "siteId": "PMDA：トップ 安全対策",
+      "error": "HTTPSConnectionPool(host='www.pmda.go.jp', port=443): Max retries exceeded with url: /rss_018.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.pmda.go.jp', port=443) at 0x7f1b02410490>, 'Connection to www.pmda.go.jp timed out. (connect timeout=30)'))"
+    },
+    {
+      "groupId": "pmda",
+      "siteId": "PMDA：トップ 安全対策",
+      "error": "HTTPSConnectionPool(host='www.pmda.go.jp', port=443): Max retries exceeded with url: /rss_019.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.pmda.go.jp', port=443) at 0x7f1b0244b690>, 'Connection to www.pmda.go.jp timed out. (connect timeout=30)'))"
+    },
+    {
+      "groupId": "pmda",
+      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
+      "error": "HTTPSConnectionPool(host='www.pmda.go.jp', port=443): Max retries exceeded with url: /rss_017.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.pmda.go.jp', port=443) at 0x7f1b02436a90>, 'Connection to www.pmda.go.jp timed out. (connect timeout=30)'))"
+    },
+    {
+      "groupId": "pmda",
       "siteId": "PMDA：トップ 国際活動",
-      "error": "HTTPSConnectionPool(host='www.pmda.go.jp', port=443): Max retries exceeded with url: /rss_017.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.pmda.go.jp', port=443) at 0x7f0bb4bba890>, 'Connection to www.pmda.go.jp timed out. (connect timeout=30)'))"
+      "error": "HTTPSConnectionPool(host='www.pmda.go.jp', port=443): Max retries exceeded with url: /rss_017.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.pmda.go.jp', port=443) at 0x7f1b022f61d0>, 'Connection to www.pmda.go.jp timed out. (connect timeout=30)'))"
     },
     {
       "groupId": "pmda",
       "siteId": "PMDA：トップ その他",
-      "error": "HTTPSConnectionPool(host='www.pmda.go.jp', port=443): Max retries exceeded with url: /rss_016.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.pmda.go.jp', port=443) at 0x7f0bb4bcbc90>, 'Connection to www.pmda.go.jp timed out. (connect timeout=30)'))"
+      "error": "HTTPSConnectionPool(host='www.pmda.go.jp', port=443): Max retries exceeded with url: /rss_016.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.pmda.go.jp', port=443) at 0x7f1b02286610>, 'Connection to www.pmda.go.jp timed out. (connect timeout=30)'))"
     }
   ],
   "items": [
@@ -55,13 +70,23 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 安全対策",
-      "siteName": "Adverse Health Effects Relief (JP)",
-      "region": "JP",
-      "title": "[健康]医薬品副作用被害救済制度 対象除外医薬品等一覧を更新しました",
-      "url": "https://www.pmda.go.jp/relief-services/adr-sufferers/0022.html",
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Withdrawn application: Pluvicto, 23/04/2026",
+      "url": "https://www.ema.europa.eu/en/medicines/human/variation/pluvicto",
       "publishedAt": "2026-06-11",
-      "excerpt": "",
+      "excerpt": "Withdrawn application: Pluvicto, 23/04/2026",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-withdrawn-applications",
+      "siteName": "Withdrawn applications",
+      "region": "EU",
+      "title": "Withdrawn application: Pluvicto, 23/04/2026",
+      "url": "https://www.ema.europa.eu/en/medicines/human/variation/pluvicto",
+      "publishedAt": "2026-06-11",
+      "excerpt": "Withdrawn application: Pluvicto, 23/04/2026",
       "sourceType": "rss"
     },
     {
@@ -75,23 +100,83 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "ema-whats-new",
-      "siteName": "What's new",
-      "region": "EU",
-      "title": "Product Management Services (PMS) - Implementation of International Organization for Standardization (ISO) standards for the identification of medicinal products (IDMP) in Europe - Chapter 3",
-      "url": "https://www.ema.europa.eu/system/files/documents/regulatory-procedural-guideline/eu-iso-idmp-ig_chapter-3-process-electronic-submission-medicinal-product-info_en.pdf",
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "S9 Nonclinical Evaluation for Anticancer Pharmaceuticals--Questions and Answers",
+      "url": "http://www.fda.gov/regulatory-information/search-fda-guidance-documents/s9-nonclinical-evaluation-anticancer-pharmaceuticals-questions-and-answers",
       "publishedAt": "2026-06-11",
-      "excerpt": "Product Management Services (PMS) - Implementation of International Organization for Standardization (ISO) standards for the identification of medicinal products (IDMP) in Europe - Chapter 3",
+      "excerpt": "International Council for Harmonisation - Safety",
       "sourceType": "rss"
     },
     {
-      "siteId": "ema-regulatory-and-procedural-guidelines",
-      "siteName": "Regulatory and procedural guidelines (human and veterinary)",
-      "region": "EU",
-      "title": "Product Management Services (PMS) - Implementation of International Organization for Standardization (ISO) standards for the identification of medicinal products (IDMP) in Europe - Chapter 3",
-      "url": "https://www.ema.europa.eu/en/documents/regulatory-procedural-guideline/product-management-services-pms-implementation-international-organization-standardization-iso-standards-identification-medicinal-products-idmp-europe-chapter-3_en.pdf",
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Registered Outsourcing Facilities",
+      "url": "http://www.fda.gov/drugs/human-drug-compounding/registered-outsourcing-facilities",
       "publishedAt": "2026-06-11",
-      "excerpt": "Product Management Services (PMS) - Implementation of International Organization for Standardization (ISO) standards for the identification of medicinal products (IDMP) in Europe - Chapter 3",
+      "excerpt": "Discover FDA's comprehensive list of registered outsourcing facilities engaged in human drug compounding. Get the latest updates, compliance guidelines, and resources to ensure safe, high-quality compounded medications. Explore regulations and stay informed with verified facility details.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Product Management Service (PMS) information day 2026, Online, European Medicines Agency, Amsterdam, the Netherlands, Broadcast, from 9 June 2026, 08:45 (CEST) to 9 June 2026, 17:00 (CEST)",
+      "url": "https://www.ema.europa.eu/en/events/product-management-service-pms-information-day-2026",
+      "publishedAt": "2026-06-11",
+      "excerpt": "Product Management Service (PMS) information day 2026, Online, European Medicines Agency, Amsterdam, the Netherlands, Broadcast, from 9 June 2026, 08:45 (CEST) to 9 June 2026, 17:00 (CEST)",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Process for the electronic submission of medicinal product information - Chapter 3",
+      "url": "https://www.ema.europa.eu/system/files/documents/other/eu-iso-idmp-ig_chapter-3-process-electronic-submission-medicinal-product-en.pdf",
+      "publishedAt": "2026-06-11",
+      "excerpt": "Process for the electronic submission of medicinal product information - Chapter 3",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "PSUSA/00010217/202509",
+      "url": "https://www.ema.europa.eu/en/medicines/psusa/psusa-00010217-202509",
+      "publishedAt": "2026-06-11",
+      "excerpt": "PSUSA/00010217/202509",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Non-Compliance Letters under 505B(d)(1) of the Federal Food, Drug, and Cosmetic Act",
+      "url": "http://www.fda.gov/drugs/guidance-compliance-regulatory-information/non-compliance-letters-under-505bd1-federal-food-drug-and-cosmetic-act",
+      "publishedAt": "2026-06-11",
+      "excerpt": "Section 505B(d)(1) requires FDA to send a PREA Non-Compliance letter to sponsors who have failed to submit their pediatric assessments required under PREA by the final due date, have failed to seek or obtain a deferral or deferral extension.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "New Safety Information or Potential Signals of Serious Risks Identified from the FDA Adverse Event Monitoring System (AEMS)",
+      "url": "http://www.fda.gov/drugs/fda-adverse-event-monitoring-system-aems/new-safety-information-or-potential-signals-serious-risks-identified-fda-adverse-event-monitoring",
+      "publishedAt": "2026-06-11",
+      "excerpt": "Discover potential signals of serious risks and new safety information identified by the FDA's Adverse Event Monitoring System (AEMS). Learn how the FDA monitors and evaluates drugs for safety concerns, providing important updates on adverse events to protect public health.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Meningitis Outbreak: Voriconazole and Liposomal Amphotericin B Availability Information",
+      "url": "http://www.fda.gov/drugs/drug-shortages/meningitis-outbreak-voriconazole-and-liposomal-amphotericin-b-availability-information",
+      "publishedAt": "2026-06-11",
+      "excerpt": "Voriconazole and Liposomal Amphotericin B Availability Information",
       "sourceType": "rss"
     },
     {
@@ -128,6 +213,86 @@
       "siteId": "ema-whats-new",
       "siteName": "What's new",
       "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Voxzogo, vosoritide, Date of authorisation: 26/08/2021, Revision: 8, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/voxzogo",
+      "publishedAt": "2026-06-11",
+      "excerpt": "Human medicines European public assessment report (EPAR): Voxzogo, vosoritide, Date of authorisation: 26/08/2021, Revision: 8, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Voxzogo, vosoritide, Date of authorisation: 26/08/2021, Revision: 8, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/voxzogo",
+      "publishedAt": "2026-06-11",
+      "excerpt": "Human medicines European public assessment report (EPAR): Voxzogo, vosoritide, Date of authorisation: 26/08/2021, Revision: 8, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Teriflunomide Viatris (previously Teriflunomide Mylan), teriflunomide, Date of authorisation: 09/11/2022, Revision: 9, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/teriflunomide-viatris",
+      "publishedAt": "2026-06-11",
+      "excerpt": "Human medicines European public assessment report (EPAR): Teriflunomide Viatris (previously Teriflunomide Mylan), teriflunomide, Date of authorisation: 09/11/2022, Revision: 9, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Teriflunomide Viatris (previously Teriflunomide Mylan), teriflunomide, Date of authorisation: 09/11/2022, Revision: 9, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/teriflunomide-viatris",
+      "publishedAt": "2026-06-11",
+      "excerpt": "Human medicines European public assessment report (EPAR): Teriflunomide Viatris (previously Teriflunomide Mylan), teriflunomide, Date of authorisation: 09/11/2022, Revision: 9, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Tenofovir disoproxil Zentiva, tenofovir disoproxil, Date of authorisation: 15/09/2016, Revision: 16, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/tenofovir-disoproxil-zentiva",
+      "publishedAt": "2026-06-11",
+      "excerpt": "Human medicines European public assessment report (EPAR): Tenofovir disoproxil Zentiva, tenofovir disoproxil, Date of authorisation: 15/09/2016, Revision: 16, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Tenofovir disoproxil Zentiva, tenofovir disoproxil, Date of authorisation: 15/09/2016, Revision: 16, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/tenofovir-disoproxil-zentiva",
+      "publishedAt": "2026-06-11",
+      "excerpt": "Human medicines European public assessment report (EPAR): Tenofovir disoproxil Zentiva, tenofovir disoproxil, Date of authorisation: 15/09/2016, Revision: 16, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Qtern, saxagliptin,dapagliflozin, Date of authorisation: 15/07/2016, Revision: 16, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/qtern",
+      "publishedAt": "2026-06-11",
+      "excerpt": "Human medicines European public assessment report (EPAR): Qtern, saxagliptin,dapagliflozin, Date of authorisation: 15/07/2016, Revision: 16, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Qtern, saxagliptin,dapagliflozin, Date of authorisation: 15/07/2016, Revision: 16, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/qtern",
+      "publishedAt": "2026-06-11",
+      "excerpt": "Human medicines European public assessment report (EPAR): Qtern, saxagliptin,dapagliflozin, Date of authorisation: 15/07/2016, Revision: 16, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
       "title": "Human medicines European public assessment report (EPAR): Forxiga, dapagliflozin, Date of authorisation: 11/11/2012, Revision: 34, Status: Authorised",
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/forxiga",
       "publishedAt": "2026-06-11",
@@ -162,6 +327,116 @@
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/edistride",
       "publishedAt": "2026-06-11",
       "excerpt": "Human medicines European public assessment report (EPAR): Edistride, dapagliflozin, Date of authorisation: 09/11/2015, Revision: 27, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): DuoPlavin, clopidogrel,acetylsalicylic acid, Date of authorisation: 14/03/2010, Revision: 32, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/duoplavin",
+      "publishedAt": "2026-06-11",
+      "excerpt": "Human medicines European public assessment report (EPAR): DuoPlavin, clopidogrel,acetylsalicylic acid, Date of authorisation: 14/03/2010, Revision: 32, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): DuoPlavin, clopidogrel,acetylsalicylic acid, Date of authorisation: 14/03/2010, Revision: 32, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/duoplavin",
+      "publishedAt": "2026-06-11",
+      "excerpt": "Human medicines European public assessment report (EPAR): DuoPlavin, clopidogrel,acetylsalicylic acid, Date of authorisation: 14/03/2010, Revision: 32, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Brineura, cerliponase alfa, Date of authorisation: 30/05/2017, Revision: 8, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/brineura",
+      "publishedAt": "2026-06-11",
+      "excerpt": "Human medicines European public assessment report (EPAR): Brineura, cerliponase alfa, Date of authorisation: 30/05/2017, Revision: 8, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Brineura, cerliponase alfa, Date of authorisation: 30/05/2017, Revision: 8, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/brineura",
+      "publishedAt": "2026-06-11",
+      "excerpt": "Human medicines European public assessment report (EPAR): Brineura, cerliponase alfa, Date of authorisation: 30/05/2017, Revision: 8, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Human Drug Compounding Policies and Rules",
+      "url": "http://www.fda.gov/drugs/human-drug-compounding/human-drug-compounding-policies-and-rules",
+      "publishedAt": "2026-06-11",
+      "excerpt": "List of compounding policy documents and related materials",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Human Drug Compounding Outsourcing Facility Fees",
+      "url": "http://www.fda.gov/industry/fda-user-fee-programs/human-drug-compounding-outsourcing-facility-fees",
+      "publishedAt": "2026-06-11",
+      "excerpt": "Human Drug Compounding Outsourcing Facility Fees",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-medwatch",
+      "siteName": "MedWatch Safety Alerts",
+      "region": "US",
+      "title": "Heart Pump Correction: Abiomed Issues Correction for Automated Impella Controllers",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/heart-pump-correction-abiomed-issues-correction-automated-impella-controllers",
+      "publishedAt": "2026-06-11",
+      "excerpt": "Certain AIC units require hardware updates to address potential safety concerns that could lead to a delay or loss of hemodynamic support.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Generic Drug User Fee Amendments",
+      "url": "http://www.fda.gov/industry/fda-user-fee-programs/generic-drug-user-fee-amendments",
+      "publishedAt": "2026-06-11",
+      "excerpt": "This page features news and information for industry and stakeholders about GDUFA, its fee structure, payment methods, and related information.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Generic Drug Facilities, Sites and Organization Lists",
+      "url": "http://www.fda.gov/industry/generic-drug-user-fee-amendments/generic-drug-facilities-sites-and-organization-lists",
+      "publishedAt": "2026-06-11",
+      "excerpt": "Generic Drug Facilities, Sites and Organization Lists",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Frequently Requested or Proactively Posted Drug-Specific and Other Records",
+      "url": "http://www.fda.gov/drugs/cder-foia-electronic-reading-room/frequently-requested-or-proactively-posted-drug-specific-and-other-records",
+      "publishedAt": "2026-06-11",
+      "excerpt": "Frequently requested or proactively posted drug-specific and other records",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Financial Transparency and Efficiency of the Prescription Drug User Fee Act, Biosimilar User Fee Act, and Generic Drug User Fee Amendments - 06/23/2026",
+      "url": "http://www.fda.gov/drugs/news-events-human-drugs/financial-transparency-and-efficiency-prescription-drug-user-fee-act-biosimilar-user-fee-act-and-1",
+      "publishedAt": "2026-06-11",
+      "excerpt": "FDA's annual public meeting and opportunity for public comment on “Financial Transparency and Efficiency of the Prescription Drug User Fee Act, Biosimilar User Fee Act, and Generic Drug User Fee Amendments” will be held on June 23, 2026",
       "sourceType": "rss"
     },
     {
@@ -192,6 +467,16 @@
       "url": "https://www.ema.europa.eu/system/files/documents/other/european-medicines-agencys-data-protection-notice-ema-account-management_en.pdf",
       "publishedAt": "2026-06-11",
       "excerpt": "European Medicines Agency’s data protection notice for the EMA Account Management system",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-medwatch",
+      "siteName": "MedWatch Safety Alerts",
+      "region": "US",
+      "title": "Early Alert: Positive Pressure Breathing Device Issue from Baxter",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-positive-pressure-breathing-device-issue-baxter",
+      "publishedAt": "2026-06-11",
+      "excerpt": "Volara system patient circuits may leak air and medication from the nebulizer cup during therapy, leading to reduced oxygenation and ineffective nebulization.",
       "sourceType": "rss"
     },
     {
@@ -235,6 +520,76 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "BsUFA IV: Fiscal Years 2028-2032",
+      "url": "http://www.fda.gov/industry/biosimilar-user-fee-amendments/bsufa-iv-fiscal-years-2028-2032",
+      "publishedAt": "2026-06-11",
+      "excerpt": "On September 30, 2022, the President signed into law the FDA User Fee Reauthorization Act of 2022.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "Blendhouse Portland LLC. Portland, OR. EIR issued 01/23/2026",
+      "url": "http://www.fda.gov/about-fda/fda-commissioner/blendhouse-portland-llc-portland-or-eir-issued-01232026",
+      "publishedAt": "2026-06-11",
+      "excerpt": "Task Description Request\tPlease post to the OII FOIA Electronic Reading Room Record Date\t01/23/2026 Short Title (70 char)\tBlendhouse Portland LLC. Portland, OR. EIR issued 01/23/2026 FEI Number\t3013670080 Firm Name\tBlendhouse Portland LLC Record Type\t483 State\tOR Establishment Type\tManufacturer",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "Blendhouse Allerton LLC. Allerton, IA. EIR issued 01/22/2026",
+      "url": "http://www.fda.gov/about-fda/fda-commissioner/blendhouse-allerton-llc-allerton-ia-eir-issued-01222026",
+      "publishedAt": "2026-06-11",
+      "excerpt": "Task Description Request\tPlease post to the OII FOIA Electronic Reading Room Record Date\t01/22/2026 Short Title (70 char)\tBlendhouse Allerton LLC. Allerton, IA. EIR issued 01/22/2026 FEI Number\t1921383 Firm Name\tBlendhouse Allerton LLC Record Type\tEIR State\tIA Establishment Type\tManufacturer",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Annual reports and work programmes",
+      "url": "https://www.ema.europa.eu/en/about-us/annual-reports-work-programmes",
+      "publishedAt": "2026-06-11",
+      "excerpt": "Annual reports and work programmes",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Additional Information on Transmucosal Immediate Release Fentanyl (TIRF) REMS",
+      "url": "http://www.fda.gov/drugs/cder-foia-electronic-reading-room/additional-information-transmucosal-immediate-release-fentanyl-tirf-rems",
+      "publishedAt": "2026-06-11",
+      "excerpt": "Additional Information on Transmucosal Immediate Release Fentanyl (TIRF) REMS",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Accelerating Product Development for Pediatric Systemic Lupus Erythematosus (SLE) - 07/30/2026",
+      "url": "http://www.fda.gov/drugs/news-events-human-drugs/accelerating-product-development-pediatric-systemic-lupus-erythematosus-sle-07302026",
+      "publishedAt": "2026-06-11",
+      "excerpt": "The U.S. Food and Drug Administration (FDA), with the University of Maryland Center of Excellence in Regulatory Science and Innovation (M-CERSI), will host a workshop, “Accelerating Product Development for Pediatric Systemic Lupus Erythematosus” on July 30-31, 2026. This workshop will examine key similarities and differences between adult and pedia",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "20th anniversary of European Medicines Agency's Patients' and Consumers' Working Party (PCWP), Online, European Medicines Agency, Amsterdam, the Netherlands, from 30 June 2026, 13:30 (CEST) to 30 June 2026, 17:30 (CEST)",
+      "url": "https://www.ema.europa.eu/en/events/20th-anniversary-european-medicines-agencys-patients-consumers-working-party-pcwp",
+      "publishedAt": "2026-06-11",
+      "excerpt": "20th anniversary of European Medicines Agency's Patients' and Consumers' Working Party (PCWP), Online, European Medicines Agency, Amsterdam, the Netherlands, from 30 June 2026, 13:30 (CEST) to 30 June 2026, 17:30 (CEST)",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "PMDA：トップ 承認審査",
       "siteName": "Review for (marketing) approval (JP)",
       "region": "JP",
@@ -265,26 +620,6 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 安全対策",
-      "siteName": "Safety Measures (JP)",
-      "region": "JP",
-      "title": "[医薬]クラスI回収 該当回収品目　新鮮凍結血漿-LR「日赤」480、新鮮凍結血漿-LR「日赤」240",
-      "url": "https://www.pmda.go.jp/safety/info-services/drugs/calling-attention/recall-info/0002.html",
-      "publishedAt": "2026-06-10",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "Zydus Lifesciences Limited - 722576 - 06/02/2026",
-      "url": "http://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/zydus-lifesciences-limited-722576-06022026",
-      "publishedAt": "2026-06-10",
-      "excerpt": "Request for Records/CGMP/Finished Pharmaceuticals/Adulterated",
-      "sourceType": "rss"
-    },
-    {
       "siteId": "fda-whats-new-drugs",
       "siteName": "What's New: Drugs",
       "region": "US",
@@ -308,40 +643,10 @@
       "siteId": "fda-whats-new-drugs",
       "siteName": "What's New: Drugs",
       "region": "US",
-      "title": "Umendra Life Sciences Private Limited - 721752 - 06/02/2026",
-      "url": "http://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/umendra-life-sciences-private-limited-721752-06022026",
-      "publishedAt": "2026-06-10",
-      "excerpt": "CGMP/OTC Finished Pharmaceuticals/Adulterated",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "Shantou Qiwei Industry Co., LTD - 721753 - 06/02/2026",
-      "url": "http://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/shantou-qiwei-industry-co-ltd-721753-06022026",
-      "publishedAt": "2026-06-10",
-      "excerpt": "CGMP/OTC Finished Pharmaceuticals/Adulterated",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
       "title": "Sexual Enhancement and Energy Product Notifications",
       "url": "http://www.fda.gov/drugs/medication-health-fraud-notifications/sexual-enhancement-and-energy-product-notifications",
       "publishedAt": "2026-06-10",
       "excerpt": "Learn about the warnings for sexual enhancement and energy products that contain hidden drugs and other hidden ingredients.",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "Revlon Group Holdings, LLC - 722596 - 06/02/2026",
-      "url": "http://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/revlon-group-holdings-llc-722596-06022026",
-      "publishedAt": "2026-06-10",
-      "excerpt": "CGMP/OTC Finished Pharmaceuticals/Adulterated",
       "sourceType": "rss"
     },
     {
@@ -365,26 +670,6 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "PLZ Corp - 721140 - 06/02/2026",
-      "url": "http://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/plz-corp-721140-06022026",
-      "publishedAt": "2026-06-10",
-      "excerpt": "CGMP/OTC Finished Pharmaceuticals/Adulterated",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "New Safety Information or Potential Signals of Serious Risks Identified from the FDA Adverse Event Monitoring System (AEMS)",
-      "url": "http://www.fda.gov/drugs/fda-adverse-event-monitoring-system-aems/new-safety-information-or-potential-signals-serious-risks-identified-fda-adverse-event-monitoring",
-      "publishedAt": "2026-06-10",
-      "excerpt": "Discover potential signals of serious risks and new safety information identified by the FDA's Adverse Event Monitoring System (AEMS). Learn how the FDA monitors and evaluates drugs for safety concerns, providing important updates on adverse events to protect public health.",
-      "sourceType": "rss"
-    },
-    {
       "siteId": "ema-whats-new",
       "siteName": "What's new",
       "region": "EU",
@@ -405,16 +690,6 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "Laboratorios Dr. Collado S.A. - 723285 - 06/02/2026",
-      "url": "http://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/laboratorios-dr-collado-sa-723285-06022026",
-      "publishedAt": "2026-06-10",
-      "excerpt": "CGMP/OTC Finished Pharmaceuticals/Adulterated",
-      "sourceType": "rss"
-    },
-    {
       "siteId": "ema-whats-new",
       "siteName": "What's new",
       "region": "EU",
@@ -592,46 +867,6 @@
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/byannl",
       "publishedAt": "2026-06-10",
       "excerpt": "Human medicines European public assessment report (EPAR): Byannli (previously Paliperidone Janssen-Cilag International), paliperidone, Date of authorisation: 18/06/2020, Revision: 5, Status: Authorised",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "Gopaldas Visram & Co., Ltd. - 721755 - 06/02/2026",
-      "url": "http://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/gopaldas-visram-co-ltd-721755-06022026",
-      "publishedAt": "2026-06-10",
-      "excerpt": "CGMP/OTC Finished Pharmaceuticals/Adulterated",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "Generic Drug User Fee Amendments",
-      "url": "http://www.fda.gov/industry/fda-user-fee-programs/generic-drug-user-fee-amendments",
-      "publishedAt": "2026-06-10",
-      "excerpt": "This page features news and information for industry and stakeholders about GDUFA, its fee structure, payment methods, and related information.",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "Generic Drug Facilities, Sites and Organization Lists",
-      "url": "http://www.fda.gov/industry/generic-drug-user-fee-amendments/generic-drug-facilities-sites-and-organization-lists",
-      "publishedAt": "2026-06-10",
-      "excerpt": "Generic Drug Facilities, Sites and Organization Lists",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "Final Rule: Investigational New Drug Safety Reporting Requirements for Human Drug and Biological Products and Safety Reporting Requirements for Bioavailability and Bioequivalence Studies in Humans",
-      "url": "http://www.fda.gov/drugs/investigational-new-drug-ind-application/final-rule-investigational-new-drug-safety-reporting-requirements-human-drug-and-biological-products",
-      "publishedAt": "2026-06-10",
-      "excerpt": "Final Rule: Investigational New Drug Safety Reporting Requirements for Human Drug and Biological Products and Safety Reporting Requirements for Bioavailability and Bioequivalence Studies in Humans",
       "sourceType": "rss"
     },
     {
@@ -645,16 +880,6 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "FDA Approves Labeling Changes for Over-the-Counter (OTC) Weight Loss Drug alli (Orlistat) to Warn of Risk of Kidney Stones and Kidney Injury",
-      "url": "http://www.fda.gov/safety/medical-product-safety-information/fda-approves-labeling-changes-over-counter-otc-weight-loss-drug-alli-orlistat-warn-risk-kidney",
-      "publishedAt": "2026-06-10",
-      "excerpt": "The FDA has approved changes to the Drugs Facts Label of the over-the-counter (OTC) weight loss drug, alli (orlistat) 60 mg capsules, to warn of risks of acute kidney injury, which is a rare side effect of the medication. The labeling now advises consumers to ask a health care provider before using",
-      "sourceType": "rss"
-    },
-    {
       "siteId": "fda-medwatch",
       "siteName": "MedWatch Safety Alerts",
       "region": "US",
@@ -662,16 +887,6 @@
       "url": "http://www.fda.gov/safety/medical-product-safety-information/fda-approves-labeling-changes-over-counter-otc-weight-loss-drug-alli-orlistat-warn-risk-kidney",
       "publishedAt": "2026-06-10",
       "excerpt": "The FDA has approved changes to the Drugs Facts Label of the over-the-counter (OTC) weight loss drug, alli (orlistat) 60 mg capsules, to warn of risks of acute kidney injury, which is a rare side effect of the medication. The labeling now advises consumers to ask a health care provider before using",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "Erkul Kozmetik Sanayi ve Ticaret A.S. - 721964 - 06/02/2026",
-      "url": "http://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/erkul-kozmetik-sanayi-ve-ticaret-721964-06022026",
-      "publishedAt": "2026-06-10",
-      "excerpt": "CGMP/OTC Finished Pharmaceuticals/Adulterated",
       "sourceType": "rss"
     },
     {
@@ -752,16 +967,6 @@
       "url": "http://www.fda.gov/drugs/medication-health-fraud-notifications/branch-manager-men-may-be-harmful-due-hidden-drug-ingredient",
       "publishedAt": "2026-06-10",
       "excerpt": "The Food and Drug Administration is advising consumers not to purchase or use Branch Manager for Men, a product promoted and sold for male sexual enhancement on various websites, including https://supplx.com, and possibly in some retail stores.",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "Asanuma Corporation - 721136 - Sagamihara Factory",
-      "url": "http://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/asanuma-corporation-721136-sagamihara-factory",
-      "publishedAt": "2026-06-10",
-      "excerpt": "CGMP/OTC Finished Pharmaceuticals/Adulterated",
       "sourceType": "rss"
     },
     {
@@ -1015,16 +1220,6 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "ema-whats-new",
-      "siteName": "What's new",
-      "region": "EU",
-      "title": "Human medicines European public assessment report (EPAR): Avtozma, tocilizumab, Date of authorisation: 14/02/2025, Revision: 6, Status: Authorised",
-      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/avtozma",
-      "publishedAt": "2026-06-09",
-      "excerpt": "Human medicines European public assessment report (EPAR): Avtozma, tocilizumab, Date of authorisation: 14/02/2025, Revision: 6, Status: Authorised",
-      "sourceType": "rss"
-    },
-    {
       "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
       "siteName": "Human medicines: EPARs and summaries of opinion",
       "region": "EU",
@@ -1075,46 +1270,6 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "ema-whats-new",
-      "siteName": "What's new",
-      "region": "EU",
-      "title": "Appendix 1: Acceptable intakes established for N-nitrosamines",
-      "url": "https://www.ema.europa.eu/system/files/documents/other/nitrosamines-qa_appendix1_excel-ema-rev-13-june-9_en.xlsx",
-      "publishedAt": "2026-06-09",
-      "excerpt": "Appendix 1: Acceptable intakes established for N-nitrosamines",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "ema-whats-new",
-      "siteName": "What's new",
-      "region": "EU",
-      "title": "Agenda - Clinical trials information system information day webinar",
-      "url": "https://www.ema.europa.eu/system/files/documents/agenda/2-ctis-info-event-17-june-2026-draft-agend-en.pdf",
-      "publishedAt": "2026-06-09",
-      "excerpt": "Agenda - Clinical trials information system information day webinar",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "ema-whats-new",
-      "siteName": "What's new",
-      "region": "EU",
-      "title": "Agenda - Challenges in drug development, regulation and clinical practice in immune thrombocytopenia",
-      "url": "https://www.ema.europa.eu/system/files/documents/agenda/agenda-workshop-immune-thrombocytopenia-30-june-20-en.pdf",
-      "publishedAt": "2026-06-09",
-      "excerpt": "Agenda - Challenges in drug development, regulation and clinical practice in immune thrombocytopenia",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "ema-whats-new",
-      "siteName": "What's new",
-      "region": "EU",
-      "title": "2025-2028 Work plan for the Patients’ and Consumers’  Working Party (PCWP) and the Healthcare Professionals’  Working Party (HCPWP)",
-      "url": "https://www.ema.europa.eu/system/files/documents/work-programme/pcwp_hcpwp-work-plan-2025-2028_en.pdf",
-      "publishedAt": "2026-06-09",
-      "excerpt": "2025-2028 Work plan for the Patients’ and Consumers’  Working Party (PCWP) and the Healthcare Professionals’  Working Party (HCPWP)",
-      "sourceType": "rss"
-    },
-    {
       "siteId": "tfda-news-and-press-releases",
       "siteName": "新聞",
       "region": "TW",
@@ -1155,16 +1310,6 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "ema-whats-new",
-      "siteName": "What's new",
-      "region": "EU",
-      "title": "Human medicines European public assessment report (EPAR): Yescarta, axicabtagene ciloleucel, Date of authorisation: 23/08/2018, Revision: 24, Status: Authorised",
-      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/yescarta",
-      "publishedAt": "2026-06-08",
-      "excerpt": "Human medicines European public assessment report (EPAR): Yescarta, axicabtagene ciloleucel, Date of authorisation: 23/08/2018, Revision: 24, Status: Authorised",
-      "sourceType": "rss"
-    },
-    {
       "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
       "siteName": "Human medicines: EPARs and summaries of opinion",
       "region": "EU",
@@ -1185,16 +1330,6 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "ema-whats-new",
-      "siteName": "What's new",
-      "region": "EU",
-      "title": "Human medicines European public assessment report (EPAR): Vyjuvek, beremagene geperpavec, Date of authorisation: 23/04/2025, Revision: 2, Status: Authorised",
-      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/vyjuvek",
-      "publishedAt": "2026-06-08",
-      "excerpt": "Human medicines European public assessment report (EPAR): Vyjuvek, beremagene geperpavec, Date of authorisation: 23/04/2025, Revision: 2, Status: Authorised",
-      "sourceType": "rss"
-    },
-    {
       "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
       "siteName": "Human medicines: EPARs and summaries of opinion",
       "region": "EU",
@@ -1202,16 +1337,6 @@
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/vyjuvek",
       "publishedAt": "2026-06-08",
       "excerpt": "Human medicines European public assessment report (EPAR): Vyjuvek, beremagene geperpavec, Date of authorisation: 23/04/2025, Revision: 2, Status: Authorised",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "ema-whats-new",
-      "siteName": "What's new",
-      "region": "EU",
-      "title": "Human medicines European public assessment report (EPAR): Omjjara, momelotinib, Date of authorisation: 25/01/2024, Revision: 2, Status: Authorised",
-      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/omjjara",
-      "publishedAt": "2026-06-08",
-      "excerpt": "Human medicines European public assessment report (EPAR): Omjjara, momelotinib, Date of authorisation: 25/01/2024, Revision: 2, Status: Authorised",
       "sourceType": "rss"
     },
     {
@@ -1242,16 +1367,6 @@
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/fintepla",
       "publishedAt": "2026-06-08",
       "excerpt": "Human medicines European public assessment report (EPAR): Fintepla, fenfluramine, Date of authorisation: 18/12/2020, Revision: 18, Status: Authorised",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "ema-whats-new",
-      "siteName": "What's new",
-      "region": "EU",
-      "title": "Human medicines European public assessment report (EPAR): Alecensa, alectinib, Date of authorisation: 16/02/2017, Revision: 18, Status: Authorised",
-      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/alecensa",
-      "publishedAt": "2026-06-08",
-      "excerpt": "Human medicines European public assessment report (EPAR): Alecensa, alectinib, Date of authorisation: 16/02/2017, Revision: 18, Status: Authorised",
       "sourceType": "rss"
     },
     {
@@ -1295,16 +1410,6 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "ema-whats-new",
-      "siteName": "What's new",
-      "region": "EU",
-      "title": "EMEA-001563-PIP02-15-M01",
-      "url": "https://www.ema.europa.eu/en/medicines/human/paediatric-investigation-plans/emea-001563-pip02-15-m01",
-      "publishedAt": "2026-06-08",
-      "excerpt": "EMEA-001563-PIP02-15-M01",
-      "sourceType": "rss"
-    },
-    {
       "siteId": "fda-medwatch",
       "siteName": "MedWatch Safety Alerts",
       "region": "US",
@@ -1312,16 +1417,6 @@
       "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/bd-issues-nationwide-recall-specific-lots-chlorapreptm-clear-single-sterile-1-ml-and-frepptm-clear",
       "publishedAt": "2026-06-08",
       "excerpt": "FRANKLIN LAKES, N.J. (June 06, 2026) – BD (Becton, Dickinson and Company) is voluntarily recalling lot 4032183 of ChloraPrep™ Clear 1 mL Single Sterile and lot 4073005 of FREPP™ Clear 1.5 mL applicators with paper lidding to the consumer level. These products are being recalled due to fungal contami",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "ema-whats-new",
-      "siteName": "What's new",
-      "region": "EU",
-      "title": "Agenda of the PRAC meeting 8-11 June 2026",
-      "url": "https://www.ema.europa.eu/system/files/documents/agenda/draft-prac-agenda-8-11-june-2026-publication_en.pdf",
-      "publishedAt": "2026-06-08",
-      "excerpt": "Agenda of the PRAC meeting 8-11 June 2026",
       "sourceType": "rss"
     },
     {
@@ -1389,16 +1484,6 @@
       "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[安全]使用上の注意の改訂指示通知（医薬品）2026年6月5日付（厚生労働省より発出）を掲載しました",
-      "url": "https://www.pmda.go.jp/safety/info-services/drugs/calling-attention/revision-of-precautions/0375.html",
-      "publishedAt": "2026-06-05",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "PMDA：トップ 安全対策",
-      "siteName": "Safety Measures (JP)",
-      "region": "JP",
-      "title": "[医薬]使用上の注意の改訂指示通知（医薬品）2026年6月5日付（厚生労働省より発出）を掲載しました",
       "url": "https://www.pmda.go.jp/safety/info-services/drugs/calling-attention/revision-of-precautions/0375.html",
       "publishedAt": "2026-06-05",
       "excerpt": "",
@@ -1695,16 +1780,6 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
-      "region": "JP",
-      "title": "[基準]Early Consideration：モノクローナル抗体の一般毒性評価についての考え（Early Consideration）の英語版を掲載しました",
-      "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/guidance-guideline/0003.html",
-      "publishedAt": "2026-06-04",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
       "siteId": "PMDAの新着情報",
       "siteName": "What's New (JP)",
       "region": "JP",
@@ -1778,16 +1853,6 @@
       "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
       "siteName": "Human medicines: EPARs and summaries of opinion",
       "region": "EU",
-      "title": "Human medicines European public assessment report (EPAR): Rotarix, rotavirus vaccine, live, Date of authorisation: 21/02/2006, Revision: 47, Status: Authorised",
-      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/rotarix",
-      "publishedAt": "2026-06-04",
-      "excerpt": "Human medicines European public assessment report (EPAR): Rotarix, rotavirus vaccine, live, Date of authorisation: 21/02/2006, Revision: 47, Status: Authorised",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
-      "siteName": "Human medicines: EPARs and summaries of opinion",
-      "region": "EU",
       "title": "Human medicines European public assessment report (EPAR): Rapamune, sirolimus, Date of authorisation: 13/03/2001, Revision: 51, Status: Authorised",
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/rapamune",
       "publishedAt": "2026-06-04",
@@ -1812,16 +1877,6 @@
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/nugalviq",
       "publishedAt": "2026-06-04",
       "excerpt": "Human medicines European public assessment report (EPAR): Nugalviq, govorestat, Status: Application withdrawn",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
-      "siteName": "Human medicines: EPARs and summaries of opinion",
-      "region": "EU",
-      "title": "Human medicines European public assessment report (EPAR): Enflonsia, clesrovimab, Date of authorisation: 15/04/2026, Revision: 1, Status: Authorised",
-      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/enflonsia",
-      "publishedAt": "2026-06-04",
-      "excerpt": "Human medicines European public assessment report (EPAR): Enflonsia, clesrovimab, Date of authorisation: 15/04/2026, Revision: 1, Status: Authorised",
       "sourceType": "rss"
     },
     {
@@ -1965,46 +2020,6 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
-      "siteName": "Human medicines: EPARs and summaries of opinion",
-      "region": "EU",
-      "title": "Human medicines European public assessment report (EPAR): Xeplion, paliperidone, Date of authorisation: 04/03/2011, Revision: 17, Status: Authorised",
-      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/xeplion",
-      "publishedAt": "2026-06-03",
-      "excerpt": "Human medicines European public assessment report (EPAR): Xeplion, paliperidone, Date of authorisation: 04/03/2011, Revision: 17, Status: Authorised",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
-      "siteName": "Human medicines: EPARs and summaries of opinion",
-      "region": "EU",
-      "title": "Human medicines European public assessment report (EPAR): Namuscla, Mexiletine, Date of authorisation: 18/12/2018, Revision: 9, Status: Authorised",
-      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/namuscla",
-      "publishedAt": "2026-06-03",
-      "excerpt": "Human medicines European public assessment report (EPAR): Namuscla, Mexiletine, Date of authorisation: 18/12/2018, Revision: 9, Status: Authorised",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
-      "siteName": "Human medicines: EPARs and summaries of opinion",
-      "region": "EU",
-      "title": "Human medicines European public assessment report (EPAR): Kostaive, zapomeran, Date of authorisation: 12/02/2025, Revision: 5, Status: Authorised",
-      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/kostaive",
-      "publishedAt": "2026-06-03",
-      "excerpt": "Human medicines European public assessment report (EPAR): Kostaive, zapomeran, Date of authorisation: 12/02/2025, Revision: 5, Status: Authorised",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
-      "siteName": "Human medicines: EPARs and summaries of opinion",
-      "region": "EU",
-      "title": "Human medicines European public assessment report (EPAR): Ameluz, 5-aminolevulinic acid hydrochloride, Date of authorisation: 13/12/2011, Revision: 23, Status: Authorised",
-      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/ameluz",
-      "publishedAt": "2026-06-03",
-      "excerpt": "Human medicines European public assessment report (EPAR): Ameluz, 5-aminolevulinic acid hydrochloride, Date of authorisation: 13/12/2011, Revision: 23, Status: Authorised",
-      "sourceType": "rss"
-    },
-    {
       "siteId": "ema-news-and-press-releases",
       "siteName": "News and press releases",
       "region": "EU",
@@ -2095,48 +2110,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 安全対策",
-      "siteName": "Safety Measures (JP)",
-      "region": "JP",
-      "title": "[医薬]「製薬企業からの医薬品の安全使用に関するお知らせ」に「グラセプターカプセルとタクロリムス普通製剤（後発医薬品含む）との取り違え注意のお願い」及び「ビーフリード輸液 調製時及び投与開始前の隔壁開通確認のお願い」を掲載しました",
-      "url": "https://www.pmda.go.jp/safety/info-services/medical-safety-info/0178.html",
-      "publishedAt": "2026-06-02",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "PMDA：トップ 安全対策",
-      "siteName": "Safety Measures (JP)",
-      "region": "JP",
-      "title": "[医薬]「コルヒチンの使用にあたっての留意事項について」を掲載しました",
-      "url": "https://www.pmda.go.jp/safety/info-services/drugs/0010.html",
-      "publishedAt": "2026-06-02",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "PMDA：トップ 安全対策",
-      "siteName": "Safety Measures (JP)",
-      "region": "JP",
-      "title": "[医薬]「アトモキセチンカプセル25mg「サワイ」ニトロソアミン化合物の管理について」及び「ジェイゾロフトOD錠ニトロソアミン化合物検出のお知らせ」を掲載しました",
-      "url": "https://www.pmda.go.jp/safety/info-services/drugs/0371.html",
-      "publishedAt": "2026-06-02",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
       "siteId": "PMDAの新着情報",
       "siteName": "What's New (JP)",
-      "region": "JP",
-      "title": "[その他]「AI利活用に関する基本的考え方」検討PTを設置しました",
-      "url": "https://www.pmda.go.jp/rs-std-jp/cross-sectional-project/0001.html",
-      "publishedAt": "2026-06-02",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
       "region": "JP",
       "title": "[その他]「AI利活用に関する基本的考え方」検討PTを設置しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/cross-sectional-project/0001.html",
@@ -2265,28 +2240,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
-      "region": "JP",
-      "title": "[薬局方][パブコメ]日本薬局方収載原案に関するご意見の募集について（2026年6月分 その2）",
-      "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/pub-comments/jp/0258.html",
-      "publishedAt": "2026-06-01",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
       "siteId": "PMDAの新着情報",
       "siteName": "What's New (JP)",
-      "region": "JP",
-      "title": "[薬局方][パブコメ]日本薬局方収載原案に関するご意見の募集について（2026年6月分 その1）",
-      "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/pub-comments/jp/0261.html",
-      "publishedAt": "2026-06-01",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
       "region": "JP",
       "title": "[薬局方][パブコメ]日本薬局方収載原案に関するご意見の募集について（2026年6月分 その1）",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/pub-comments/jp/0261.html",
@@ -2305,28 +2260,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
-      "region": "JP",
-      "title": "[薬局方][パブコメ]日本薬局方から削除予定の（案）試薬・試液に関するご意見の募集について（2026年6月分）",
-      "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/pub-comments/jp/0259.html",
-      "publishedAt": "2026-06-01",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
       "siteId": "PMDAの新着情報",
       "siteName": "What's New (JP)",
-      "region": "JP",
-      "title": "[薬局方][パブコメ]日本薬局方から削除予定の（案）医薬品各条・標準品に関するご意見の募集について（2026年6月分）",
-      "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/pub-comments/jp/0260.html",
-      "publishedAt": "2026-06-01",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
       "region": "JP",
       "title": "[薬局方][パブコメ]日本薬局方から削除予定の（案）医薬品各条・標準品に関するご意見の募集について（2026年6月分）",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/pub-comments/jp/0260.html",
@@ -2425,48 +2360,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 安全対策",
-      "siteName": "Safety Measures (JP)",
-      "region": "JP",
-      "title": "[医薬]添付文書改訂相談に基づく添付文書改訂（医薬品）を掲載しました",
-      "url": "https://www.pmda.go.jp/safety/info-services/drugs/calling-attention/revision-based-on-the-consultation/0001.html",
-      "publishedAt": "2026-06-01",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "PMDA：トップ 安全対策",
-      "siteName": "Safety Measures (JP)",
-      "region": "JP",
-      "title": "[医療]クラスI回収 該当回収品目　RelayPro 胸部ステントグラフトシステム",
-      "url": "https://www.pmda.go.jp/safety/info-services/devices/0054.html",
-      "publishedAt": "2026-06-01",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "PMDA：トップ 安全対策",
-      "siteName": "Safety Measures (JP)",
-      "region": "JP",
-      "title": "[医療]「医療機器自主回収のお知らせ（クラスI）（販売名：RelayPro 胸部ステントグラフトシステム）」を掲載しました",
-      "url": "https://www.pmda.go.jp/safety/info-services/devices/0096.html",
-      "publishedAt": "2026-06-01",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
       "siteId": "PMDAの新着情報",
       "siteName": "What's New (JP)",
-      "region": "JP",
-      "title": "[その他]「申請電子データを活用した解析」のページを更新しました",
-      "url": "https://www.pmda.go.jp/rs-std-jp/0002.html",
-      "publishedAt": "2026-06-01",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
       "region": "JP",
       "title": "[その他]「申請電子データを活用した解析」のページを更新しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/0002.html",
@@ -2725,16 +2620,6 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 安全対策",
-      "siteName": "Adverse Health Effects Relief (JP)",
-      "region": "JP",
-      "title": "[健康]副用救済給付の決定に関する情報（2025年度3月分）を掲載しました",
-      "url": "https://www.pmda.go.jp/relief-services/adr-sufferers/0043.html",
-      "publishedAt": "2026-05-29",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
       "siteId": "PMDAの新着情報",
       "siteName": "What's New (JP)",
       "region": "JP",
@@ -2945,16 +2830,6 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
-      "region": "JP",
-      "title": "[その他]令和8年度第1回倫理審査委員会の議事要旨を掲載しました",
-      "url": "https://www.pmda.go.jp/rs-std-jp/research/0009.html",
-      "publishedAt": "2026-05-28",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
       "siteId": "fda-medwatch",
       "siteName": "MedWatch Safety Alerts",
       "region": "US",
@@ -3059,7 +2934,7 @@
       "siteName": "MedWatch Safety Alerts",
       "region": "US",
       "title": "Early Alert: Heart Pump Issue from Abiomed",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-heart-pump-issue-abiomed",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-heart-pump-issue-abiomed-0",
       "publishedAt": "2026-05-27",
       "excerpt": "Specific Impella CP Sets are out of specification; use may result in low purge pressure events from the onset of the case",
       "sourceType": "rss"
@@ -3145,11 +3020,11 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 安全対策",
-      "siteName": "Safety Measures (JP)",
-      "region": "JP",
-      "title": "[全製品]医薬品・医療機器等安全性情報 No.429（厚生労働省発行）を掲載しました",
-      "url": "https://www.pmda.go.jp/safety/info-services/drugs/calling-attention/safety-info/0166.html",
+      "siteId": "light-drugs",
+      "siteName": "消費紅綠燈-國際藥品",
+      "region": "TW",
+      "title": "有關Huons Co., Ltd.藥品Lidocaine HCl Injection, USP, 2%, 100 mg/5mL (20 mg/mL), 5 mL Single-Dose Vials回收警訊，國內並未輸入該批號藥品。",
+      "url": "http://www.fda.gov.tw/tc/csmnewsContent.aspx?mid=269&id=7833&utm_source=rss&utm_medium=feed&utm_campaign=rss_subscription",
       "publishedAt": "2026-05-26",
       "excerpt": "",
       "sourceType": "rss"
@@ -3605,16 +3480,6 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "fda-medwatch",
-      "siteName": "MedWatch Safety Alerts",
-      "region": "US",
-      "title": "Manifold Recall: Medline Removes Namic Star Off Handle Manifolds",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/manifold-recall-medline-removes-namic-star-handle-manifolds",
-      "publishedAt": "2026-05-26",
-      "excerpt": "Particulates have the potential to be introduced into blood circulation and become lodged within blood vessels.",
-      "sourceType": "rss"
-    },
-    {
       "siteId": "fda-ora-foia-electronic-reading-room",
       "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
       "region": "US",
@@ -3627,16 +3492,6 @@
     {
       "siteId": "fda-recalls",
       "siteName": "Recalls",
-      "region": "US",
-      "title": "Insulet Initiates Voluntary Medical Device Correction for Certain Omnipod® Pods in the U.S. and Affected International Markets",
-      "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/insulet-initiates-voluntary-medical-device-correction-certain-omnipodr-pods-us-and-affected",
-      "publishedAt": "2026-05-26",
-      "excerpt": "ACTON, Mass.--(BUSINESS WIRE)-- Insulet Corporation, Inc. (NASDAQ: PODD) (“Insulet” or the “Company”) today announced a voluntary Medical Device Correction for specific lots of Omnipod® 5, Omnipod DASH®, and Omnipod® Insulin Management System (Omnipod Eros) Pods due to a manufacturing issue, identif",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-medwatch",
-      "siteName": "MedWatch Safety Alerts",
       "region": "US",
       "title": "Insulet Initiates Voluntary Medical Device Correction for Certain Omnipod® Pods in the U.S. and Affected International Markets",
       "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/insulet-initiates-voluntary-medical-device-correction-certain-omnipodr-pods-us-and-affected",
@@ -3662,16 +3517,6 @@
       "url": "https://www.ema.europa.eu/en/news/eu-recommendations-2026-2027-seasonal-flu-vaccine-composition",
       "publishedAt": "2026-05-26",
       "excerpt": "This news announcement was updated on two occasions. On 7 May 2026, it was updated to include additional recommendations for strains for seasonal egg-derived and live-attenuated…",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-medwatch",
-      "siteName": "MedWatch Safety Alerts",
-      "region": "US",
-      "title": "Dialysis Catheter Kit Recall: Arrow International Removes Dialysis Catheter Kits Containing Merit Medical Splittable Sheath Introducers",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/dialysis-catheter-kit-recall-arrow-international-removes-dialysis-catheter-kits-containing-merit",
-      "publishedAt": "2026-05-26",
-      "excerpt": "Arrow International is removing dialysis catheter kits containing recalled Merit Medical Splittable Sheath Introducers",
       "sourceType": "rss"
     },
     {
@@ -3705,26 +3550,6 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 安全対策",
-      "siteName": "Safety Measures (JP)",
-      "region": "JP",
-      "title": "[医薬]「不具合が疑われる症例報告に関する情報（コンビネーション製品）」に2026年1月分の情報を追加しました",
-      "url": "https://www.pmda.go.jp/safety/info-services/drugs/adr-info/malfunctions-combination-drugs/0001.html",
-      "publishedAt": "2026-05-25",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "PMDA：トップ 安全対策",
-      "siteName": "Safety Measures (JP)",
-      "region": "JP",
-      "title": "[医療]「不具合が疑われる症例報告に関する情報（医療機器）」に2026年1月分の情報を追加しました",
-      "url": "https://www.pmda.go.jp/safety/info-services/devices/0090.html",
-      "publishedAt": "2026-05-25",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
       "siteId": "PMDA：トップ 承認審査",
       "siteName": "Review for (marketing) approval (JP)",
       "region": "JP",
@@ -3740,16 +3565,6 @@
       "region": "JP",
       "title": "[再生]再生医療等製品の最適使用推進ガイドラインを掲載しました",
       "url": "https://www.pmda.go.jp/review-services/drug-reviews/review-information/ctp/0011.html",
-      "publishedAt": "2026-05-25",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "PMDA：トップ 安全対策",
-      "siteName": "Safety Measures (JP)",
-      "region": "JP",
-      "title": "[再生]「不具合が疑われる症例報告に関する情報（再生医療等製品）」に2026年1月分の情報を追加しました",
-      "url": "https://www.pmda.go.jp/safety/info-services/ctp/0006.html",
       "publishedAt": "2026-05-25",
       "excerpt": "",
       "sourceType": "rss"
@@ -3800,16 +3615,6 @@
       "region": "TW",
       "title": "公告115年度食品添加物查驗登記業務委託「財團法人台灣優良農產品發展協會」審查。",
       "url": "http://www.fda.gov.tw/tc/newsContent.aspx?cid=3&id=31550&utm_source=rss&utm_medium=feed&utm_campaign=rss_subscription",
-      "publishedAt": "2026-05-22",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "PMDA：トップ 安全対策",
-      "siteName": "Safety Measures (JP)",
-      "region": "JP",
-      "title": "[医薬]MIHARI Project  PMDAが実施している調査の一覧（No.18, 50, 51）を更新しました",
-      "url": "https://www.pmda.go.jp/safety/surveillance-analysis/0045.html",
       "publishedAt": "2026-05-22",
       "excerpt": "",
       "sourceType": "rss"
@@ -4055,26 +3860,6 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 安全対策",
-      "siteName": "Safety Measures (JP)",
-      "region": "JP",
-      "title": "[医薬]タブネオスカプセル10mgによる重篤な肝機能障害についての安全性速報（ブルーレター）を掲載しました",
-      "url": "https://www.pmda.go.jp/safety/info-services/drugs/calling-attention/esc-rsc/0001.html",
-      "publishedAt": "2026-05-21",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "PMDA：トップ 安全対策",
-      "siteName": "Safety Measures (JP)",
-      "region": "JP",
-      "title": "[医薬]「タブネオスカプセル10mgを服用される患者様とご家族の皆様へ」を掲載しました",
-      "url": "https://www.pmda.go.jp/safety/info-services/drugs/calling-attention/properly-use-alert/0005_c.html",
-      "publishedAt": "2026-05-21",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
       "siteId": "fda-food-allergies",
       "siteName": "Food Allergies",
       "region": "US",
@@ -4265,16 +4050,6 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
-      "region": "JP",
-      "title": "[薬局方]日局におけるPDG調和文書への対応状況（試験法等）を更新しました",
-      "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/0021.html",
-      "publishedAt": "2026-05-19",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
       "siteId": "PMDA：トップ 承認審査",
       "siteName": "Review for (marketing) approval (JP)",
       "region": "JP",
@@ -4290,16 +4065,6 @@
       "region": "JP",
       "title": "[医薬]医薬品の最適使用推進ガイドラインを掲載しました",
       "url": "https://www.pmda.go.jp/review-services/drug-reviews/review-information/p-drugs/0028.html",
-      "publishedAt": "2026-05-19",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "PMDA：トップ 安全対策",
-      "siteName": "Safety Measures (JP)",
-      "region": "JP",
-      "title": "[医薬]「医薬品に関する評価中のリスク等の情報について」を掲載しました",
-      "url": "https://www.pmda.go.jp/safety/info-services/drugs/calling-attention/risk-communications/0001.html",
       "publishedAt": "2026-05-19",
       "excerpt": "",
       "sourceType": "rss"
@@ -4400,26 +4165,6 @@
       "region": "JP",
       "title": "令和7年度治験エコシステム導入推進事業活動報告書を掲載しました",
       "url": "https://www.pmda.go.jp/relief-services/0011.html",
-      "publishedAt": "2026-05-15",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "PMDA：トップ 安全対策",
-      "siteName": "Safety Measures (JP)",
-      "region": "JP",
-      "title": "[医薬]タブネオスカプセル10mgの「慎重な投与のお願い」と「米国FDAによる米国承認の取下げ提案に関するお知らせ」を掲載しました",
-      "url": "https://www.pmda.go.jp/safety/info-services/drugs/calling-attention/properly-use-alert/0004.html",
-      "publishedAt": "2026-05-15",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "PMDA：トップ 安全対策",
-      "siteName": "Safety Measures (JP)",
-      "region": "JP",
-      "title": "[医薬]「副作用が疑われる症例報告に関する情報」に2026年1月分の情報を追加しました",
-      "url": "https://www.pmda.go.jp/safety/info-services/drugs/adr-info/suspected-adr/0005.html",
       "publishedAt": "2026-05-15",
       "excerpt": "",
       "sourceType": "rss"
@@ -4632,16 +4377,6 @@
       "url": "http://www.fda.gov/news-events/press-announcements/fda-advances-drug-repurposing-address-unmet-medical-needs",
       "publishedAt": "2026-05-11",
       "excerpt": "FDA announced it is soliciting input on efforts with respect to drug repurposing to help address unmet medical needs across a range of diseases and conditions.",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "PMDA：トップ 安全対策",
-      "siteName": "Adverse Health Effects Relief (JP)",
-      "region": "JP",
-      "title": "[健康]拠出金のオンライン申告・納付について",
-      "url": "https://www.pmda.go.jp/relief-services/contributions/0007.html",
-      "publishedAt": "2026-05-08",
-      "excerpt": "",
       "sourceType": "rss"
     },
     {
@@ -5135,16 +4870,6 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 安全対策",
-      "siteName": "Safety Measures (JP)",
-      "region": "JP",
-      "title": "医療機器リスク管理計画（RMP）に関する情報を更新しました",
-      "url": "https://www.pmda.go.jp/safety/info-services/devices/0125.html",
-      "publishedAt": "2026-04-28",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
       "siteId": "fda-press-releases",
       "siteName": "Press Releases",
       "region": "US",
@@ -5175,16 +4900,6 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
-      "region": "JP",
-      "title": "[薬局方]日局におけるPDG調和文書への対応状況（医薬品各条）を更新しました",
-      "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/0020.html",
-      "publishedAt": "2026-04-27",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
       "siteId": "PMDA：トップ 承認審査",
       "siteName": "Review for (marketing) approval (JP)",
       "region": "JP",
@@ -5200,26 +4915,6 @@
       "region": "JP",
       "title": "[医薬][イベント]日本核酸医薬学会第11回年会での個別面談について",
       "url": "https://www.pmda.go.jp/review-services/symposia/0202.html",
-      "publishedAt": "2026-04-27",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "PMDA：トップ 安全対策",
-      "siteName": "Safety Measures (JP)",
-      "region": "JP",
-      "title": "[全製品]PMDA医療安全情報No.73「インスリン専用注射器の使用について　投与量の誤りが重大な健康被害につながるおそれがあります」を掲載しました",
-      "url": "https://www.pmda.go.jp/safety/info-services/medical-safety-info/0001.html",
-      "publishedAt": "2026-04-27",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
-      "region": "JP",
-      "title": "[その他]研究推進業務のページを更新しました。",
-      "url": "https://www.pmda.go.jp/rs-std-jp/research/0001.html",
       "publishedAt": "2026-04-27",
       "excerpt": "",
       "sourceType": "rss"
@@ -5315,16 +5010,6 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "fda-ora-foia-electronic-reading-room",
-      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
-      "region": "US",
-      "title": "Global Calcium Private Limited - 02/03/2026",
-      "url": "http://www.fda.gov/drugs/cder-foia-electronic-reading-room/global-calcium-private-limited-02032026",
-      "publishedAt": "2026-04-23",
-      "excerpt": "Global Calcium Private Limited - 02/03/2026. Country: India. Record Type: 483",
-      "sourceType": "rss"
-    },
-    {
       "siteId": "fda-food-allergies",
       "siteName": "Food Allergies",
       "region": "US",
@@ -5372,16 +5057,6 @@
       "url": "http://www.fda.gov.tw/tc/csmnewsContent.aspx?mid=269&id=7781&utm_source=rss&utm_medium=feed&utm_campaign=rss_subscription",
       "publishedAt": "2026-04-22",
       "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-ora-foia-electronic-reading-room",
-      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
-      "region": "US",
-      "title": "Revive Rx LLC dba Revive Rx Pharmacy. Houston, TX. 483 issued 3/27/2026",
-      "url": "http://www.fda.gov/about-fda/fda-commissioner/revive-rx-llc-dba-revive-rx-pharmacy-houston-tx-483-issued-3272026",
-      "publishedAt": "2026-04-22",
-      "excerpt": "Task Description Request\tPlease post to the OII FOIA Electronic Reading Room Record Date\t3/27/2026 Short Title (70 char)\tRevive Rx LLC dba Revive Rx Pharmacy. Houston, TX. 483 issued 3/27/2026 FEI Number\t3016710945 Firm Name\tRevive Rx LLC Record Type\t483 State\tTX Establishment Type\tProducer of Steri",
       "sourceType": "rss"
     },
     {
@@ -5447,16 +5122,6 @@
     {
       "siteId": "PMDA：トップ 承認審査",
       "siteName": "Review for (marketing) approval (JP)",
-      "region": "JP",
-      "title": "[安全][医療]「医療機器添付文書改訂相談」のページを掲載しました",
-      "url": "https://www.pmda.go.jp/review-services/f2f-pre/consultations/0122.html",
-      "publishedAt": "2026-04-16",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "PMDA：トップ 安全対策",
-      "siteName": "Safety Measures (JP)",
       "region": "JP",
       "title": "[安全][医療]「医療機器添付文書改訂相談」のページを掲載しました",
       "url": "https://www.pmda.go.jp/review-services/f2f-pre/consultations/0122.html",
@@ -5545,16 +5210,6 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
-      "region": "JP",
-      "title": "[薬局方]第十九改正日本薬局方を掲載しました",
-      "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/0260.html",
-      "publishedAt": "2026-04-10",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
       "siteId": "PMDA：トップ 承認審査",
       "siteName": "Review for (marketing) approval (JP)",
       "region": "JP",
@@ -5580,16 +5235,6 @@
       "region": "TW",
       "title": "有關ヤンセンファーマ株式会社（Janssen Pharmaceutical K.K.）藥品ワンデュロパッチ（OneDuro Patch）（批號如內文）回收警訊，國內並未輸入該批號藥品。",
       "url": "http://www.fda.gov.tw/tc/csmnewsContent.aspx?mid=269&id=7756&utm_source=rss&utm_medium=feed&utm_campaign=rss_subscription",
-      "publishedAt": "2026-04-09",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "PMDA：トップ 安全対策",
-      "siteName": "Safety Measures (JP)",
-      "region": "JP",
-      "title": "[医薬]患者副作用報告（2025年8月1日から2025年11月30日受付分）を追加しました",
-      "url": "https://www.pmda.go.jp/safety/reports/patients/0005.html",
       "publishedAt": "2026-04-09",
       "excerpt": "",
       "sourceType": "rss"
@@ -5645,28 +5290,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 安全対策",
-      "siteName": "Safety Measures (JP)",
-      "region": "JP",
-      "title": "[審査][安全][イベント]PMDAシンポジウム「生成AIの医療活用の最前線」の開催について（資料掲載）",
-      "url": "https://www.pmda.go.jp/review-services/symposia/0198.html",
-      "publishedAt": "2026-04-03",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
       "siteId": "PMDA：トップ 承認審査",
       "siteName": "Review for (marketing) approval (JP)",
-      "region": "JP",
-      "title": "[審査][安全][イベント]PMDAシンポジウム「リアルワールドデータを活用した医療機器開発」の開催について（資料掲載）",
-      "url": "https://www.pmda.go.jp/review-services/symposia/0199.html",
-      "publishedAt": "2026-04-03",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "PMDA：トップ 安全対策",
-      "siteName": "Safety Measures (JP)",
       "region": "JP",
       "title": "[審査][安全][イベント]PMDAシンポジウム「リアルワールドデータを活用した医療機器開発」の開催について（資料掲載）",
       "url": "https://www.pmda.go.jp/review-services/symposia/0199.html",
@@ -5715,26 +5340,6 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 安全対策",
-      "siteName": "Adverse Health Effects Relief (JP)",
-      "region": "JP",
-      "title": "[健康]生物由来製品感染等被害救済制度に関する給付額の改定のお知らせ",
-      "url": "https://www.pmda.go.jp/relief-services/infections/0030.html",
-      "publishedAt": "2026-04-01",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "PMDA：トップ 安全対策",
-      "siteName": "Adverse Health Effects Relief (JP)",
-      "region": "JP",
-      "title": "[健康]医薬品副作用被害救済制度に関する給付額の改定のお知らせ",
-      "url": "https://www.pmda.go.jp/relief-services/adr-sufferers/0007.html",
-      "publishedAt": "2026-04-01",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
       "siteId": "light-drugs",
       "siteName": "消費紅綠燈-國際藥品",
       "region": "TW",
@@ -5755,62 +5360,12 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
-      "region": "JP",
-      "title": "[その他]研究紹介動画第6弾を更新しました。",
-      "url": "https://www.pmda.go.jp/rs-std-jp/research/0016.html",
-      "publishedAt": "2026-03-31",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "PMDA：トップ 安全対策",
-      "siteName": "Safety Measures (JP)",
-      "region": "JP",
-      "title": "[医薬]MID-NET（医療情報データベース）を更新しました",
-      "url": "https://www.pmda.go.jp/safety/mid-net/0019.html",
-      "publishedAt": "2026-03-30",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
       "siteId": "PMDA：トップ 承認審査",
       "siteName": "Review for (marketing) approval (JP)",
       "region": "JP",
       "title": "[医療]「特区医療機器戦略相談」を「革新的医療機器戦略相談」に改称し、対象となる相談者を拡大しました。",
       "url": "https://www.pmda.go.jp/review-services/f2f-pre/strategies/0009.html",
       "publishedAt": "2026-03-30",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
-      "region": "JP",
-      "title": "[その他]令和7年度第2回研究支援委員会の議事要旨を掲載しました",
-      "url": "https://www.pmda.go.jp/rs-std-jp/research/0008.html",
-      "publishedAt": "2026-03-30",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "PMDA：トップ 安全対策",
-      "siteName": "Safety Measures (JP)",
-      "region": "JP",
-      "title": "[医薬]「抗悪性腫瘍剤タゼメトスタット臭化水素酸塩の販売中止について」を掲載しました",
-      "url": "https://www.pmda.go.jp/safety/info-services/drugs/calling-attention/mhlw-released/0001.html",
-      "publishedAt": "2026-03-27",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "PMDA：トップ 安全対策",
-      "siteName": "Safety Measures (JP)",
-      "region": "JP",
-      "title": "[全製品]「医療事故情報収集等事業第84回報告書の公表について」を掲載しました",
-      "url": "https://www.pmda.go.jp/safety/info-services/medical-safety-info/0005.html",
-      "publishedAt": "2026-03-27",
       "excerpt": "",
       "sourceType": "rss"
     },
@@ -5845,26 +5400,6 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 安全対策",
-      "siteName": "Safety Measures (JP)",
-      "region": "JP",
-      "title": "[医薬]令和7年度「医療機関等における医薬品安全性情報の入手・伝達・活用状況等に関する調査」の調査結果を掲載しました",
-      "url": "https://www.pmda.go.jp/safety/surveillance-analysis/0010.html",
-      "publishedAt": "2026-03-25",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "PMDA：トップ 安全対策",
-      "siteName": "Adverse Health Effects Relief (JP)",
-      "region": "JP",
-      "title": "[健康]基金事業等に係る運営及び管理に関する基本的事項の公表について更新しました",
-      "url": "https://www.pmda.go.jp/relief-services/hepatitis-c/0001.html",
-      "publishedAt": "2026-03-24",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
       "siteId": "PMDA：トップ 承認審査",
       "siteName": "Review for (marketing) approval (JP)",
       "region": "JP",
@@ -5885,31 +5420,11 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 安全対策",
-      "siteName": "Adverse Health Effects Relief (JP)",
-      "region": "JP",
-      "title": "[健康]生物由来製品等の一覧を更新しました",
-      "url": "https://www.pmda.go.jp/relief-services/infections/0032.html",
-      "publishedAt": "2026-03-23",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
       "siteId": "controlled-drugs",
       "siteName": "管制藥品類",
       "region": "TW",
       "title": "公告修正管制藥品品項(增列7-Hydroxymitragynine等3項管制藥品)",
       "url": "http://www.fda.gov.tw/TC/newsContent.aspx?cid=3&id=31459",
-      "publishedAt": "2026-03-17",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "PMDA：トップ 安全対策",
-      "siteName": "Safety Measures (JP)",
-      "region": "JP",
-      "title": "[医薬]使用上の注意の改訂指示通知（医薬品）2026年3月17日付（厚生労働省より発出）を掲載しました",
-      "url": "https://www.pmda.go.jp/safety/info-services/drugs/calling-attention/revision-of-precautions/0374.html",
       "publishedAt": "2026-03-17",
       "excerpt": "",
       "sourceType": "rss"
@@ -5945,42 +5460,12 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 安全対策",
-      "siteName": "Safety Measures (JP)",
-      "region": "JP",
-      "title": "[医薬]「第36回ジェネリック医薬品・バイオシミラー品質情報検討会」を掲載しました",
-      "url": "https://www.pmda.go.jp/safety/info-services/drugs/generics-info/0003.html",
-      "publishedAt": "2026-03-16",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
       "siteId": "light-drugs",
       "siteName": "消費紅綠燈-國際藥品",
       "region": "TW",
       "title": "有關藥品Reparil Gel N（批號D2102021、 D2100538）回收警訊，國內並未輸入該批號藥品。",
       "url": "http://www.fda.gov.tw/tc/csmnewsContent.aspx?mid=269&id=7712&utm_source=rss&utm_medium=feed&utm_campaign=rss_subscription",
       "publishedAt": "2026-03-09",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "PMDA：トップ 安全対策",
-      "siteName": "Safety Measures (JP)",
-      "region": "JP",
-      "title": "[審査][安全][イベント]PMDAシンポジウム「二段階承認の実際」の開催について（資料掲載）",
-      "url": "https://www.pmda.go.jp/review-services/symposia/0197.html",
-      "publishedAt": "2026-03-06",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
-      "region": "JP",
-      "title": "[その他]第50回科学委員会の議事概要を掲載しました",
-      "url": "https://www.pmda.go.jp/rs-std-jp/science-committee/0055.html",
-      "publishedAt": "2026-03-06",
       "excerpt": "",
       "sourceType": "rss"
     },
@@ -6005,61 +5490,11 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
-      "region": "JP",
-      "title": "[薬局方][パブコメ]薬局方調和国際会議調和案（Stage 2）に関するご意見の募集について（2026年3月分）",
-      "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/pub-comments/pdg/0058.html",
-      "publishedAt": "2026-03-02",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
-      "region": "JP",
-      "title": "[薬局方][パブコメ]日本薬局方収載原案に関するご意見の募集について（2026年3月分）",
-      "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/pub-comments/jp/0257.html",
-      "publishedAt": "2026-03-02",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "PMDA：トップ 安全対策",
-      "siteName": "Safety Measures (JP)",
-      "region": "JP",
-      "title": "[医薬]「重篤副作用疾患別対応マニュアル（患者・一般の方向け）」を更新しました",
-      "url": "https://www.pmda.go.jp/safety/info-services/drugs/adr-info/manuals-for-public/0001.html",
-      "publishedAt": "2026-02-26",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "PMDA：トップ 安全対策",
-      "siteName": "Safety Measures (JP)",
-      "region": "JP",
-      "title": "[医薬]「重篤副作用疾患別対応マニュアル（医療関係者向け）」を更新しました",
-      "url": "https://www.pmda.go.jp/safety/info-services/drugs/adr-info/manuals-for-hc-pro/0001.html",
-      "publishedAt": "2026-02-26",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
       "siteId": "light-drugs",
       "siteName": "消費紅綠燈-國際藥品",
       "region": "TW",
       "title": "有關ONO PHARMACEUTICAL CO., LTD.藥品OPDIVO（批號如附件）回收警訊，國內許可證持有廠商已啟動自主回收作業。",
       "url": "http://www.fda.gov.tw/tc/csmnewsContent.aspx?mid=269&id=7670&utm_source=rss&utm_medium=feed&utm_campaign=rss_subscription",
-      "publishedAt": "2026-02-25",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "PMDA：トップ 安全対策",
-      "siteName": "Safety Measures (JP)",
-      "region": "JP",
-      "title": "[医療]「医療機器の「使用上の注意」の改訂について」を掲載しました",
-      "url": "https://www.pmda.go.jp/safety/info-services/devices/0035.html",
       "publishedAt": "2026-02-25",
       "excerpt": "",
       "sourceType": "rss"
@@ -6091,16 +5526,6 @@
       "title": "新春小心「喵喵」陷阱 可疑食物勇敢說「不要」",
       "url": "http://www.fda.gov.tw/tc/newsContent.aspx?cid=4&id=t624091&utm_source=rss&utm_medium=feed&utm_campaign=rss_subscription",
       "publishedAt": "2026-02-20",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "PMDA：トップ 安全対策",
-      "siteName": "Safety Measures (JP)",
-      "region": "JP",
-      "title": "[イベント]MID-NET Update 2026の資料を掲載しました",
-      "url": "https://www.pmda.go.jp/safety/symposia/0031.html",
-      "publishedAt": "2026-02-19",
       "excerpt": "",
       "sourceType": "rss"
     },
@@ -6205,16 +5630,6 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 安全対策",
-      "siteName": "Safety Measures (JP)",
-      "region": "JP",
-      "title": "[審査][安全][イベント]PMDAシンポジウム「既存の診療情報を活用した医療機器開発」の開催について（資料掲載）",
-      "url": "https://www.pmda.go.jp/review-services/symposia/0196.html",
-      "publishedAt": "2026-02-10",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
       "siteId": "fda-consumer-health-information-updates",
       "siteName": "Consumer Health Information Updates",
       "region": "US",
@@ -6231,16 +5646,6 @@
       "title": "誤用瘦瘦針恐傷身！食藥署提醒：勿網購、須醫師開立並留意不良反應",
       "url": "http://www.fda.gov.tw/tc/newsContent.aspx?cid=4&id=t624106&utm_source=rss&utm_medium=feed&utm_campaign=rss_subscription",
       "publishedAt": "2026-02-07",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
-      "region": "JP",
-      "title": "[薬局方]PDG（薬局方調和国際会議）の議事要旨を掲載しました",
-      "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/0009.html",
-      "publishedAt": "2026-02-06",
       "excerpt": "",
       "sourceType": "rss"
     },
@@ -6315,16 +5720,6 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 安全対策",
-      "siteName": "Safety Measures (JP)",
-      "region": "JP",
-      "title": "[全製品]令和7年度（2025年度）特集「医療機関報告 Best Practice」記事ページを公開しました",
-      "url": "https://www.pmda.go.jp/safety/reports/hcp/0009.html",
-      "publishedAt": "2026-01-23",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
       "siteId": "tfda-news-and-press-releases",
       "siteName": "新聞",
       "region": "TW",
@@ -6345,16 +5740,6 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
-      "region": "JP",
-      "title": "[その他]薬剤耐性菌感染症に用いるファージ製剤の開発における留意事項を掲載しました",
-      "url": "https://www.pmda.go.jp/rs-std-jp/subcommittees/0001.html",
-      "publishedAt": "2026-01-21",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
       "siteId": "fda-consumer-health-information-updates",
       "siteName": "Consumer Health Information Updates",
       "region": "US",
@@ -6365,61 +5750,11 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 安全対策",
-      "siteName": "Safety Measures (JP)",
-      "region": "JP",
-      "title": "[再生]使用上の注意の改訂指示通知（再生医療等製品）2026年1月13日付（厚生労働省より発出）を掲載しました",
-      "url": "https://www.pmda.go.jp/safety/info-services/ctp/0018.html",
-      "publishedAt": "2026-01-13",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "PMDA：トップ 安全対策",
-      "siteName": "Safety Measures (JP)",
-      "region": "JP",
-      "title": "[医薬]「2024年度くすり相談の受付状況」を掲載しました",
-      "url": "https://www.pmda.go.jp/safety/consultation-for-patients/on-drugs/state/0001.html",
-      "publishedAt": "2026-01-09",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "PMDA：トップ 安全対策",
-      "siteName": "Safety Measures (JP)",
-      "region": "JP",
-      "title": "[医療]「2024年度医療機器相談の受付状況」を掲載しました",
-      "url": "https://www.pmda.go.jp/safety/consultation-for-patients/on-devices/state/0001.html",
-      "publishedAt": "2026-01-09",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
       "siteId": "light-drugs",
       "siteName": "消費紅綠燈-國際藥品",
       "region": "TW",
       "title": "有關PHARMATHEN INTERNATIONAL S.A.藥品PALIFREN LONG及Paliperidon Advanz Pharma prolonged-release（批號如附件）回收警訊，國內並未輸入該批號藥品。",
       "url": "http://www.fda.gov.tw/tc/csmnewsContent.aspx?mid=269&id=7558&utm_source=rss&utm_medium=feed&utm_campaign=rss_subscription",
-      "publishedAt": "2026-01-07",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "PMDA：トップ 安全対策",
-      "siteName": "Safety Measures (JP)",
-      "region": "JP",
-      "title": "[医療]「血糖測定機器等に係る添付文書の自主点検等について」を掲載しました",
-      "url": "https://www.pmda.go.jp/safety/info-services/devices/0127.html",
-      "publishedAt": "2026-01-07",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "PMDA：トップ 安全対策",
-      "siteName": "Safety Measures (JP)",
-      "region": "JP",
-      "title": "[体外]自主点検通知（体外診断用医薬品）を掲載いたしました",
-      "url": "https://www.pmda.go.jp/safety/info-services/ivd/0008.html",
       "publishedAt": "2026-01-07",
       "excerpt": "",
       "sourceType": "rss"
@@ -6445,16 +5780,6 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 安全対策",
-      "siteName": "Safety Measures (JP)",
-      "region": "JP",
-      "title": "[医薬]［MID-NET］利活用者向け基本情報（MID-NETデータ版）を更新しました",
-      "url": "https://www.pmda.go.jp/safety/mid-net/0008.html",
-      "publishedAt": "2025-12-24",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
       "siteId": "fda-outbreaks",
       "siteName": "FDA Outbreaks",
       "region": "US",
@@ -6462,26 +5787,6 @@
       "url": "http://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-cucumbers-june-2024",
       "publishedAt": "2025-12-23",
       "excerpt": "Outbreak Investigation of Salmonella: Cucumbers (June 2024)",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "PMDA：トップ 安全対策",
-      "siteName": "Safety Measures (JP)",
-      "region": "JP",
-      "title": "[医薬]患者向医薬品ガイド（必須版）及びワクチン接種を受ける人へのガイド（必須版）の作成等に関する通知および事務連絡を掲載しました",
-      "url": "https://www.pmda.go.jp/safety/info-services/drugs/items-information/guide-for-patients/0003.html",
-      "publishedAt": "2025-12-19",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "PMDA：トップ 安全対策",
-      "siteName": "Safety Measures (JP)",
-      "region": "JP",
-      "title": "[全製品]「関係団体からのお知らせ」に「TAVI弁展開後における弁尖可動不良事象に関するステートメント」を掲載しました",
-      "url": "https://www.pmda.go.jp/safety/info-services/medical-safety-info/0011.html",
-      "publishedAt": "2025-12-18",
-      "excerpt": "",
       "sourceType": "rss"
     },
     {
@@ -6495,31 +5800,11 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
-      "region": "JP",
-      "title": "[その他]「AI対応WG」のページを新設しました",
-      "url": "https://www.pmda.go.jp/rs-std-jp/cross-sectional-project/0024.html",
-      "publishedAt": "2025-12-08",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
       "siteId": "light-drugs",
       "siteName": "消費紅綠燈-國際藥品",
       "region": "TW",
       "title": "有關AstraZeneca AB主動回收藥品Fasenra pen 30 MG/ML（批號YK0060），國內並未輸入該批號藥品。",
       "url": "http://www.fda.gov.tw/tc/csmnewsContent.aspx?mid=269&id=7469&utm_source=rss&utm_medium=feed&utm_campaign=rss_subscription",
-      "publishedAt": "2025-12-05",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
-      "region": "JP",
-      "title": "[薬局方]PDG（薬局方調和国際会議）ニュースを掲載しました",
-      "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/0012.html",
       "publishedAt": "2025-12-05",
       "excerpt": "",
       "sourceType": "rss"
@@ -6541,56 +5826,6 @@
       "title": "公告修正管制藥品品項(增修Propoxate等12項管制藥品)",
       "url": "http://www.fda.gov.tw/TC/newsContent.aspx?cid=3&id=31332",
       "publishedAt": "2025-12-04",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "PMDA：トップ 安全対策",
-      "siteName": "Safety Measures (JP)",
-      "region": "JP",
-      "title": "[医薬][MID-NET]オンサイトセンターを移設しました",
-      "url": "https://www.pmda.go.jp/safety/mid-net/0015.html",
-      "publishedAt": "2025-12-03",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
-      "region": "JP",
-      "title": "[薬局方][パブコメ]日本薬局方収載原案に関するご意見の募集について（2025年12月分 その2）",
-      "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/pub-comments/jp/0256.html",
-      "publishedAt": "2025-12-01",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
-      "region": "JP",
-      "title": "[薬局方][パブコメ]日本薬局方収載原案に関するご意見の募集について（2025年12月分 その1）",
-      "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/pub-comments/jp/0255.html",
-      "publishedAt": "2025-12-01",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
-      "region": "JP",
-      "title": "[薬局方][パブコメ]日本薬局方新規収載候補品目（案）に関するご意見の募集について（2025年11月分）",
-      "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/pub-comments/jp/0254.html",
-      "publishedAt": "2025-11-20",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
-      "region": "JP",
-      "title": "[薬局方]PDG調和作業手順の改訂版を掲載しました",
-      "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/0022.html",
-      "publishedAt": "2025-11-13",
       "excerpt": "",
       "sourceType": "rss"
     },
@@ -6951,16 +6186,6 @@
       "title": "有關DKSH (Thailand) Limited主動回收藥品NALDEBAIN ER INJECTION（批號304894），國內許可證持有廠商已啟動自主回收作業。",
       "url": "http://www.fda.gov.tw/tc/csmnewsContent.aspx?mid=269&id=7115&utm_source=rss&utm_medium=feed&utm_campaign=rss_subscription",
       "publishedAt": "2025-06-13",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "light-drugs",
-      "siteName": "消費紅綠燈-國際藥品",
-      "region": "TW",
-      "title": "有關Opella Healthcare UK LTD發布藥品訊息Dulcolax Adult 5 mg Gastro-resistant Tablets（批號如內文），國內並未輸入該批號藥品。",
-      "url": "http://www.fda.gov.tw/tc/csmnewsContent.aspx?mid=269&id=7113&utm_source=rss&utm_medium=feed&utm_campaign=rss_subscription",
-      "publishedAt": "2025-06-12",
       "excerpt": "",
       "sourceType": "rss"
     },
@@ -7901,6 +7126,16 @@
       "title": "國產食品產製前配方審查審查費收費標準",
       "url": "http://www.fda.gov.tw/tc/includes/GetFile.ashx?id=72&mid=46&utm_source=rss&utm_medium=feed&utm_campaign=rss_subscription",
       "publishedAt": "2009-11-27",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-medwatch",
+      "siteName": "MedWatch Safety Alerts",
+      "region": "US",
+      "title": "",
+      "url": "http://www.fda.gov/node/",
+      "publishedAt": null,
       "excerpt": "",
       "sourceType": "rss"
     }
