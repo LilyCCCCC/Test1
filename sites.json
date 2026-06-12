@@ -468,6 +468,41 @@
         "tags": ["international", "activities", "announcements"]
       }
     ]
-  }
+  },
+
+{
+    "groupId": "ich",
+    "groupName": "ICH",
+    "enabled": true,
+    "children": [
+      {
+        "id": "ICH Public | News",
+        "name": "ICH Public | News",
+        "region": "EN",
+        "type": "rss",
+        "baseUrl": "https://www.ich.org/page/press-releases",
+        "rssUrl": "https://admin.ich.org/rss/news",
+        "enabled": true,
+        "tags": ["updates", "ich", "news"]
+      }
+    ]
+  },
   
+    {
+    "groupId": "template",
+    "groupName": "Template",
+    "enabled": false,
+    "children": [
+      {
+        "id": "what's-new",
+        "name": "What's New (EN)",
+        "region": "JP",
+        "type": "rss",
+        "baseUrl": "https://www.pmda.go.jp/english/index.html",
+        "rssUrl": "",
+        "enabled": false,
+        "tags": ["updates", "website", "overview"]
+      }
+    ]
+  }
 ]
