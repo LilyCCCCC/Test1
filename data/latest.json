@@ -1,34 +1,84 @@
 {
-  "generatedAt": "2026-06-11T21:35:52.125849+00:00",
-  "count": 711,
+  "generatedAt": "2026-06-12T07:11:41.692254+00:00",
+  "count": 814,
   "errors": [
     {
       "groupId": "pmda",
-      "siteId": "PMDA：トップ 安全対策",
-      "error": "HTTPSConnectionPool(host='www.pmda.go.jp', port=443): Max retries exceeded with url: /rss_018.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.pmda.go.jp', port=443) at 0x7f1b02410490>, 'Connection to www.pmda.go.jp timed out. (connect timeout=30)'))"
-    },
-    {
-      "groupId": "pmda",
-      "siteId": "PMDA：トップ 安全対策",
-      "error": "HTTPSConnectionPool(host='www.pmda.go.jp', port=443): Max retries exceeded with url: /rss_019.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.pmda.go.jp', port=443) at 0x7f1b0244b690>, 'Connection to www.pmda.go.jp timed out. (connect timeout=30)'))"
-    },
-    {
-      "groupId": "pmda",
       "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "error": "HTTPSConnectionPool(host='www.pmda.go.jp', port=443): Max retries exceeded with url: /rss_017.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.pmda.go.jp', port=443) at 0x7f1b02436a90>, 'Connection to www.pmda.go.jp timed out. (connect timeout=30)'))"
+      "error": "HTTPSConnectionPool(host='www.pmda.go.jp', port=443): Max retries exceeded with url: /rss_017.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.pmda.go.jp', port=443) at 0x7f106ec803d0>, 'Connection to www.pmda.go.jp timed out. (connect timeout=30)'))"
     },
     {
       "groupId": "pmda",
       "siteId": "PMDA：トップ 国際活動",
-      "error": "HTTPSConnectionPool(host='www.pmda.go.jp', port=443): Max retries exceeded with url: /rss_017.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.pmda.go.jp', port=443) at 0x7f1b022f61d0>, 'Connection to www.pmda.go.jp timed out. (connect timeout=30)'))"
+      "error": "HTTPSConnectionPool(host='www.pmda.go.jp', port=443): Max retries exceeded with url: /rss_017.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.pmda.go.jp', port=443) at 0x7f106eea0090>, 'Connection to www.pmda.go.jp timed out. (connect timeout=30)'))"
     },
     {
       "groupId": "pmda",
       "siteId": "PMDA：トップ その他",
-      "error": "HTTPSConnectionPool(host='www.pmda.go.jp', port=443): Max retries exceeded with url: /rss_016.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.pmda.go.jp', port=443) at 0x7f1b02286610>, 'Connection to www.pmda.go.jp timed out. (connect timeout=30)'))"
+      "error": "HTTPSConnectionPool(host='www.pmda.go.jp', port=443): Max retries exceeded with url: /rss_016.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.pmda.go.jp', port=443) at 0x7f106ee46c10>, 'Connection to www.pmda.go.jp timed out. (connect timeout=30)'))"
     }
   ],
   "items": [
+    {
+      "siteId": "notice-from-tfda",
+      "siteName": "公告",
+      "region": "TW",
+      "title": "預告訂定「食用橄欖油及橄欖粕油品名及標示規定」草案",
+      "url": "http://www.fda.gov.tw/tc/newsContent.aspx?cid=5072&id=31567&utm_source=rss&utm_medium=feed&utm_campaign=rss_subscription",
+      "publishedAt": "2026-06-12",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
+      "region": "JP",
+      "title": "[薬局方]PDG（薬局方調和国際会議）ニュースを掲載しました",
+      "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/0012.html",
+      "publishedAt": "2026-06-12",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
+      "region": "JP",
+      "title": "[安全]「製薬企業からの適正使用等に関するお知らせ」に「フィアスプ注 インスリンポンプでの適正使用のお願い（続報）」を掲載しました",
+      "url": "https://www.pmda.go.jp/safety/info-services/drugs/calling-attention/properly-use-alert/0004.html",
+      "publishedAt": "2026-06-12",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Safety Measures (JP)",
+      "region": "JP",
+      "title": "[医薬]「製薬企業からの適正使用等に関するお知らせ」に「フィアスプ注 インスリンポンプでの適正使用のお願い（続報）」を掲載しました",
+      "url": "https://www.pmda.go.jp/safety/info-services/drugs/calling-attention/properly-use-alert/0004.html",
+      "publishedAt": "2026-06-12",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
+      "region": "JP",
+      "title": "[その他]「申請電子データを活用した解析」のページを更新しました",
+      "url": "https://www.pmda.go.jp/rs-std-jp/0002.html",
+      "publishedAt": "2026-06-12",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "rs-standard-development-jp",
+      "siteName": "RS / Standard Development / JP (EN)",
+      "region": "JP",
+      "title": "[YAKKYOKUKATA]PDG March 2026 News posted",
+      "url": "https://www.pmda.go.jp/english/rs-sb-std/standards-development/jp/0014.html",
+      "publishedAt": "2026-06-12",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
     {
       "siteId": "PMDAの新着情報",
       "siteName": "What's New (JP)",
@@ -70,6 +120,16 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Adverse Health Effects Relief (JP)",
+      "region": "JP",
+      "title": "[健康]医薬品副作用被害救済制度 対象除外医薬品等一覧を更新しました",
+      "url": "https://www.pmda.go.jp/relief-services/adr-sufferers/0022.html",
+      "publishedAt": "2026-06-11",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "ema-whats-new",
       "siteName": "What's new",
       "region": "EU",
@@ -87,6 +147,26 @@
       "url": "https://www.ema.europa.eu/en/medicines/human/variation/pluvicto",
       "publishedAt": "2026-06-11",
       "excerpt": "Withdrawn application: Pluvicto, 23/04/2026",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-recalls",
+      "siteName": "Recalls",
+      "region": "US",
+      "title": "Total Nutrition Inc. Expands Recall of TNVitamins and Doctor’s Pride Ultra Potent Complete Green Superfood Moringa Capsules Because of Possible Health Risk Following Further Supply Chain Review",
+      "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/total-nutrition-inc-expands-recall-tnvitamins-and-doctors-pride-ultra-potent-complete-green-0",
+      "publishedAt": "2026-06-11",
+      "excerpt": "Total Nutrition Inc. of Deer Park, NY is voluntarily expanding its recall of TNVitamins and Doctor's Pride Ultra Potent Complete Green Superfood Moringa Capsules due to the potential to be contaminated with Salmonella. This expansion follows an ongoing supply chain investigation that identified addi",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-food-safety-recalls",
+      "siteName": "Food Safety Recalls",
+      "region": "US",
+      "title": "Total Nutrition Inc. Expands Recall of TNVitamins and Doctor’s Pride Ultra Potent Complete Green Superfood Moringa Capsules Because of Possible Health Risk Following Further Supply Chain Review",
+      "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/total-nutrition-inc-expands-recall-tnvitamins-and-doctors-pride-ultra-potent-complete-green-0",
+      "publishedAt": "2026-06-11",
+      "excerpt": "Total Nutrition Inc. of Deer Park, NY is voluntarily expanding its recall of TNVitamins and Doctor's Pride Ultra Potent Complete Green Superfood Moringa Capsules due to the potential to be contaminated with Salmonella. This expansion follows an ongoing supply chain investigation that identified addi",
       "sourceType": "rss"
     },
     {
@@ -614,6 +694,16 @@
       "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[安全]クラスI回収 該当回収品目　新鮮凍結血漿-LR「日赤」480、新鮮凍結血漿-LR「日赤」240",
+      "url": "https://www.pmda.go.jp/safety/info-services/drugs/calling-attention/recall-info/0002.html",
+      "publishedAt": "2026-06-10",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Safety Measures (JP)",
+      "region": "JP",
+      "title": "[医薬]クラスI回収 該当回収品目　新鮮凍結血漿-LR「日赤」480、新鮮凍結血漿-LR「日赤」240",
       "url": "https://www.pmda.go.jp/safety/info-services/drugs/calling-attention/recall-info/0002.html",
       "publishedAt": "2026-06-10",
       "excerpt": "",
@@ -1490,6 +1580,16 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Safety Measures (JP)",
+      "region": "JP",
+      "title": "[医薬]使用上の注意の改訂指示通知（医薬品）2026年6月5日付（厚生労働省より発出）を掲載しました",
+      "url": "https://www.pmda.go.jp/safety/info-services/drugs/calling-attention/revision-of-precautions/0375.html",
+      "publishedAt": "2026-06-05",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "PMDA：トップ 承認審査",
       "siteName": "Review for (marketing) approval (JP)",
       "region": "JP",
@@ -1840,6 +1940,16 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "ICH Public | News",
+      "siteName": "ICH Public | News",
+      "region": "EN",
+      "title": "Key Outcomes of Biannual ICH Assembly Meeting",
+      "url": "https://ich.org/news/key-outcomes-biannual-ich-assembly-meeting",
+      "publishedAt": "2026-06-04",
+      "excerpt": "The Assembly of the International Council for Harmonisation of Technical Requirements for Pharmaceuticals for Human Use (ICH) met in person on 2–3 June 2026 in Rio de Janeiro, Brazil for its biannual meeting. The ICH Assembly meeting was preceded by meetings of the ICH Management Committee and the MedDRA Steering Committee on 31 May and 1 June. In parallel, 12 ICH Expert Working Groups met for face-to-face working sessions.",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
       "siteName": "Human medicines: EPARs and summaries of opinion",
       "region": "EU",
@@ -2110,6 +2220,36 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Safety Measures (JP)",
+      "region": "JP",
+      "title": "[医薬]「製薬企業からの医薬品の安全使用に関するお知らせ」に「グラセプターカプセルとタクロリムス普通製剤（後発医薬品含む）との取り違え注意のお願い」及び「ビーフリード輸液 調製時及び投与開始前の隔壁開通確認のお願い」を掲載しました",
+      "url": "https://www.pmda.go.jp/safety/info-services/medical-safety-info/0178.html",
+      "publishedAt": "2026-06-02",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Safety Measures (JP)",
+      "region": "JP",
+      "title": "[医薬]「コルヒチンの使用にあたっての留意事項について」を掲載しました",
+      "url": "https://www.pmda.go.jp/safety/info-services/drugs/0010.html",
+      "publishedAt": "2026-06-02",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Safety Measures (JP)",
+      "region": "JP",
+      "title": "[医薬]「アトモキセチンカプセル25mg「サワイ」ニトロソアミン化合物の管理について」及び「ジェイゾロフトOD錠ニトロソアミン化合物検出のお知らせ」を掲載しました",
+      "url": "https://www.pmda.go.jp/safety/info-services/drugs/0371.html",
+      "publishedAt": "2026-06-02",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "PMDAの新着情報",
       "siteName": "What's New (JP)",
       "region": "JP",
@@ -2360,11 +2500,31 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Safety Measures (JP)",
       "region": "JP",
-      "title": "[その他]「申請電子データを活用した解析」のページを更新しました",
-      "url": "https://www.pmda.go.jp/rs-std-jp/0002.html",
+      "title": "[医薬]添付文書改訂相談に基づく添付文書改訂（医薬品）を掲載しました",
+      "url": "https://www.pmda.go.jp/safety/info-services/drugs/calling-attention/revision-based-on-the-consultation/0001.html",
+      "publishedAt": "2026-06-01",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Safety Measures (JP)",
+      "region": "JP",
+      "title": "[医療]クラスI回収 該当回収品目　RelayPro 胸部ステントグラフトシステム",
+      "url": "https://www.pmda.go.jp/safety/info-services/devices/0054.html",
+      "publishedAt": "2026-06-01",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Safety Measures (JP)",
+      "region": "JP",
+      "title": "[医療]「医療機器自主回収のお知らせ（クラスI）（販売名：RelayPro 胸部ステントグラフトシステム）」を掲載しました",
+      "url": "https://www.pmda.go.jp/safety/info-services/devices/0096.html",
       "publishedAt": "2026-06-01",
       "excerpt": "",
       "sourceType": "rss"
@@ -2610,8 +2770,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Adverse Health Effects Relief (JP)",
       "region": "JP",
       "title": "[健康]副用救済給付の決定に関する情報（2025年度3月分）を掲載しました",
       "url": "https://www.pmda.go.jp/relief-services/adr-sufferers/0043.html",
@@ -2625,16 +2785,6 @@
       "region": "JP",
       "title": "[PMDA]令和8年度第1回救済業務委員会　開催案内を掲載しました",
       "url": "https://www.pmda.go.jp/about-pmda/advisory-council-information/relief-services/0071.html",
-      "publishedAt": "2026-05-29",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
-      "region": "JP",
-      "title": "[PMDA][イベント]2026年度のPMDAオープン・カンパニー情報（技術系）を更新しました",
-      "url": "https://www.pmda.go.jp/about-pmda/symposia/0030.html",
       "publishedAt": "2026-05-29",
       "excerpt": "",
       "sourceType": "rss"
@@ -2934,7 +3084,7 @@
       "siteName": "MedWatch Safety Alerts",
       "region": "US",
       "title": "Early Alert: Heart Pump Issue from Abiomed",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-heart-pump-issue-abiomed-0",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-heart-pump-issue-abiomed",
       "publishedAt": "2026-05-27",
       "excerpt": "Specific Impella CP Sets are out of specification; use may result in low purge pressure events from the onset of the case",
       "sourceType": "rss"
@@ -3025,6 +3175,16 @@
       "region": "TW",
       "title": "有關Huons Co., Ltd.藥品Lidocaine HCl Injection, USP, 2%, 100 mg/5mL (20 mg/mL), 5 mL Single-Dose Vials回收警訊，國內並未輸入該批號藥品。",
       "url": "http://www.fda.gov.tw/tc/csmnewsContent.aspx?mid=269&id=7833&utm_source=rss&utm_medium=feed&utm_campaign=rss_subscription",
+      "publishedAt": "2026-05-26",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Safety Measures (JP)",
+      "region": "JP",
+      "title": "[全製品]医薬品・医療機器等安全性情報 No.429（厚生労働省発行）を掲載しました",
+      "url": "https://www.pmda.go.jp/safety/info-services/drugs/calling-attention/safety-info/0166.html",
       "publishedAt": "2026-05-26",
       "excerpt": "",
       "sourceType": "rss"
@@ -3500,6 +3660,16 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "fda-medwatch",
+      "siteName": "MedWatch Safety Alerts",
+      "region": "US",
+      "title": "Insulet Initiates Voluntary Medical Device Correction for Certain Omnipod® Pods in the U.S. and Affected International Markets",
+      "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/insulet-initiates-voluntary-medical-device-correction-certain-omnipodr-pods-us-and-affected",
+      "publishedAt": "2026-05-26",
+      "excerpt": "ACTON, Mass.--(BUSINESS WIRE)-- Insulet Corporation, Inc. (NASDAQ: PODD) (“Insulet” or the “Company”) today announced a voluntary Medical Device Correction for specific lots of Omnipod® 5, Omnipod DASH®, and Omnipod® Insulin Management System (Omnipod Eros) Pods due to a manufacturing issue, identif",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "reviews",
       "siteName": "Reviews (EN)",
       "region": "JP",
@@ -3550,6 +3720,26 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Safety Measures (JP)",
+      "region": "JP",
+      "title": "[医薬]「不具合が疑われる症例報告に関する情報（コンビネーション製品）」に2026年1月分の情報を追加しました",
+      "url": "https://www.pmda.go.jp/safety/info-services/drugs/adr-info/malfunctions-combination-drugs/0001.html",
+      "publishedAt": "2026-05-25",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Safety Measures (JP)",
+      "region": "JP",
+      "title": "[医療]「不具合が疑われる症例報告に関する情報（医療機器）」に2026年1月分の情報を追加しました",
+      "url": "https://www.pmda.go.jp/safety/info-services/devices/0090.html",
+      "publishedAt": "2026-05-25",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "PMDA：トップ 承認審査",
       "siteName": "Review for (marketing) approval (JP)",
       "region": "JP",
@@ -3565,6 +3755,16 @@
       "region": "JP",
       "title": "[再生]再生医療等製品の最適使用推進ガイドラインを掲載しました",
       "url": "https://www.pmda.go.jp/review-services/drug-reviews/review-information/ctp/0011.html",
+      "publishedAt": "2026-05-25",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Safety Measures (JP)",
+      "region": "JP",
+      "title": "[再生]「不具合が疑われる症例報告に関する情報（再生医療等製品）」に2026年1月分の情報を追加しました",
+      "url": "https://www.pmda.go.jp/safety/info-services/ctp/0006.html",
       "publishedAt": "2026-05-25",
       "excerpt": "",
       "sourceType": "rss"
@@ -3620,6 +3820,16 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Safety Measures (JP)",
+      "region": "JP",
+      "title": "[医薬]MIHARI Project  PMDAが実施している調査の一覧（No.18, 50, 51）を更新しました",
+      "url": "https://www.pmda.go.jp/safety/surveillance-analysis/0045.html",
+      "publishedAt": "2026-05-22",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "reviews",
       "siteName": "Reviews (EN)",
       "region": "JP",
@@ -3637,16 +3847,6 @@
       "url": "https://www.pmda.go.jp/english/review-services/reviews/0010.html",
       "publishedAt": "2026-05-22",
       "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-recalls",
-      "siteName": "Recalls",
-      "region": "US",
-      "title": "SKS Copack Recalls Various Specialty Beverages Because of Possible Health Risk",
-      "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/sks-copack-recalls-various-specialty-beverages-because-possible-health-risk",
-      "publishedAt": "2026-05-22",
-      "excerpt": "SKS Copack of Cerritos, CA is recalling various specialty beverages, because they have the potential to be contaminated with Salmonella, an organism which can cause serious and sometimes fatal infections in young children, frail or elderly people, and others with weakened immune systems. Healthy per",
       "sourceType": "rss"
     },
     {
@@ -3860,6 +4060,26 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Safety Measures (JP)",
+      "region": "JP",
+      "title": "[医薬]タブネオスカプセル10mgによる重篤な肝機能障害についての安全性速報（ブルーレター）を掲載しました",
+      "url": "https://www.pmda.go.jp/safety/info-services/drugs/calling-attention/esc-rsc/0001.html",
+      "publishedAt": "2026-05-21",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Safety Measures (JP)",
+      "region": "JP",
+      "title": "[医薬]「タブネオスカプセル10mgを服用される患者様とご家族の皆様へ」を掲載しました",
+      "url": "https://www.pmda.go.jp/safety/info-services/drugs/calling-attention/properly-use-alert/0005_c.html",
+      "publishedAt": "2026-05-21",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "fda-food-allergies",
       "siteName": "Food Allergies",
       "region": "US",
@@ -4070,6 +4290,16 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Safety Measures (JP)",
+      "region": "JP",
+      "title": "[医薬]「医薬品に関する評価中のリスク等の情報について」を掲載しました",
+      "url": "https://www.pmda.go.jp/safety/info-services/drugs/calling-attention/risk-communications/0001.html",
+      "publishedAt": "2026-05-19",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "rs-standard-development-jp",
       "siteName": "RS / Standard Development / JP (EN)",
       "region": "JP",
@@ -4170,6 +4400,16 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Safety Measures (JP)",
+      "region": "JP",
+      "title": "[医薬]「副作用が疑われる症例報告に関する情報」に2026年1月分の情報を追加しました",
+      "url": "https://www.pmda.go.jp/safety/info-services/drugs/adr-info/suspected-adr/0005.html",
+      "publishedAt": "2026-05-15",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "fda-food-safety-recalls",
       "siteName": "Food Safety Recalls",
       "region": "US",
@@ -4187,16 +4427,6 @@
       "url": "http://www.fda.gov/drugs/cder-foia-electronic-reading-room/excel-vision-01222026",
       "publishedAt": "2026-05-15",
       "excerpt": "Excel Vision - 01/22/2026. Country: France. Record Type: 483",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-food-safety-recalls",
-      "siteName": "Food Safety Recalls",
-      "region": "US",
-      "title": "Blackstone Products Recalls Parmesan Ranch Seasoning Because of Possible Salmonella Health Risk",
-      "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/blackstone-products-recalls-parmesan-ranch-seasoning-because-possible-salmonella-health-risk",
-      "publishedAt": "2026-05-15",
-      "excerpt": "Blackstone Products of Providence, Utah is voluntarily recalling certain lots of Blackstone Parmesan Ranch seasoning products because they have the potential to be contaminated with Salmonella.  Blackstone’s action is based on a California Dairies, Inc. recall of dry milk powder due to potential Sal",
       "sourceType": "rss"
     },
     {
@@ -4263,20 +4493,20 @@
       "siteId": "notice-from-tfda",
       "siteName": "公告",
       "region": "TW",
-      "title": "藥品查驗登記國產加速審查試辦方案",
-      "url": "http://www.fda.gov.tw/tc/newsContent.aspx?cid=3&id=31545&utm_source=rss&utm_medium=feed&utm_campaign=rss_subscription",
+      "title": "公告修正「輸入規定『508』貨品分類號列表」，並溯及自中華民國一百十五年四月一日生效。",
+      "url": "http://www.fda.gov.tw/tc/newsContent.aspx?cid=3&id=31540&utm_source=rss&utm_medium=feed&utm_campaign=rss_subscription",
       "publishedAt": "2026-05-12",
       "excerpt": "",
       "sourceType": "rss"
     },
     {
-      "siteId": "notice-from-tfda",
-      "siteName": "公告",
-      "region": "TW",
-      "title": "公告修正「輸入規定『508』貨品分類號列表」，並溯及自中華民國一百十五年四月一日生效。",
-      "url": "http://www.fda.gov.tw/tc/newsContent.aspx?cid=3&id=31540&utm_source=rss&utm_medium=feed&utm_campaign=rss_subscription",
+      "siteId": "ICH Public | News",
+      "siteName": "ICH Public | News",
+      "region": "EN",
+      "title": "ICH M11 Expert Working Group issues final overview presentation",
+      "url": "https://ich.org/news/ich-m11-expert-working-group-issues-final-overview-presentation",
       "publishedAt": "2026-05-12",
-      "excerpt": "",
+      "excerpt": "The ICH M11 Expert Working Group has issued a final overview presentation (at Step 4 of the ICH harmonisation process) for ICH M11: The Clinical electronic Structured Harmonised Protocol (CeSHarP), a guideline adopted in November 2025.",
       "sourceType": "rss"
     },
     {
@@ -4870,6 +5100,16 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Safety Measures (JP)",
+      "region": "JP",
+      "title": "医療機器リスク管理計画（RMP）に関する情報を更新しました",
+      "url": "https://www.pmda.go.jp/safety/info-services/devices/0125.html",
+      "publishedAt": "2026-04-28",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "fda-press-releases",
       "siteName": "Press Releases",
       "region": "US",
@@ -4915,6 +5155,16 @@
       "region": "JP",
       "title": "[医薬][イベント]日本核酸医薬学会第11回年会での個別面談について",
       "url": "https://www.pmda.go.jp/review-services/symposia/0202.html",
+      "publishedAt": "2026-04-27",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Safety Measures (JP)",
+      "region": "JP",
+      "title": "[全製品]PMDA医療安全情報No.73「インスリン専用注射器の使用について　投与量の誤りが重大な健康被害につながるおそれがあります」を掲載しました",
+      "url": "https://www.pmda.go.jp/safety/info-services/medical-safety-info/0001.html",
       "publishedAt": "2026-04-27",
       "excerpt": "",
       "sourceType": "rss"
@@ -5130,6 +5380,16 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Safety Measures (JP)",
+      "region": "JP",
+      "title": "[安全][医療]「医療機器添付文書改訂相談」のページを掲載しました",
+      "url": "https://www.pmda.go.jp/review-services/f2f-pre/consultations/0122.html",
+      "publishedAt": "2026-04-16",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "PMDA：トップ 承認審査",
       "siteName": "Review for (marketing) approval (JP)",
       "region": "JP",
@@ -5240,6 +5500,16 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Safety Measures (JP)",
+      "region": "JP",
+      "title": "[医薬]患者副作用報告（2025年8月1日から2025年11月30日受付分）を追加しました",
+      "url": "https://www.pmda.go.jp/safety/reports/patients/0005.html",
+      "publishedAt": "2026-04-09",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "PMDA：トップ 承認審査",
       "siteName": "Review for (marketing) approval (JP)",
       "region": "JP",
@@ -5247,6 +5517,16 @@
       "url": "https://www.pmda.go.jp/review-services/drug-reviews/review-information/ctp/0017.html",
       "publishedAt": "2026-04-09",
       "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ICH Public | News",
+      "siteName": "ICH Public | News",
+      "region": "EN",
+      "title": "Training Module Issued for ICH Guideline M15 on Model-informed Drug Development",
+      "url": "https://ich.org/news/training-module-issued-ich-guideline-m15-model-informed-drug-development",
+      "publishedAt": "2026-04-09",
+      "excerpt": "ICH has issued an overview training module for harmonised Guideline ICH M15: General Principles for Model-Informed Drug Development. The M15 Guideline was adopted in January of this year.",
       "sourceType": "rss"
     },
     {
@@ -5290,8 +5570,28 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Safety Measures (JP)",
+      "region": "JP",
+      "title": "[審査][安全][イベント]PMDAシンポジウム「生成AIの医療活用の最前線」の開催について（資料掲載）",
+      "url": "https://www.pmda.go.jp/review-services/symposia/0198.html",
+      "publishedAt": "2026-04-03",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "PMDA：トップ 承認審査",
       "siteName": "Review for (marketing) approval (JP)",
+      "region": "JP",
+      "title": "[審査][安全][イベント]PMDAシンポジウム「リアルワールドデータを活用した医療機器開発」の開催について（資料掲載）",
+      "url": "https://www.pmda.go.jp/review-services/symposia/0199.html",
+      "publishedAt": "2026-04-03",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Safety Measures (JP)",
       "region": "JP",
       "title": "[審査][安全][イベント]PMDAシンポジウム「リアルワールドデータを活用した医療機器開発」の開催について（資料掲載）",
       "url": "https://www.pmda.go.jp/review-services/symposia/0199.html",
@@ -5340,6 +5640,26 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Adverse Health Effects Relief (JP)",
+      "region": "JP",
+      "title": "[健康]生物由来製品感染等被害救済制度に関する給付額の改定のお知らせ",
+      "url": "https://www.pmda.go.jp/relief-services/infections/0030.html",
+      "publishedAt": "2026-04-01",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Adverse Health Effects Relief (JP)",
+      "region": "JP",
+      "title": "[健康]医薬品副作用被害救済制度に関する給付額の改定のお知らせ",
+      "url": "https://www.pmda.go.jp/relief-services/adr-sufferers/0007.html",
+      "publishedAt": "2026-04-01",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "light-drugs",
       "siteName": "消費紅綠燈-國際藥品",
       "region": "TW",
@@ -5360,12 +5680,42 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Safety Measures (JP)",
+      "region": "JP",
+      "title": "[医薬]MID-NET（医療情報データベース）を更新しました",
+      "url": "https://www.pmda.go.jp/safety/mid-net/0019.html",
+      "publishedAt": "2026-03-30",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "PMDA：トップ 承認審査",
       "siteName": "Review for (marketing) approval (JP)",
       "region": "JP",
       "title": "[医療]「特区医療機器戦略相談」を「革新的医療機器戦略相談」に改称し、対象となる相談者を拡大しました。",
       "url": "https://www.pmda.go.jp/review-services/f2f-pre/strategies/0009.html",
       "publishedAt": "2026-03-30",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Safety Measures (JP)",
+      "region": "JP",
+      "title": "[医薬]「抗悪性腫瘍剤タゼメトスタット臭化水素酸塩の販売中止について」を掲載しました",
+      "url": "https://www.pmda.go.jp/safety/info-services/drugs/calling-attention/mhlw-released/0001.html",
+      "publishedAt": "2026-03-27",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Safety Measures (JP)",
+      "region": "JP",
+      "title": "[全製品]「医療事故情報収集等事業第84回報告書の公表について」を掲載しました",
+      "url": "https://www.pmda.go.jp/safety/info-services/medical-safety-info/0005.html",
+      "publishedAt": "2026-03-27",
       "excerpt": "",
       "sourceType": "rss"
     },
@@ -5400,6 +5750,26 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Safety Measures (JP)",
+      "region": "JP",
+      "title": "[医薬]令和7年度「医療機関等における医薬品安全性情報の入手・伝達・活用状況等に関する調査」の調査結果を掲載しました",
+      "url": "https://www.pmda.go.jp/safety/surveillance-analysis/0010.html",
+      "publishedAt": "2026-03-25",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Adverse Health Effects Relief (JP)",
+      "region": "JP",
+      "title": "[健康]基金事業等に係る運営及び管理に関する基本的事項の公表について更新しました",
+      "url": "https://www.pmda.go.jp/relief-services/hepatitis-c/0001.html",
+      "publishedAt": "2026-03-24",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "PMDA：トップ 承認審査",
       "siteName": "Review for (marketing) approval (JP)",
       "region": "JP",
@@ -5420,11 +5790,41 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Adverse Health Effects Relief (JP)",
+      "region": "JP",
+      "title": "[健康]生物由来製品等の一覧を更新しました",
+      "url": "https://www.pmda.go.jp/relief-services/infections/0032.html",
+      "publishedAt": "2026-03-23",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ICH Public | News",
+      "siteName": "ICH Public | News",
+      "region": "EN",
+      "title": "Updated and Expanded ICH Q9(R1) Quality Risk Management Briefing Pack Now Available",
+      "url": "https://ich.org/news/updated-and-expanded-ich-q9r1-quality-risk-management-briefing-pack-now-available",
+      "publishedAt": "2026-03-20",
+      "excerpt": "ICH has published an updated and expanded Q9(R1) Quality Risk Management Briefing Pack to support the implementation of a systematic approach to quality risk management in pharmaceutical development, manufacturing and distribution.",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "controlled-drugs",
       "siteName": "管制藥品類",
       "region": "TW",
       "title": "公告修正管制藥品品項(增列7-Hydroxymitragynine等3項管制藥品)",
       "url": "http://www.fda.gov.tw/TC/newsContent.aspx?cid=3&id=31459",
+      "publishedAt": "2026-03-17",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Safety Measures (JP)",
+      "region": "JP",
+      "title": "[医薬]使用上の注意の改訂指示通知（医薬品）2026年3月17日付（厚生労働省より発出）を掲載しました",
+      "url": "https://www.pmda.go.jp/safety/info-services/drugs/calling-attention/revision-of-precautions/0374.html",
       "publishedAt": "2026-03-17",
       "excerpt": "",
       "sourceType": "rss"
@@ -5460,12 +5860,32 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Safety Measures (JP)",
+      "region": "JP",
+      "title": "[医薬]「第36回ジェネリック医薬品・バイオシミラー品質情報検討会」を掲載しました",
+      "url": "https://www.pmda.go.jp/safety/info-services/drugs/generics-info/0003.html",
+      "publishedAt": "2026-03-16",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "light-drugs",
       "siteName": "消費紅綠燈-國際藥品",
       "region": "TW",
       "title": "有關藥品Reparil Gel N（批號D2102021、 D2100538）回收警訊，國內並未輸入該批號藥品。",
       "url": "http://www.fda.gov.tw/tc/csmnewsContent.aspx?mid=269&id=7712&utm_source=rss&utm_medium=feed&utm_campaign=rss_subscription",
       "publishedAt": "2026-03-09",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Safety Measures (JP)",
+      "region": "JP",
+      "title": "[審査][安全][イベント]PMDAシンポジウム「二段階承認の実際」の開催について（資料掲載）",
+      "url": "https://www.pmda.go.jp/review-services/symposia/0197.html",
+      "publishedAt": "2026-03-06",
       "excerpt": "",
       "sourceType": "rss"
     },
@@ -5490,11 +5910,41 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Safety Measures (JP)",
+      "region": "JP",
+      "title": "[医薬]「重篤副作用疾患別対応マニュアル（患者・一般の方向け）」を更新しました",
+      "url": "https://www.pmda.go.jp/safety/info-services/drugs/adr-info/manuals-for-public/0001.html",
+      "publishedAt": "2026-02-26",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Safety Measures (JP)",
+      "region": "JP",
+      "title": "[医薬]「重篤副作用疾患別対応マニュアル（医療関係者向け）」を更新しました",
+      "url": "https://www.pmda.go.jp/safety/info-services/drugs/adr-info/manuals-for-hc-pro/0001.html",
+      "publishedAt": "2026-02-26",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "light-drugs",
       "siteName": "消費紅綠燈-國際藥品",
       "region": "TW",
       "title": "有關ONO PHARMACEUTICAL CO., LTD.藥品OPDIVO（批號如附件）回收警訊，國內許可證持有廠商已啟動自主回收作業。",
       "url": "http://www.fda.gov.tw/tc/csmnewsContent.aspx?mid=269&id=7670&utm_source=rss&utm_medium=feed&utm_campaign=rss_subscription",
+      "publishedAt": "2026-02-25",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Safety Measures (JP)",
+      "region": "JP",
+      "title": "[医療]「医療機器の「使用上の注意」の改訂について」を掲載しました",
+      "url": "https://www.pmda.go.jp/safety/info-services/devices/0035.html",
       "publishedAt": "2026-02-25",
       "excerpt": "",
       "sourceType": "rss"
@@ -5507,6 +5957,16 @@
       "url": "http://www.fda.gov.tw/tc/csmnewsContent.aspx?mid=269&id=7667&utm_source=rss&utm_medium=feed&utm_campaign=rss_subscription",
       "publishedAt": "2026-02-24",
       "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ICH Public | News",
+      "siteName": "ICH Public | News",
+      "region": "EN",
+      "title": "Final training module issued for ICH guideline E2B(R3)",
+      "url": "https://ich.org/news/final-training-module-issued-ich-guideline-e2br3",
+      "publishedAt": "2026-02-23",
+      "excerpt": "ICH has published the final training module, “Implementation Guide for Electronic Transmission of Individual Case Safety Reports, Module III” for Guideline E2B(R3), one of several related guidelines on Clinical Safety Data Management.",
       "sourceType": "rss"
     },
     {
@@ -5526,6 +5986,16 @@
       "title": "新春小心「喵喵」陷阱 可疑食物勇敢說「不要」",
       "url": "http://www.fda.gov.tw/tc/newsContent.aspx?cid=4&id=t624091&utm_source=rss&utm_medium=feed&utm_campaign=rss_subscription",
       "publishedAt": "2026-02-20",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Safety Measures (JP)",
+      "region": "JP",
+      "title": "[イベント]MID-NET Update 2026の資料を掲載しました",
+      "url": "https://www.pmda.go.jp/safety/symposia/0031.html",
+      "publishedAt": "2026-02-19",
       "excerpt": "",
       "sourceType": "rss"
     },
@@ -5567,6 +6037,16 @@
       "url": "http://www.fda.gov.tw/tc/newsContent.aspx?cid=4&id=31427&utm_source=rss&utm_medium=feed&utm_campaign=rss_subscription",
       "publishedAt": "2026-02-13",
       "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ICH Public | News",
+      "siteName": "ICH Public | News",
+      "region": "EN",
+      "title": "Mock Example Developed to Illustrate Quality Modules of ICH M4Q(R2) Common Technical Document",
+      "url": "https://ich.org/news/mock-example-developed-illustrate-quality-modules-ich-m4qr2-common-technical-document",
+      "publishedAt": "2026-02-13",
+      "excerpt": "The ICH M4Q(R2) Expert Working Group has developed a mock example to illustrate the potential structure and presentation of information in the revised Modules 2.3 and 3 of the Common Technical Document – Quality.",
       "sourceType": "rss"
     },
     {
@@ -5630,6 +6110,16 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Safety Measures (JP)",
+      "region": "JP",
+      "title": "[審査][安全][イベント]PMDAシンポジウム「既存の診療情報を活用した医療機器開発」の開催について（資料掲載）",
+      "url": "https://www.pmda.go.jp/review-services/symposia/0196.html",
+      "publishedAt": "2026-02-10",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "fda-consumer-health-information-updates",
       "siteName": "Consumer Health Information Updates",
       "region": "US",
@@ -5637,6 +6127,16 @@
       "url": "http://www.fda.gov/consumers/consumer-updates/vaccines-blood-biologics",
       "publishedAt": "2026-02-09",
       "excerpt": "From blood to vaccines, FDA protects and advances the public health by ensuring that biological products are safe, effective, and available to those who need them. Read these Consumer Updates to learn more.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ICH Public | News",
+      "siteName": "ICH Public | News",
+      "region": "EN",
+      "title": "Harmonised ICH M15 Guideline, General Principles for Model-informed Drug Development, Adopted",
+      "url": "https://ich.org/news/harmonised-ich-m15-guideline-general-principles-model-informed-drug-development-adopted",
+      "publishedAt": "2026-02-09",
+      "excerpt": "The ICH M15 Guideline, General Principles for Model-informed Drug Development, has been adopted and will now enter the implementation phase.",
       "sourceType": "rss"
     },
     {
@@ -5720,6 +6220,26 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Safety Measures (JP)",
+      "region": "JP",
+      "title": "[全製品]令和7年度（2025年度）特集「医療機関報告 Best Practice」記事ページを公開しました",
+      "url": "https://www.pmda.go.jp/safety/reports/hcp/0009.html",
+      "publishedAt": "2026-01-23",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ICH Public | News",
+      "siteName": "ICH Public | News",
+      "region": "EN",
+      "title": "Final ICH51 Management Committee and Assembly Meeting Minutes Now Available",
+      "url": "https://ich.org/news/final-ich51-management-committee-and-assembly-meeting-minutes-now-available",
+      "publishedAt": "2026-01-23",
+      "excerpt": "The minutes of the ICH Management Committee and ICH Assembly meetings held in Singapore at ICH51 have been published. These documents summarise the decisions taken and topics discussed during the face-to-face biannual meetings, which took place in November 2025.",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "tfda-news-and-press-releases",
       "siteName": "新聞",
       "region": "TW",
@@ -5750,11 +6270,71 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "ICH Public | News",
+      "siteName": "ICH Public | News",
+      "region": "EN",
+      "title": "Updated Technical Documents Issued by ICH Expert Working Groups for Three Guidelines",
+      "url": "https://ich.org/news/updated-technical-documents-issued-ich-expert-working-groups-three-guidelines",
+      "publishedAt": "2026-01-15",
+      "excerpt": "Three ICH Expert Working Groups have issued an updated document package, a mapping document and training materials, respectively, associated with three technical Guidelines: E2B(R3) - Individual Case Safety Report Specification; M4Q(R2) - The Common Technical Document; and E6(R3) - Good Clinical Practice.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Safety Measures (JP)",
+      "region": "JP",
+      "title": "[再生]使用上の注意の改訂指示通知（再生医療等製品）2026年1月13日付（厚生労働省より発出）を掲載しました",
+      "url": "https://www.pmda.go.jp/safety/info-services/ctp/0018.html",
+      "publishedAt": "2026-01-13",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Safety Measures (JP)",
+      "region": "JP",
+      "title": "[医薬]「2024年度くすり相談の受付状況」を掲載しました",
+      "url": "https://www.pmda.go.jp/safety/consultation-for-patients/on-drugs/state/0001.html",
+      "publishedAt": "2026-01-09",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Safety Measures (JP)",
+      "region": "JP",
+      "title": "[医療]「2024年度医療機器相談の受付状況」を掲載しました",
+      "url": "https://www.pmda.go.jp/safety/consultation-for-patients/on-devices/state/0001.html",
+      "publishedAt": "2026-01-09",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "light-drugs",
       "siteName": "消費紅綠燈-國際藥品",
       "region": "TW",
       "title": "有關PHARMATHEN INTERNATIONAL S.A.藥品PALIFREN LONG及Paliperidon Advanz Pharma prolonged-release（批號如附件）回收警訊，國內並未輸入該批號藥品。",
       "url": "http://www.fda.gov.tw/tc/csmnewsContent.aspx?mid=269&id=7558&utm_source=rss&utm_medium=feed&utm_campaign=rss_subscription",
+      "publishedAt": "2026-01-07",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Safety Measures (JP)",
+      "region": "JP",
+      "title": "[医療]「血糖測定機器等に係る添付文書の自主点検等について」を掲載しました",
+      "url": "https://www.pmda.go.jp/safety/info-services/devices/0127.html",
+      "publishedAt": "2026-01-07",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Safety Measures (JP)",
+      "region": "JP",
+      "title": "[体外]自主点検通知（体外診断用医薬品）を掲載いたしました",
+      "url": "https://www.pmda.go.jp/safety/info-services/ivd/0008.html",
       "publishedAt": "2026-01-07",
       "excerpt": "",
       "sourceType": "rss"
@@ -5770,6 +6350,16 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "ICH Public | News",
+      "siteName": "ICH Public | News",
+      "region": "EN",
+      "title": "Presentation and Training Materials Now Available for Draft Guideline on Patient Preference Studies",
+      "url": "https://ich.org/news/presentation-and-training-materials-now-available-draft-guideline-patient-preference-studies",
+      "publishedAt": "2026-01-06",
+      "excerpt": "As a follow-up to the November 2025 endorsement and publication of the ICH E22 draft Guideline on General Considerations for Patient Preference Studies, the E22 Expert Working Group has issued an informational presentation and training materials.",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "fda-consumer-health-information-updates",
       "siteName": "Consumer Health Information Updates",
       "region": "US",
@@ -5777,6 +6367,16 @@
       "url": "http://www.fda.gov/consumers/consumer-updates/nutrition",
       "publishedAt": "2026-01-06",
       "excerpt": "The Nutrition Facts Label on food packaging is an important and easy way to get essential information to help you make healthy food choices. These FDA Consumer Updates are also a great resource for more nutrition facts, and other helpful information about the food you eat.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Safety Measures (JP)",
+      "region": "JP",
+      "title": "[医薬]［MID-NET］利活用者向け基本情報（MID-NETデータ版）を更新しました",
+      "url": "https://www.pmda.go.jp/safety/mid-net/0008.html",
+      "publishedAt": "2025-12-24",
+      "excerpt": "",
       "sourceType": "rss"
     },
     {
@@ -5790,6 +6390,26 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Safety Measures (JP)",
+      "region": "JP",
+      "title": "[医薬]患者向医薬品ガイド（必須版）及びワクチン接種を受ける人へのガイド（必須版）の作成等に関する通知および事務連絡を掲載しました",
+      "url": "https://www.pmda.go.jp/safety/info-services/drugs/items-information/guide-for-patients/0003.html",
+      "publishedAt": "2025-12-19",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Safety Measures (JP)",
+      "region": "JP",
+      "title": "[全製品]「関係団体からのお知らせ」に「TAVI弁展開後における弁尖可動不良事象に関するステートメント」を掲載しました",
+      "url": "https://www.pmda.go.jp/safety/info-services/medical-safety-info/0011.html",
+      "publishedAt": "2025-12-18",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "fda-tainted-products-dietary-supplements",
       "siteName": "Tainted Products That are Marketed as Dietary Supplements",
       "region": "US",
@@ -5797,6 +6417,16 @@
       "url": "http://www.fda.gov/drugs/medication-health-fraud/avoiding-products-contaminated-hidden-ingredients",
       "publishedAt": "2025-12-18",
       "excerpt": "Many products claiming to help with health issues hide dangerous drug ingredients. Get informed about how to avoid contaminated products and their hidden ingredients.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ICH Public | News",
+      "siteName": "ICH Public | News",
+      "region": "EN",
+      "title": "Recommendations for Future Guidelines Related to Advanced Therapy Medicinal Products",
+      "url": "https://ich.org/news/recommendations-future-guidelines-related-advanced-therapy-medicinal-products",
+      "publishedAt": "2025-12-11",
+      "excerpt": "The Cell and Gene Therapy Discussion Group, established in May 2023, has just published its recommendations paper, Recommendations with Regard to Future Advanced Therapy Medicinal Products-related Guidelines.",
       "sourceType": "rss"
     },
     {
@@ -5827,6 +6457,36 @@
       "url": "http://www.fda.gov.tw/TC/newsContent.aspx?cid=3&id=31332",
       "publishedAt": "2025-12-04",
       "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Safety Measures (JP)",
+      "region": "JP",
+      "title": "[医薬][MID-NET]オンサイトセンターを移設しました",
+      "url": "https://www.pmda.go.jp/safety/mid-net/0015.html",
+      "publishedAt": "2025-12-03",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ICH Public | News",
+      "siteName": "ICH Public | News",
+      "region": "EN",
+      "title": "ICH Assembly Welcomes New Members and Observers",
+      "url": "https://ich.org/news/ich-assembly-welcomes-new-members-and-observers",
+      "publishedAt": "2025-11-27",
+      "excerpt": "The International Council for Harmonisation (ICH) confirmed two new Members and two new Observers at the 51st ICH Assembly in Singapore.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ICH Public | News",
+      "siteName": "ICH Public | News",
+      "region": "EN",
+      "title": "Press Release: ICH Assembly Meeting, Singapore, 2025",
+      "url": "https://ich.org/news/press-release-ich-assembly-meeting-singapore-2025",
+      "publishedAt": "2025-11-26",
+      "excerpt": "The Assembly of the International Council for Harmonisation (ICH) met in person on 18-19 November 2025 in Singapore, in parallel with meetings of 12 Working Groups and preceded by meetings of the ICH Management Committee (MC) and the MedDRA Steering Committee (SC).",
       "sourceType": "rss"
     },
     {
@@ -5920,6 +6580,16 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "ICH Public | News",
+      "siteName": "ICH Public | News",
+      "region": "EN",
+      "title": "ICH E6(R3) Module 1 Training Now Available on the ICH Website",
+      "url": "https://ich.org/news/ich-e6r3-module-1-training-now-available-ich-website",
+      "publishedAt": "2025-10-08",
+      "excerpt": "The ICH Secretariat is pleased to announce the publication of the following training module, now available in the ICH Training Library: Interpretation and Application of ICH E6(R3): Good Clinical Practice Guideline - Module 1: Introduction and Foundational Concepts.",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "light-drugs",
       "siteName": "消費紅綠燈-國際藥品",
       "region": "TW",
@@ -5940,6 +6610,16 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "ICH Public | News",
+      "siteName": "ICH Public | News",
+      "region": "EN",
+      "title": "The ICH E2D(R1) Guideline reaches Step 4 of the ICH Process",
+      "url": "https://ich.org/news/ich-e2dr1-guideline-reaches-step-4-ich-process",
+      "publishedAt": "2025-09-24",
+      "excerpt": "The ICH E2D(R1) Guideline on “Post-Approval Safety Data: Definitions and Standards for Management and Reporting of Individual Case Safety Reports” has reached Step 4 of the ICH Process on 15 September 2025 and has now entered the implementation phase at Step 5 of the ICH Process.",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "fda-tainted-products-dietary-supplements",
       "siteName": "Tainted Products That are Marketed as Dietary Supplements",
       "region": "US",
@@ -5947,6 +6627,36 @@
       "url": "http://www.fda.gov/drugs/medication-health-fraud/primal-herbs-volume-may-be-harmful-due-hidden-drug-ingredient",
       "publishedAt": "2025-09-18",
       "excerpt": "The Food and Drug Administration is advising consumers not to purchase or use Primal Herbs Volume, a product promoted and sold for sexual enhancement on various websites, including primalherbs.com, and possibly in some retail stores.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ICH Public | News",
+      "siteName": "ICH Public | News",
+      "region": "EN",
+      "title": "ICH Q3E Step 2 Presentation Now Available on the ICH Website",
+      "url": "https://ich.org/news/ich-q3e-step-2-presentation-now-available-ich-website",
+      "publishedAt": "2025-09-18",
+      "excerpt": "In follow up to the publication of the ICH Q3E draft “Guideline for Extractables and Leachables” in August 2025, the Q3E EWG has also prepared a Step 2 informational presentation.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ICH Public | News",
+      "siteName": "ICH Public | News",
+      "region": "EN",
+      "title": "ICH E11A EWG Training Material Now Available on the ICH Website",
+      "url": "https://ich.org/news/ich-e11a-ewg-training-material-now-available-ich-website",
+      "publishedAt": "2025-09-18",
+      "excerpt": "The ICH Secretariat is pleased to announce the release of E11A Pediatric Extrapolation Training Module 1 - Case Example: Development of a hypothetical TNF-alpha inhibitor \"Drug X\" for the treatment of polyarticular juvenile idiopathic arthritis (pJIA).",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ICH Public | News",
+      "siteName": "ICH Public | News",
+      "region": "EN",
+      "title": "The ICH M14 Guideline reaches Step 4 of the ICH Process",
+      "url": "https://ich.org/news/ich-m14-guideline-reaches-step-4-ich-process",
+      "publishedAt": "2025-09-12",
+      "excerpt": "The ICH M14 Guideline on “General Principles on Plan, Design and Analysis of Pharmacoepidemiological Studies That Utilise Real-World Data for Safety Assessment of Medicines” has reached Step 4 of the ICH Process on 04 September 2025 and has now entered the implementation phase at Step 5 of the ICH Process",
       "sourceType": "rss"
     },
     {
@@ -6030,6 +6740,16 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "ICH Public | News",
+      "siteName": "ICH Public | News",
+      "region": "EN",
+      "title": "ICH Q3E Draft Guideline is Available Now on the ICH Website",
+      "url": "https://ich.org/news/ich-q3e-draft-guideline-available-now-ich-website",
+      "publishedAt": "2025-08-07",
+      "excerpt": "The ICH Q3E draft “Guideline for Extractables and Leachables” and supporting document has reached Step 2b of the ICH Process on 1 August 2025 and entered the Step 3 public consultation period.",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "light-drugs",
       "siteName": "消費紅綠燈-國際藥品",
       "region": "TW",
@@ -6037,6 +6757,16 @@
       "url": "http://www.fda.gov.tw/tc/csmnewsContent.aspx?mid=269&id=7228&utm_source=rss&utm_medium=feed&utm_campaign=rss_subscription",
       "publishedAt": "2025-08-06",
       "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ICH Public | News",
+      "siteName": "ICH Public | News",
+      "region": "EN",
+      "title": "ICH E2B(R3) Q&As, Implementation Guide, and Appendix I (G) Reach Step 4 of the ICH Process",
+      "url": "https://ich.org/news/ich-e2br3-qas-implementation-guide-and-appendix-i-g-reach-step-4-ich-process",
+      "publishedAt": "2025-07-30",
+      "excerpt": "The ICH Secretariat is pleased to announce that the updated ICH E2B(R3) Q&As, the Implementation Guide, and Appendix I (G) for the ICH E2B(R3) Guideline: Electronic Transmission of Individual Case Safety Reports (ICSRs) have reached Step 4 of the ICH Process.",
       "sourceType": "rss"
     },
     {
@@ -6170,6 +6900,26 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "ICH Public | News",
+      "siteName": "ICH Public | News",
+      "region": "EN",
+      "title": "ICH E20 Step 2 Presentation Now Available on the ICH Website",
+      "url": "https://ich.org/news/ich-e20-step-2-presentation-now-available-ich-website",
+      "publishedAt": "2025-07-11",
+      "excerpt": "In follow up to the publication of the ICH E20 draft Guideline “Adaptive Designs for Clinical Trials” in June 2025, the EWG has also prepared a Step 2 informational presentation.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ICH Public | News",
+      "siteName": "ICH Public | News",
+      "region": "EN",
+      "title": "ICH Q2(R2)/Q14 IWG Training Materials Now Available on the ICH Website",
+      "url": "https://ich.org/news/ich-q2r2q14-iwg-training-materials-now-available-ich-website",
+      "publishedAt": "2025-07-09",
+      "excerpt": "The ICH Secretariat is pleased to announce the release of Training Modules 1 to 7 on ICH Q2(R2) “Validation of Analytical Procedures” and ICH Q14 “Analytical Procedure Development”.",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "light-drugs",
       "siteName": "消費紅綠燈-國際藥品",
       "region": "TW",
@@ -6177,6 +6927,26 @@
       "url": "http://www.fda.gov.tw/tc/csmnewsContent.aspx?mid=269&id=7174&utm_source=rss&utm_medium=feed&utm_campaign=rss_subscription",
       "publishedAt": "2025-07-08",
       "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ICH Public | News",
+      "siteName": "ICH Public | News",
+      "region": "EN",
+      "title": "ICH M4Q(R2) Step 2 Presentation Now Available on the ICH Website",
+      "url": "https://ich.org/news/ich-m4qr2-step-2-presentation-now-available-ich-website",
+      "publishedAt": "2025-06-27",
+      "excerpt": "In follow up to the publication of the ICH M4Q(R2) draft revised Guideline in May 2025, the EWG has also prepared a Step 2 informational presentation.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ICH Public | News",
+      "siteName": "ICH Public | News",
+      "region": "EN",
+      "title": "ICH E20 Draft Guideline is Available Now on the ICH Website",
+      "url": "https://ich.org/news/ich-e20-draft-guideline-available-now-ich-website",
+      "publishedAt": "2025-06-25",
+      "excerpt": "The ICH E20 draft Guideline on “Adaptive Design for Clinical Trials” has reached Step 2b of the ICH Process on 25 June 2025 and entered the Step 3 public consultation period.",
       "sourceType": "rss"
     },
     {
@@ -6190,6 +6960,16 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "ICH Public | News",
+      "siteName": "ICH Public | News",
+      "region": "EN",
+      "title": "ICH E21 Step 2 Presentation Now Available on the ICH Website",
+      "url": "https://ich.org/news/ich-e21-step-2-presentation-now-available-ich-website",
+      "publishedAt": "2025-06-12",
+      "excerpt": "The ICH E21 draft Guideline on “Inclusion of Pregnant and Breastfeeding Individuals in Clinical Trials” reached Step 2b of the ICH Process in May 2025 and has entered the consultation period.",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "controlled-drugs",
       "siteName": "管制藥品類",
       "region": "TW",
@@ -6197,6 +6977,46 @@
       "url": "http://www.fda.gov.tw/TC/newsContent.aspx?cid=3&id=31080",
       "publishedAt": "2025-05-27",
       "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ICH Public | News",
+      "siteName": "ICH Public | News",
+      "region": "EN",
+      "title": "Press Release: ICH Assembly Meeting, Madrid, Spain, 2025",
+      "url": "https://ich.org/news/press-release-ich-assembly-meeting-madrid-spain-2025",
+      "publishedAt": "2025-05-21",
+      "excerpt": "The Assembly of the International Council for Harmonisation (ICH) met in-person on 13 & 14 May, in Madrid, Spain in parallel of meetings of 11 Working Groups preceded by meetings of the ICH Management Committee and the MedDRA Management Committee.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ICH Public | News",
+      "siteName": "ICH Public | News",
+      "region": "EN",
+      "title": "ICH Q5(R2) \"Viral Safety Evaluation of Biotechnology Products Derived from Cell Line of Human or Animal Origin",
+      "url": "https://ich.org/news/ich-q5r2-viral-safety-evaluation-biotechnology-products-derived-cell-line-human-or-animal",
+      "publishedAt": "2025-05-06",
+      "excerpt": "The ICH Secretariat is pleased to announce the publication of the ICH Q5A(R2) “Viral Safety Evaluation of Biotechnology Products Derived from Cell Lines of Human or Animal Origin” Guideline training materials.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ICH Public | News",
+      "siteName": "ICH Public | News",
+      "region": "EN",
+      "title": "ICH Q1 Draft Guideline & Step 2 Presentation Now Available on the ICH Website",
+      "url": "https://ich.org/news/ich-q1-draft-guideline-step-2-presentation-now-available-ich-website",
+      "publishedAt": "2025-04-17",
+      "excerpt": "The ICH Q1 draft Guideline on \"Stability Testing of Drug Substances and Drug Products\" reached Step 2b of the ICH Process on 11 April 2025 and entered the public consultation period.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ICH Public | News",
+      "siteName": "ICH Public | News",
+      "region": "EN",
+      "title": "ICH receives the Outstanding Contribution to Health Award at the DIA Europe meeting March in Basel 2025",
+      "url": "https://ich.org/news/ich-receives-outstanding-contribution-health-award-dia-europe-meeting-march-basel-2025",
+      "publishedAt": "2025-04-08",
+      "excerpt": "As ICH celebrates its 35th anniversary in 2025, DIA proudly honors its extraordinary impact on global health.",
       "sourceType": "rss"
     },
     {
@@ -6263,16 +7083,6 @@
       "siteId": "fda-outbreaks",
       "siteName": "FDA Outbreaks",
       "region": "US",
-      "title": "Outbreak Investigation of Listeria monocytogenes: Fresh Express Packaged Salad (December 2021)",
-      "url": "http://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-listeria-monocytogenes-fresh-express-packaged-salad-december-2021",
-      "publishedAt": "2025-03-26",
-      "excerpt": "The FDA and CDC, in collaboration with state and local partners, are investigating a multistate outbreak of Listeria monocytogenes infections.",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-outbreaks",
-      "siteName": "FDA Outbreaks",
-      "region": "US",
       "title": "Outbreak Investigation of Listeria monocytogenes: Enoki Mushrooms (November 2022)",
       "url": "http://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-listeria-monocytogenes-enoki-mushrooms-november-2022",
       "publishedAt": "2025-03-26",
@@ -6313,6 +7123,16 @@
       "siteId": "fda-outbreaks",
       "siteName": "FDA Outbreaks",
       "region": "US",
+      "title": "Outbreak Investigation of Hepatitis A Virus Infections: Frozen Strawberries (February 2023)",
+      "url": "http://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-hepatitis-virus-infections-frozen-strawberries-february-2023",
+      "publishedAt": "2025-03-26",
+      "excerpt": "The FDA and CDC, in collaboration with state and local partners, are investigating an outbreak of hepatitis A virus infections linked to frozen organic strawberries imported from certain farms located in Baja California, Mexico by a common supplier.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-outbreaks",
+      "siteName": "FDA Outbreaks",
+      "region": "US",
       "title": "Outbreak Investigation of E. coli O157:H7: Power Greens Packaged Salad (January 2022)",
       "url": "http://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-e-coli-o157h7-power-greens-packaged-salad-january-2022",
       "publishedAt": "2025-03-26",
@@ -6340,6 +7160,46 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "ICH Public | News",
+      "siteName": "ICH Public | News",
+      "region": "EN",
+      "title": "The eCTD v4.0 Q&A v1.9 reaches Step 4 of the ICH process",
+      "url": "https://ich.org/news/ectd-v40-qa-v19-reaches-step-4-ich-process",
+      "publishedAt": "2025-03-20",
+      "excerpt": "The eCTD v4.0 Question and Answer (Q&A) and Specification Change Request Document v1.9 reached Step 4 of the ICH process in March 2025.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ICH Public | News",
+      "siteName": "ICH Public | News",
+      "region": "EN",
+      "title": "ICH M11 Updated Technical Specification Step 2 Presentation Now Available on the ICH Website",
+      "url": "https://ich.org/news/ich-m11-updated-technical-specification-step-2-presentation-now-available-ich-website",
+      "publishedAt": "2025-03-20",
+      "excerpt": "In follow up to the publication of the ICH M11 Updated Technical Specification (TS) in March 2025, the M11 EWG has also prepared a Step 2 informational presentation.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ICH Public | News",
+      "siteName": "ICH Public | News",
+      "region": "EN",
+      "title": "ICH M13B Draft Guideline & Step 2 Presentation Now Available on the ICH Website",
+      "url": "https://ich.org/news/ich-m13b-draft-guideline-step-2-presentation-now-available-ich-website",
+      "publishedAt": "2025-03-14",
+      "excerpt": "The ICH M13B draft Guideline on Bioequivalence for Immediate-Release Solid Oral Dosage Forms – Additional Strengths Biowaiver reached Step 2b of the ICH Process on 13 March 2025 and entered the public consultation period.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ICH Public | News",
+      "siteName": "ICH Public | News",
+      "region": "EN",
+      "title": "ICH M11 Updated Technical Specification Document Now Available on the ICH Website",
+      "url": "https://ich.org/news/ich-m11-updated-technical-specification-document-now-available-ich-website",
+      "publishedAt": "2025-03-14",
+      "excerpt": "The ICH M11 updated version of the Technical Specification document, which incorporates comments received during the first public consultation, reached Step 2b of the ICH process in March 2025 and now enters the second round of public consultation.",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "controlled-drugs",
       "siteName": "管制藥品類",
       "region": "TW",
@@ -6360,6 +7220,46 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "ICH Public | News",
+      "siteName": "ICH Public | News",
+      "region": "EN",
+      "title": "The ICH E6(R3) Introductory Training Presentation is now available on the ICH website",
+      "url": "https://ich.org/news/ich-e6r3-introductory-training-presentation-now-available-ich-website",
+      "publishedAt": "2025-01-24",
+      "excerpt": "Following the adoption of the E6(R3) Guideline on 6 January 2025, a Step 4 Introductory Training Presentation has been developed by the E6(R3) Expert Working Group.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ICH Public | News",
+      "siteName": "ICH Public | News",
+      "region": "EN",
+      "title": "The ICH E6(R3) Guideline reaches Step 4 of the ICH Process",
+      "url": "https://ich.org/news/ich-e6r3-guideline-reaches-step-4-ich-process",
+      "publishedAt": "2025-01-14",
+      "excerpt": "The ICH E6(R3) “Good Clinical Practice” Guideline reached Step 4 of the ICH Process on 6 January 2025.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ICH Public | News",
+      "siteName": "ICH Public | News",
+      "region": "EN",
+      "title": "Press Release: Announcement of the appointment of a Secretary General of the ICH Secretariat",
+      "url": "https://ich.org/news/press-release-announcement-appointment-secretary-general-ich-secretariat",
+      "publishedAt": "2024-12-13",
+      "excerpt": "The International Council for Harmonisation of Technical Requirements for Pharmaceuticals for Human Use (“ICH”) is very pleased to announce the appointment of Géraldine Lissalde-Bonnet as Secretary General of the ICH Secretariat based in Geneva, Switzerland.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ICH Public | News",
+      "siteName": "ICH Public | News",
+      "region": "EN",
+      "title": "ICH Q9(R1) IWG Updated Q9(R1) Annex 1- Q8/Q9/Q10 Questions & Answers",
+      "url": "https://ich.org/news/ich-q9r1-iwg-updated-q9r1-annex-1-q8q9q10-questions-answers",
+      "publishedAt": "2024-12-06",
+      "excerpt": "The ICH Secretariat is pleased to announce the publication of the updated Q9(R1) Annex 1- Q8/Q9/Q10 Questions & Answers (R5). The ICH Assembly approved this updated Q9(R1) Annex 1 on 30 October 2024.",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "fda-qa-with-fda",
       "siteName": "Q&A with FDA",
       "region": "US",
@@ -6367,6 +7267,46 @@
       "url": "http://www.fda.gov/drugs/news-events-human-drugs/recognizing-and-reporting-potentially-false-or-misleading-prescription-drug-promotion-dr-catherine",
       "publishedAt": "2024-12-04",
       "excerpt": "Q&A with FDA: Recognizing and Reporting Potentially False or Misleading Prescription Drug Promotion with Dr. Catherine Gray",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ICH Public | News",
+      "siteName": "ICH Public | News",
+      "region": "EN",
+      "title": "ICH M15 draft Guideline presentation available now on the ICH website",
+      "url": "https://ich.org/news/ich-m15-draft-guideline-presentation-available-now-ich-website",
+      "publishedAt": "2024-12-02",
+      "excerpt": "The ICH M15 draft Guideline on General Principles for Model-Informed Drug Development reached Step 2b of the ICH Process on 6 November 2024 and entered the public consultation period.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ICH Public | News",
+      "siteName": "ICH Public | News",
+      "region": "EN",
+      "title": "PQKM Task Force RFI",
+      "url": "https://ich.org/news/pqkm-task-force-rfi",
+      "publishedAt": "2024-11-25",
+      "excerpt": "Release of ICH Pharmaceutical Quality Knowledge Management (PQKM) Task Force Request for Information (RFI)",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ICH Public | News",
+      "siteName": "ICH Public | News",
+      "region": "EN",
+      "title": "ICH E6(R3) Annex 2 draft Guideline presentation available now on the ICH website",
+      "url": "https://ich.org/news/ich-e6r3-annex-2-draft-guideline-presentation-available-now-ich-website",
+      "publishedAt": "2024-11-22",
+      "excerpt": "The ICH E6(R3) Annex 2 draft Guideline on Good Clinical Practice reached Step 2b of the ICH Process on 6 November 2024 and entered the public consultation period.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ICH Public | News",
+      "siteName": "ICH Public | News",
+      "region": "EN",
+      "title": "ICH Q13 IWG Video Training Material Modules 1-12 are now available on the ICH Website",
+      "url": "https://ich.org/news/ich-q13-iwg-video-training-material-modules-1-12-are-now-available-ich-website",
+      "publishedAt": "2024-11-19",
+      "excerpt": "The ICH Q13 IWG “Continuous Manufacturing of Drug Substances and Drug Products” Video Training Material Modules 1-12 are now available on the ICH Website.",
       "sourceType": "rss"
     },
     {
@@ -6380,6 +7320,26 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "ICH Public | News",
+      "siteName": "ICH Public | News",
+      "region": "EN",
+      "title": "Press Release: ICH Assembly Meeting, Montréal, Canada, November 2024",
+      "url": "https://ich.org/news/press-release-ich-assembly-meeting-montreal-canada-november-2024",
+      "publishedAt": "2024-11-13",
+      "excerpt": "The Assembly of the International Council for Harmonisation (ICH) met in-person on 5 & 6 November 2024, in Montréal, Canada in parallel of meetings of 11 Working Groups and 1 Discussion Group, and preceded by meetings of the ICH Management Committee and the MedDRA Management Committee.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ICH Public | News",
+      "siteName": "ICH Public | News",
+      "region": "EN",
+      "title": "ICH Q9(R1) IWG Updated Training Materials",
+      "url": "https://ich.org/news/ich-q9r1-iwg-updated-training-materials",
+      "publishedAt": "2024-11-02",
+      "excerpt": "The ICH Secretariat is pleased to announce the publication of the updated training materials related to ICH Q9(R1) Quality Risk Management (QRM).",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "fda-qa-with-fda",
       "siteName": "Q&A with FDA",
       "region": "US",
@@ -6387,6 +7347,26 @@
       "url": "http://www.fda.gov/drugs/news-events-human-drugs/understanding-drug-recalls-dr-ileana-elder",
       "publishedAt": "2024-10-29",
       "excerpt": "In this episode of the Q&A with FDA podcast, learn about Understanding Drug Recalls with Dr. Ileana Elder in the Office of Compliance.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ICH Public | News",
+      "siteName": "ICH Public | News",
+      "region": "EN",
+      "title": "ICH E8(R1) General Considerations for Clinical Studies Introductory Training Video now available on the ICH Website",
+      "url": "https://ich.org/news/ich-e8r1-general-considerations-clinical-studies-introductory-training-video-now-available-ich",
+      "publishedAt": "2024-10-24",
+      "excerpt": "The ICH Secretariat is pleased to announce the publication of ICH E8(R1) General Considerations for Clinical Studies Introductory Training Video.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ICH Public | News",
+      "siteName": "ICH Public | News",
+      "region": "EN",
+      "title": "Report of 2024 Implementation Survey available now on the ICH website",
+      "url": "https://ich.org/news/report-2024-implementation-survey-available-now-ich-website",
+      "publishedAt": "2024-10-08",
+      "excerpt": "Monitoring the progress of international harmonisation and coordinating efforts in this regard is an important ICH focus.",
       "sourceType": "rss"
     },
     {
@@ -6400,6 +7380,16 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "ICH Public | News",
+      "siteName": "ICH Public | News",
+      "region": "EN",
+      "title": "The ICH E11A Introductory Training Presentation is now available on the ICH website.",
+      "url": "https://ich.org/news/ich-e11a-introductory-training-presentation-now-available-ich-website",
+      "publishedAt": "2024-09-25",
+      "excerpt": "Following the adoption of the E11A Guideline, a Step 4 Introductory Training Presentation has been developed by the E11A Expert Working Group.",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "fda-qa-with-fda",
       "siteName": "Q&A with FDA",
       "region": "US",
@@ -6410,6 +7400,26 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "ICH Public | News",
+      "siteName": "ICH Public | News",
+      "region": "EN",
+      "title": "The ICH E11A Guideline reaches Step 4 of the ICH Process",
+      "url": "https://ich.org/news/ich-e11a-guideline-reaches-step-4-ich-process",
+      "publishedAt": "2024-08-21",
+      "excerpt": "The ICH E11A Guideline “Paediatric Extrapolation” reached Step 4 of the ICH Process on 21 August 2024.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ICH Public | News",
+      "siteName": "ICH Public | News",
+      "region": "EN",
+      "title": "Prospective ICH Pharmaceutical Quality Knowledge Management (PQKM) Task Force Request for Information (RFI)",
+      "url": "https://ich.org/news/prospective-ich-pharmaceutical-quality-knowledge-management-pqkm-task-force-request",
+      "publishedAt": "2024-08-07",
+      "excerpt": "The ICH is announcing that it will be releasing a Request for Information (RFI) expected in October to determine interest and potential approaches to support the ICH Pharmaceutical Quality Knowledge Management (PQKM) Task Force’s initial assessment for a secure standardised regulatory platform.",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "controlled-drugs",
       "siteName": "管制藥品類",
       "region": "TW",
@@ -6417,6 +7427,16 @@
       "url": "http://www.fda.gov.tw/TC/newsContent.aspx?cid=3&id=30668",
       "publishedAt": "2024-08-02",
       "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ICH Public | News",
+      "siteName": "ICH Public | News",
+      "region": "EN",
+      "title": "The ICH M13A Guideline reaches Step 4 of the ICH Process",
+      "url": "https://ich.org/news/ich-m13a-guideline-reaches-step-4-ich-process",
+      "publishedAt": "2024-07-31",
+      "excerpt": "The ICH M13A Guideline and associated Q&As on “Bioequivalence for Immediate-Release Solid Oral Dosage Forms” reached Step 4 of the ICH Process on 23 July 2024.",
       "sourceType": "rss"
     },
     {
@@ -6437,6 +7457,16 @@
       "url": "http://www.fda.gov.tw/TC/newsContent.aspx?cid=3&id=30626",
       "publishedAt": "2024-06-25",
       "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ICH Public | News",
+      "siteName": "ICH Public | News",
+      "region": "EN",
+      "title": "Press Release: ICH Assembly Meeting, Fukuoka, Japan, June 2024",
+      "url": "https://ich.org/news/press-release-ich-assembly-meeting-fukuoka-japan-june-2024",
+      "publishedAt": "2024-06-12",
+      "excerpt": "The Assembly of the International Council for Harmonisation (ICH) met in-person on 4 & 5 June 2024, in Fukuoka, Japan in parallel of meetings of 13 Working Groups, and preceded by meetings of the ICH Management Committee and the MedDRA Management Committee.",
       "sourceType": "rss"
     },
     {
@@ -7126,16 +8156,6 @@
       "title": "國產食品產製前配方審查審查費收費標準",
       "url": "http://www.fda.gov.tw/tc/includes/GetFile.ashx?id=72&mid=46&utm_source=rss&utm_medium=feed&utm_campaign=rss_subscription",
       "publishedAt": "2009-11-27",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-medwatch",
-      "siteName": "MedWatch Safety Alerts",
-      "region": "US",
-      "title": "",
-      "url": "http://www.fda.gov/node/",
-      "publishedAt": null,
       "excerpt": "",
       "sourceType": "rss"
     }
