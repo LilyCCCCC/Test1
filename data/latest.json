@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-16T18:22:28.822214+00:00",
-  "count": 792,
+  "generatedAt": "2026-06-16T23:54:55.361177+00:00",
+  "count": 788,
   "errors": [
     {
       "groupId": "ema",
@@ -10,6 +10,11 @@
     {
       "groupId": "pmda",
       "siteId": "services-for-healtheffects",
+      "error": "RSS fetch failed - keeping archived data"
+    },
+    {
+      "groupId": "pmda",
+      "siteId": "PMDA：トップ 安全対策",
       "error": "RSS fetch failed - keeping archived data"
     },
     {
@@ -97,6 +102,16 @@
       "url": "https://www.ema.europa.eu/system/files/documents/other/timetable-type-ii-variation-worksharing-application-alternative-monthly-timetables-en_1.xlsx",
       "publishedAt": "2026-06-16",
       "excerpt": "Timetable: Type II variation and worksharing application alternative monthly assessment",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Study Data Standards Resources",
+      "url": "http://www.fda.gov/industry/fda-data-standards-advisory-board/study-data-standards-resources",
+      "publishedAt": "2026-06-16",
+      "excerpt": "Study Data Standards Resources",
       "sourceType": "rss"
     },
     {
@@ -333,26 +348,6 @@
       "siteId": "fda-whats-new-drugs",
       "siteName": "What's New: Drugs",
       "region": "US",
-      "title": "OrderlyMeds LLC dba OrderlyMeds - 728291 - 06/08/2026",
-      "url": "http://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/orderlymeds-llc-dba-orderlymeds-728291-06082026",
-      "publishedAt": "2026-06-16",
-      "excerpt": "False & Misleading Claims/Misbranded (Telehealth)",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "Nova Vascular LLC dba NOVARX - 728290 - 06/08/2026",
-      "url": "http://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/nova-vascular-llc-dba-novarx-728290-06082026",
-      "publishedAt": "2026-06-16",
-      "excerpt": "False & Misleading Claims/Misbranded (Telehealth)",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
       "title": "Nexus Health Solutions LLC dba Harper Meds - 728281 - 06/08/2026",
       "url": "http://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/nexus-health-solutions-llc-dba-harper-meds-728281-06082026",
       "publishedAt": "2026-06-16",
@@ -365,16 +360,6 @@
       "region": "US",
       "title": "NativeMed LLC dba NativeMed - 728287 - 06/08/2026",
       "url": "http://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/nativemed-llc-dba-nativemed-728287-06082026",
-      "publishedAt": "2026-06-16",
-      "excerpt": "False & Misleading Claims/Misbranded (Telehealth)",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "Momentum Health 360 dba Momentum Health - 728286 - 06/08/2026",
-      "url": "http://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/momentum-health-360-dba-momentum-health-728286-06082026",
       "publishedAt": "2026-06-16",
       "excerpt": "False & Misleading Claims/Misbranded (Telehealth)",
       "sourceType": "rss"
@@ -427,16 +412,6 @@
       "url": "https://www.ema.europa.eu/en/events/joint-heads-medicines-agencies-hma-european-medicines-agency-ema-multistakeholder-workshop-patient-registries-alzheimers-disease",
       "publishedAt": "2026-06-16",
       "excerpt": "Joint Heads of Medicines Agencies (HMA)/European Medicines Agency (EMA) multistakeholder workshop on Patient Registries for Alzheimer's disease, Online, European Medicines Agency, Amsterdam, the Netherlands, Broadcast, from 15 December 2025, 09:00 (CET) to 15 December 2025, 17:30 (CET)",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "Joi and Blokes dba Joi + Blokes - 728283 - 06/08/2026",
-      "url": "http://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/joi-and-blokes-dba-joi-blokes-728283-06082026",
-      "publishedAt": "2026-06-16",
-      "excerpt": "False & Misleading Claims/Misbranded (Telehealth)",
       "sourceType": "rss"
     },
     {
@@ -543,10 +518,30 @@
       "siteId": "fda-whats-new-drugs",
       "siteName": "What's New: Drugs",
       "region": "US",
-      "title": "FITISH - 728280 - 06/08/2026",
-      "url": "http://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/fitish-728280-06082026",
+      "title": "FDA-TRACK: Prescription Drug User Fee Act Review Goals Summary",
+      "url": "http://www.fda.gov/about-fda/fda-track-agency-wide-program-performance/fda-track-prescription-drug-user-fee-act-review-goals-summary",
       "publishedAt": "2026-06-16",
-      "excerpt": "False & Misleading Claims/Misbranded (Telehealth)",
+      "excerpt": "FDA-TRACK: Prescription Drug User Fee Act Review Goals Summary",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "FDA-TRACK: Prescription Drug User Fee Act Procedural Goals Summary",
+      "url": "http://www.fda.gov/about-fda/fda-track-agency-wide-program-performance/fda-track-prescription-drug-user-fee-act-procedural-goals-summary",
+      "publishedAt": "2026-06-16",
+      "excerpt": "FDA-TRACK: Prescription Drug User Fee Act Procedural Goals Summary",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "FDA-TRACK: Prescription Drug User Fee Act Meeting Goals Summary",
+      "url": "http://www.fda.gov/about-fda/fda-track-agency-wide-program-performance/fda-track-prescription-drug-user-fee-act-meeting-goals-summary",
+      "publishedAt": "2026-06-16",
+      "excerpt": "FDA-TRACK: Prescription Drug User Fee Act Meeting Goals Summary",
       "sourceType": "rss"
     },
     {
@@ -573,6 +568,16 @@
       "siteId": "fda-medwatch",
       "siteName": "MedWatch Safety Alerts",
       "region": "US",
+      "title": "Early Alert: Convenience Kit Issue from Windstone Medical Packaging, Inc.",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-convenience-kit-issue-windstone-medical-packaging-inc",
+      "publishedAt": "2026-06-16",
+      "excerpt": "Certain Cardinal Health Webcol Large Alcohol Prep Pads in Custom Convenience Kits manufactured by Aligned Medical Solutions are not sterile",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-medwatch",
+      "siteName": "MedWatch Safety Alerts",
+      "region": "US",
       "title": "Disruptions in Availability of Breast Biopsy Needles - Letter to Health Care Providers",
       "url": "http://www.fda.gov/medical-devices/letters-health-care-providers/disruptions-availability-breast-biopsy-needles-letter-health-care-providers",
       "publishedAt": "2026-06-16",
@@ -587,6 +592,16 @@
       "url": "http://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/dh-medical-services-728238-06082026",
       "publishedAt": "2026-06-16",
       "excerpt": "False & Misleading Claims/Misbranded (Telehealth)",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Compounding Quality Center of Excellence | Recorded Webinars",
+      "url": "http://www.fda.gov/drugs/compounding-quality-center-excellence/compounding-quality-center-excellence-recorded-webinars",
+      "publishedAt": "2026-06-16",
+      "excerpt": "The FDA Compounding Quality Center of Excellence offers free recorded webinars to provide information about current good manufacturing practice standards and the agency’s inspectional processes.",
       "sourceType": "rss"
     },
     {
@@ -667,6 +682,16 @@
       "url": "http://www.fda.gov/drugs/buying-using-medicine-safely/what-you-should-know-about-eye-drops",
       "publishedAt": "2026-06-15",
       "excerpt": "Ophthalmic drug products, such as eye drops, pose a heightened risk of harm to users because drugs applied to the eyes bypass some of the body's natural defenses. Any drug used[...]",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-food-safety-recalls",
+      "siteName": "Food Safety Recalls",
+      "region": "US",
+      "title": "Western Mixers Produce & Nuts Issues Allergy Alert on Undeclared Peanuts in First Street Brand, Dark Chocolate Raisins",
+      "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/western-mixers-produce-nuts-issues-allergy-alert-undeclared-peanuts-first-street-brand-dark",
+      "publishedAt": "2026-06-15",
+      "excerpt": "Western Mixers Produce & Nuts, Inc., Ontario, California is recalling: First Street brand, Dark Chocolate Raisins, 9 oz., because the product may contain undeclared dark chocolate peanuts. People who have an allergy or severe sensitivity to peanuts run the risk of serious or life-threatening allergi",
       "sourceType": "rss"
     },
     {
@@ -1330,8 +1355,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 安全対策",
-      "siteName": "Adverse Health Effects Relief (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[健康]医薬品副作用被害救済制度 対象除外医薬品等一覧を更新しました",
       "url": "https://www.pmda.go.jp/relief-services/adr-sufferers/0022.html",
@@ -2520,16 +2545,6 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 安全対策",
-      "siteName": "Adverse Health Effects Relief (JP)",
-      "region": "JP",
-      "title": "[健康]副用救済給付の決定に関する情報（2025年度3月分）を掲載しました",
-      "url": "https://www.pmda.go.jp/relief-services/adr-sufferers/0043.html",
-      "publishedAt": "2026-05-29",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
       "siteId": "PMDA：トップ その他",
       "siteName": "Others (JP)",
       "region": "JP",
@@ -2627,16 +2642,6 @@
       "url": "https://www.ema.europa.eu/en/news/etf-recommends-updating-covid-19-vaccines-target-xfg-variant",
       "publishedAt": "2026-05-29",
       "excerpt": "EMA’s Emergency Task Force (ETF) has recommended updating COVID-19 vaccines to target the new SARS-CoV-2 variant XFG for the 2026/2027 vaccination campaign.XFG is part of the…",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-medwatch",
-      "siteName": "MedWatch Safety Alerts",
-      "region": "US",
-      "title": "Dexcom Uncovers Theft of Scrapped Product, Notifies Potentially Impacted Users",
-      "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/dexcom-uncovers-theft-scrapped-product-notifies-potentially-impacted-users",
-      "publishedAt": "2026-05-29",
-      "excerpt": "SAN DIEGO – MAY 26, 2026 – DexCom, Inc. (Nasdaq: DXCM), the global leader in glucose biosensing, announced today through ongoing quality and accounting reviews it recently identified certain lots of Dexcom G7 sensors originally designated as scrap and intended for destruction were stolen during the",
       "sourceType": "rss"
     },
     {
@@ -3790,8 +3795,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "fda-food-safety-recalls",
-      "siteName": "Food Safety Recalls",
+      "siteId": "fda-food-allergies",
+      "siteName": "Food Allergies",
       "region": "US",
       "title": "Hometown Food Company Issues Allergy Alert on Undeclared Egg in Birch Benders 12oz Sweet Potato Pancake Mix",
       "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/hometown-food-company-issues-allergy-alert-undeclared-egg-birch-benders-12oz-sweet-potato-pancake",
@@ -5140,26 +5145,6 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 安全対策",
-      "siteName": "Adverse Health Effects Relief (JP)",
-      "region": "JP",
-      "title": "[健康]生物由来製品感染等被害救済制度に関する給付額の改定のお知らせ",
-      "url": "https://www.pmda.go.jp/relief-services/infections/0030.html",
-      "publishedAt": "2026-04-01",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "PMDA：トップ 安全対策",
-      "siteName": "Adverse Health Effects Relief (JP)",
-      "region": "JP",
-      "title": "[健康]医薬品副作用被害救済制度に関する給付額の改定のお知らせ",
-      "url": "https://www.pmda.go.jp/relief-services/adr-sufferers/0007.html",
-      "publishedAt": "2026-04-01",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
       "siteId": "light-drugs",
       "siteName": "消費紅綠燈-國際藥品",
       "region": "TW",
@@ -5300,16 +5285,6 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 安全対策",
-      "siteName": "Adverse Health Effects Relief (JP)",
-      "region": "JP",
-      "title": "[健康]基金事業等に係る運営及び管理に関する基本的事項の公表について更新しました",
-      "url": "https://www.pmda.go.jp/relief-services/hepatitis-c/0001.html",
-      "publishedAt": "2026-03-24",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
       "siteId": "PMDA：トップ 承認審査",
       "siteName": "Review for (marketing) approval (JP)",
       "region": "JP",
@@ -5326,16 +5301,6 @@
       "title": "[パブコメ]独立行政法人医薬品医療機器総合機構審査等業務関係業務方法書実施細則に規定する対面助言等手数料の新設に関するご意見募集の結果について（Ⅰ）",
       "url": "https://www.pmda.go.jp/review-services/pub-comments/0115.html",
       "publishedAt": "2026-03-24",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "PMDA：トップ 安全対策",
-      "siteName": "Adverse Health Effects Relief (JP)",
-      "region": "JP",
-      "title": "[健康]生物由来製品等の一覧を更新しました",
-      "url": "https://www.pmda.go.jp/relief-services/infections/0032.html",
-      "publishedAt": "2026-03-23",
       "excerpt": "",
       "sourceType": "rss"
     },
