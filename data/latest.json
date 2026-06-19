@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-06-19T12:54:45.293487+00:00",
-  "count": 788,
+  "generatedAt": "2026-06-19T19:18:08.035126+00:00",
+  "count": 778,
   "errors": [
+    {
+      "groupId": "ema",
+      "siteId": "ema-news-and-press-releases",
+      "error": "RSS fetch failed - keeping archived data"
+    },
+    {
+      "groupId": "ema",
+      "siteId": "ema-withdrawn-applications",
+      "error": "RSS fetch failed - keeping archived data"
+    },
     {
       "groupId": "pmda",
       "siteId": "services-for-healtheffects",
-      "error": "RSS fetch failed - keeping archived data"
-    },
-    {
-      "groupId": "pmda",
-      "siteId": "PMDA：トップ 安全対策",
-      "error": "RSS fetch failed - keeping archived data"
-    },
-    {
-      "groupId": "pmda",
-      "siteId": "PMDA：トップ 国際活動",
       "error": "RSS fetch failed - keeping archived data"
     }
   ],
@@ -73,6 +73,46 @@
       "siteId": "ema-whats-new",
       "siteName": "What's new",
       "region": "EU",
+      "title": "Veterinary medicines European public assessment report (EPAR): Scovella, velagliflozin, Status: Opinion",
+      "url": "https://www.ema.europa.eu/en/medicines/veterinary/EPAR/scovella",
+      "publishedAt": "2026-06-19",
+      "excerpt": "Veterinary medicines European public assessment report (EPAR): Scovella, velagliflozin, Status: Opinion",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Veterinary medicines European public assessment report (EPAR): Nobivac NXT HCPFeLV, feline calicivirosis, feline rhinotracheitis, feline panleucopenia (live) and feline leukemia (RNA replicon particle) vaccine, Status: Opinion",
+      "url": "https://www.ema.europa.eu/en/medicines/veterinary/EPAR/nobivac-nxt-hcpfelv",
+      "publishedAt": "2026-06-19",
+      "excerpt": "Veterinary medicines European public assessment report (EPAR): Nobivac NXT HCPFeLV, feline calicivirosis, feline rhinotracheitis, feline panleucopenia (live) and feline leukemia (RNA replicon particle) vaccine, Status: Opinion",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Veterinary medicines European public assessment report (EPAR): Nobivac NXT HCPChFeLV, feline calicivirosis, feline rhinotracheitis, feline panleucopenia, feline chlamydiosis (live) and feline leukemia (RNA replicon particle) vaccine, Status: Opinion",
+      "url": "https://www.ema.europa.eu/en/medicines/veterinary/EPAR/nobivac-nxt-hcpchfelv",
+      "publishedAt": "2026-06-19",
+      "excerpt": "Veterinary medicines European public assessment report (EPAR): Nobivac NXT HCPChFeLV, feline calicivirosis, feline rhinotracheitis, feline panleucopenia, feline chlamydiosis (live) and feline leukemia (RNA replicon particle) vaccine, Status: Opinion",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Veterinary medicines European public assessment report (EPAR): Nobivac NXT FeLV, feline leukemia (RNA particle) vaccine, Status: Opinion",
+      "url": "https://www.ema.europa.eu/en/medicines/veterinary/EPAR/nobivac-nxt-felv",
+      "publishedAt": "2026-06-19",
+      "excerpt": "Veterinary medicines European public assessment report (EPAR): Nobivac NXT FeLV, feline leukemia (RNA particle) vaccine, Status: Opinion",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
       "title": "Opinion/decision on a Paediatric investigation plan (PIP): Vyvgart, efgartigimod alfa, decision type: PM: decision on the application for modification of an agreed PIP, therapeutic area: Nervous system disorders, PIP number: P/0298/2024",
       "url": "https://www.ema.europa.eu/en/medicines/human/paediatric-investigation-plans/ema-pe-0000231366",
       "publishedAt": "2026-06-19",
@@ -90,13 +130,33 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Meeting highlights from the Committee for Veterinary Medicinal Products (CVMP) 16-18 June 2026",
+      "url": "https://www.ema.europa.eu/en/news/meeting-highlights-committee-veterinary-medicinal-products-cvmp-16-18-june-2026",
+      "publishedAt": "2026-06-19",
+      "excerpt": "Meeting highlights from the Committee for Veterinary Medicinal Products (CVMP) 16-18 June 2026",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
       "siteName": "Human medicines: EPARs and summaries of opinion",
       "region": "EU",
-      "title": "Human medicines European public assessment report (EPAR): Semglee, insulin glargine, Date of authorisation: 23/03/2018, Revision: 11, Status: Authorised",
+      "title": "Human medicines European public assessment report (EPAR): Winrevair, sotatercept, Date of authorisation: 22/08/2024, Revision: 5, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/winrevair",
+      "publishedAt": "2026-06-19",
+      "excerpt": "Human medicines European public assessment report (EPAR): Winrevair, sotatercept, Date of authorisation: 22/08/2024, Revision: 5, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Semglee, insulin glargine, Date of authorisation: 23/03/2018, Revision: 12, Status: Authorised",
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/semglee",
       "publishedAt": "2026-06-19",
-      "excerpt": "Human medicines European public assessment report (EPAR): Semglee, insulin glargine, Date of authorisation: 23/03/2018, Revision: 11, Status: Authorised",
+      "excerpt": "Human medicines European public assessment report (EPAR): Semglee, insulin glargine, Date of authorisation: 23/03/2018, Revision: 12, Status: Authorised",
       "sourceType": "rss"
     },
     {
@@ -773,16 +833,6 @@
       "siteId": "ema-whats-new",
       "siteName": "What's new",
       "region": "EU",
-      "title": "PSUSA/00002564/202510",
-      "url": "https://www.ema.europa.eu/en/medicines/psusa/psusa-00002564-202510",
-      "publishedAt": "2026-06-16",
-      "excerpt": "PSUSA/00002564/202510",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "ema-whats-new",
-      "siteName": "What's new",
-      "region": "EU",
       "title": "PSUSA/00002305/202511",
       "url": "https://www.ema.europa.eu/en/medicines/psusa/psusa-00002305-202511",
       "publishedAt": "2026-06-16",
@@ -797,26 +847,6 @@
       "url": "https://www.ema.europa.eu/en/medicines/psusa/psusa-00001104-202509",
       "publishedAt": "2026-06-16",
       "excerpt": "PSUSA/00001104/202509",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "ema-whats-new",
-      "siteName": "What's new",
-      "region": "EU",
-      "title": "PSUSA/00000767/202511",
-      "url": "https://www.ema.europa.eu/en/medicines/psusa/psusa-00000767-202511",
-      "publishedAt": "2026-06-16",
-      "excerpt": "PSUSA/00000767/202511",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "ema-whats-new",
-      "siteName": "What's new",
-      "region": "EU",
-      "title": "PSUSA/00000694/202511",
-      "url": "https://www.ema.europa.eu/en/medicines/psusa/psusa-00000694-202511",
-      "publishedAt": "2026-06-16",
-      "excerpt": "PSUSA/00000694/202511",
       "sourceType": "rss"
     },
     {
@@ -917,16 +947,6 @@
       "url": "https://www.ema.europa.eu/en/about-us/frequently-asked-questions",
       "publishedAt": "2026-06-16",
       "excerpt": "Frequently asked questions",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "ema-whats-new",
-      "siteName": "What's new",
-      "region": "EU",
-      "title": "First Advisory group on vaccine confidence meeting, European Medicines Agency, Amsterdam, the Netherlands, from 29 April 2026, 16:30 (CEST) to 29 April 2026, 18:00 (CEST)",
-      "url": "https://www.ema.europa.eu/en/events/first-advisory-group-vaccine-confidence-meeting",
-      "publishedAt": "2026-06-16",
-      "excerpt": "First Advisory group on vaccine confidence meeting, European Medicines Agency, Amsterdam, the Netherlands, from 29 April 2026, 16:30 (CEST) to 29 April 2026, 18:00 (CEST)",
       "sourceType": "rss"
     },
     {
@@ -1240,16 +1260,6 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "ema-news-and-press-releases",
-      "siteName": "News and press releases",
-      "region": "EU",
-      "title": "EMA Management Board: highlights of June 2026 meeting",
-      "url": "https://www.ema.europa.eu/en/news/ema-management-board-highlights-june-2026-meeting",
-      "publishedAt": "2026-06-15",
-      "excerpt": "Crisis preparedness and responseThe Management Board welcomed EMA’s support to African regulators in the context of the Ebola outbreak in the Democratic Republic of Congo and…",
-      "sourceType": "rss"
-    },
-    {
       "siteId": "fda-consumer-health-information-updates",
       "siteName": "Consumer Health Information Updates",
       "region": "US",
@@ -1300,8 +1310,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[薬局方]PDG（薬局方調和国際会議）ニュースを掲載しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/0012.html",
@@ -1320,8 +1330,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[その他]「申請電子データを活用した解析」のページを更新しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/0002.html",
@@ -1347,16 +1357,6 @@
       "url": "https://www.ema.europa.eu/en/documents/regulatory-procedural-guideline/products-management-services-pms-implementation-international-organization-standardization-iso-standards-identification-medicinal-products-idmp-europe-chapter-1-registration-requirements_en.pdf",
       "publishedAt": "2026-06-12",
       "excerpt": "Products Management Services (PMS) - Implementation of International Organization for Standardization (ISO) standards for the identification of medicinal products (IDMP) in Europe - Chapter 1: Registration requirements for production environments",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "ema-news-and-press-releases",
-      "siteName": "News and press releases",
-      "region": "EU",
-      "title": "Meeting highlights from the Pharmacovigilance Risk Assessment Committee (PRAC) 8-11 June 2026",
-      "url": "https://www.ema.europa.eu/en/news/meeting-highlights-pharmacovigilance-risk-assessment-committee-prac-8-11-june-2026",
-      "publishedAt": "2026-06-12",
-      "excerpt": "PRAC concludes evidence of potential risk of neurodevelopmental disorders in children born to men treated with valproate is inconsistent  Committee recommends updating product…,       Agenda                        Agenda of the PRAC meeting 8-11 June 2026Draft                Reference Number: EMA/PRAC/115322/2026…,       PRAC statistics: June 2026      , ,       Glossary  Safety signal assessments. A safety signal is information which suggests a new potentially causal association, or a new aspec",
       "sourceType": "rss"
     },
     {
@@ -1590,23 +1590,13 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Adverse Health Effects Relief (JP)",
       "region": "JP",
       "title": "[健康]医薬品副作用被害救済制度 対象除外医薬品等一覧を更新しました",
       "url": "https://www.pmda.go.jp/relief-services/adr-sufferers/0022.html",
       "publishedAt": "2026-06-11",
       "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "ema-withdrawn-applications",
-      "siteName": "Withdrawn applications",
-      "region": "EU",
-      "title": "Withdrawn application: Pluvicto, 23/04/2026",
-      "url": "https://www.ema.europa.eu/en/medicines/human/variation/pluvicto",
-      "publishedAt": "2026-06-11",
-      "excerpt": "Withdrawn application: Pluvicto, 23/04/2026",
       "sourceType": "rss"
     },
     {
@@ -1637,16 +1627,6 @@
       "url": "https://www.pmda.go.jp/english/review-services/reviews/approved-information/devices/0001.html",
       "publishedAt": "2026-06-11",
       "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
-      "siteName": "Human medicines: EPARs and summaries of opinion",
-      "region": "EU",
-      "title": "Human medicines European public assessment report (EPAR): Winrevair, sotatercept, Date of authorisation: 22/08/2024, Revision: 5, Status: Authorised",
-      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/winrevair",
-      "publishedAt": "2026-06-11",
-      "excerpt": "Human medicines European public assessment report (EPAR): Winrevair, sotatercept, Date of authorisation: 22/08/2024, Revision: 5, Status: Authorised",
       "sourceType": "rss"
     },
     {
@@ -1767,16 +1747,6 @@
       "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-positive-pressure-breathing-device-issue-baxter",
       "publishedAt": "2026-06-11",
       "excerpt": "Volara system patient circuits may leak air and medication from the nebulizer cup during therapy, leading to reduced oxygenation and ineffective nebulization.",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "ema-news-and-press-releases",
-      "siteName": "News and press releases",
-      "region": "EU",
-      "title": "EMA’s 2025 annual report shows strong approval numbers for human and veterinary medicines",
-      "url": "https://www.ema.europa.eu/en/news/emas-2025-annual-report-shows-strong-approval-numbers-human-veterinary-medicines",
-      "publishedAt": "2026-06-11",
-      "excerpt": "Today, EMA released its 2025 annual report, highlighting progress in bringing innovative, safe and effective medicines to patients. The report outlines the most important…",
       "sourceType": "rss"
     },
     {
@@ -2070,16 +2040,6 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "ema-withdrawn-applications",
-      "siteName": "Withdrawn applications",
-      "region": "EU",
-      "title": "Human medicines European public assessment report (EPAR): Insulin Aspart Injection, insulin aspart, Status: Application withdrawn",
-      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/insulin-aspart-injection",
-      "publishedAt": "2026-06-05",
-      "excerpt": "Human medicines European public assessment report (EPAR): Insulin Aspart Injection, insulin aspart, Status: Application withdrawn",
-      "sourceType": "rss"
-    },
-    {
       "siteId": "fda-medwatch",
       "siteName": "MedWatch Safety Alerts",
       "region": "US",
@@ -2140,8 +2100,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[基準]Early Consideration：モノクローナル抗体の一般毒性評価についての考え（Early Consideration）の英語版を掲載しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/guidance-guideline/0003.html",
@@ -2217,16 +2177,6 @@
       "url": "https://ich.org/news/key-outcomes-biannual-ich-assembly-meeting",
       "publishedAt": "2026-06-04",
       "excerpt": "The Assembly of the International Council for Harmonisation of Technical Requirements for Pharmaceuticals for Human Use (ICH) met in person on 2–3 June 2026 in Rio de Janeiro, Brazil for its biannual meeting. The ICH Assembly meeting was preceded by meetings of the ICH Management Committee and the MedDRA Steering Committee on 31 May and 1 June. In parallel, 12 ICH Expert Working Groups met for face-to-face working sessions.",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "ema-withdrawn-applications",
-      "siteName": "Withdrawn applications",
-      "region": "EU",
-      "title": "Human medicines European public assessment report (EPAR): Nugalviq, govorestat, Status: Application withdrawn",
-      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/nugalviq",
-      "publishedAt": "2026-06-04",
-      "excerpt": "Human medicines European public assessment report (EPAR): Nugalviq, govorestat, Status: Application withdrawn",
       "sourceType": "rss"
     },
     {
@@ -2320,16 +2270,6 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "ema-news-and-press-releases",
-      "siteName": "News and press releases",
-      "region": "EU",
-      "title": "EMA, AMA and African regulatory authorities join forces on Ebola outbreak response",
-      "url": "https://www.ema.europa.eu/en/news/ema-ama-african-regulatory-authorities-join-forces-ebola-outbreak-response",
-      "publishedAt": "2026-06-03",
-      "excerpt": "EMA’s Emergency Task Force (ETF) is engaging with the African Medicines Agency (AMA) and its national regulatory authorities (NRAs), leveraging expertise from the WHO-AFRO…",
-      "sourceType": "rss"
-    },
-    {
       "siteId": "ema-scientific-guidelines",
       "siteName": "Scientific guidelines (human and veterinary)",
       "region": "EU",
@@ -2400,8 +2340,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[その他]「AI利活用に関する基本的考え方」検討PTを設置しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/cross-sectional-project/0001.html",
@@ -2480,8 +2420,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[薬局方][パブコメ]日本薬局方収載原案に関するご意見の募集について（2026年6月分 その2）",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/pub-comments/jp/0258.html",
@@ -2490,8 +2430,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[薬局方][パブコメ]日本薬局方収載原案に関するご意見の募集について（2026年6月分 その1）",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/pub-comments/jp/0261.html",
@@ -2500,8 +2440,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[薬局方][パブコメ]日本薬局方から削除予定の（案）試薬・試液に関するご意見の募集について（2026年6月分）",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/pub-comments/jp/0259.html",
@@ -2510,8 +2450,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[薬局方][パブコメ]日本薬局方から削除予定の（案）医薬品各条・標準品に関するご意見の募集について（2026年6月分）",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/pub-comments/jp/0260.html",
@@ -2577,16 +2517,6 @@
       "url": "http://www.fda.gov/drugs/medication-health-fraud-notifications/x10-natural-enhancement-supplement-may-be-harmful-due-hidden-drug-ingredients",
       "publishedAt": "2026-06-01",
       "excerpt": "The Food and Drug Administration is advising consumers not to purchase or use X10 Natural Enhancement Supplement, a product promoted for sexual enhancement on various websites, including naturefuel.us, and possibly in some retail stores.",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "ema-news-and-press-releases",
-      "siteName": "News and press releases",
-      "region": "EU",
-      "title": "United for Health: EMA in WorldPride 2026",
-      "url": "https://www.ema.europa.eu/en/news/united-health-ema-worldpride-2026",
-      "publishedAt": "2026-06-01",
-      "excerpt": "June is PRIDE month and EMA starts a two-month celebration of diversity and inclusion in science and healthcare, leading up to its participation in the world-famous Amsterdam…,         Our strength in the EU comes from our unity in diversity. Equality and non-discrimination are critical everywhere, but in health they can make the difference between…,   EMA staff will be joined on the boat by representatives of patient organisations such as EURORDIS-Rare Diseases Europe, European AIDS Treatment G",
       "sourceType": "rss"
     },
     {
@@ -2730,6 +2660,16 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Adverse Health Effects Relief (JP)",
+      "region": "JP",
+      "title": "[健康]副用救済給付の決定に関する情報（2025年度3月分）を掲載しました",
+      "url": "https://www.pmda.go.jp/relief-services/adr-sufferers/0043.html",
+      "publishedAt": "2026-05-29",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "PMDA：トップ その他",
       "siteName": "Others (JP)",
       "region": "JP",
@@ -2800,16 +2740,6 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "ema-news-and-press-releases",
-      "siteName": "News and press releases",
-      "region": "EU",
-      "title": "ETF recommends updating COVID-19 vaccines to target XFG variant",
-      "url": "https://www.ema.europa.eu/en/news/etf-recommends-updating-covid-19-vaccines-target-xfg-variant",
-      "publishedAt": "2026-05-29",
-      "excerpt": "EMA’s Emergency Task Force (ETF) has recommended updating COVID-19 vaccines to target the new SARS-CoV-2 variant XFG for the 2026/2027 vaccination campaign.XFG is part of the…",
-      "sourceType": "rss"
-    },
-    {
       "siteId": "ema-public-consultations",
       "siteName": "Public consultations",
       "region": "EU",
@@ -2870,8 +2800,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[その他]令和8年度第1回倫理審査委員会の議事要旨を掲載しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/research/0009.html",
@@ -3480,16 +3410,6 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "ema-news-and-press-releases",
-      "siteName": "News and press releases",
-      "region": "EU",
-      "title": "EU recommendations for 2026/2027 seasonal flu vaccine composition",
-      "url": "https://www.ema.europa.eu/en/news/eu-recommendations-2026-2027-seasonal-flu-vaccine-composition",
-      "publishedAt": "2026-05-26",
-      "excerpt": "This news announcement was updated on two occasions. On 7 May 2026, it was updated to include additional recommendations for strains for seasonal egg-derived and live-attenuated…",
-      "sourceType": "rss"
-    },
-    {
       "siteId": "fda-ora-foia-electronic-reading-room",
       "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
       "region": "US",
@@ -3700,36 +3620,6 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "ema-news-and-press-releases",
-      "siteName": "News and press releases",
-      "region": "EU",
-      "title": "New medicine for two types of pulmonary fibrosis",
-      "url": "https://www.ema.europa.eu/en/news/new-medicine-two-types-pulmonary-fibrosis",
-      "publishedAt": "2026-05-22",
-      "excerpt": "EMA has recommended granting a marketing authorisation in the European Union (EU) for Jascayd (nerandomilast) to treat adults with idiopathic pulmonary fibrosis (IPF) or…",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "ema-news-and-press-releases",
-      "siteName": "News and press releases",
-      "region": "EU",
-      "title": "Meeting highlights from the Committee for Veterinary Medicinal Products (CVMP) 19-21 May 2026",
-      "url": "https://www.ema.europa.eu/en/news/meeting-highlights-committee-veterinary-medicinal-products-cvmp-19-21-may-2026",
-      "publishedAt": "2026-05-22",
-      "excerpt": "CVMP opinions on veterinary medicinal productsThe Committee adopted a positive opinion for a marketing authorisation for Nobivac NXT HC, for the active immunisation of cats…",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "ema-news-and-press-releases",
-      "siteName": "News and press releases",
-      "region": "EU",
-      "title": "Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 18-21 May 2026",
-      "url": "https://www.ema.europa.eu/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-18-21-may-2026",
-      "publishedAt": "2026-05-22",
-      "excerpt": "Eight new medicines recommended for approvalEMA’s human medicines committee (CHMP) recommended eight medicines for approval at its May 2026 meeting.Jascayd (nerandomilast)…,       CHMP statistics  Key figures from the May 2026 CHMP meeting are represented in the graphic below.     ,                                                                                                                                                     CHMP statistics:…,       Positive recommendations on new medicines, ",
-      "sourceType": "rss"
-    },
-    {
       "siteId": "ema-human-medicines-highlights-newsletter",
       "siteName": "Human Medicines Highlights newsletter",
       "region": "EU",
@@ -3747,16 +3637,6 @@
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/vijoice",
       "publishedAt": "2026-05-22",
       "excerpt": "Human medicines European public assessment report (EPAR): Vijoice, alpelisib, Status: Opinion",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "ema-withdrawn-applications",
-      "siteName": "Withdrawn applications",
-      "region": "EU",
-      "title": "Human medicines European public assessment report (EPAR): Orblid, bevacizumab, Status: Application withdrawn",
-      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/orblid",
-      "publishedAt": "2026-05-22",
-      "excerpt": "Human medicines European public assessment report (EPAR): Orblid, bevacizumab, Status: Application withdrawn",
       "sourceType": "rss"
     },
     {
@@ -3870,16 +3750,6 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "ema-news-and-press-releases",
-      "siteName": "News and press releases",
-      "region": "EU",
-      "title": "EMA closed on Whit Monday, 25 May",
-      "url": "https://www.ema.europa.eu/en/news/ema-closed-whit-monday-25-may",
-      "publishedAt": "2026-05-21",
-      "excerpt": "EMA’s office is closed on 25 May, to mark Whit Monday. The office reopens 08:30 on Tuesday, 26 May.The product emergency hotline is available outside working hours and on…",
-      "sourceType": "rss"
-    },
-    {
       "siteId": "PMDA：トップ 承認審査",
       "siteName": "Review for (marketing) approval (JP)",
       "region": "JP",
@@ -3940,16 +3810,6 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "ema-news-and-press-releases",
-      "siteName": "News and press releases",
-      "region": "EU",
-      "title": "EU tracks progress towards 2030 clinical trial targets",
-      "url": "https://www.ema.europa.eu/en/news/eu-tracks-progress-towards-2030-clinical-trial-targets",
-      "publishedAt": "2026-05-20",
-      "excerpt": "The European Commission (EC), the Heads of Medicines Agencies (HMA) and EMA have published their first report tracking progress against the EU’s new clinical trial targets.…",
-      "sourceType": "rss"
-    },
-    {
       "siteId": "fda-consumer-health-information-updates",
       "siteName": "Consumer Health Information Updates",
       "region": "US",
@@ -4000,8 +3860,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[薬局方]日局におけるPDG調和文書への対応状況（試験法等）を更新しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/0021.html",
@@ -4610,8 +4470,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[薬局方]日局におけるPDG調和文書への対応状況（医薬品各条）を更新しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/0020.html",
@@ -4650,8 +4510,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[その他]研究推進業務のページを更新しました。",
       "url": "https://www.pmda.go.jp/rs-std-jp/research/0001.html",
@@ -4980,8 +4840,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[薬局方]第十九改正日本薬局方を掲載しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/0260.html",
@@ -5160,6 +5020,26 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Adverse Health Effects Relief (JP)",
+      "region": "JP",
+      "title": "[健康]生物由来製品感染等被害救済制度に関する給付額の改定のお知らせ",
+      "url": "https://www.pmda.go.jp/relief-services/infections/0030.html",
+      "publishedAt": "2026-04-01",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Adverse Health Effects Relief (JP)",
+      "region": "JP",
+      "title": "[健康]医薬品副作用被害救済制度に関する給付額の改定のお知らせ",
+      "url": "https://www.pmda.go.jp/relief-services/adr-sufferers/0007.html",
+      "publishedAt": "2026-04-01",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "light-drugs",
       "siteName": "消費紅綠燈-國際藥品",
       "region": "TW",
@@ -5180,8 +5060,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[その他]研究紹介動画第6弾を更新しました。",
       "url": "https://www.pmda.go.jp/rs-std-jp/research/0016.html",
@@ -5210,8 +5090,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[その他]令和7年度第2回研究支援委員会の議事要旨を掲載しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/research/0008.html",
@@ -5290,12 +5170,32 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Adverse Health Effects Relief (JP)",
+      "region": "JP",
+      "title": "[健康]基金事業等に係る運営及び管理に関する基本的事項の公表について更新しました",
+      "url": "https://www.pmda.go.jp/relief-services/hepatitis-c/0001.html",
+      "publishedAt": "2026-03-24",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "PMDA：トップ 承認審査",
       "siteName": "Review for (marketing) approval (JP)",
       "region": "JP",
       "title": "[パブコメ]独立行政法人医薬品医療機器総合機構審査等業務関係業務方法書実施細則に規定する対面助言等手数料の新設に関するご意見募集の結果について（Ⅱ）",
       "url": "https://www.pmda.go.jp/review-services/pub-comments/0114.html",
       "publishedAt": "2026-03-24",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Adverse Health Effects Relief (JP)",
+      "region": "JP",
+      "title": "[健康]生物由来製品等の一覧を更新しました",
+      "url": "https://www.pmda.go.jp/relief-services/infections/0032.html",
+      "publishedAt": "2026-03-23",
       "excerpt": "",
       "sourceType": "rss"
     },
@@ -5410,8 +5310,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[その他]第50回科学委員会の議事概要を掲載しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/science-committee/0055.html",
@@ -5450,8 +5350,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[薬局方][パブコメ]薬局方調和国際会議調和案（Stage 2）に関するご意見の募集について（2026年3月分）",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/pub-comments/pdg/0058.html",
@@ -5460,8 +5360,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[薬局方][パブコメ]日本薬局方収載原案に関するご意見の募集について（2026年3月分）",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/pub-comments/jp/0257.html",
@@ -5810,8 +5710,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[薬局方]PDG（薬局方調和国際会議）の議事要旨を掲載しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/0009.html",
@@ -5970,8 +5870,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[その他]薬剤耐性菌感染症に用いるファージ製剤の開発における留意事項を掲載しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/subcommittees/0001.html",
@@ -6130,8 +6030,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[その他]「AI対応WG」のページを新設しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/cross-sectional-project/0024.html",
@@ -6180,8 +6080,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[薬局方][パブコメ]日本薬局方収載原案に関するご意見の募集について（2025年12月分 その2）",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/pub-comments/jp/0256.html",
@@ -6190,8 +6090,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[薬局方][パブコメ]日本薬局方収載原案に関するご意見の募集について（2025年12月分 その1）",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/pub-comments/jp/0255.html",
@@ -6220,8 +6120,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[薬局方][パブコメ]日本薬局方新規収載候補品目（案）に関するご意見の募集について（2025年11月分）",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/pub-comments/jp/0254.html",
@@ -6230,8 +6130,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[薬局方]PDG調和作業手順の改訂版を掲載しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/0022.html",
@@ -6823,6 +6723,16 @@
       "siteId": "fda-outbreaks",
       "siteName": "FDA Outbreaks",
       "region": "US",
+      "title": "Outbreak Investigation of Listeria monocytogenes: Fresh Express Packaged Salad (December 2021)",
+      "url": "http://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-listeria-monocytogenes-fresh-express-packaged-salad-december-2021",
+      "publishedAt": "2025-03-26",
+      "excerpt": "The FDA and CDC, in collaboration with state and local partners, are investigating a multistate outbreak of Listeria monocytogenes infections.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-outbreaks",
+      "siteName": "FDA Outbreaks",
+      "region": "US",
       "title": "Outbreak Investigation of Listeria monocytogenes: Enoki Mushrooms (November 2022)",
       "url": "http://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-listeria-monocytogenes-enoki-mushrooms-november-2022",
       "publishedAt": "2025-03-26",
@@ -6857,16 +6767,6 @@
       "url": "http://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-listeria-monocytogenes-hispanic-style-fresh-and-soft-cheeses-february-2021",
       "publishedAt": "2025-03-26",
       "excerpt": "The FDA, along with CDC and state and local partners, are investigating a multistate outbreak of Listeria monocytogenes infections potentially linked to Hispanic-style fresh and soft cheeses.",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-outbreaks",
-      "siteName": "FDA Outbreaks",
-      "region": "US",
-      "title": "Outbreak Investigation of Hepatitis A Virus Infections: Frozen Strawberries (February 2023)",
-      "url": "http://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-hepatitis-virus-infections-frozen-strawberries-february-2023",
-      "publishedAt": "2025-03-26",
-      "excerpt": "The FDA and CDC, in collaboration with state and local partners, are investigating an outbreak of hepatitis A virus infections linked to frozen organic strawberries imported from certain farms located in Baja California, Mexico by a common supplier.",
       "sourceType": "rss"
     },
     {
