@@ -1,15 +1,10 @@
 {
-  "generatedAt": "2026-06-20T10:19:12.114924+00:00",
-  "count": 736,
+  "generatedAt": "2026-06-20T15:59:00.395512+00:00",
+  "count": 753,
   "errors": [
     {
       "groupId": "pmda",
       "siteId": "services-for-healtheffects",
-      "error": "RSS fetch failed - keeping archived data"
-    },
-    {
-      "groupId": "pmda",
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
       "error": "RSS fetch failed - keeping archived data"
     },
     {
@@ -1325,8 +1320,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
+      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
       "region": "JP",
       "title": "[薬局方]PDG（薬局方調和国際会議）ニュースを掲載しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/0012.html",
@@ -1345,8 +1340,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
+      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
       "region": "JP",
       "title": "[その他]「申請電子データを活用した解析」のページを更新しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/0002.html",
@@ -2155,8 +2150,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
+      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
       "region": "JP",
       "title": "[基準]Early Consideration：モノクローナル抗体の一般毒性評価についての考え（Early Consideration）の英語版を掲載しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/guidance-guideline/0003.html",
@@ -2415,8 +2410,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
+      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
       "region": "JP",
       "title": "[その他]「AI利活用に関する基本的考え方」検討PTを設置しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/cross-sectional-project/0001.html",
@@ -2495,8 +2490,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
+      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
       "region": "JP",
       "title": "[薬局方][パブコメ]日本薬局方収載原案に関するご意見の募集について（2026年6月分 その2）",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/pub-comments/jp/0258.html",
@@ -2505,8 +2500,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
+      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
       "region": "JP",
       "title": "[薬局方][パブコメ]日本薬局方収載原案に関するご意見の募集について（2026年6月分 その1）",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/pub-comments/jp/0261.html",
@@ -2515,8 +2510,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
+      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
       "region": "JP",
       "title": "[薬局方][パブコメ]日本薬局方から削除予定の（案）試薬・試液に関するご意見の募集について（2026年6月分）",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/pub-comments/jp/0259.html",
@@ -2525,8 +2520,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
+      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
       "region": "JP",
       "title": "[薬局方][パブコメ]日本薬局方から削除予定の（案）医薬品各条・標準品に関するご意見の募集について（2026年6月分）",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/pub-comments/jp/0260.html",
@@ -2860,6 +2855,16 @@
       "region": "TW",
       "title": "預告修正「全民健康保險西醫醫療資源不足地區改善方案巡迴地點列屬藥事法第一百零二條所稱無藥事人員執業之偏遠地區列表」附表一、附表二、附表五、附表十、附表十四、附表十五草案。",
       "url": "http://www.fda.gov.tw/tc/newsContent.aspx?cid=5072&id=31554&utm_source=rss&utm_medium=feed&utm_campaign=rss_subscription",
+      "publishedAt": "2026-05-28",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
+      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "region": "JP",
+      "title": "[その他]令和8年度第1回倫理審査委員会の議事要旨を掲載しました",
+      "url": "https://www.pmda.go.jp/rs-std-jp/research/0009.html",
       "publishedAt": "2026-05-28",
       "excerpt": "",
       "sourceType": "rss"
@@ -3955,6 +3960,16 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
+      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "region": "JP",
+      "title": "[薬局方]日局におけるPDG調和文書への対応状況（試験法等）を更新しました",
+      "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/0021.html",
+      "publishedAt": "2026-05-19",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "PMDA：トップ 承認審査",
       "siteName": "Review for (marketing) approval (JP)",
       "region": "JP",
@@ -4525,6 +4540,16 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
+      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "region": "JP",
+      "title": "[薬局方]日局におけるPDG調和文書への対応状況（医薬品各条）を更新しました",
+      "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/0020.html",
+      "publishedAt": "2026-04-27",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "PMDA：トップ 承認審査",
       "siteName": "Review for (marketing) approval (JP)",
       "region": "JP",
@@ -4550,6 +4575,16 @@
       "region": "JP",
       "title": "[全製品]PMDA医療安全情報No.73「インスリン専用注射器の使用について　投与量の誤りが重大な健康被害につながるおそれがあります」を掲載しました",
       "url": "https://www.pmda.go.jp/safety/info-services/medical-safety-info/0001.html",
+      "publishedAt": "2026-04-27",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
+      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "region": "JP",
+      "title": "[その他]研究推進業務のページを更新しました。",
+      "url": "https://www.pmda.go.jp/rs-std-jp/research/0001.html",
       "publishedAt": "2026-04-27",
       "excerpt": "",
       "sourceType": "rss"
@@ -4785,6 +4820,16 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
+      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "region": "JP",
+      "title": "[薬局方]第十九改正日本薬局方を掲載しました",
+      "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/0260.html",
+      "publishedAt": "2026-04-10",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "PMDA：トップ 承認審査",
       "siteName": "Review for (marketing) approval (JP)",
       "region": "JP",
@@ -4965,6 +5010,16 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
+      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "region": "JP",
+      "title": "[その他]研究紹介動画第6弾を更新しました。",
+      "url": "https://www.pmda.go.jp/rs-std-jp/research/0016.html",
+      "publishedAt": "2026-03-31",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "PMDA：トップ 安全対策",
       "siteName": "Safety Measures (JP)",
       "region": "JP",
@@ -4980,6 +5035,16 @@
       "region": "JP",
       "title": "[医療]「特区医療機器戦略相談」を「革新的医療機器戦略相談」に改称し、対象となる相談者を拡大しました。",
       "url": "https://www.pmda.go.jp/review-services/f2f-pre/strategies/0009.html",
+      "publishedAt": "2026-03-30",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
+      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "region": "JP",
+      "title": "[その他]令和7年度第2回研究支援委員会の議事要旨を掲載しました",
+      "url": "https://www.pmda.go.jp/rs-std-jp/research/0008.html",
       "publishedAt": "2026-03-30",
       "excerpt": "",
       "sourceType": "rss"
@@ -5145,6 +5210,16 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
+      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "region": "JP",
+      "title": "[その他]第50回科学委員会の議事概要を掲載しました",
+      "url": "https://www.pmda.go.jp/rs-std-jp/science-committee/0055.html",
+      "publishedAt": "2026-03-06",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "tfda-news-and-press-releases",
       "siteName": "新聞",
       "region": "TW",
@@ -5162,6 +5237,26 @@
       "url": "http://www.fda.gov/drugs/medication-health-fraud/artri-ajo-rey-and-artri-ajo-king-may-be-harmful-due-hidden-drug-ingredients",
       "publishedAt": "2026-03-03",
       "excerpt": "The Food and Drug Administration is advising consumers not to purchase or use Artri Ajo King, a product promoted and sold for joint pain and arthritis on various websites, including amazon.com, and possibly in some retail stores.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
+      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "region": "JP",
+      "title": "[薬局方][パブコメ]薬局方調和国際会議調和案（Stage 2）に関するご意見の募集について（2026年3月分）",
+      "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/pub-comments/pdg/0058.html",
+      "publishedAt": "2026-03-02",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
+      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "region": "JP",
+      "title": "[薬局方][パブコメ]日本薬局方収載原案に関するご意見の募集について（2026年3月分）",
+      "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/pub-comments/jp/0257.html",
+      "publishedAt": "2026-03-02",
+      "excerpt": "",
       "sourceType": "rss"
     },
     {
@@ -5405,6 +5500,16 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
+      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "region": "JP",
+      "title": "[薬局方]PDG（薬局方調和国際会議）の議事要旨を掲載しました",
+      "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/0009.html",
+      "publishedAt": "2026-02-06",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "tfda-news-and-press-releases",
       "siteName": "新聞",
       "region": "TW",
@@ -5512,6 +5617,16 @@
       "url": "http://www.fda.gov/consumers/consumer-updates/products-claiming-cure-cancer-are-cruel-deception",
       "publishedAt": "2026-01-22",
       "excerpt": "Many ads on social media and \"healthy\" websites claim their products can cure cancer. They cannot.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
+      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "region": "JP",
+      "title": "[その他]薬剤耐性菌感染症に用いるファージ製剤の開発における留意事項を掲載しました",
+      "url": "https://www.pmda.go.jp/rs-std-jp/subcommittees/0001.html",
+      "publishedAt": "2026-01-21",
+      "excerpt": "",
       "sourceType": "rss"
     },
     {
@@ -5665,6 +5780,16 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
+      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "region": "JP",
+      "title": "[その他]「AI対応WG」のページを新設しました",
+      "url": "https://www.pmda.go.jp/rs-std-jp/cross-sectional-project/0024.html",
+      "publishedAt": "2025-12-08",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "light-drugs",
       "siteName": "消費紅綠燈-國際藥品",
       "region": "TW",
@@ -5705,6 +5830,26 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
+      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "region": "JP",
+      "title": "[薬局方][パブコメ]日本薬局方収載原案に関するご意見の募集について（2025年12月分 その2）",
+      "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/pub-comments/jp/0256.html",
+      "publishedAt": "2025-12-01",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
+      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "region": "JP",
+      "title": "[薬局方][パブコメ]日本薬局方収載原案に関するご意見の募集について（2025年12月分 その1）",
+      "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/pub-comments/jp/0255.html",
+      "publishedAt": "2025-12-01",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "ICH Public | News",
       "siteName": "ICH Public | News",
       "region": "EN",
@@ -5722,6 +5867,26 @@
       "url": "https://ich.org/news/press-release-ich-assembly-meeting-singapore-2025",
       "publishedAt": "2025-11-26",
       "excerpt": "The Assembly of the International Council for Harmonisation (ICH) met in person on 18-19 November 2025 in Singapore, in parallel with meetings of 12 Working Groups and preceded by meetings of the ICH Management Committee (MC) and the MedDRA Steering Committee (SC).",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
+      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "region": "JP",
+      "title": "[薬局方][パブコメ]日本薬局方新規収載候補品目（案）に関するご意見の募集について（2025年11月分）",
+      "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/pub-comments/jp/0254.html",
+      "publishedAt": "2025-11-20",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
+      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "region": "JP",
+      "title": "[薬局方]PDG調和作業手順の改訂版を掲載しました",
+      "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/0022.html",
+      "publishedAt": "2025-11-13",
+      "excerpt": "",
       "sourceType": "rss"
     },
     {
