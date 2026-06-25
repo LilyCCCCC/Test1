@@ -1,17 +1,7 @@
 {
-  "generatedAt": "2026-06-25T10:26:19.947098+00:00",
-  "count": 788,
+  "generatedAt": "2026-06-25T19:18:14.388580+00:00",
+  "count": 808,
   "errors": [
-    {
-      "groupId": "ema",
-      "siteId": "ema-whats-new",
-      "error": "RSS fetch failed - keeping archived data"
-    },
-    {
-      "groupId": "ema",
-      "siteId": "ema-public-consultations",
-      "error": "RSS fetch failed - keeping archived data"
-    },
     {
       "groupId": "ema",
       "siteId": "ema-human-medicines-highlights-newsletter",
@@ -24,7 +14,17 @@
     },
     {
       "groupId": "pmda",
+      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
+      "error": "RSS fetch failed - keeping archived data"
+    },
+    {
+      "groupId": "pmda",
       "siteId": "PMDA：トップ 国際活動",
+      "error": "RSS fetch failed - keeping archived data"
+    },
+    {
+      "groupId": "pmda",
+      "siteId": "PMDA：トップ その他",
       "error": "RSS fetch failed - keeping archived data"
     }
   ],
@@ -50,6 +50,96 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Workshop on advancing proof-of-concept data in paediatric oncology drug development , Online, European Medicines Agency, Amsterdam, the Netherlands, from 21 September 2026, 13:00 (CEST) to 21 September 2026, 16:00 (CEST)",
+      "url": "https://www.ema.europa.eu/en/events/workshop-advancing-proof-concept-data-paediatric-oncology-drug-development",
+      "publishedAt": "2026-06-25",
+      "excerpt": "Workshop on advancing proof-of-concept data in paediatric oncology drug development , Online, European Medicines Agency, Amsterdam, the Netherlands, from 21 September 2026, 13:00 (CEST) to 21 September 2026, 16:00 (CEST)",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Quantitative Systems Pharmacology (QSP)-Based Dose Selection for Minimum Anticipated Biological Effect Level (MABEL) in First-in-Human (FIH) Trials",
+      "url": "http://www.fda.gov/regulatory-information/search-fda-guidance-documents/quantitative-systems-pharmacology-qsp-based-dose-selection-minimum-anticipated-biological-effect",
+      "publishedAt": "2026-06-25",
+      "excerpt": "Quantitative Systems Pharmacology (QSP)-Based Dose Selection for Minimum Anticipated Biological Effect Level (MABEL) in First-in-Human (FIH) Trials",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "PSUSA/00009050/202511",
+      "url": "https://www.ema.europa.eu/en/medicines/psusa/psusa-00009050-202511",
+      "publishedAt": "2026-06-25",
+      "excerpt": "PSUSA/00009050/202511",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "PSUSA/00002633/202511",
+      "url": "https://www.ema.europa.eu/en/medicines/psusa/psusa-00002633-202511",
+      "publishedAt": "2026-06-25",
+      "excerpt": "PSUSA/00002633/202511",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Master Protocols for Drug and Biological Product Development",
+      "url": "http://www.fda.gov/regulatory-information/search-fda-guidance-documents/master-protocols-drug-and-biological-product-development",
+      "publishedAt": "2026-06-25",
+      "excerpt": "Master Protocols for Drug and Biological Product Development",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "List of medicines under additional monitoring",
+      "url": "https://www.ema.europa.eu/en/human-regulatory-overview/post-authorisation/pharmacovigilance-post-authorisation/medicines-under-additional-monitoring/list-medicines-under-additional-monitoring",
+      "publishedAt": "2026-06-25",
+      "excerpt": "List of medicines under additional monitoring",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "List of medicinal products under additional monitoring",
+      "url": "https://www.ema.europa.eu/system/files/documents/additional-monitoring/list-medicinal-products-under-additional-monitoring_june-2026_rev_145_en.xlsx",
+      "publishedAt": "2026-06-25",
+      "excerpt": "List of medicinal products under additional monitoring",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "List of medicinal products under additional monitoring",
+      "url": "https://www.ema.europa.eu/system/files/documents/additional-monitoring/list-medicinal-products-under-additional-monitoring_june-2026_rev_145_en.pdf",
+      "publishedAt": "2026-06-25",
+      "excerpt": "List of medicinal products under additional monitoring",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Trajenta, linagliptin, Date of authorisation: 23/08/2011, Revision: 24, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/trajenta",
+      "publishedAt": "2026-06-25",
+      "excerpt": "Human medicines European public assessment report (EPAR): Trajenta, linagliptin, Date of authorisation: 23/08/2011, Revision: 24, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
       "siteName": "Human medicines: EPARs and summaries of opinion",
       "region": "EU",
@@ -57,6 +147,16 @@
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/tezspire",
       "publishedAt": "2026-06-25",
       "excerpt": "Human medicines European public assessment report (EPAR): Tezspire, tezepelumab, Date of authorisation: 19/09/2022, Revision: 14, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Skyrizi, risankizumab, Date of authorisation: 26/04/2019, Revision: 31, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/skyrizi",
+      "publishedAt": "2026-06-25",
+      "excerpt": "Human medicines European public assessment report (EPAR): Skyrizi, risankizumab, Date of authorisation: 26/04/2019, Revision: 31, Status: Authorised",
       "sourceType": "rss"
     },
     {
@@ -83,10 +183,120 @@
       "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
       "siteName": "Human medicines: EPARs and summaries of opinion",
       "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Lojuxta, lomitapide, Date of authorisation: 31/07/2013, Revision: 21, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/lojuxta",
+      "publishedAt": "2026-06-25",
+      "excerpt": "Human medicines European public assessment report (EPAR): Lojuxta, lomitapide, Date of authorisation: 31/07/2013, Revision: 21, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Inaqovi, cedazuridine,decitabine, Date of authorisation: 15/09/2023, Revision: 4, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/inaqovi",
+      "publishedAt": "2026-06-25",
+      "excerpt": "Human medicines European public assessment report (EPAR): Inaqovi, cedazuridine,decitabine, Date of authorisation: 15/09/2023, Revision: 4, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Feraccru, ferric maltol, Date of authorisation: 18/02/2016, Revision: 20, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/feraccru",
+      "publishedAt": "2026-06-25",
+      "excerpt": "Human medicines European public assessment report (EPAR): Feraccru, ferric maltol, Date of authorisation: 18/02/2016, Revision: 20, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Constella, linaclotide, Date of authorisation: 26/11/2012, Revision: 32, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/constella",
+      "publishedAt": "2026-06-25",
+      "excerpt": "Human medicines European public assessment report (EPAR): Constella, linaclotide, Date of authorisation: 26/11/2012, Revision: 32, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
       "title": "Human medicines European public assessment report (EPAR): Cenrifki, tolebrutinib, Date of authorisation: 19/06/2026, Status: Authorised",
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/cenrifki",
       "publishedAt": "2026-06-25",
       "excerpt": "Human medicines European public assessment report (EPAR): Cenrifki, tolebrutinib, Date of authorisation: 19/06/2026, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "HMA/EMA multistakeholder AI and Data forum: Build trustworthy AI on strong data foundations, Online, European Medicines Agency, Amsterdam, the Netherlands, Broadcast, from 12 November 2026 to 13 November 2026",
+      "url": "https://www.ema.europa.eu/en/events/hma-ema-multistakeholder-ai-data-forum-build-trustworthy-ai-strong-data-foundations",
+      "publishedAt": "2026-06-25",
+      "excerpt": "HMA/EMA multistakeholder AI and Data forum: Build trustworthy AI on strong data foundations, Online, European Medicines Agency, Amsterdam, the Netherlands, Broadcast, from 12 November 2026 to 13 November 2026",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "European Medicines Regulatory Network (EMRN) workshop on geographic atrophy endpoints, Online, European Medicines Agency, Amsterdam, the Netherlands, Broadcast, 29 April 2026",
+      "url": "https://www.ema.europa.eu/en/events/european-medicines-regulatory-network-emrn-workshop-geographic-atrophy-endpoints",
+      "publishedAt": "2026-06-25",
+      "excerpt": "European Medicines Regulatory Network (EMRN) workshop on geographic atrophy endpoints, Online, European Medicines Agency, Amsterdam, the Netherlands, Broadcast, 29 April 2026",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "European Medicines Agency’s data protection notice for sharing contact details of network representatives in Agile teams via the restricted Network Portfolio website",
+      "url": "https://www.ema.europa.eu/system/files/documents/other/ema-i-017-dpn_sharing-contact-details-network-representatives-agile-teams-en.pdf",
+      "publishedAt": "2026-06-25",
+      "excerpt": "European Medicines Agency’s data protection notice for sharing contact details of network representatives in Agile teams via the restricted Network Portfolio website",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "EMEA-002451-PIP02-21",
+      "url": "https://www.ema.europa.eu/en/medicines/human/paediatric-investigation-plans/emea-002451-pip02-21",
+      "publishedAt": "2026-06-25",
+      "excerpt": "EMEA-002451-PIP02-21",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Drugs@FDA Data Files",
+      "url": "http://www.fda.gov/drugs/drug-approvals-and-databases/drugsfda-data-files",
+      "publishedAt": "2026-06-25",
+      "excerpt": "Drugs@FDA Downloadable Data File in ZIP format, Data Definitions, and Entity Relationship Diagram (ERD)",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Demonstrating Substantial Evidence of Effectiveness for Human Drug and Biological Products",
+      "url": "http://www.fda.gov/regulatory-information/search-fda-guidance-documents/demonstrating-substantial-evidence-effectiveness-human-drug-and-biological-products",
+      "publishedAt": "2026-06-25",
+      "excerpt": "Draft Guidance for Industry: Demonstrating Substantial Evidence of Effectiveness for Human Drug and Biological Products",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "BsUFA IV: Fiscal Years 2028-2032",
+      "url": "http://www.fda.gov/industry/biosimilar-user-fee-amendments/bsufa-iv-fiscal-years-2028-2032",
+      "publishedAt": "2026-06-25",
+      "excerpt": "On September 30, 2022, the President signed into law the FDA User Fee Reauthorization Act of 2022.",
       "sourceType": "rss"
     },
     {
@@ -140,8 +350,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ その他",
-      "siteName": "Others (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[PMDA]令和8事業年度第1回審査・安全業務委員会　開催案内を掲載しました",
       "url": "https://www.pmda.go.jp/about-pmda/advisory-council-information/review-and-safety/0070.html",
@@ -410,8 +620,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ その他",
-      "siteName": "Others (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[採用]事務補助員（医薬品の規格基準作成業務に係る補助業務等（国際業務担当））の募集について",
       "url": "https://www.pmda.go.jp/recruit/0839.html",
@@ -420,8 +630,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[基準]Early Consideration：「初回治験届時に留意すべきヒト細胞由来の細胞外小胞（Extracellular Vesicles；EV）製剤の品質関連事項について」を掲載しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/guidance-guideline/0003.html",
@@ -553,10 +763,10 @@
       "siteId": "ema-whats-new",
       "siteName": "What's new",
       "region": "EU",
-      "title": "Joint Heads of Medicines Agencies (HMA)/European Medicines Agency (EMA) multistakeholder workshop on real-world data collection in duchenne muscular dystrophy, Online, European Medicines Agency, Amsterdam, the Netherlands, Broadcast, from 25 September 2026, 09:00 (CEST) to 25 September 2026, 17:30 (CEST)",
+      "title": "Joint Heads of Medicines Agencies (HMA)/European Medicines Agency (EMA) multistakeholder workshop on real-world data collection in Duchenne muscular dystrophy, Online, European Medicines Agency, Amsterdam, the Netherlands, Broadcast, from 25 September 2026, 09:00 (CEST) to 25 September 2026, 17:30 (CEST)",
       "url": "https://www.ema.europa.eu/en/events/joint-heads-medicines-agencies-hma-european-medicines-agency-ema-multistakeholder-workshop-real-world-data-collection-duchenne-muscular-dystrophy",
       "publishedAt": "2026-06-23",
-      "excerpt": "Joint Heads of Medicines Agencies (HMA)/European Medicines Agency (EMA) multistakeholder workshop on real-world data collection in duchenne muscular dystrophy, Online, European Medicines Agency, Amsterdam, the Netherlands, Broadcast, from 25 September 2026, 09:00 (CEST) to 25 September 2026, 17:30 (CEST)",
+      "excerpt": "Joint Heads of Medicines Agencies (HMA)/European Medicines Agency (EMA) multistakeholder workshop on real-world data collection in Duchenne muscular dystrophy, Online, European Medicines Agency, Amsterdam, the Netherlands, Broadcast, from 25 September 2026, 09:00 (CEST) to 25 September 2026, 17:30 (CEST)",
       "sourceType": "rss"
     },
     {
@@ -1003,16 +1213,6 @@
       "siteId": "fda-whats-new-drugs",
       "siteName": "What's New: Drugs",
       "region": "US",
-      "title": "BsUFA IV: Fiscal Years 2028-2032",
-      "url": "http://www.fda.gov/industry/biosimilar-user-fee-amendments/bsufa-iv-fiscal-years-2028-2032",
-      "publishedAt": "2026-06-23",
-      "excerpt": "On September 30, 2022, the President signed into law the FDA User Fee Reauthorization Act of 2022.",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
       "title": "April 30, 2026: Meeting of the Oncologic Drugs Advisory Committee Meeting Announcement - 04/30/2026",
       "url": "http://www.fda.gov/advisory-committees/advisory-committee-calendar/april-30-2026-meeting-oncologic-drugs-advisory-committee-meeting-announcement-04302026",
       "publishedAt": "2026-06-23",
@@ -1090,8 +1290,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ その他",
-      "siteName": "Others (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[調達]調達予定案件一覧",
       "url": "https://www.pmda.go.jp/procurements/public-bidding/procurement-plan/0001.html",
@@ -1100,8 +1300,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ その他",
-      "siteName": "Others (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[調達]一般競争入札公告（クラウド型自動翻訳ツールの調達）",
       "url": "https://www.pmda.go.jp/procurements/public-bidding/general-competition/1696.html",
@@ -1110,8 +1310,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ その他",
-      "siteName": "Others (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[調達]オープンカウンター公告（2026年度RS研究に係る学術英語 Medical Writing 研修業務）",
       "url": "https://www.pmda.go.jp/procurements/public-bidding/open-counter/1660.html",
@@ -1120,8 +1320,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[薬局方][パブコメ]日本薬局方新規収載候補品目（案）に関するご意見の募集について（2026年6月分）",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/pub-comments/jp/0262.html",
@@ -1330,8 +1530,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ その他",
-      "siteName": "Others (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[採用]事務補助員（医薬翻訳事務）の募集について（採用時期を更新しました）",
       "url": "https://www.pmda.go.jp/recruit/0429.html",
@@ -1700,8 +1900,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ その他",
-      "siteName": "Others (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[調達]オープンカウンター公告（新医薬品審査業務にかかるISO9001：2015再認証審査業務（2026年度））",
       "url": "https://www.pmda.go.jp/procurements/public-bidding/open-counter/1659.html",
@@ -2020,8 +2220,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[薬局方]PDG（薬局方調和国際会議）ニュースを掲載しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/0012.html",
@@ -2040,8 +2240,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[その他]「申請電子データを活用した解析」のページを更新しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/0002.html",
@@ -2190,8 +2390,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ その他",
-      "siteName": "Others (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[調達]一般競争入札公告（政府調達）（MID-NETシステムに係る次世代技術導入支援に関する調査等業務）",
       "url": "https://www.pmda.go.jp/procurements/public-bidding/general-competition-government/0230.html",
@@ -2400,8 +2600,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ その他",
-      "siteName": "Others (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[調達]一般競争入札公告（受託給付業務データベースシステムの改修及び機能追加業務）",
       "url": "https://www.pmda.go.jp/procurements/public-bidding/general-competition/1695.html",
@@ -2410,8 +2610,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ その他",
-      "siteName": "Others (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[調達]オープンカウンター公告（日本産婦人科医会の会員を対象としたアンケート調査）",
       "url": "https://www.pmda.go.jp/procurements/public-bidding/open-counter/1658.html",
@@ -2540,8 +2740,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ その他",
-      "siteName": "Others (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[調達]一般競争入札公告（受託・貸付関連システムログ取得機能改修業務）",
       "url": "https://www.pmda.go.jp/procurements/public-bidding/general-competition/1694.html",
@@ -2550,8 +2750,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ その他",
-      "siteName": "Others (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[調達]一般競争入札公告（「医薬品製造販売指針2026」の購入）",
       "url": "https://www.pmda.go.jp/procurements/public-bidding/general-competition/1693.html",
@@ -2580,8 +2780,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ その他",
-      "siteName": "Others (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[PMDA]専門委員名簿を更新しました",
       "url": "https://www.pmda.go.jp/about-pmda/outline/0016.html",
@@ -2790,8 +2990,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[その他]「AI利活用に関する基本的考え方」検討PTを設置しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/cross-sectional-project/0001.html",
@@ -2870,8 +3070,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[薬局方][パブコメ]日本薬局方収載原案に関するご意見の募集について（2026年6月分 その2）",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/pub-comments/jp/0258.html",
@@ -3200,8 +3400,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "ema-scientific-guidelines",
-      "siteName": "Scientific guidelines (human and veterinary)",
+      "siteId": "ema-public-consultations",
+      "siteName": "Public consultations",
       "region": "EU",
       "title": "Concept paper on the need for revision of the guideline on the development of medicinal products for the treatment of smoking",
       "url": "https://www.ema.europa.eu/en/documents/scientific-guideline/concept-paper-need-revision-guideline-development-medicinal-products-treatment-smoking_en.pdf",
