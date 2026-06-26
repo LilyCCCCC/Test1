@@ -1,7 +1,47 @@
 {
-  "generatedAt": "2026-06-26T01:35:11.990884+00:00",
-  "count": 813,
+  "generatedAt": "2026-06-26T06:33:06.378494+00:00",
+  "count": 818,
   "items": [
+    {
+      "siteId": "notice-from-tfda",
+      "siteName": "公告",
+      "region": "TW",
+      "title": "公告延長115年度「國家藥物科技研究發展獎」徵件期至115年7月31日止。",
+      "url": "http://www.fda.gov.tw/tc/newsContent.aspx?cid=3&id=31584&utm_source=rss&utm_medium=feed&utm_campaign=rss_subscription",
+      "publishedAt": "2026-06-26",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "controlled-drugs",
+      "siteName": "管制藥品類",
+      "region": "TW",
+      "title": "公告修正管制藥品品項(增列Carboetomidate等3項管制藥品)",
+      "url": "http://www.fda.gov.tw/TC/newsContent.aspx?cid=3&id=31583",
+      "publishedAt": "2026-06-26",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
+      "region": "JP",
+      "title": "[調達]一般競争入札公告（政府調達）（共用LANシステム 業務用PCの更新）",
+      "url": "https://www.pmda.go.jp/procurements/public-bidding/general-competition-government/0231.html",
+      "publishedAt": "2026-06-26",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "PMDA：トップ 承認審査",
+      "siteName": "Review for (marketing) approval (JP)",
+      "region": "JP",
+      "title": "[医薬][再生]「多施設共同治験における治験審査委員会の調査審議の考え方について（医薬品・再生）」を掲載しました",
+      "url": "https://www.pmda.go.jp/review-services/inspections/drugs/0005.html",
+      "publishedAt": "2026-06-26",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
     {
       "siteId": "PMDA：トップ 国際活動",
       "siteName": "International (JP)",
@@ -338,6 +378,16 @@
       "region": "TW",
       "title": "訂定「以基因改造大腸桿菌(Escherichia coli) K-12 DH1 MDO MAP1001d菌株發酵生產之食品原料2ʹ-岩藻糖基乳糖(2ʹ-fucosyllactose)與雙岩藻糖基乳糖(Difucosyllactose)混合物之使用限制及標示規定」，並自即日生效。",
       "url": "http://www.fda.gov.tw/tc/newsContent.aspx?cid=3&id=31579&utm_source=rss&utm_medium=feed&utm_campaign=rss_subscription",
+      "publishedAt": "2026-06-24",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "notice-from-tfda",
+      "siteName": "公告",
+      "region": "TW",
+      "title": "公告修正管制藥品品項(增列Carboetomidate等3項管制藥品)",
+      "url": "http://www.fda.gov.tw/tc/newsContent.aspx?cid=3&id=31583&utm_source=rss&utm_medium=feed&utm_campaign=rss_subscription",
       "publishedAt": "2026-06-24",
       "excerpt": "",
       "sourceType": "rss"
@@ -5413,16 +5463,6 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 承認審査",
-      "siteName": "Review for (marketing) approval (JP)",
-      "region": "JP",
-      "title": "[医薬][再生]「治験の実施に係る業務等のパートナー医療機関への委託の取扱いについて」を掲載しました",
-      "url": "https://www.pmda.go.jp/review-services/inspections/drugs/0005.html",
-      "publishedAt": "2026-04-01",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
       "siteId": "PMDA：トップ 安全対策",
       "siteName": "Adverse Health Effects Relief (JP)",
       "region": "JP",
@@ -7050,6 +7090,16 @@
       "url": "http://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-thompson-seafood-october-2021",
       "publishedAt": "2025-03-26",
       "excerpt": "The FDA, along with CDC and state and local partners, investigated a multistate outbreak of Salmonella Thompson infections linked to seafood manufactured or processed by Northeast Seafood Products, Inc. of Denver, CO.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-outbreaks",
+      "siteName": "FDA Outbreaks",
+      "region": "US",
+      "title": "Outbreak Investigation of Listeria monocytogenes: Fresh Express Packaged Salad (December 2021)",
+      "url": "http://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-listeria-monocytogenes-fresh-express-packaged-salad-december-2021",
+      "publishedAt": "2025-03-26",
+      "excerpt": "The FDA and CDC, in collaboration with state and local partners, are investigating a multistate outbreak of Listeria monocytogenes infections.",
       "sourceType": "rss"
     },
     {
