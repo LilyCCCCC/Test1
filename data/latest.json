@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-25T22:52:41.786436+00:00",
-  "count": 811,
+  "generatedAt": "2026-06-26T01:35:11.998425+00:00",
+  "count": 813,
   "errors": [
     {
       "groupId": "ema",
@@ -10,6 +10,11 @@
     {
       "groupId": "pmda",
       "siteId": "services-for-healtheffects",
+      "error": "RSS fetch failed - keeping archived data"
+    },
+    {
+      "groupId": "pmda",
+      "siteId": "PMDA：トップ 安全対策",
       "error": "RSS fetch failed - keeping archived data"
     },
     {
@@ -24,6 +29,16 @@
     }
   ],
   "items": [
+    {
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
+      "region": "JP",
+      "title": "[その他]公的研究費に基づく研究ページを更新しました",
+      "url": "https://www.pmda.go.jp/rs-std-jp/research/0004.html",
+      "publishedAt": "2026-06-26",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
     {
       "siteId": "notice-from-tfda",
       "siteName": "公告",
@@ -52,6 +67,16 @@
       "url": "https://www.ema.europa.eu/en/events/workshop-advancing-proof-concept-data-paediatric-oncology-drug-development",
       "publishedAt": "2026-06-25",
       "excerpt": "Workshop on advancing proof-of-concept data in paediatric oncology drug development , Online, European Medicines Agency, Amsterdam, the Netherlands, from 21 September 2026, 13:00 (CEST) to 21 September 2026, 16:00 (CEST)",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-food-safety-recalls",
+      "siteName": "Food Safety Recalls",
+      "region": "US",
+      "title": "Revival Animal Health, LLC Voluntarily Recalls Canine and GM Milk Replacers Due to Low or Elevated Levels of Vitamin D",
+      "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/revival-animal-health-llc-voluntarily-recalls-canine-and-gm-milk-replacers-due-low-or-elevated",
+      "publishedAt": "2026-06-25",
+      "excerpt": "Revival Animal Health of Orange City, IA is recalling Breeder’s Edge® Foster Care® Canine, Shelter’s Choice® Canine Milk Replacers, and is expanding the current recall to include the Breeder’s Edge® Foster Care® GM (goat milk) products due to variable levels of Vitamin D resulting in either low or e",
       "sourceType": "rss"
     },
     {
@@ -365,8 +390,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 安全対策",
-      "siteName": "Adverse Health Effects Relief (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[健康]生物由来製品等の一覧を更新しました",
       "url": "https://www.pmda.go.jp/relief-services/infections/0032.html",
@@ -375,8 +400,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 安全対策",
-      "siteName": "Adverse Health Effects Relief (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[健康]医薬品副作用被害救済制度 対象除外医薬品等一覧を更新しました",
       "url": "https://www.pmda.go.jp/relief-services/adr-sufferers/0022.html",
