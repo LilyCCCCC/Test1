@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-28T17:39:49.455147+00:00",
+  "generatedAt": "2026-06-28T19:53:29.824509+00:00",
   "count": 863,
   "errors": [
     {
@@ -14,7 +14,12 @@
     },
     {
       "groupId": "pmda",
-      "siteId": "PMDA：トップ 安全対策",
+      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
+      "error": "RSS fetch failed - keeping archived data"
+    },
+    {
+      "groupId": "pmda",
+      "siteId": "PMDA：トップ 国際活動",
       "error": "RSS fetch failed - keeping archived data"
     },
     {
@@ -105,8 +110,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 国際活動",
-      "siteName": "International (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[その他]公的研究費に基づく研究ページを更新しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/research/0004.html",
@@ -905,8 +910,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Adverse Health Effects Relief (JP)",
       "region": "JP",
       "title": "[健康]生物由来製品等の一覧を更新しました",
       "url": "https://www.pmda.go.jp/relief-services/infections/0032.html",
@@ -915,8 +920,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Adverse Health Effects Relief (JP)",
       "region": "JP",
       "title": "[健康]医薬品副作用被害救済制度 対象除外医薬品等一覧を更新しました",
       "url": "https://www.pmda.go.jp/relief-services/adr-sufferers/0022.html",
@@ -1195,8 +1200,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 国際活動",
-      "siteName": "International (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[基準]Early Consideration：「初回治験届時に留意すべきヒト細胞由来の細胞外小胞（Extracellular Vesicles；EV）製剤の品質関連事項について」を掲載しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/guidance-guideline/0003.html",
@@ -1885,8 +1890,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 国際活動",
-      "siteName": "International (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[薬局方][パブコメ]日本薬局方新規収載候補品目（案）に関するご意見の募集について（2026年6月分）",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/pub-comments/jp/0262.html",
@@ -2775,8 +2780,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 国際活動",
-      "siteName": "International (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[薬局方]PDG（薬局方調和国際会議）ニュースを掲載しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/0012.html",
@@ -2795,8 +2800,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 国際活動",
-      "siteName": "International (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[その他]「申請電子データを活用した解析」のページを更新しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/0002.html",
