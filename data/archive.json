@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-29T14:31:43.097372+00:00",
-  "count": 882,
+  "generatedAt": "2026-06-29T17:57:33.122387+00:00",
+  "count": 895,
   "items": [
     {
       "siteId": "notice-from-tfda",
@@ -13,13 +13,23 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[基準]抗悪性腫瘍薬の開発におけるドライバー変異に係る説明にあたっての情報について（Early Consideration）を掲載しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/guidance-guideline/0003.html",
       "publishedAt": "2026-06-29",
       "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Training Course: Achieving Data Quality and Integrity in Maximum Containment Laboratories",
+      "url": "http://www.fda.gov/emergency-preparedness-and-response/outreach-and-professional-development-activities/training-course-achieving-data-quality-and-integrity-maximum-containment-laboratories",
+      "publishedAt": "2026-06-29",
+      "excerpt": "To help address challenges associated with ensuring data quality and integrity in regulated studies conducted in BSL-4 laboratories to support MCM development, FDA and UTMB collaborate to provide an annual training course on how to meet GLP requirements in BSL-4 facilities",
       "sourceType": "rss"
     },
     {
@@ -43,6 +53,16 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Recently Issued Guidance Documents",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/biologics-guidances/recently-issued-guidance-documents",
+      "publishedAt": "2026-06-29",
+      "excerpt": "This page lists Recently Issued CBER and Cross-Center Guidance Documents.",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "ema-whats-new",
       "siteName": "What's new",
       "region": "EU",
@@ -60,6 +80,46 @@
       "url": "http://www.fda.gov/advisory-committees/pharmacy-compounding-advisory-committee/pharmacy-compounding-advisory-committee-roster",
       "publishedAt": "2026-06-29",
       "excerpt": "This page contains the PCAC roster, which lists the current members and the current number of vacancies for the committee.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Office of New Drugs Standard Safety Tables and Figures for New Drug and Biologic Applications - 06/23/2026",
+      "url": "http://www.fda.gov/drugs/news-events-human-drugs/office-new-drugs-standard-safety-tables-and-figures-new-drug-and-biologic-applications-06232026",
+      "publishedAt": "2026-06-29",
+      "excerpt": "Webinar on the standard safety tables and figures integrated guide and MAPP for the premarket safety evaluation of new drug and biologic products",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Office of New Drugs Custom Medical Queries (OCMQs) for Safety Signal Detection in Clinical Trial Data - 06/23/2026",
+      "url": "http://www.fda.gov/drugs/news-events-human-drugs/office-new-drugs-custom-medical-queries-ocmqs-safety-signal-detection-clinical-trial-data-06232026",
+      "publishedAt": "2026-06-29",
+      "excerpt": "The goal of this webinar is to provide general audiences information on the development and use of Office of New Drugs (OND) Custom Medical Queries (OCMQs) during premarket safety evaluation. OCMQs are standardized groupings of adverse event terms designed to help identify potential safety issues during review of clinical trial adverse event data a",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Novel Drug Approvals for 2025",
+      "url": "http://www.fda.gov/drugs/novel-drug-approvals-fda/novel-drug-approvals-2025",
+      "publishedAt": "2026-06-29",
+      "excerpt": "Innovative drugs often mean new treatment options for patients and advances in health care for the American public.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Non-Compliance Letters under 505B(d)(1) of the Federal Food, Drug, and Cosmetic Act",
+      "url": "http://www.fda.gov/drugs/guidance-compliance-regulatory-information/non-compliance-letters-under-505bd1-federal-food-drug-and-cosmetic-act",
+      "publishedAt": "2026-06-29",
+      "excerpt": "Section 505B(d)(1) requires FDA to send a PREA Non-Compliance letter to sponsors who have failed to submit their pediatric assessments required under PREA by the final due date, have failed to seek or obtain a deferral or deferral extension.",
       "sourceType": "rss"
     },
     {
@@ -86,6 +146,16 @@
       "siteId": "fda-whats-new-drugs",
       "siteName": "What's New: Drugs",
       "region": "US",
+      "title": "List of Off-Patent, Off-Exclusivity Drugs without an Approved Generic",
+      "url": "http://www.fda.gov/drugs/abbreviated-new-drug-application-anda/list-patent-exclusivity-drugs-without-approved-generic",
+      "publishedAt": "2026-06-29",
+      "excerpt": "The FDA maintains a list of approved new drug application (NDA) drug products that are no longer protected by patents or exclusivities, and for which the FDA has not approved an ANDA referencing that NDA drug product.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
       "title": "July 23-24, 2026: Meeting of the Pharmacy Compounding Advisory Committee - 07/23/2026",
       "url": "http://www.fda.gov/advisory-committees/advisory-committee-calendar/july-23-24-2026-meeting-pharmacy-compounding-advisory-committee-07232026",
       "publishedAt": "2026-06-29",
@@ -100,6 +170,16 @@
       "url": "https://www.pmda.go.jp/english/review-services/regulatory-info/0005.html",
       "publishedAt": "2026-06-29",
       "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Reyataz, atazanavir sulfate, Date of authorisation: 01/03/2004, Revision: 58, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/reyataz",
+      "publishedAt": "2026-06-29",
+      "excerpt": "Human medicines European public assessment report (EPAR): Reyataz, atazanavir sulfate, Date of authorisation: 01/03/2004, Revision: 58, Status: Authorised",
       "sourceType": "rss"
     },
     {
@@ -133,6 +213,46 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Kaftrio, ivacaftor,tezacaftor,elexacaftor, Date of authorisation: 21/08/2020, Revision: 33, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/kaftrio",
+      "publishedAt": "2026-06-29",
+      "excerpt": "Human medicines European public assessment report (EPAR): Kaftrio, ivacaftor,tezacaftor,elexacaftor, Date of authorisation: 21/08/2020, Revision: 33, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Iloperidone Vanda Pharmaceuticals, iloperidone, Date of refusal: 12/06/2026, Status: Refused",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/iloperidone-vanda-pharmaceuticals",
+      "publishedAt": "2026-06-29",
+      "excerpt": "Human medicines European public assessment report (EPAR): Iloperidone Vanda Pharmaceuticals, iloperidone, Date of refusal: 12/06/2026, Status: Refused",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Ibuprofen Gen.Orph, ibuprofen, Date of authorisation: 16/02/2024, Revision: 4, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/ibuprofen-genorph",
+      "publishedAt": "2026-06-29",
+      "excerpt": "Human medicines European public assessment report (EPAR): Ibuprofen Gen.Orph, ibuprofen, Date of authorisation: 16/02/2024, Revision: 4, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Dazublys, trastuzumab, Date of authorisation: 30/06/2025, Revision: 2, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/dazublys",
+      "publishedAt": "2026-06-29",
+      "excerpt": "Human medicines European public assessment report (EPAR): Dazublys, trastuzumab, Date of authorisation: 30/06/2025, Revision: 2, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "fda-whats-new-drugs",
       "siteName": "What's New: Drugs",
       "region": "US",
@@ -140,6 +260,16 @@
       "url": "http://www.fda.gov/industry/generic-drug-user-fee-amendments/generic-drug-facilities-sites-and-organization-lists",
       "publishedAt": "2026-06-29",
       "excerpt": "Generic Drug Facilities, Sites and Organization Lists",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Expanded Access to Investigational Drugs for Treatment Use - Questions and Answers - 04/15/2026",
+      "url": "http://www.fda.gov/drugs/news-events-human-drugs/expanded-access-investigational-drugs-treatment-use-questions-and-answers-04152026",
+      "publishedAt": "2026-06-29",
+      "excerpt": "An informative webinar on the FDA guidance Expanded Access to Investigational Drugs for Treatment Use: Questions and Answers",
       "sourceType": "rss"
     },
     {
@@ -156,10 +286,40 @@
       "siteId": "fda-whats-new-drugs",
       "siteName": "What's New: Drugs",
       "region": "US",
+      "title": "Drug Trials Snapshots: YARTEMLEA",
+      "url": "http://www.fda.gov/drugs/drug-trials-snapshots/drug-trials-snapshots-yartemlea",
+      "publishedAt": "2026-06-29",
+      "excerpt": "YARTEMLEA is a prescription drug that is a MASP-2 inhibitor indicated for the treatment of adult and pediatric patients 2 years of age and older with hematopoietic stem cell transplant-associated thrombotic microangiopathy (TA-TMA).",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Drug Trials Snapshots",
+      "url": "http://www.fda.gov/drugs/drug-approvals-and-databases/drug-trials-snapshots",
+      "publishedAt": "2026-06-29",
+      "excerpt": "Drug Trials Snapshots: breaking down the what, how and why. Drug Trials Snapshots are part of an overall FDA effort to make demographic data more available and transparent.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
       "title": "Drug Compliance Programs",
       "url": "http://www.fda.gov/drugs/guidance-compliance-regulatory-information/drug-compliance-programs",
       "publishedAt": "2026-06-29",
       "excerpt": "FDA compliance programs provide guidance and instructions to FDA staff for obtaining information to help fulfill agency plans in the specified program area.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Decision of EMA on adoption by analogy of Commission decision C(2026) 634 final of 5 February 2026 amending Decision C(2002) 98 fixing rates of daily subsistence allowances and ceilings for reimbursements of hotel expenses for missions outside EU",
+      "url": "https://www.ema.europa.eu/system/files/documents/other/a02_ema-decision-reimbursement-rates-en.pdf",
+      "publishedAt": "2026-06-29",
+      "excerpt": "Decision of EMA on adoption by analogy of Commission decision C(2026) 634 final of 5 February 2026 amending Decision C(2002) 98 fixing rates of daily subsistence allowances and ceilings for reimbursements of hotel expenses for missions outside EU",
       "sourceType": "rss"
     },
     {
@@ -240,6 +400,16 @@
       "url": "https://www.ema.europa.eu/en/about-us/annual-reports-work-programmes",
       "publishedAt": "2026-06-29",
       "excerpt": "Annual reports and work programmes",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Annual activity report 2024",
+      "url": "https://www.ema.europa.eu/system/files/documents/report/annual-activity-report-2024-en.pdf",
+      "publishedAt": "2026-06-29",
+      "excerpt": "Annual activity report 2024",
       "sourceType": "rss"
     },
     {
@@ -333,8 +503,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[その他]公的研究費に基づく研究ページを更新しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/research/0004.html",
@@ -1103,8 +1273,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 安全対策",
-      "siteName": "Adverse Health Effects Relief (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[健康]生物由来製品等の一覧を更新しました",
       "url": "https://www.pmda.go.jp/relief-services/infections/0032.html",
@@ -1113,8 +1283,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 安全対策",
-      "siteName": "Adverse Health Effects Relief (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[健康]医薬品副作用被害救済制度 対象除外医薬品等一覧を更新しました",
       "url": "https://www.pmda.go.jp/relief-services/adr-sufferers/0022.html",
@@ -1160,16 +1330,6 @@
       "url": "http://www.fda.gov/drugs/medication-health-fraud-notifications/sleep-skin-bodybuilding-and-other-product-notifications",
       "publishedAt": "2026-06-24",
       "excerpt": "Learn about the warnings for sleep, skin and bodybuilding products that contain hidden drugs and other hidden ingredients.",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "Recently Issued Guidance Documents",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/biologics-guidances/recently-issued-guidance-documents",
-      "publishedAt": "2026-06-24",
-      "excerpt": "This page lists Recently Issued CBER and Cross-Center Guidance Documents.",
       "sourceType": "rss"
     },
     {
@@ -1343,16 +1503,6 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "Drug Trials Snapshots",
-      "url": "http://www.fda.gov/drugs/drug-approvals-and-databases/drug-trials-snapshots",
-      "publishedAt": "2026-06-24",
-      "excerpt": "Drug Trials Snapshots: breaking down the what, how and why. Drug Trials Snapshots are part of an overall FDA effort to make demographic data more available and transparent.",
-      "sourceType": "rss"
-    },
-    {
       "siteId": "ema-whats-new",
       "siteName": "What's new",
       "region": "EU",
@@ -1480,26 +1630,6 @@
       "url": "https://www.ema.europa.eu/en/medicines/human/paediatric-investigation-plans/ema-pe-0000225778",
       "publishedAt": "2026-06-23",
       "excerpt": "Opinion/decision on a Paediatric investigation plan (PIP): Kavigale, sipavibart, decision type: PM: decision on the application for modification of an agreed PIP, therapeutic area: Surgical and medical procedures, PIP number: P/0504/2023",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "Office of New Drugs Standard Safety Tables and Figures for New Drug and Biologic Applications - 06/23/2026",
-      "url": "http://www.fda.gov/drugs/news-events-human-drugs/office-new-drugs-standard-safety-tables-and-figures-new-drug-and-biologic-applications-06232026",
-      "publishedAt": "2026-06-23",
-      "excerpt": "Webinar on the standard safety tables and figures integrated guide and MAPP for the premarket safety evaluation of new drug and biologic products",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "Office of New Drugs Custom Medical Queries (OCMQs) for Safety Signal Detection in Clinical Trial Data - 06/23/2026",
-      "url": "http://www.fda.gov/drugs/news-events-human-drugs/office-new-drugs-custom-medical-queries-ocmqs-safety-signal-detection-clinical-trial-data-06232026",
-      "publishedAt": "2026-06-23",
-      "excerpt": "The goal of this webinar is to provide general audiences information on the development and use of Office of New Drugs (OND) Custom Medical Queries (OCMQs) during premarket safety evaluation. OCMQs are standardized groupings of adverse event terms designed to help identify potential safety issues during review of clinical trial adverse event data a",
       "sourceType": "rss"
     },
     {
@@ -2073,8 +2203,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[薬局方][パブコメ]日本薬局方新規収載候補品目（案）に関するご意見の募集について（2026年6月分）",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/pub-comments/jp/0262.html",
@@ -2953,8 +3083,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[薬局方]PDG（薬局方調和国際会議）ニュースを掲載しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/0012.html",
@@ -2973,8 +3103,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[その他]「申請電子データを活用した解析」のページを更新しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/0002.html",
