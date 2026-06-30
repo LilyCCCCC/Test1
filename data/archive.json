@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-30T14:48:40.190486+00:00",
-  "count": 941,
+  "generatedAt": "2026-06-30T17:21:01.704617+00:00",
+  "count": 947,
   "items": [
     {
       "siteId": "notice-from-tfda",
@@ -203,6 +203,16 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "PRIME: priority medicines",
+      "url": "https://www.ema.europa.eu/en/human-regulatory-overview/research-development/prime-priority-medicines",
+      "publishedAt": "2026-06-30",
+      "excerpt": "PRIME: priority medicines",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "safety-measures",
       "siteName": "Safety Measures (EN)",
       "region": "JP",
@@ -273,6 +283,36 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "fda-medwatch",
+      "siteName": "MedWatch Safety Alerts",
+      "region": "US",
+      "title": "Implantable Marker Recall: Hologic Removes BioZorb 3D Bioabsorbable Markers due to Risk for Patient Complications",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/implantable-marker-recall-hologic-removes-biozorb-3d-bioabsorbable-markers-due-risk-patient",
+      "publishedAt": "2026-06-30",
+      "excerpt": "BioZorb Markers are implantable and used to mark soft tissue for procedures. They are being recalled after reports of patient complications.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Xgeva, denosumab, Date of authorisation: 13/07/2011, Revision: 29, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/xgeva",
+      "publishedAt": "2026-06-30",
+      "excerpt": "Human medicines European public assessment report (EPAR): Xgeva, denosumab, Date of authorisation: 13/07/2011, Revision: 29, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Spikevax (previously COVID-19 Vaccine Moderna), COVID-19 mRNA vaccine, Date of authorisation: 06/01/2021, Revision: 61, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/spikevax",
+      "publishedAt": "2026-06-30",
+      "excerpt": "Human medicines European public assessment report (EPAR): Spikevax (previously COVID-19 Vaccine Moderna), COVID-19 mRNA vaccine, Date of authorisation: 06/01/2021, Revision: 61, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
       "siteName": "Human medicines: EPARs and summaries of opinion",
       "region": "EU",
@@ -326,6 +366,16 @@
       "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
       "siteName": "Human medicines: EPARs and summaries of opinion",
       "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Comirnaty, COVID-19 mRNA vaccine, Date of authorisation: 21/12/2020, Revision: 62, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/comirnaty",
+      "publishedAt": "2026-06-30",
+      "excerpt": "Human medicines European public assessment report (EPAR): Comirnaty, COVID-19 mRNA vaccine, Date of authorisation: 21/12/2020, Revision: 62, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
       "title": "Human medicines European public assessment report (EPAR): Bopediat, furosemide, Date of authorisation: 29/05/2026, Status: Authorised",
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/bopediat",
       "publishedAt": "2026-06-30",
@@ -340,16 +390,6 @@
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/avtozma",
       "publishedAt": "2026-06-30",
       "excerpt": "Human medicines European public assessment report (EPAR): Avtozma, tocilizumab, Date of authorisation: 14/02/2025, Revision: 7, Status: Authorised",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "Generic Drug Facilities, Sites and Organization Lists",
-      "url": "http://www.fda.gov/industry/generic-drug-user-fee-amendments/generic-drug-facilities-sites-and-organization-lists",
-      "publishedAt": "2026-06-30",
-      "excerpt": "Generic Drug Facilities, Sites and Organization Lists",
       "sourceType": "rss"
     },
     {
@@ -380,6 +420,16 @@
       "url": "https://www.ema.europa.eu/system/files/documents/other/ema-i-007-dpn-intune-en.pdf",
       "publishedAt": "2026-06-30",
       "excerpt": "European Medicines Agency's data protection notice for use of Microsoft Intune for personal and corporate-owned devices",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "European Medicines Agency Guidance for applicants seeking access to PRIME scheme",
+      "url": "https://www.ema.europa.eu/system/files/documents/other/european-medicines-agency-guidance-applicants-seeking-access-prime-scheme-en.pdf",
+      "publishedAt": "2026-06-30",
+      "excerpt": "European Medicines Agency Guidance for applicants seeking access to PRIME scheme",
       "sourceType": "rss"
     },
     {
@@ -773,6 +823,16 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Generic Drug Facilities, Sites and Organization Lists",
+      "url": "http://www.fda.gov/industry/generic-drug-user-fee-amendments/generic-drug-facilities-sites-and-organization-lists",
+      "publishedAt": "2026-06-29",
+      "excerpt": "Generic Drug Facilities, Sites and Organization Lists",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "fda-criminal-investigations-press-releases",
       "siteName": "Criminal Investigations Press Releases",
       "region": "US",
@@ -1053,8 +1113,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "ema-whats-new",
-      "siteName": "What's new",
+      "siteId": "ema-withdrawn-applications",
+      "siteName": "Withdrawn applications",
       "region": "EU",
       "title": "Withdrawn application: DuoResp Spiromax, 27/04/2026",
       "url": "https://www.ema.europa.eu/en/medicines/human/variation/duoresp-spiromax",
@@ -1063,8 +1123,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "ema-whats-new",
-      "siteName": "What's new",
+      "siteId": "ema-withdrawn-applications",
+      "siteName": "Withdrawn applications",
       "region": "EU",
       "title": "Withdrawn application: BiResp Spiromax, 27/04/2026",
       "url": "https://www.ema.europa.eu/en/medicines/human/variation/biresp-spiromax",
@@ -1973,8 +2033,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
-      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "siteId": "ema-withdrawn-applications",
+      "siteName": "Withdrawn applications",
       "region": "EU",
       "title": "Human medicines European public assessment report (EPAR): Dazluma, troriluzole, Status: Application withdrawn",
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/dazluma",
@@ -4203,8 +4263,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "fda-medwatch",
-      "siteName": "MedWatch Safety Alerts",
+      "siteId": "fda-recalls",
+      "siteName": "Recalls",
       "region": "US",
       "title": "Haleon Issues Voluntary Nationwide Recall of Gas-X Extra Strength Softgels 125mg, 120 ct. and 72 ct.",
       "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/haleon-issues-voluntary-nationwide-recall-gas-x-extra-strength-softgels-125mg-120-ct-and-72-ct",
