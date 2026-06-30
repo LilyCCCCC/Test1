@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-30T21:10:11.176166+00:00",
-  "count": 954,
+  "generatedAt": "2026-06-30T22:45:44.898182+00:00",
+  "count": 955,
   "errors": [
     {
       "groupId": "ema",
@@ -10,6 +10,11 @@
     {
       "groupId": "pmda",
       "siteId": "services-for-healtheffects",
+      "error": "RSS fetch failed - keeping archived data"
+    },
+    {
+      "groupId": "pmda",
+      "siteId": "PMDA：トップ 安全対策",
       "error": "RSS fetch failed - keeping archived data"
     },
     {
@@ -70,8 +75,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 安全対策",
-      "siteName": "Adverse Health Effects Relief (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[健康]副用救済給付の決定に関する情報（2026年度4月分）を掲載しました",
       "url": "https://www.pmda.go.jp/relief-services/adr-sufferers/0043.html",
@@ -107,6 +112,16 @@
       "url": "http://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/wizcure-pharmaa-private-limited-726378-06242026",
       "publishedAt": "2026-06-30",
       "excerpt": "CGMP/Finished Pharmaceuticals/Adulterated",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "What's New Related to Drugs",
+      "url": "http://www.fda.gov/drugs/news-events-human-drugs/whats-new-related-drugs",
+      "publishedAt": "2026-06-30",
+      "excerpt": "Want to know what's new on drugs from FDA? This page provides quick links to the latest on a variety of topics including: drug approvals, safety warnings, drug shortages, etc.",
       "sourceType": "rss"
     },
     {
@@ -343,6 +358,16 @@
       "siteId": "fda-whats-new-drugs",
       "siteName": "What's New: Drugs",
       "region": "US",
+      "title": "Oncology (Cancer)/Hematologic Malignancies Approval Notifications",
+      "url": "http://www.fda.gov/drugs/resources-information-approved-drugs/oncology-cancerhematologic-malignancies-approval-notifications",
+      "publishedAt": "2026-06-30",
+      "excerpt": "FDA does not issue approval announcements for every approval or drug label update that occurs in oncology and hematology. Please refer to Drugs@FDA for the latest approvals and prescribing information for specific products.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
       "title": "Non-Compliance Letters under 505B(d)(1) of the Federal Food, Drug, and Cosmetic Act",
       "url": "http://www.fda.gov/drugs/guidance-compliance-regulatory-information/non-compliance-letters-under-505bd1-federal-food-drug-and-cosmetic-act",
       "publishedAt": "2026-06-30",
@@ -517,6 +542,16 @@
       "url": "https://www.ema.europa.eu/en/about-us/how-we-work/governance-reporting/financial-management-budgetary-reporting",
       "publishedAt": "2026-06-30",
       "excerpt": "Financial management and budgetary reporting",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "FDA approves allogeneic regulatory T cell-based immunotherapy with HSPC and T cells-vldq for use in matched donor hematopoietic stem cell transplantation for adults with hematologic malignancies",
+      "url": "http://www.fda.gov/drugs/resources-information-approved-drugs/fda-approves-allogeneic-regulatory-t-cell-based-immunotherapy-hspc-and-t-cells-vldq-use-matched",
+      "publishedAt": "2026-06-30",
+      "excerpt": "FDA approves allogeneic regulatory T cell-based immunotherapy with HSPC and T cells-vldq for use in matched donor hematopoietic stem cell transplantation for adults with hematologic malignancies",
       "sourceType": "rss"
     },
     {
@@ -1960,8 +1995,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 安全対策",
-      "siteName": "Adverse Health Effects Relief (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[健康]生物由来製品等の一覧を更新しました",
       "url": "https://www.pmda.go.jp/relief-services/infections/0032.html",
@@ -1970,8 +2005,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 安全対策",
-      "siteName": "Adverse Health Effects Relief (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[健康]医薬品副作用被害救済制度 対象除外医薬品等一覧を更新しました",
       "url": "https://www.pmda.go.jp/relief-services/adr-sufferers/0022.html",
@@ -1987,16 +2022,6 @@
       "url": "https://www.pmda.go.jp/about-pmda/advisory-council-information/review-and-safety/0070.html",
       "publishedAt": "2026-06-24",
       "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "What's New Related to Drugs",
-      "url": "http://www.fda.gov/drugs/news-events-human-drugs/whats-new-related-drugs",
-      "publishedAt": "2026-06-24",
-      "excerpt": "Want to know what's new on drugs from FDA? This page provides quick links to the latest on a variety of topics including: drug approvals, safety warnings, drug shortages, etc.",
       "sourceType": "rss"
     },
     {
@@ -2047,16 +2072,6 @@
       "url": "https://www.ema.europa.eu/system/files/documents/other/outcome-written-procedures-finalised-during-period-05-march-03-june-2026-en.pdf",
       "publishedAt": "2026-06-24",
       "excerpt": "Outcome of written procedures finalised during the period from 04 March 2026 to 03 June 2026",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "Oncology (Cancer)/Hematologic Malignancies Approval Notifications",
-      "url": "http://www.fda.gov/drugs/resources-information-approved-drugs/oncology-cancerhematologic-malignancies-approval-notifications",
-      "publishedAt": "2026-06-24",
-      "excerpt": "FDA does not issue approval announcements for every approval or drug label update that occurs in oncology and hematology. Please refer to Drugs@FDA for the latest approvals and prescribing information for specific products.",
       "sourceType": "rss"
     },
     {
