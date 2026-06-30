@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-30T04:41:52.111114+00:00",
-  "count": 901,
+  "generatedAt": "2026-06-30T08:41:29.479706+00:00",
+  "count": 905,
   "errors": [
     {
       "groupId": "ema",
@@ -10,21 +10,6 @@
     {
       "groupId": "pmda",
       "siteId": "services-for-healtheffects",
-      "error": "RSS fetch failed - keeping archived data"
-    },
-    {
-      "groupId": "pmda",
-      "siteId": "PMDAの新着情報",
-      "error": "RSS fetch failed - keeping archived data"
-    },
-    {
-      "groupId": "pmda",
-      "siteId": "PMDA：トップ 承認審査",
-      "error": "RSS fetch failed - keeping archived data"
-    },
-    {
-      "groupId": "pmda",
-      "siteId": "PMDA：トップ 安全対策",
       "error": "RSS fetch failed - keeping archived data"
     },
     {
@@ -55,6 +40,96 @@
       "region": "TW",
       "title": "預告修正「醫療器材行政規費收費標準」草案。",
       "url": "http://www.fda.gov.tw/tc/newsContent.aspx?cid=3&id=31589&utm_source=rss&utm_medium=feed&utm_campaign=rss_subscription",
+      "publishedAt": "2026-06-30",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Safety Measures (JP)",
+      "region": "JP",
+      "title": "[医薬]使用上の注意の改訂指示通知（医薬品）2026年6月30日付（厚生労働省より発出）を掲載しました",
+      "url": "https://www.pmda.go.jp/safety/info-services/drugs/calling-attention/revision-of-precautions/0375.html",
+      "publishedAt": "2026-06-30",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Safety Measures (JP)",
+      "region": "JP",
+      "title": "[医薬]「PMDAからの医薬品適正使用のお願い」に「ピボキシル基を有する抗菌薬投与による小児等の重篤な低カルニチン血症、重篤な低血糖について（続報）」を掲載しました",
+      "url": "https://www.pmda.go.jp/safety/info-services/drugs/calling-attention/properly-use-alert/0002.html",
+      "publishedAt": "2026-06-30",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "PMDA：トップ 承認審査",
+      "siteName": "Review for (marketing) approval (JP)",
+      "region": "JP",
+      "title": "[医薬][医療][再生]人道的見地から実施される治験の情報（医薬品、機器・再生）を更新しました",
+      "url": "https://www.pmda.go.jp/review-services/trials/0016.html",
+      "publishedAt": "2026-06-30",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "PMDA：トップ 承認審査",
+      "siteName": "Review for (marketing) approval (JP)",
+      "region": "JP",
+      "title": "[医療][体外]8月の簡易相談実施予定を掲載しました（医療機器等）",
+      "url": "https://www.pmda.go.jp/review-services/f2f-pre/consultations/0015.html",
+      "publishedAt": "2026-06-30",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
+      "region": "JP",
+      "title": "[健康]副用救済給付の決定に関する情報（2026年度4月分）を掲載しました",
+      "url": "https://www.pmda.go.jp/relief-services/adr-sufferers/0043.html",
+      "publishedAt": "2026-06-30",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
+      "region": "JP",
+      "title": "[PMDA]独立行政法人の役員の報酬等及び職員の給与水準の公表について",
+      "url": "https://www.pmda.go.jp/about-pmda/info-about-pmda/0019.html",
+      "publishedAt": "2026-06-30",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "safety-measures",
+      "siteName": "Safety Measures (EN)",
+      "region": "JP",
+      "title": "Revisions of PRECAUTIONS: Cefcapene Pivoxil Hydrochloride Hydrate, etc. posted",
+      "url": "https://www.pmda.go.jp/english/safety/info-services/drugs/revision-of-precautions/0014.html",
+      "publishedAt": "2026-06-30",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Product Management Service (PMS) roadmap",
+      "url": "https://www.ema.europa.eu/system/files/documents/other/202606_pms-roadmap-en.pdf",
+      "publishedAt": "2026-06-30",
+      "excerpt": "Product Management Service (PMS) roadmap",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "safety-measures",
+      "siteName": "Safety Measures (EN)",
+      "region": "JP",
+      "title": "PMDA Alert for Proper Use of Drugs: Serious hypocarnitinemia and hypoglycaemia in children treated with antibacterials with a pivoxil group (follow-up report) posted",
+      "url": "https://www.pmda.go.jp/english/safety/info-services/drugs/properly-use-alert/0001.html",
       "publishedAt": "2026-06-30",
       "excerpt": "",
       "sourceType": "rss"
@@ -293,10 +368,10 @@
       "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
       "siteName": "Human medicines: EPARs and summaries of opinion",
       "region": "EU",
-      "title": "Human medicines European public assessment report (EPAR): Lytenava, bevacizumab, Date of authorisation: 27/05/2024, Revision: 4, Status: Authorised",
+      "title": "Human medicines European public assessment report (EPAR): Lytenava, bevacizumab, Date of authorisation: 27/05/2024, Revision: 5, Status: Authorised",
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/lytenava",
       "publishedAt": "2026-06-29",
-      "excerpt": "Human medicines European public assessment report (EPAR): Lytenava, bevacizumab, Date of authorisation: 27/05/2024, Revision: 4, Status: Authorised",
+      "excerpt": "Human medicines European public assessment report (EPAR): Lytenava, bevacizumab, Date of authorisation: 27/05/2024, Revision: 5, Status: Authorised",
       "sourceType": "rss"
     },
     {
@@ -2753,16 +2828,6 @@
       "siteId": "PMDA：トップ 安全対策",
       "siteName": "Safety Measures (JP)",
       "region": "JP",
-      "title": "[医薬]使用上の注意の改訂指示通知（医薬品）2026年6月16日付（厚生労働省より発出）を掲載しました",
-      "url": "https://www.pmda.go.jp/safety/info-services/drugs/calling-attention/revision-of-precautions/0375.html",
-      "publishedAt": "2026-06-16",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "PMDA：トップ 安全対策",
-      "siteName": "Safety Measures (JP)",
-      "region": "JP",
       "title": "[医薬]「医薬品に関する評価中のリスク等の情報について」を掲載しました",
       "url": "https://www.pmda.go.jp/safety/info-services/drugs/calling-attention/risk-communications/0001.html",
       "publishedAt": "2026-06-16",
@@ -2775,16 +2840,6 @@
       "region": "JP",
       "title": "[医薬]「GLP-1受容体作動薬及びGIP/GLP-1受容体作動薬の適正使用について」を掲載しました",
       "url": "https://www.pmda.go.jp/safety/info-services/drugs/0010.html",
-      "publishedAt": "2026-06-16",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "safety-measures",
-      "siteName": "Safety Measures (EN)",
-      "region": "JP",
-      "title": "Revisions of PRECAUTIONS: Lithium carbonate , etc. posted",
-      "url": "https://www.pmda.go.jp/english/safety/info-services/drugs/revision-of-precautions/0014.html",
       "publishedAt": "2026-06-16",
       "excerpt": "",
       "sourceType": "rss"
@@ -4233,16 +4288,6 @@
       "siteId": "PMDA：トップ 承認審査",
       "siteName": "Review for (marketing) approval (JP)",
       "region": "JP",
-      "title": "[医薬][医療][再生]人道的見地から実施される治験の情報（医薬品、機器・再生）を更新しました",
-      "url": "https://www.pmda.go.jp/review-services/trials/0016.html",
-      "publishedAt": "2026-05-29",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "PMDA：トップ 承認審査",
-      "siteName": "Review for (marketing) approval (JP)",
-      "region": "JP",
       "title": "[医薬][再生]医薬品/再生医療等製品添付文書改訂相談に関する実施要綱を改正し、月初受付期間を前倒し、拡大しました",
       "url": "https://www.pmda.go.jp/review-services/f2f-pre/consultations/0079.html",
       "publishedAt": "2026-05-29",
@@ -4275,16 +4320,6 @@
       "region": "JP",
       "title": "[全製品]RS戦略相談（対面助言）に関する実施要綱を改正し、月初受付期間を前倒し、拡大しました",
       "url": "https://www.pmda.go.jp/review-services/f2f-pre/strategies/0005.html",
-      "publishedAt": "2026-05-29",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "PMDA：トップ 安全対策",
-      "siteName": "Adverse Health Effects Relief (JP)",
-      "region": "JP",
-      "title": "[健康]副用救済給付の決定に関する情報（2025年度3月分）を掲載しました",
-      "url": "https://www.pmda.go.jp/relief-services/adr-sufferers/0043.html",
       "publishedAt": "2026-05-29",
       "excerpt": "",
       "sourceType": "rss"
@@ -5057,16 +5092,6 @@
       "url": "https://www.ema.europa.eu/en/documents/regulatory-procedural-guideline/amended-biologics-working-party-vaccines-quality-operational-expert-group-bv-oeg-influenza-meeting-eu-recommendations-seasonal-influenza-vaccine-composition-season-2026-2027_en.pdf",
       "publishedAt": "2026-05-26",
       "excerpt": "Amended Biologics Working Party Vaccines Quality Operational Expert Group (BV-OEG) Influenza Meeting: EU recommendations for the seasonal influenza vaccine composition for the season 2026/2027",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "PMDA：トップ 承認審査",
-      "siteName": "Review for (marketing) approval (JP)",
-      "region": "JP",
-      "title": "[医療][体外]7月の簡易相談実施予定を掲載しました（医療機器等）",
-      "url": "https://www.pmda.go.jp/review-services/f2f-pre/consultations/0015.html",
-      "publishedAt": "2026-05-25",
-      "excerpt": "",
       "sourceType": "rss"
     },
     {
