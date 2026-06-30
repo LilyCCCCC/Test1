@@ -1,10 +1,30 @@
 {
-  "generatedAt": "2026-06-30T08:41:29.479706+00:00",
-  "count": 905,
+  "generatedAt": "2026-06-30T11:58:18.276575+00:00",
+  "count": 921,
   "errors": [
     {
       "groupId": "ema",
       "siteId": "ema-eurd-list",
+      "error": "RSS fetch failed - keeping archived data"
+    },
+    {
+      "groupId": "ema",
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "error": "RSS fetch failed - keeping archived data"
+    },
+    {
+      "groupId": "ema",
+      "siteId": "ema-withdrawn-applications",
+      "error": "RSS fetch failed - keeping archived data"
+    },
+    {
+      "groupId": "ema",
+      "siteId": "ema-public-consultations",
+      "error": "RSS fetch failed - keeping archived data"
+    },
+    {
+      "groupId": "ema",
+      "siteId": "ema-inspections",
       "error": "RSS fetch failed - keeping archived data"
     },
     {
@@ -118,10 +138,100 @@
       "siteId": "ema-whats-new",
       "siteName": "What's new",
       "region": "EU",
+      "title": "Referral: Sodium oxybate-containing syrup and oral solution for alcohol dependence, sodium oxybate Article 31 referrals Under evaluation, 30/06/2026",
+      "url": "https://www.ema.europa.eu/en/medicines/human/referrals/sodium-oxybate-containing-syrup-oral-solution-alcohol-dependence",
+      "publishedAt": "2026-06-30",
+      "excerpt": "Referral: Sodium oxybate-containing syrup and oral solution for alcohol dependence, sodium oxybate Article 31 referrals Under evaluation, 30/06/2026",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Referral: Ipidacrine-containing medicinal products, ipidacrine Article 31 referrals Under evaluation, 30/06/2026",
+      "url": "https://www.ema.europa.eu/en/medicines/human/referrals/ipidacrine-containing-medicinal-products",
+      "publishedAt": "2026-06-30",
+      "excerpt": "Referral: Ipidacrine-containing medicinal products, ipidacrine Article 31 referrals Under evaluation, 30/06/2026",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Q&A clinic on eXtended EudraVigilance Medicinal Product Dictionary (XEVMPD) service - May 2026, Online, European Medicines Agency, Amsterdam, the Netherlands, from 13 May 2026, 15:00 (CEST) to 13 May 2026, 16:00 (CEST)",
+      "url": "https://www.ema.europa.eu/en/events/qa-clinic-extended-eudravigilance-medicinal-product-dictionary-xevmpd-service-may-2026",
+      "publishedAt": "2026-06-30",
+      "excerpt": "Q&A clinic on eXtended EudraVigilance Medicinal Product Dictionary (XEVMPD) service - May 2026, Online, European Medicines Agency, Amsterdam, the Netherlands, from 13 May 2026, 15:00 (CEST) to 13 May 2026, 16:00 (CEST)",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Q&A clinic on eXtended EudraVigilance Medicinal Product Dictionary (XEVMPD) service - April 2026, Online, European Medicines Agency, Amsterdam, the Netherlands, from 16 April 2026, 15:00 (CEST) to 16 April 2026, 16:00 (CEST)",
+      "url": "https://www.ema.europa.eu/en/events/qa-clinic-extended-eudravigilance-medicinal-product-dictionary-xevmpd-service-april-2026",
+      "publishedAt": "2026-06-30",
+      "excerpt": "Q&A clinic on eXtended EudraVigilance Medicinal Product Dictionary (XEVMPD) service - April 2026, Online, European Medicines Agency, Amsterdam, the Netherlands, from 16 April 2026, 15:00 (CEST) to 16 April 2026, 16:00 (CEST)",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Q&A clinic on Substance, Organisation, Referentials Management Services - May 2026, Online, European Medicines Agency, Amsterdam, the Netherlands, from 12 May 2026, 11:00 (CEST) to 12 May 2026, 12:00 (CEST)",
+      "url": "https://www.ema.europa.eu/en/events/qa-clinic-substance-organisation-referentials-management-services-may-2026",
+      "publishedAt": "2026-06-30",
+      "excerpt": "Q&A clinic on Substance, Organisation, Referentials Management Services - May 2026, Online, European Medicines Agency, Amsterdam, the Netherlands, from 12 May 2026, 11:00 (CEST) to 12 May 2026, 12:00 (CEST)",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Q&A clinic on Substance, Organisation, Referentials Management Services - April 2026, Online, European Medicines Agency, Amsterdam, the Netherlands, from 14 April 2026, 11:00 (CEST) to 14 April 2026, 12:00 (CEST)",
+      "url": "https://www.ema.europa.eu/en/events/qa-clinic-substance-organisation-referentials-management-services-april-2026",
+      "publishedAt": "2026-06-30",
+      "excerpt": "Q&A clinic on Substance, Organisation, Referentials Management Services - April 2026, Online, European Medicines Agency, Amsterdam, the Netherlands, from 14 April 2026, 11:00 (CEST) to 14 April 2026, 12:00 (CEST)",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Q&A clinic on Product Management Service (PMS) Product User Interface (PUI) and Application Programming Interface (API) - May 2026, Online, European Medicines Agency, Amsterdam, the Netherlands, from 12 May 2026, 15:00 (CEST) to 12 May 2026, 16:00 (CEST)",
+      "url": "https://www.ema.europa.eu/en/events/qa-clinic-product-management-service-pms-product-user-interface-pui-application-programming-interface-api-may-2026",
+      "publishedAt": "2026-06-30",
+      "excerpt": "Q&A clinic on Product Management Service (PMS) Product User Interface (PUI) and Application Programming Interface (API) - May 2026, Online, European Medicines Agency, Amsterdam, the Netherlands, from 12 May 2026, 15:00 (CEST) to 12 May 2026, 16:00 (CEST)",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
       "title": "Product Management Service (PMS) roadmap",
       "url": "https://www.ema.europa.eu/system/files/documents/other/202606_pms-roadmap-en.pdf",
       "publishedAt": "2026-06-30",
       "excerpt": "Product Management Service (PMS) roadmap",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Product Management Service (PMS) information day 2026, Online, European Medicines Agency, Amsterdam, the Netherlands, Broadcast, from 9 June 2026, 08:45 (CEST) to 9 June 2026, 17:00 (CEST)",
+      "url": "https://www.ema.europa.eu/en/events/product-management-service-pms-information-day-2026",
+      "publishedAt": "2026-06-30",
+      "excerpt": "Product Management Service (PMS) information day 2026, Online, European Medicines Agency, Amsterdam, the Netherlands, Broadcast, from 9 June 2026, 08:45 (CEST) to 9 June 2026, 17:00 (CEST)",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Pharmacovigilance Risk Assessment Committee (PRAC): 4 - 7 May 2026, European Medicines Agency, Amsterdam, the Netherlands, from 4 May 2026 to 7 May 2026",
+      "url": "https://www.ema.europa.eu/en/events/pharmacovigilance-risk-assessment-committee-prac-4-7-may-2026",
+      "publishedAt": "2026-06-30",
+      "excerpt": "Pharmacovigilance Risk Assessment Committee (PRAC): 4 - 7 May 2026, European Medicines Agency, Amsterdam, the Netherlands, from 4 May 2026 to 7 May 2026",
       "sourceType": "rss"
     },
     {
@@ -135,6 +245,66 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Pelgraz, pegfilgrastim, Date of authorisation: 21/09/2018, Revision: 14, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/pelgraz",
+      "publishedAt": "2026-06-30",
+      "excerpt": "Human medicines European public assessment report (EPAR): Pelgraz, pegfilgrastim, Date of authorisation: 21/09/2018, Revision: 14, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Iqirvo, elafibranor, Date of authorisation: 19/09/2024, Revision: 4, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/iqirvo",
+      "publishedAt": "2026-06-30",
+      "excerpt": "Human medicines European public assessment report (EPAR): Iqirvo, elafibranor, Date of authorisation: 19/09/2024, Revision: 4, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Doptelet, avatrombopag, Date of authorisation: 20/06/2019, Revision: 12, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/doptelet",
+      "publishedAt": "2026-06-30",
+      "excerpt": "Human medicines European public assessment report (EPAR): Doptelet, avatrombopag, Date of authorisation: 20/06/2019, Revision: 12, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Avtozma, tocilizumab, Date of authorisation: 14/02/2025, Revision: 7, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/avtozma",
+      "publishedAt": "2026-06-30",
+      "excerpt": "Human medicines European public assessment report (EPAR): Avtozma, tocilizumab, Date of authorisation: 14/02/2025, Revision: 7, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Financial management and budgetary reporting",
+      "url": "https://www.ema.europa.eu/en/about-us/how-we-work/governance-reporting/financial-management-budgetary-reporting",
+      "publishedAt": "2026-06-30",
+      "excerpt": "Financial management and budgetary reporting",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "European Medicines Agency's data protection notice for use of Microsoft Intune for personal and corporate-owned devices",
+      "url": "https://www.ema.europa.eu/system/files/documents/other/ema-i-007-dpn-intune-en.pdf",
+      "publishedAt": "2026-06-30",
+      "excerpt": "European Medicines Agency's data protection notice for use of Microsoft Intune for personal and corporate-owned devices",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "reviews",
       "siteName": "Reviews (EN)",
       "region": "JP",
@@ -142,6 +312,16 @@
       "url": "https://www.pmda.go.jp/english/review-services/reviews/approved-information/devices/0003.html",
       "publishedAt": "2026-06-30",
       "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "EMEA-003385-PIP01-22",
+      "url": "https://www.ema.europa.eu/en/medicines/human/paediatric-investigation-plans/emea-003385-pip01-22",
+      "publishedAt": "2026-06-30",
+      "excerpt": "EMEA-003385-PIP01-22",
       "sourceType": "rss"
     },
     {
@@ -335,8 +515,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
-      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
       "region": "EU",
       "title": "Human medicines European public assessment report (EPAR): Reyataz, atazanavir sulfate, Date of authorisation: 01/03/2004, Revision: 58, Status: Authorised",
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/reyataz",
@@ -345,8 +525,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
-      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
       "region": "EU",
       "title": "Human medicines European public assessment report (EPAR): Rekovelle, follitropin delta, Date of authorisation: 12/12/2016, Revision: 7, Status: Authorised",
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/rekovelle",
@@ -355,8 +535,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
-      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
       "region": "EU",
       "title": "Human medicines European public assessment report (EPAR): Mirapexin, pramipexole, Date of authorisation: 23/02/1998, Revision: 43, Status: Authorised",
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/mirapexin",
@@ -365,8 +545,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
-      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
       "region": "EU",
       "title": "Human medicines European public assessment report (EPAR): Lytenava, bevacizumab, Date of authorisation: 27/05/2024, Revision: 5, Status: Authorised",
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/lytenava",
@@ -375,8 +555,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
-      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
       "region": "EU",
       "title": "Human medicines European public assessment report (EPAR): Kaftrio, ivacaftor,tezacaftor,elexacaftor, Date of authorisation: 21/08/2020, Revision: 33, Status: Authorised",
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/kaftrio",
@@ -385,8 +565,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
-      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
       "region": "EU",
       "title": "Human medicines European public assessment report (EPAR): Iloperidone Vanda Pharmaceuticals, iloperidone, Date of refusal: 12/06/2026, Status: Refused",
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/iloperidone-vanda-pharmaceuticals",
@@ -395,8 +575,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
-      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
       "region": "EU",
       "title": "Human medicines European public assessment report (EPAR): Ibuprofen Gen.Orph, ibuprofen, Date of authorisation: 16/02/2024, Revision: 4, Status: Authorised",
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/ibuprofen-genorph",
@@ -405,8 +585,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
-      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
       "region": "EU",
       "title": "Human medicines European public assessment report (EPAR): Dazublys, trastuzumab, Date of authorisation: 30/06/2025, Revision: 2, Status: Authorised",
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/dazublys",
@@ -525,8 +705,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "ema-public-consultations",
-      "siteName": "Public consultations",
+      "siteId": "ema-scientific-guidelines",
+      "siteName": "Scientific guidelines (human and veterinary)",
       "region": "EU",
       "title": "Concept paper on the revision of the guideline on the clinical evaluation of antifungal agents for the treatment and prophylaxis of invasive fungal disease",
       "url": "https://www.ema.europa.eu/en/documents/scientific-guideline/concept-paper-revision-guideline-clinical-evaluation-antifungal-agents-treatment-prophylaxis-invasive-fungal-disease_en.pdf",
@@ -715,8 +895,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "ema-withdrawn-applications",
-      "siteName": "Withdrawn applications",
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
       "region": "EU",
       "title": "Withdrawn application: DuoResp Spiromax, 27/04/2026",
       "url": "https://www.ema.europa.eu/en/medicines/human/variation/duoresp-spiromax",
@@ -725,8 +905,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "ema-withdrawn-applications",
-      "siteName": "Withdrawn applications",
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
       "region": "EU",
       "title": "Withdrawn application: BiResp Spiromax, 27/04/2026",
       "url": "https://www.ema.europa.eu/en/medicines/human/variation/biresp-spiromax",
