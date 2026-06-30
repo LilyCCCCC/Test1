@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-30T19:13:22.398084+00:00",
-  "count": 951,
+  "generatedAt": "2026-06-30T21:10:11.167453+00:00",
+  "count": 954,
   "items": [
     {
       "siteId": "notice-from-tfda",
@@ -53,8 +53,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Adverse Health Effects Relief (JP)",
       "region": "JP",
       "title": "[健康]副用救済給付の決定に関する情報（2026年度4月分）を掲載しました",
       "url": "https://www.pmda.go.jp/relief-services/adr-sufferers/0043.html",
@@ -130,6 +130,16 @@
       "url": "https://www.ema.europa.eu/en/medicines/human/referrals/ipidacrine-containing-medicinal-products",
       "publishedAt": "2026-06-30",
       "excerpt": "Referral: Ipidacrine-containing medicinal products, ipidacrine Article 31 referrals Under evaluation, 30/06/2026",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Recently Issued Guidance Documents",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/biologics-guidances/recently-issued-guidance-documents",
+      "publishedAt": "2026-06-30",
+      "excerpt": "This page lists Recently Issued CBER and Cross-Center Guidance Documents.",
       "sourceType": "rss"
     },
     {
@@ -303,6 +313,36 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Online Advisory Letters",
+      "url": "http://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/compliance-actions-and-activities/online-advisory-letters",
+      "publishedAt": "2026-06-30",
+      "excerpt": "Online Advisory Letters",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Non-Compliance Letters under 505B(d)(1) of the Federal Food, Drug, and Cosmetic Act",
+      "url": "http://www.fda.gov/drugs/guidance-compliance-regulatory-information/non-compliance-letters-under-505bd1-federal-food-drug-and-cosmetic-act",
+      "publishedAt": "2026-06-30",
+      "excerpt": "Section 505B(d)(1) requires FDA to send a PREA Non-Compliance letter to sponsors who have failed to submit their pediatric assessments required under PREA by the final due date, have failed to seek or obtain a deferral or deferral extension.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "New Safety Information or Potential Signals of Serious Risks Identified from the FDA Adverse Event Monitoring System (AEMS)",
+      "url": "http://www.fda.gov/drugs/fda-adverse-event-monitoring-system-aems/new-safety-information-or-potential-signals-serious-risks-identified-fda-adverse-event-monitoring",
+      "publishedAt": "2026-06-30",
+      "excerpt": "Discover potential signals of serious risks and new safety information identified by the FDA's Adverse Event Monitoring System (AEMS). Learn how the FDA monitors and evaluates drugs for safety concerns, providing important updates on adverse events to protect public health.",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "ema-whats-new",
       "siteName": "What's new",
       "region": "EU",
@@ -310,6 +350,16 @@
       "url": "https://www.ema.europa.eu/en/medicines/human/shortages/mycobutin-rifabutin",
       "publishedAt": "2026-06-30",
       "excerpt": "Mycobutin (rifabutin)",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "January - March 2026 | New Safety Information or Potential Signals of Serious Risks Identified by the FDA Adverse Event Monitoring System (AEMS)",
+      "url": "http://www.fda.gov/drugs/fda-adverse-event-monitoring-system-aems/january-march-2026-new-safety-information-or-potential-signals-serious-risks-identified-fda-adverse",
+      "publishedAt": "2026-06-30",
+      "excerpt": "January - March 2026 | New Safety Information or Potential Signals of Serious Risks Identified by the FDA Adverse Event Monitoring System (AEMS)",
       "sourceType": "rss"
     },
     {
@@ -420,6 +470,16 @@
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/avtozma",
       "publishedAt": "2026-06-30",
       "excerpt": "Human medicines European public assessment report (EPAR): Avtozma, tocilizumab, Date of authorisation: 14/02/2025, Revision: 7, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Generic Drug User Fee Amendments",
+      "url": "http://www.fda.gov/industry/fda-user-fee-programs/generic-drug-user-fee-amendments",
+      "publishedAt": "2026-06-30",
+      "excerpt": "This page features news and information for industry and stakeholders about GDUFA, its fee structure, payment methods, and related information.",
       "sourceType": "rss"
     },
     {
@@ -673,16 +733,6 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "Recently Issued Guidance Documents",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/biologics-guidances/recently-issued-guidance-documents",
-      "publishedAt": "2026-06-29",
-      "excerpt": "This page lists Recently Issued CBER and Cross-Center Guidance Documents.",
-      "sourceType": "rss"
-    },
-    {
       "siteId": "ema-whats-new",
       "siteName": "What's new",
       "region": "EU",
@@ -730,16 +780,6 @@
       "url": "http://www.fda.gov/drugs/novel-drug-approvals-fda/novel-drug-approvals-2025",
       "publishedAt": "2026-06-29",
       "excerpt": "Innovative drugs often mean new treatment options for patients and advances in health care for the American public.",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "Non-Compliance Letters under 505B(d)(1) of the Federal Food, Drug, and Cosmetic Act",
-      "url": "http://www.fda.gov/drugs/guidance-compliance-regulatory-information/non-compliance-letters-under-505bd1-federal-food-drug-and-cosmetic-act",
-      "publishedAt": "2026-06-29",
-      "excerpt": "Section 505B(d)(1) requires FDA to send a PREA Non-Compliance letter to sponsors who have failed to submit their pediatric assessments required under PREA by the final due date, have failed to seek or obtain a deferral or deferral extension.",
       "sourceType": "rss"
     },
     {
@@ -1050,16 +1090,6 @@
       "url": "https://www.ema.europa.eu/system/files/documents/report/annual-activity-report-2024-en.pdf",
       "publishedAt": "2026-06-29",
       "excerpt": "Annual activity report 2024",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "Generic Drug User Fee Amendments",
-      "url": "http://www.fda.gov/industry/fda-user-fee-programs/generic-drug-user-fee-amendments",
-      "publishedAt": "2026-06-28",
-      "excerpt": "This page features news and information for industry and stakeholders about GDUFA, its fee structure, payment methods, and related information.",
       "sourceType": "rss"
     },
     {
@@ -1913,8 +1943,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Adverse Health Effects Relief (JP)",
       "region": "JP",
       "title": "[健康]生物由来製品等の一覧を更新しました",
       "url": "https://www.pmda.go.jp/relief-services/infections/0032.html",
@@ -1923,8 +1953,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Adverse Health Effects Relief (JP)",
       "region": "JP",
       "title": "[健康]医薬品副作用被害救済制度 対象除外医薬品等一覧を更新しました",
       "url": "https://www.pmda.go.jp/relief-services/adr-sufferers/0022.html",
