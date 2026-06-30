@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-30T11:58:18.276575+00:00",
-  "count": 921,
+  "generatedAt": "2026-06-30T14:48:40.197248+00:00",
+  "count": 941,
   "errors": [
     {
       "groupId": "ema",
@@ -9,22 +9,7 @@
     },
     {
       "groupId": "ema",
-      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
-      "error": "RSS fetch failed - keeping archived data"
-    },
-    {
-      "groupId": "ema",
       "siteId": "ema-withdrawn-applications",
-      "error": "RSS fetch failed - keeping archived data"
-    },
-    {
-      "groupId": "ema",
-      "siteId": "ema-public-consultations",
-      "error": "RSS fetch failed - keeping archived data"
-    },
-    {
-      "groupId": "ema",
-      "siteId": "ema-inspections",
       "error": "RSS fetch failed - keeping archived data"
     },
     {
@@ -122,6 +107,26 @@
       "url": "https://www.pmda.go.jp/about-pmda/info-about-pmda/0019.html",
       "publishedAt": "2026-06-30",
       "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Yangzhou Hongshengding Chemical Co., Ltd. - 729710 - 06/15/2026",
+      "url": "http://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/yangzhou-hongshengding-chemical-co-ltd-729710-06152026",
+      "publishedAt": "2026-06-30",
+      "excerpt": "Refusal to Provide Access to and Copying of Records",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Wizcure Pharmaa Private Limited - 726378 - 06/24/2026",
+      "url": "http://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/wizcure-pharmaa-private-limited-726378-06242026",
+      "publishedAt": "2026-06-30",
+      "excerpt": "CGMP/Finished Pharmaceuticals/Adulterated",
       "sourceType": "rss"
     },
     {
@@ -248,6 +253,76 @@
       "siteId": "ema-whats-new",
       "siteName": "What's new",
       "region": "EU",
+      "title": "Opinion/decision on a Paediatric investigation plan (PIP): Vimpat, lacosamide, decision type: PM: decision on the application for modification of an agreed PIP, therapeutic area: Nervous system disorders, PIP number: EMA/PE/0000236274",
+      "url": "https://www.ema.europa.eu/en/medicines/human/paediatric-investigation-plans/ema-pe-0000236274",
+      "publishedAt": "2026-06-30",
+      "excerpt": "Opinion/decision on a Paediatric investigation plan (PIP): Vimpat, lacosamide, decision type: PM: decision on the application for modification of an agreed PIP, therapeutic area: Nervous system disorders, PIP number: EMA/PE/0000236274",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Opinion/decision on a Paediatric investigation plan (PIP): Vaborem, meropenem trihydrate,vaborbactam, decision type: PM: decision on the application for modification of an agreed PIP, therapeutic area: Infectious diseases, PIP number: P/0530/2023",
+      "url": "https://www.ema.europa.eu/en/medicines/human/paediatric-investigation-plans/ema-pe-0000231022",
+      "publishedAt": "2026-06-30",
+      "excerpt": "Opinion/decision on a Paediatric investigation plan (PIP): Vaborem, meropenem trihydrate,vaborbactam, decision type: PM: decision on the application for modification of an agreed PIP, therapeutic area: Infectious diseases, PIP number: P/0530/2023",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Opinion/decision on a Paediatric investigation plan (PIP): Kevzara, sarilumab, decision type: PM: decision on the application for modification of an agreed PIP, therapeutic area: Immunology-Rheumatology-Transplantation, PIP number: P/0258/2023",
+      "url": "https://www.ema.europa.eu/en/medicines/human/paediatric-investigation-plans/ema-pe-0000184035",
+      "publishedAt": "2026-06-30",
+      "excerpt": "Opinion/decision on a Paediatric investigation plan (PIP): Kevzara, sarilumab, decision type: PM: decision on the application for modification of an agreed PIP, therapeutic area: Immunology-Rheumatology-Transplantation, PIP number: P/0258/2023",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Opinion/decision on a Paediatric investigation plan (PIP): Iclusig, ponatinib, decision type: PM: decision on the application for modification of an agreed PIP, therapeutic area: Oncology, PIP number: EMA/PE/0000261034",
+      "url": "https://www.ema.europa.eu/en/medicines/human/paediatric-investigation-plans/ema-pe-0000261034",
+      "publishedAt": "2026-06-30",
+      "excerpt": "Opinion/decision on a Paediatric investigation plan (PIP): Iclusig, ponatinib, decision type: PM: decision on the application for modification of an agreed PIP, therapeutic area: Oncology, PIP number: EMA/PE/0000261034",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Opinion/decision on a Paediatric investigation plan (PIP): Alunbrig, brigatinib, decision type: PM: decision on the application for modification of an agreed PIP, therapeutic area: Blood and lymphatic system disorders, PIP number: P/0405/2021",
+      "url": "https://www.ema.europa.eu/en/medicines/human/paediatric-investigation-plans/ema-pe-0000236723",
+      "publishedAt": "2026-06-30",
+      "excerpt": "Opinion/decision on a Paediatric investigation plan (PIP): Alunbrig, brigatinib, decision type: PM: decision on the application for modification of an agreed PIP, therapeutic area: Blood and lymphatic system disorders, PIP number: P/0405/2021",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Mycobutin (rifabutin)",
+      "url": "https://www.ema.europa.eu/en/medicines/human/shortages/mycobutin-rifabutin",
+      "publishedAt": "2026-06-30",
+      "excerpt": "Mycobutin (rifabutin)",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Sifrol, pramipexole, Date of authorisation: 13/10/1997, Revision: 40, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/sifrol",
+      "publishedAt": "2026-06-30",
+      "excerpt": "Human medicines European public assessment report (EPAR): Sifrol, pramipexole, Date of authorisation: 13/10/1997, Revision: 40, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
       "title": "Human medicines European public assessment report (EPAR): Pelgraz, pegfilgrastim, Date of authorisation: 21/09/2018, Revision: 14, Status: Authorised",
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/pelgraz",
       "publishedAt": "2026-06-30",
@@ -255,8 +330,18 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "ema-whats-new",
-      "siteName": "What's new",
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Opzelura, ruxolitinib, Date of authorisation: 19/04/2023, Revision: 7, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/opzelura",
+      "publishedAt": "2026-06-30",
+      "excerpt": "Human medicines European public assessment report (EPAR): Opzelura, ruxolitinib, Date of authorisation: 19/04/2023, Revision: 7, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
       "region": "EU",
       "title": "Human medicines European public assessment report (EPAR): Iqirvo, elafibranor, Date of authorisation: 19/09/2024, Revision: 4, Status: Authorised",
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/iqirvo",
@@ -265,8 +350,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "ema-whats-new",
-      "siteName": "What's new",
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
       "region": "EU",
       "title": "Human medicines European public assessment report (EPAR): Doptelet, avatrombopag, Date of authorisation: 20/06/2019, Revision: 12, Status: Authorised",
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/doptelet",
@@ -275,13 +360,33 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "ema-whats-new",
-      "siteName": "What's new",
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Bopediat, furosemide, Date of authorisation: 29/05/2026, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/bopediat",
+      "publishedAt": "2026-06-30",
+      "excerpt": "Human medicines European public assessment report (EPAR): Bopediat, furosemide, Date of authorisation: 29/05/2026, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
       "region": "EU",
       "title": "Human medicines European public assessment report (EPAR): Avtozma, tocilizumab, Date of authorisation: 14/02/2025, Revision: 7, Status: Authorised",
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/avtozma",
       "publishedAt": "2026-06-30",
       "excerpt": "Human medicines European public assessment report (EPAR): Avtozma, tocilizumab, Date of authorisation: 14/02/2025, Revision: 7, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Generic Drug Facilities, Sites and Organization Lists",
+      "url": "http://www.fda.gov/industry/generic-drug-user-fee-amendments/generic-drug-facilities-sites-and-organization-lists",
+      "publishedAt": "2026-06-30",
+      "excerpt": "Generic Drug Facilities, Sites and Organization Lists",
       "sourceType": "rss"
     },
     {
@@ -292,6 +397,16 @@
       "url": "https://www.ema.europa.eu/en/about-us/how-we-work/governance-reporting/financial-management-budgetary-reporting",
       "publishedAt": "2026-06-30",
       "excerpt": "Financial management and budgetary reporting",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Excelvision - 726714 - Fareva",
+      "url": "http://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/excelvision-726714-fareva",
+      "publishedAt": "2026-06-30",
+      "excerpt": "CGMP/Finished Pharmaceuticals/Adulterated",
       "sourceType": "rss"
     },
     {
@@ -322,6 +437,106 @@
       "url": "https://www.ema.europa.eu/en/medicines/human/paediatric-investigation-plans/emea-003385-pip01-22",
       "publishedAt": "2026-06-30",
       "excerpt": "EMEA-003385-PIP01-22",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "EMA/PE/0000241152",
+      "url": "https://www.ema.europa.eu/en/medicines/human/paediatric-investigation-plans/ema-pe-0000241152",
+      "publishedAt": "2026-06-30",
+      "excerpt": "EMA/PE/0000241152",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "EMA/PE/0000238615",
+      "url": "https://www.ema.europa.eu/en/medicines/human/paediatric-investigation-plans/ema-pe-0000238615",
+      "publishedAt": "2026-06-30",
+      "excerpt": "EMA/PE/0000238615",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "EMA/PE/0000238610",
+      "url": "https://www.ema.europa.eu/en/medicines/human/paediatric-investigation-plans/ema-pe-0000238610",
+      "publishedAt": "2026-06-30",
+      "excerpt": "EMA/PE/0000238610",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "EMA/PE/0000238064",
+      "url": "https://www.ema.europa.eu/en/medicines/human/paediatric-investigation-plans/ema-pe-0000238064",
+      "publishedAt": "2026-06-30",
+      "excerpt": "EMA/PE/0000238064",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "EMA/PE/0000237950",
+      "url": "https://www.ema.europa.eu/en/medicines/human/paediatric-investigation-plans/ema-pe-0000237950",
+      "publishedAt": "2026-06-30",
+      "excerpt": "EMA/PE/0000237950",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "EMA/PE/0000234980",
+      "url": "https://www.ema.europa.eu/en/medicines/human/paediatric-investigation-plans/ema-pe-0000234980",
+      "publishedAt": "2026-06-30",
+      "excerpt": "EMA/PE/0000234980",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "EMA/PE/0000234140",
+      "url": "https://www.ema.europa.eu/en/medicines/human/paediatric-investigation-plans/ema-pe-0000234140",
+      "publishedAt": "2026-06-30",
+      "excerpt": "EMA/PE/0000234140",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "EMA/PE/0000232761",
+      "url": "https://www.ema.europa.eu/en/medicines/human/paediatric-investigation-plans/ema-pe-0000232761",
+      "publishedAt": "2026-06-30",
+      "excerpt": "EMA/PE/0000232761",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Drugs@FDA Data Files",
+      "url": "http://www.fda.gov/drugs/drug-approvals-and-databases/drugsfda-data-files",
+      "publishedAt": "2026-06-30",
+      "excerpt": "Drugs@FDA Downloadable Data File in ZIP format, Data Definitions, and Entity Relationship Diagram (ERD)",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Compounding Risk Alerts",
+      "url": "http://www.fda.gov/drugs/human-drug-compounding/compounding-risk-alerts",
+      "publishedAt": "2026-06-30",
+      "excerpt": "FDA issues compounding risk alerts to communicate information to alert health care professionals to adverse events and outbreaks related to compounded drugs so that practitioners can more effectively protect patients from unsafe, ineffective, and poor quality compounded medicines.",
       "sourceType": "rss"
     },
     {
@@ -515,8 +730,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "ema-whats-new",
-      "siteName": "What's new",
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
       "region": "EU",
       "title": "Human medicines European public assessment report (EPAR): Reyataz, atazanavir sulfate, Date of authorisation: 01/03/2004, Revision: 58, Status: Authorised",
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/reyataz",
@@ -525,8 +740,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "ema-whats-new",
-      "siteName": "What's new",
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
       "region": "EU",
       "title": "Human medicines European public assessment report (EPAR): Rekovelle, follitropin delta, Date of authorisation: 12/12/2016, Revision: 7, Status: Authorised",
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/rekovelle",
@@ -535,8 +750,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "ema-whats-new",
-      "siteName": "What's new",
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
       "region": "EU",
       "title": "Human medicines European public assessment report (EPAR): Mirapexin, pramipexole, Date of authorisation: 23/02/1998, Revision: 43, Status: Authorised",
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/mirapexin",
@@ -545,8 +760,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "ema-whats-new",
-      "siteName": "What's new",
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
       "region": "EU",
       "title": "Human medicines European public assessment report (EPAR): Lytenava, bevacizumab, Date of authorisation: 27/05/2024, Revision: 5, Status: Authorised",
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/lytenava",
@@ -555,8 +770,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "ema-whats-new",
-      "siteName": "What's new",
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
       "region": "EU",
       "title": "Human medicines European public assessment report (EPAR): Kaftrio, ivacaftor,tezacaftor,elexacaftor, Date of authorisation: 21/08/2020, Revision: 33, Status: Authorised",
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/kaftrio",
@@ -565,8 +780,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "ema-whats-new",
-      "siteName": "What's new",
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
       "region": "EU",
       "title": "Human medicines European public assessment report (EPAR): Iloperidone Vanda Pharmaceuticals, iloperidone, Date of refusal: 12/06/2026, Status: Refused",
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/iloperidone-vanda-pharmaceuticals",
@@ -575,8 +790,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "ema-whats-new",
-      "siteName": "What's new",
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
       "region": "EU",
       "title": "Human medicines European public assessment report (EPAR): Ibuprofen Gen.Orph, ibuprofen, Date of authorisation: 16/02/2024, Revision: 4, Status: Authorised",
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/ibuprofen-genorph",
@@ -585,23 +800,13 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "ema-whats-new",
-      "siteName": "What's new",
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
       "region": "EU",
       "title": "Human medicines European public assessment report (EPAR): Dazublys, trastuzumab, Date of authorisation: 30/06/2025, Revision: 2, Status: Authorised",
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/dazublys",
       "publishedAt": "2026-06-29",
       "excerpt": "Human medicines European public assessment report (EPAR): Dazublys, trastuzumab, Date of authorisation: 30/06/2025, Revision: 2, Status: Authorised",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "Generic Drug Facilities, Sites and Organization Lists",
-      "url": "http://www.fda.gov/industry/generic-drug-user-fee-amendments/generic-drug-facilities-sites-and-organization-lists",
-      "publishedAt": "2026-06-29",
-      "excerpt": "Generic Drug Facilities, Sites and Organization Lists",
       "sourceType": "rss"
     },
     {
@@ -622,16 +827,6 @@
       "url": "http://www.fda.gov/drugs/news-events-human-drugs/expanded-access-investigational-drugs-treatment-use-questions-and-answers-04152026",
       "publishedAt": "2026-06-29",
       "excerpt": "An informative webinar on the FDA guidance Expanded Access to Investigational Drugs for Treatment Use: Questions and Answers",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "Drugs@FDA Data Files",
-      "url": "http://www.fda.gov/drugs/drug-approvals-and-databases/drugsfda-data-files",
-      "publishedAt": "2026-06-29",
-      "excerpt": "Drugs@FDA Downloadable Data File in ZIP format, Data Definitions, and Entity Relationship Diagram (ERD)",
       "sourceType": "rss"
     },
     {
@@ -705,8 +900,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "ema-scientific-guidelines",
-      "siteName": "Scientific guidelines (human and veterinary)",
+      "siteId": "ema-public-consultations",
+      "siteName": "Public consultations",
       "region": "EU",
       "title": "Concept paper on the revision of the guideline on the clinical evaluation of antifungal agents for the treatment and prophylaxis of invasive fungal disease",
       "url": "https://www.ema.europa.eu/en/documents/scientific-guideline/concept-paper-revision-guideline-clinical-evaluation-antifungal-agents-treatment-prophylaxis-invasive-fungal-disease_en.pdf",
@@ -1815,8 +2010,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "ema-withdrawn-applications",
-      "siteName": "Withdrawn applications",
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
       "region": "EU",
       "title": "Human medicines European public assessment report (EPAR): Dazluma, troriluzole, Status: Application withdrawn",
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/dazluma",
@@ -3292,16 +3487,6 @@
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/palsonify",
       "publishedAt": "2026-06-15",
       "excerpt": "Human medicines European public assessment report (EPAR): Palsonify, paltusotine, Date of authorisation: 23/04/2026, Revision: 1, Status: Authorised",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
-      "siteName": "Human medicines: EPARs and summaries of opinion",
-      "region": "EU",
-      "title": "Human medicines European public assessment report (EPAR): Opzelura, ruxolitinib, Date of authorisation: 19/04/2023, Revision: 6, Status: Authorised",
-      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/opzelura",
-      "publishedAt": "2026-06-15",
-      "excerpt": "Human medicines European public assessment report (EPAR): Opzelura, ruxolitinib, Date of authorisation: 19/04/2023, Revision: 6, Status: Authorised",
       "sourceType": "rss"
     },
     {
