@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-29T23:31:23.684461+00:00",
-  "count": 900,
+  "generatedAt": "2026-06-30T04:41:52.111114+00:00",
+  "count": 901,
   "errors": [
     {
       "groupId": "ema",
@@ -10,6 +10,21 @@
     {
       "groupId": "pmda",
       "siteId": "services-for-healtheffects",
+      "error": "RSS fetch failed - keeping archived data"
+    },
+    {
+      "groupId": "pmda",
+      "siteId": "PMDAの新着情報",
+      "error": "RSS fetch failed - keeping archived data"
+    },
+    {
+      "groupId": "pmda",
+      "siteId": "PMDA：トップ 承認審査",
+      "error": "RSS fetch failed - keeping archived data"
+    },
+    {
+      "groupId": "pmda",
+      "siteId": "PMDA：トップ 安全対策",
       "error": "RSS fetch failed - keeping archived data"
     },
     {
@@ -34,6 +49,26 @@
     }
   ],
   "items": [
+    {
+      "siteId": "notice-from-tfda",
+      "siteName": "公告",
+      "region": "TW",
+      "title": "預告修正「醫療器材行政規費收費標準」草案。",
+      "url": "http://www.fda.gov.tw/tc/newsContent.aspx?cid=3&id=31589&utm_source=rss&utm_medium=feed&utm_campaign=rss_subscription",
+      "publishedAt": "2026-06-30",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "reviews",
+      "siteName": "Reviews (EN)",
+      "region": "JP",
+      "title": "English Translation of Review Report: SUSMED App for Insomnia Medcle (Partial Change Approval)",
+      "url": "https://www.pmda.go.jp/english/review-services/reviews/approved-information/devices/0003.html",
+      "publishedAt": "2026-06-30",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
     {
       "siteId": "notice-from-tfda",
       "siteName": "公告",
@@ -4312,16 +4347,6 @@
       "url": "http://www.fda.gov/drugs/medication-health-fraud-notifications/erectus-plus-may-be-harmful-due-hidden-drug-ingredients",
       "publishedAt": "2026-05-29",
       "excerpt": "The Food and Drug Administration is advising consumers not to purchase or use Erectus Plus, a product promoted and sold for male sexual enhancement on various websites, including ebay.com, and possibly in some retail stores.",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "reviews",
-      "siteName": "Reviews (EN)",
-      "region": "JP",
-      "title": "English translation of review report: Coseal",
-      "url": "https://www.pmda.go.jp/english/review-services/reviews/approved-information/devices/0003.html",
-      "publishedAt": "2026-05-29",
-      "excerpt": "",
       "sourceType": "rss"
     },
     {
