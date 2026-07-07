@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-07-07T08:46:57.177435+00:00",
-  "count": 1183,
+  "generatedAt": "2026-07-07T12:13:10.374866+00:00",
+  "count": 1188,
   "errors": [
     {
       "groupId": "pmda",
       "siteId": "services-for-healtheffects",
+      "error": "RSS fetch failed - keeping archived data"
+    },
+    {
+      "groupId": "pmda",
+      "siteId": "PMDA：トップ 安全対策",
       "error": "RSS fetch failed - keeping archived data"
     },
     {
@@ -118,6 +123,36 @@
       "siteId": "ema-whats-new",
       "siteName": "What's new",
       "region": "EU",
+      "title": "PCWP/HCPWP joint meeting, Online, European Medicines Agency, Amsterdam, the Netherlands, from 30 June 2026, 09:15 (CEST) to 1 July 2026, 12:00 (CEST)",
+      "url": "https://www.ema.europa.eu/en/events/pcwp-hcpwp-joint-meeting",
+      "publishedAt": "2026-07-07",
+      "excerpt": "PCWP/HCPWP joint meeting, Online, European Medicines Agency, Amsterdam, the Netherlands, from 30 June 2026, 09:15 (CEST) to 1 July 2026, 12:00 (CEST)",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Opinion/decision on a Paediatric investigation plan (PIP): Kerendia, finerenone, decision type: PM: decision on the application for modification of an agreed PIP, therapeutic area: Cardiac disorders, PIP number: EMA/PE/0000241538",
+      "url": "https://www.ema.europa.eu/en/medicines/human/paediatric-investigation-plans/ema-pe-0000241538",
+      "publishedAt": "2026-07-07",
+      "excerpt": "Opinion/decision on a Paediatric investigation plan (PIP): Kerendia, finerenone, decision type: PM: decision on the application for modification of an agreed PIP, therapeutic area: Cardiac disorders, PIP number: EMA/PE/0000241538",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Opinion/decision on a Paediatric investigation plan (PIP): Kapruvia, Difelikefalin, decision type: PM: decision on the application for modification of an agreed PIP, therapeutic area: Skin and subcutaneous tissue disorders, PIP number: EMA/PE/0000237641",
+      "url": "https://www.ema.europa.eu/en/medicines/human/paediatric-investigation-plans/ema-pe-0000237641",
+      "publishedAt": "2026-07-07",
+      "excerpt": "Opinion/decision on a Paediatric investigation plan (PIP): Kapruvia, Difelikefalin, decision type: PM: decision on the application for modification of an agreed PIP, therapeutic area: Skin and subcutaneous tissue disorders, PIP number: EMA/PE/0000237641",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
       "title": "Mandatory use of ISO/ICH E2B(R3) Individual Case Safety Reporting in the EU: Hands-on training course using the EudraVigilance system, Bucharest, Romania, from 26 October 2026 to 28 October 2026",
       "url": "https://www.ema.europa.eu/en/events/mandatory-use-iso-ich-e2br3-individual-case-safety-reporting-eu-hands-training-course-using-eudravigilance-system-59",
       "publishedAt": "2026-07-07",
@@ -132,6 +167,36 @@
       "url": "https://www.pmda.go.jp/english/safety/info-services/drugs/medical-safety-information/0024.html",
       "publishedAt": "2026-07-07",
       "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Xolremdi, mavorixafor, Date of authorisation: 27/04/2026, Revision: 1, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/xolremdi",
+      "publishedAt": "2026-07-07",
+      "excerpt": "Human medicines European public assessment report (EPAR): Xolremdi, mavorixafor, Date of authorisation: 27/04/2026, Revision: 1, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Drugs@FDA Data Files",
+      "url": "http://www.fda.gov/drugs/drug-approvals-and-databases/drugsfda-data-files",
+      "publishedAt": "2026-07-07",
+      "excerpt": "Drugs@FDA Downloadable Data File in ZIP format, Data Definitions, and Entity Relationship Diagram (ERD)",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "20th anniversary of European Medicines Agency's Patients' and Consumers' Working Party (PCWP), Online, European Medicines Agency, Amsterdam, the Netherlands, from 30 June 2026, 13:30 (CEST) to 30 June 2026, 17:30 (CEST)",
+      "url": "https://www.ema.europa.eu/en/events/20th-anniversary-european-medicines-agencys-patients-consumers-working-party-pcwp",
+      "publishedAt": "2026-07-07",
+      "excerpt": "20th anniversary of European Medicines Agency's Patients' and Consumers' Working Party (PCWP), Online, European Medicines Agency, Amsterdam, the Netherlands, from 30 June 2026, 13:30 (CEST) to 30 June 2026, 17:30 (CEST)",
       "sourceType": "rss"
     },
     {
@@ -572,16 +637,6 @@
       "url": "http://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/dynamic-blending-specialists-inc-701278-06182025",
       "publishedAt": "2026-07-06",
       "excerpt": "Nonprescription/OTC",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "Drugs@FDA Data Files",
-      "url": "http://www.fda.gov/drugs/drug-approvals-and-databases/drugsfda-data-files",
-      "publishedAt": "2026-07-06",
-      "excerpt": "Drugs@FDA Downloadable Data File in ZIP format, Data Definitions, and Entity Relationship Diagram (ERD)",
       "sourceType": "rss"
     },
     {
@@ -1845,8 +1900,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 安全対策",
-      "siteName": "Adverse Health Effects Relief (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[健康]令和7年度「医薬品副作用被害救済制度に関する認知度調査」結果を掲載しました",
       "url": "https://www.pmda.go.jp/relief-services/adr-sufferers/0023.html",
@@ -2505,8 +2560,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 安全対策",
-      "siteName": "Adverse Health Effects Relief (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[健康]副用救済給付の決定に関する情報（2026年度4月分）を掲載しました",
       "url": "https://www.pmda.go.jp/relief-services/adr-sufferers/0043.html",
@@ -4355,8 +4410,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 安全対策",
-      "siteName": "Adverse Health Effects Relief (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[健康]生物由来製品等の一覧を更新しました",
       "url": "https://www.pmda.go.jp/relief-services/infections/0032.html",
@@ -4365,8 +4420,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 安全対策",
-      "siteName": "Adverse Health Effects Relief (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[健康]医薬品副作用被害救済制度 対象除外医薬品等一覧を更新しました",
       "url": "https://www.pmda.go.jp/relief-services/adr-sufferers/0022.html",
