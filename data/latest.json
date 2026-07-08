@@ -1,20 +1,10 @@
 {
-  "generatedAt": "2026-07-08T06:43:36.184970+00:00",
-  "count": 1234,
+  "generatedAt": "2026-07-08T09:42:27.739531+00:00",
+  "count": 1249,
   "errors": [
     {
       "groupId": "pmda",
       "siteId": "services-for-healtheffects",
-      "error": "RSS fetch failed - keeping archived data"
-    },
-    {
-      "groupId": "pmda",
-      "siteId": "PMDAの新着情報",
-      "error": "RSS fetch failed - keeping archived data"
-    },
-    {
-      "groupId": "pmda",
-      "siteId": "PMDA：トップ 安全対策",
       "error": "RSS fetch failed - keeping archived data"
     },
     {
@@ -57,6 +47,156 @@
       "url": "https://www.pmda.go.jp/about-pmda/disclosures/0003.html",
       "publishedAt": "2026-07-08",
       "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Working arrangement for the collaboration and exchange of information on therapeutic products and medicinal products between DG SANTE/EMA and the New Zealand Ministry of Health",
+      "url": "https://www.ema.europa.eu/system/files/documents/other/working-arrangements-collaboration-exchange-information-therapeutic-products_en.pdf",
+      "publishedAt": "2026-07-08",
+      "excerpt": "Working arrangement for the collaboration and exchange of information on therapeutic products and medicinal products between DG SANTE/EMA and the New Zealand Ministry of Health",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-orphan-designations",
+      "siteName": "Orphan designations",
+      "region": "EU",
+      "title": "Orphan designation: igermetostat maleate Treatment of peripheral T-cell lymphoma, 20/05/2026 Positive",
+      "url": "https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-26-3240",
+      "publishedAt": "2026-07-08",
+      "excerpt": "Orphan designation: igermetostat maleate Treatment of peripheral T-cell lymphoma, 20/05/2026 Positive",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-orphan-designations",
+      "siteName": "Orphan designations",
+      "region": "EU",
+      "title": "Orphan designation: antisense oligonucleotide against USH2A pre-mRNA Treatment of inherited retinal disease due to dysfunction in the USH2A gene, 20/05/2026 Positive",
+      "url": "https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-26-3235",
+      "publishedAt": "2026-07-08",
+      "excerpt": "Orphan designation: antisense oligonucleotide against USH2A pre-mRNA Treatment of inherited retinal disease due to dysfunction in the USH2A gene, 20/05/2026 Positive",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-orphan-designations",
+      "siteName": "Orphan designations",
+      "region": "EU",
+      "title": "Orphan designation: allogeneic human induced pluripotent stem cell-derived photoreceptor precursor cells Treatment of syndromic inherited retinal dystrophies of the rod-dominant phenotype, 20/05/2026 Positive",
+      "url": "https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-26-3243",
+      "publishedAt": "2026-07-08",
+      "excerpt": "Orphan designation: allogeneic human induced pluripotent stem cell-derived photoreceptor precursor cells Treatment of syndromic inherited retinal dystrophies of the rod-dominant phenotype, 20/05/2026 Positive",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-orphan-designations",
+      "siteName": "Orphan designations",
+      "region": "EU",
+      "title": "Orphan designation: alixorexton Treatment of narcolepsy, 20/05/2026 Positive",
+      "url": "https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-26-3231",
+      "publishedAt": "2026-07-08",
+      "excerpt": "Orphan designation: alixorexton Treatment of narcolepsy, 20/05/2026 Positive",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-orphan-designations",
+      "siteName": "Orphan designations",
+      "region": "EU",
+      "title": "Orphan designation: (S)-N-(2-(2-Cyclopropylpyridin-4-yl)-4,5,6,7-tetrahydrobenzo[d]oxazol-4-yl)-1-methyl-3-(trifluoromethyl)-1H-pyrazole-5-carboxamide Treatment of KCNT1-related epilepsy, 20/05/2026 Positive",
+      "url": "https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-26-3233",
+      "publishedAt": "2026-07-08",
+      "excerpt": "Orphan designation: (S)-N-(2-(2-Cyclopropylpyridin-4-yl)-4,5,6,7-tetrahydrobenzo[d]oxazol-4-yl)-1-methyl-3-(trifluoromethyl)-1H-pyrazole-5-carboxamide Treatment of KCNT1-related epilepsy, 20/05/2026 Positive",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "New Zealand",
+      "url": "https://www.ema.europa.eu/en/partners-networks/international-activities/bilateral-interactions-non-eu-regulators/new-zealand",
+      "publishedAt": "2026-07-08",
+      "excerpt": "New Zealand",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "International arrangements",
+      "url": "https://www.ema.europa.eu/en/partners-networks/international-activities/international-arrangements",
+      "publishedAt": "2026-07-08",
+      "excerpt": "International arrangements",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Ritonavir Viatris (previously Ritonavir Mylan), ritonavir, Date of authorisation: 09/11/2017, Revision: 21, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/ritonavir-viatris",
+      "publishedAt": "2026-07-08",
+      "excerpt": "Human medicines European public assessment report (EPAR): Ritonavir Viatris (previously Ritonavir Mylan), ritonavir, Date of authorisation: 09/11/2017, Revision: 21, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "EMA/PE/0000240548",
+      "url": "https://www.ema.europa.eu/en/medicines/human/paediatric-investigation-plans/ema-pe-0000240548",
+      "publishedAt": "2026-07-08",
+      "excerpt": "EMA/PE/0000240548",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "EMA/PE/0000239491",
+      "url": "https://www.ema.europa.eu/en/medicines/human/paediatric-investigation-plans/ema-pe-0000239491",
+      "publishedAt": "2026-07-08",
+      "excerpt": "EMA/PE/0000239491",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "EMA/PE/0000235869",
+      "url": "https://www.ema.europa.eu/en/medicines/human/paediatric-investigation-plans/ema-pe-0000235869",
+      "publishedAt": "2026-07-08",
+      "excerpt": "EMA/PE/0000235869",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "EMA/PE/0000222352",
+      "url": "https://www.ema.europa.eu/en/medicines/human/paediatric-investigation-plans/ema-pe-0000222352",
+      "publishedAt": "2026-07-08",
+      "excerpt": "EMA/PE/0000222352",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "EMA risk management information day",
+      "url": "https://www.ema.europa.eu/system/files/documents/agenda/2026-risk-management-info-day-26524_final-en.pdf",
+      "publishedAt": "2026-07-08",
+      "excerpt": "EMA risk management information day",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Clinical Trial Information System (CTIS) - Sponsor handbook",
+      "url": "https://www.ema.europa.eu/system/files/documents/other/sponsor-handbook-v-64_clean-version-en.pdf",
+      "publishedAt": "2026-07-08",
+      "excerpt": "Clinical Trial Information System (CTIS) - Sponsor handbook",
       "sourceType": "rss"
     },
     {
@@ -9340,8 +9480,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 承認審査",
-      "siteName": "Review for (marketing) approval (JP)",
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Safety Measures (JP)",
       "region": "JP",
       "title": "[安全][医療]「医療機器添付文書改訂相談」のページを掲載しました",
       "url": "https://www.pmda.go.jp/review-services/f2f-pre/consultations/0122.html",
@@ -9590,8 +9730,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 承認審査",
-      "siteName": "Review for (marketing) approval (JP)",
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Safety Measures (JP)",
       "region": "JP",
       "title": "[審査][安全][イベント]PMDAシンポジウム「生成AIの医療活用の最前線」の開催について（資料掲載）",
       "url": "https://www.pmda.go.jp/review-services/symposia/0198.html",
@@ -9600,8 +9740,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 承認審査",
-      "siteName": "Review for (marketing) approval (JP)",
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Safety Measures (JP)",
       "region": "JP",
       "title": "[審査][安全][イベント]PMDAシンポジウム「リアルワールドデータを活用した医療機器開発」の開催について（資料掲載）",
       "url": "https://www.pmda.go.jp/review-services/symposia/0199.html",
