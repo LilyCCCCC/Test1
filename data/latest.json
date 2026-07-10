@@ -1,20 +1,10 @@
 {
-  "generatedAt": "2026-07-10T18:52:16.425885+00:00",
-  "count": 1354,
+  "generatedAt": "2026-07-10T20:46:05.980674+00:00",
+  "count": 1375,
   "errors": [
     {
       "groupId": "pmda",
       "siteId": "services-for-healtheffects",
-      "error": "RSS fetch failed - keeping archived data"
-    },
-    {
-      "groupId": "pmda",
-      "siteId": "PMDA：トップ 安全対策",
-      "error": "RSS fetch failed - keeping archived data"
-    },
-    {
-      "groupId": "pmda",
-      "siteId": "PMDA：トップ 国際活動",
       "error": "RSS fetch failed - keeping archived data"
     }
   ],
@@ -120,6 +110,26 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "The SYGMA Network",
+      "url": "http://www.fda.gov/about-fda/sygma-network",
+      "publishedAt": "2026-07-10",
+      "excerpt": "The SYGMA Network, Stockton, CA, 2/24/26, 3004268067",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "Steven M. Wolf, M.D.",
+      "url": "http://www.fda.gov/about-fda/steven-m-wolf-md",
+      "publishedAt": "2026-07-10",
+      "excerpt": "Steven M. Wolf, M.D., Hawthorne, NY, 3/5/26, 3042639431",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "ema-whats-new",
       "siteName": "What's new",
       "region": "EU",
@@ -127,6 +137,16 @@
       "url": "https://www.ema.europa.eu/system/files/documents/other/scientific-recommendations-classification-advanced-therapy-medicinal-products-en.xlsx",
       "publishedAt": "2026-07-10",
       "excerpt": "Scientific recommendations on classification of advanced therapy medicinal products",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "PharmaEssentia Corp.",
+      "url": "http://www.fda.gov/about-fda/pharmaessentia-corp",
+      "publishedAt": "2026-07-10",
+      "excerpt": "PharmaEssentia Corp., Taiwan, 9/21/23, 2000012832",
       "sourceType": "rss"
     },
     {
@@ -170,6 +190,16 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "Nanjing Cuccess Pharmaceutical Co., Ltd",
+      "url": "http://www.fda.gov/about-fda/nanjing-cuccess-pharmaceutical-co-ltd",
+      "publishedAt": "2026-07-10",
+      "excerpt": "Nanjing Cuccess Pharmaceutical Co., Ltd, Jiangsu, China, 3/21/25, 3027129265",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "ema-whats-new",
       "siteName": "What's new",
       "region": "EU",
@@ -190,6 +220,16 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "MSN Laboratories Private Limited, Unit-II",
+      "url": "http://www.fda.gov/about-fda/msn-laboratories-private-limited-unit-ii",
+      "publishedAt": "2026-07-10",
+      "excerpt": "MSN Laboratories Private Limited, Unit-II, Telangana, India, 3/22/24, 3008656542",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "ema-whats-new",
       "siteName": "What's new",
       "region": "EU",
@@ -197,6 +237,56 @@
       "url": "https://www.ema.europa.eu/system/files/documents/other/list-cecp-opinions-issued-mds-awaiting-finalisation-conformity_en_0.pdf",
       "publishedAt": "2026-07-10",
       "excerpt": "List of clinical evaluation consultation procedure (CECP) opinions issued for medical devices awaiting finalisation of conformity assessment",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "Lights Medical Manufacture Co., Ltd",
+      "url": "http://www.fda.gov/about-fda/lights-medical-manufacture-co-ltd",
+      "publishedAt": "2026-07-10",
+      "excerpt": "Lights Medical Manufacture Co., Ltd, Tianjin, China, 11/8/24, 3005310494",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "Krispy Kreme Doughnut Corporation",
+      "url": "http://www.fda.gov/about-fda/krispy-kreme-doughnut-corporation",
+      "publishedAt": "2026-07-10",
+      "excerpt": "Krispy Kreme Doughnut Corporation, Columbus, OH, 7/15/22, 3004794454",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "Jiangsu Tohope Pharmaceutical Co., Ltd.",
+      "url": "http://www.fda.gov/about-fda/jiangsu-tohope-pharmaceutical-co-ltd",
+      "publishedAt": "2026-07-10",
+      "excerpt": "Jiangsu Tohope Pharmaceutical Co., Ltd., Jiangsu, China, 8/31/18, 2000019494",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "JFC International, Inc",
+      "url": "http://www.fda.gov/about-fda/jfc-international-inc",
+      "publishedAt": "2026-07-10",
+      "excerpt": "JFC International, Inc, Coppell , TX, 2/20/26, 3004273032",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "Isorx Cyclotron Center",
+      "url": "http://www.fda.gov/about-fda/isorx-cyclotron-center",
+      "publishedAt": "2026-07-10",
+      "excerpt": "Isorx Cyclotron Center, Lubbock, TX, 3/13/26, 3021621451",
       "sourceType": "rss"
     },
     {
@@ -360,6 +450,16 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "Hospira, Inc.",
+      "url": "http://www.fda.gov/about-fda/hospira-inc",
+      "publishedAt": "2026-07-10",
+      "excerpt": "Hospira, Inc., McPherson, KS, 3/10/26, 1925262",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "ema-whats-new",
       "siteName": "What's new",
       "region": "EU",
@@ -377,6 +477,36 @@
       "url": "http://www.fda.gov/about-fda/gold-star-distribution-inc",
       "publishedAt": "2026-07-10",
       "excerpt": "Gold Star Distribution Inc., Minneapolis, MN, 12/18/25, 3004388746",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "Gilead Sciences, Inc.",
+      "url": "http://www.fda.gov/about-fda/gilead-sciences-inc",
+      "publishedAt": "2026-07-10",
+      "excerpt": "Gilead Sciences, Inc., La Verne, CA, 2/18/26, 3013189568",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Generic Drug Facilities, Sites and Organization Lists",
+      "url": "http://www.fda.gov/industry/generic-drug-user-fee-amendments/generic-drug-facilities-sites-and-organization-lists",
+      "publishedAt": "2026-07-10",
+      "excerpt": "Generic Drug Facilities, Sites and Organization Lists",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "Gateway Analytical, LLC",
+      "url": "http://www.fda.gov/about-fda/gateway-analytical-llc",
+      "publishedAt": "2026-07-10",
+      "excerpt": "Gateway Analytical, LLC, Gibsonia, PA, 3/20/26, 3009255642",
       "sourceType": "rss"
     },
     {
@@ -437,6 +567,16 @@
       "url": "http://www.fda.gov/industry/fda-actions-support-and-strengthen-domestic-drug-manufacturing",
       "publishedAt": "2026-07-10",
       "excerpt": "The FDA is taking decisive steps to strengthen U.S. pharmaceutical manufacturing, improve supply chain resilience, and ensure Americans have reliable access to safe, effective, high-quality medicines.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "Eosera, Inc.",
+      "url": "http://www.fda.gov/about-fda/eosera-inc",
+      "publishedAt": "2026-07-10",
+      "excerpt": "Eosera, Inc., Fort Worth, TX, 3/20/26, 3013559620",
       "sourceType": "rss"
     },
     {
@@ -533,10 +673,50 @@
       "siteId": "fda-ora-foia-electronic-reading-room",
       "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
       "region": "US",
+      "title": "Dreyer's Grand Ice Cream, Inc.",
+      "url": "http://www.fda.gov/about-fda/dreyers-grand-ice-cream-inc",
+      "publishedAt": "2026-07-10",
+      "excerpt": "Dreyer's Grand Ice Cream, Inc., Bakersfield , CA, 2/20/26, 2939502",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "Dr. J Skinclinic, Inc",
+      "url": "http://www.fda.gov/about-fda/dr-j-skinclinic-inc",
+      "publishedAt": "2026-07-10",
+      "excerpt": "Dr. J Skinclinic, Inc, Cerritos , CA, 3/23/26, 3006185812",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
       "title": "Dennis J . Hsu, M.D",
       "url": "http://www.fda.gov/about-fda/dennis-j-hsu-md",
       "publishedAt": "2026-07-10",
       "excerpt": "Dennis J . Hsu, M.D, Pittsburgh, PA, 3/3/26, 3042047166",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "Custom Analytics LLC",
+      "url": "http://www.fda.gov/about-fda/custom-analytics-llc",
+      "publishedAt": "2026-07-10",
+      "excerpt": "Custom Analytics LLC, Dalzell, SC, 3/12/26, 3003261962",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "Cosmetics & Cleaners International LLC",
+      "url": "http://www.fda.gov/about-fda/cosmetics-cleaners-international-llc",
+      "publishedAt": "2026-07-10",
+      "excerpt": "Cosmetics & Cleaners International LLC, High Point, NC, 3/26/26, 3009878984",
       "sourceType": "rss"
     },
     {
@@ -567,6 +747,16 @@
       "url": "https://www.ema.europa.eu/system/files/documents/report/cvmp-activities-related-antimicrobials_en.pdf",
       "publishedAt": "2026-07-10",
       "excerpt": "CVMP activities related to antimicrobials - Status report on EMA/CVMP activities (2021–2025) and EMANS 2028 Strategic Overview (Theme 4)",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "COSMETIC LABORATORY INC",
+      "url": "http://www.fda.gov/about-fda/cosmetic-laboratory-inc",
+      "publishedAt": "2026-07-10",
+      "excerpt": "COSMETIC LABORATORY INC, Downey, CA, 3/10/26, 3011959287",
       "sourceType": "rss"
     },
     {
@@ -657,6 +847,16 @@
       "url": "https://www.ema.europa.eu/system/files/documents/agenda/agenda-enpr-ema-cg-8-april-2026_to-publish-en.pdf",
       "publishedAt": "2026-07-10",
       "excerpt": "Agenda - EnprEMA Coordinating Group meeting, April 2026",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "ANDAs: Pre-Submission Facility Correspondence Related to Prioritized Generic Drug Submissions",
+      "url": "http://www.fda.gov/regulatory-information/search-fda-guidance-documents/andas-pre-submission-facility-correspondence-related-prioritized-generic-drug-submissions",
+      "publishedAt": "2026-07-10",
+      "excerpt": "ANDAs: Pre-Submission Facility Correspondence Related to Prioritized Generic Drug Submissions",
       "sourceType": "rss"
     },
     {
@@ -897,16 +1097,6 @@
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/adynovi",
       "publishedAt": "2026-07-09",
       "excerpt": "Human medicines European public assessment report (EPAR): Adynovi, rurioctocog alfa pegol, Date of authorisation: 08/01/2018, Revision: 16, Status: Authorised",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "Generic Drug Facilities, Sites and Organization Lists",
-      "url": "http://www.fda.gov/industry/generic-drug-user-fee-amendments/generic-drug-facilities-sites-and-organization-lists",
-      "publishedAt": "2026-07-09",
-      "excerpt": "Generic Drug Facilities, Sites and Organization Lists",
       "sourceType": "rss"
     },
     {
@@ -1440,8 +1630,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[その他]倫理審査委員会の委員名簿を更新しました。",
       "url": "https://www.pmda.go.jp/rs-std-jp/research/0009.html",
@@ -3260,8 +3450,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[その他]令和8年度第1回研究支援委員会の議事要旨を掲載しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/research/0008.html",
@@ -3670,8 +3860,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Adverse Health Effects Relief (JP)",
       "region": "JP",
       "title": "[健康]令和7年度「医薬品副作用被害救済制度に関する認知度調査」結果を掲載しました",
       "url": "https://www.pmda.go.jp/relief-services/adr-sufferers/0023.html",
@@ -4310,8 +4500,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Adverse Health Effects Relief (JP)",
       "region": "JP",
       "title": "[健康]副用救済給付の決定に関する情報（2026年度4月分）を掲載しました",
       "url": "https://www.pmda.go.jp/relief-services/adr-sufferers/0043.html",
@@ -4920,8 +5110,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[基準]抗悪性腫瘍薬の開発におけるドライバー変異に係る説明にあたっての情報について（Early Consideration）を掲載しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/guidance-guideline/0003.html",
@@ -5330,8 +5520,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[その他]公的研究費に基づく研究ページを更新しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/research/0004.html",
@@ -6100,8 +6290,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Adverse Health Effects Relief (JP)",
       "region": "JP",
       "title": "[健康]生物由来製品等の一覧を更新しました",
       "url": "https://www.pmda.go.jp/relief-services/infections/0032.html",
@@ -6110,8 +6300,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Adverse Health Effects Relief (JP)",
       "region": "JP",
       "title": "[健康]医薬品副作用被害救済制度 対象除外医薬品等一覧を更新しました",
       "url": "https://www.pmda.go.jp/relief-services/adr-sufferers/0022.html",
@@ -6940,8 +7130,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[薬局方][パブコメ]日本薬局方新規収載候補品目（案）に関するご意見の募集について（2026年6月分）",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/pub-comments/jp/0262.html",
@@ -7770,8 +7960,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[薬局方]PDG（薬局方調和国際会議）ニュースを掲載しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/0012.html",
@@ -7790,8 +7980,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[その他]「申請電子データを活用した解析」のページを更新しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/0002.html",
@@ -8530,8 +8720,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[その他]「AI利活用に関する基本的考え方」検討PTを設置しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/cross-sectional-project/0001.html",
@@ -8600,8 +8790,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[薬局方][パブコメ]日本薬局方収載原案に関するご意見の募集について（2026年6月分 その2）",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/pub-comments/jp/0258.html",
@@ -8610,8 +8800,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[薬局方][パブコメ]日本薬局方収載原案に関するご意見の募集について（2026年6月分 その1）",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/pub-comments/jp/0261.html",
@@ -8620,8 +8810,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[薬局方][パブコメ]日本薬局方から削除予定の（案）試薬・試液に関するご意見の募集について（2026年6月分）",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/pub-comments/jp/0259.html",
@@ -8630,8 +8820,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[薬局方][パブコメ]日本薬局方から削除予定の（案）医薬品各条・標準品に関するご意見の募集について（2026年6月分）",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/pub-comments/jp/0260.html",
@@ -9740,8 +9930,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[薬局方]日局におけるPDG調和文書への対応状況（試験法等）を更新しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/0021.html",
@@ -10300,8 +10490,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[薬局方]日局におけるPDG調和文書への対応状況（医薬品各条）を更新しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/0020.html",
@@ -10340,8 +10530,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[その他]研究推進業務のページを更新しました。",
       "url": "https://www.pmda.go.jp/rs-std-jp/research/0001.html",
@@ -10870,8 +11060,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[その他]研究紹介動画第6弾を更新しました。",
       "url": "https://www.pmda.go.jp/rs-std-jp/research/0016.html",
@@ -11110,8 +11300,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[その他]第50回科学委員会の議事概要を掲載しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/science-committee/0055.html",
@@ -11150,8 +11340,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[薬局方][パブコメ]薬局方調和国際会議調和案（Stage 2）に関するご意見の募集について（2026年3月分）",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/pub-comments/pdg/0058.html",
@@ -11160,8 +11350,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[薬局方][パブコメ]日本薬局方収載原案に関するご意見の募集について（2026年3月分）",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/pub-comments/jp/0257.html",
@@ -11510,8 +11700,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[薬局方]PDG（薬局方調和国際会議）の議事要旨を掲載しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/0009.html",
@@ -11630,8 +11820,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[その他]薬剤耐性菌感染症に用いるファージ製剤の開発における留意事項を掲載しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/subcommittees/0001.html",
@@ -11770,8 +11960,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[その他]「AI対応WG」のページを新設しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/cross-sectional-project/0024.html",
@@ -11830,8 +12020,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[薬局方][パブコメ]日本薬局方収載原案に関するご意見の募集について（2025年12月分 その2）",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/pub-comments/jp/0256.html",
@@ -11840,8 +12030,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[薬局方][パブコメ]日本薬局方収載原案に関するご意見の募集について（2025年12月分 その1）",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/pub-comments/jp/0255.html",
@@ -11870,8 +12060,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[薬局方][パブコメ]日本薬局方新規収載候補品目（案）に関するご意見の募集について（2025年11月分）",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/pub-comments/jp/0254.html",
@@ -11880,8 +12070,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[薬局方]PDG調和作業手順の改訂版を掲載しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/0022.html",
@@ -13556,6 +13746,16 @@
       "title": "國產食品產製前配方審查審查費收費標準",
       "url": "http://www.fda.gov.tw/tc/includes/GetFile.ashx?id=72&mid=46&utm_source=rss&utm_medium=feed&utm_campaign=rss_subscription",
       "publishedAt": "2009-11-27",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "",
+      "url": "http://www.fda.gov/node/",
+      "publishedAt": null,
       "excerpt": "",
       "sourceType": "rss"
     }
