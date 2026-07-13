@@ -1,40 +1,10 @@
 {
-  "generatedAt": "2026-07-13T07:50:22.906336+00:00",
-  "count": 1387,
+  "generatedAt": "2026-07-13T11:33:08.484727+00:00",
+  "count": 1406,
   "errors": [
     {
       "groupId": "pmda",
       "siteId": "services-for-healtheffects",
-      "error": "RSS fetch failed - keeping archived data"
-    },
-    {
-      "groupId": "pmda",
-      "siteId": "PMDAの新着情報",
-      "error": "RSS fetch failed - keeping archived data"
-    },
-    {
-      "groupId": "pmda",
-      "siteId": "PMDA：トップ 承認審査",
-      "error": "RSS fetch failed - keeping archived data"
-    },
-    {
-      "groupId": "pmda",
-      "siteId": "PMDA：トップ 安全対策",
-      "error": "RSS fetch failed - keeping archived data"
-    },
-    {
-      "groupId": "pmda",
-      "siteId": "PMDA：トップ 安全対策",
-      "error": "RSS fetch failed - keeping archived data"
-    },
-    {
-      "groupId": "pmda",
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "error": "RSS fetch failed - keeping archived data"
-    },
-    {
-      "groupId": "pmda",
-      "siteId": "PMDA：トップ 国際活動",
       "error": "RSS fetch failed - keeping archived data"
     },
     {
@@ -55,8 +25,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[薬局方]薬局方に関する国際的な活動についてのプレスリリースを掲載しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/0005.html",
@@ -65,8 +35,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[基準]初回治験届出時に留意すべきヒト又は動物由来の細胞株を用いて製造されるバイオテクノロジー応用医薬品等の品質関連資料のチェックリスト（Early Consideration）を掲載しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/guidance-guideline/0003.html",
@@ -80,6 +50,16 @@
       "region": "JP",
       "title": "[医薬]患者副作用報告（2025年12月1日から2026年3月31日受付分）を追加しました",
       "url": "https://www.pmda.go.jp/safety/reports/patients/0005.html",
+      "publishedAt": "2026-07-13",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Safety Measures (JP)",
+      "region": "JP",
+      "title": "[医薬]「「ガストログラフイン経口・注腸用」 ニトロソアミン化合物検出のお知らせ（第2版）」を掲載しました",
+      "url": "https://www.pmda.go.jp/safety/info-services/drugs/0371.html",
       "publishedAt": "2026-07-13",
       "excerpt": "",
       "sourceType": "rss"
@@ -138,6 +118,186 @@
       "siteId": "ema-whats-new",
       "siteName": "What's new",
       "region": "EU",
+      "title": "Transfer of marketing authorisation: questions and answers",
+      "url": "https://www.ema.europa.eu/en/human-regulatory-overview/post-authorisation/transfer-marketing-authorisation-questions-answers",
+      "publishedAt": "2026-07-13",
+      "excerpt": "Transfer of marketing authorisation: questions and answers",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Template - Application for transfer of marketing authorisation from transferor to transferee - cover letter (human)",
+      "url": "https://www.ema.europa.eu/system/files/documents/template-form/transfer-ma-template-cover-letter_sign-transferor-human-en.docx",
+      "publishedAt": "2026-07-13",
+      "excerpt": "Template - Application for transfer of marketing authorisation from transferor to transferee - cover letter (human)",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Pre-notification check for type IB Variations",
+      "url": "https://www.ema.europa.eu/system/files/documents/regulatory-procedural-guideline/pre-notification-check-type-ib-variations_en.pdf",
+      "publishedAt": "2026-07-13",
+      "excerpt": "Pre-notification check for type IB Variations",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-regulatory-and-procedural-guidelines",
+      "siteName": "Regulatory and procedural guidelines (human and veterinary)",
+      "region": "EU",
+      "title": "Pre-notification check for type IB Variations",
+      "url": "https://www.ema.europa.eu/en/documents/regulatory-procedural-guideline/pre-notification-check-type-ib-variations_en.pdf",
+      "publishedAt": "2026-07-13",
+      "excerpt": "Pre-notification check for type IB Variations",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Pre-notification check for type IA/IAIN variations",
+      "url": "https://www.ema.europa.eu/system/files/documents/other/pre-notification-check-type-iaiain-variations_en.pdf",
+      "publishedAt": "2026-07-13",
+      "excerpt": "Pre-notification check for type IA/IAIN variations",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Pre-authorisation guidance",
+      "url": "https://www.ema.europa.eu/en/human-regulatory-overview/marketing-authorisation/pre-authorisation-guidance",
+      "publishedAt": "2026-07-13",
+      "excerpt": "Pre-authorisation guidance",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Post-authorisation safety studies (PASS)",
+      "url": "https://www.ema.europa.eu/en/human-regulatory-overview/post-authorisation/pharmacovigilance-post-authorisation/post-authorisation-safety-studies-pass",
+      "publishedAt": "2026-07-13",
+      "excerpt": "Post-authorisation safety studies (PASS)",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Paxlovid, nirmatrelvir,ritonavir, Date of authorisation: 28/01/2022, Revision: 31, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/paxlovid",
+      "publishedAt": "2026-07-13",
+      "excerpt": "Human medicines European public assessment report (EPAR): Paxlovid, nirmatrelvir,ritonavir, Date of authorisation: 28/01/2022, Revision: 31, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Lyumjev (previously Liumjev), insulin lispro, Date of authorisation: 24/03/2020, Revision: 9, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/lyumjev",
+      "publishedAt": "2026-07-13",
+      "excerpt": "Human medicines European public assessment report (EPAR): Lyumjev (previously Liumjev), insulin lispro, Date of authorisation: 24/03/2020, Revision: 9, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-inspections",
+      "siteName": "Inspections",
+      "region": "EU",
+      "title": "Guidance on good manufacturing practice and good distribution practice: Questions and answers",
+      "url": "https://www.ema.europa.eu/en/human-regulatory-overview/research-development/compliance-research-development/good-manufacturing-practice/guidance-good-manufacturing-practice-good-distribution-practice-questions-answers",
+      "publishedAt": "2026-07-13",
+      "excerpt": "Guidance on good manufacturing practice and good distribution practice: Questions and answers",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Guidance for applicants for the preparation of the precise scope section of the variation application form",
+      "url": "https://www.ema.europa.eu/system/files/documents/regulatory-procedural-guideline/guidance-applicants-preparation-precise-scope-section-variation-application-form_en_0.pdf",
+      "publishedAt": "2026-07-13",
+      "excerpt": "Guidance for applicants for the preparation of the precise scope section of the variation application form",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-regulatory-and-procedural-guidelines",
+      "siteName": "Regulatory and procedural guidelines (human and veterinary)",
+      "region": "EU",
+      "title": "Guidance for applicants for the preparation of the precise scope section of the variation application form",
+      "url": "https://www.ema.europa.eu/en/documents/regulatory-procedural-guideline/guidance-applicants-preparation-precise-scope-section-variation-application-form_en.pdf",
+      "publishedAt": "2026-07-13",
+      "excerpt": "Guidance for applicants for the preparation of the precise scope section of the variation application form",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Grouping of variations: questions and answers",
+      "url": "https://www.ema.europa.eu/en/human-regulatory-overview/post-authorisation/variations-including-extensions-marketing-authorisations/grouping-variations-questions-answers",
+      "publishedAt": "2026-07-13",
+      "excerpt": "Grouping of variations: questions and answers",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Extensions of marketing authorisations: questions and answers",
+      "url": "https://www.ema.europa.eu/en/human-regulatory-overview/post-authorisation/variations-including-extensions-marketing-authorisations/extensions-marketing-authorisations-questions-answers",
+      "publishedAt": "2026-07-13",
+      "excerpt": "Extensions of marketing authorisations: questions and answers",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "European Medicines Agency pre-authorisation procedural advice for users of the centralised procedure: document with tracked changes",
+      "url": "https://www.ema.europa.eu/system/files/documents/regulatory-procedural-guideline/pre-authorisation-guidance-integrated-version-track-changes-jul-2026-en.pdf",
+      "publishedAt": "2026-07-13",
+      "excerpt": "European Medicines Agency pre-authorisation procedural advice for users of the centralised procedure: document with tracked changes",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-regulatory-and-procedural-guidelines",
+      "siteName": "Regulatory and procedural guidelines (human and veterinary)",
+      "region": "EU",
+      "title": "European Medicines Agency pre-authorisation procedural advice for users of the centralised procedure: document with tracked changes",
+      "url": "https://www.ema.europa.eu/en/documents/regulatory-procedural-guideline/european-medicines-agency-pre-authorisation-procedural-advice-users-centralised-procedure-document-tracked-changes_en.pdf",
+      "publishedAt": "2026-07-13",
+      "excerpt": "European Medicines Agency pre-authorisation procedural advice for users of the centralised procedure: document with tracked changes",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "European Medicines Agency pre-authorisation procedural advice for users of the centralised procedure",
+      "url": "https://www.ema.europa.eu/system/files/documents/regulatory-procedural-guideline/pre-authorisation-guidance-integrated-version-clean-jul-2026-en.pdf",
+      "publishedAt": "2026-07-13",
+      "excerpt": "European Medicines Agency pre-authorisation procedural advice for users of the centralised procedure",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-regulatory-and-procedural-guidelines",
+      "siteName": "Regulatory and procedural guidelines (human and veterinary)",
+      "region": "EU",
+      "title": "European Medicines Agency pre-authorisation procedural advice for users of the centralised procedure",
+      "url": "https://www.ema.europa.eu/en/documents/regulatory-procedural-guideline/european-medicines-agency-pre-authorisation-procedural-advice-users-centralised-procedure_en.pdf",
+      "publishedAt": "2026-07-13",
+      "excerpt": "European Medicines Agency pre-authorisation procedural advice for users of the centralised procedure",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
       "title": "European Medicines Agency post-authorisation procedural advice for users of the centralised procedure: document with tracked changes",
       "url": "https://www.ema.europa.eu/system/files/documents/regulatory-procedural-guideline/post-authorisation-guidance-integrated-version-track-changes-jul-2026-en.pdf",
       "publishedAt": "2026-07-13",
@@ -182,6 +342,26 @@
       "url": "https://www.pmda.go.jp/english/review-services/regulatory-info/0005.html",
       "publishedAt": "2026-07-13",
       "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Changing the labelling and package leaflet (Article 61(3) notifications)",
+      "url": "https://www.ema.europa.eu/en/human-regulatory-overview/post-authorisation/changing-labelling-package-leaflet-article-613-notifications",
+      "publishedAt": "2026-07-13",
+      "excerpt": "Changing the labelling and package leaflet (Article 61(3) notifications)",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "CDER proposes to withdraw approval of TAVNEOS",
+      "url": "http://www.fda.gov/drugs/drug-alerts-and-statements/cder-proposes-withdraw-approval-tavneos",
+      "publishedAt": "2026-07-13",
+      "excerpt": "CDER proposes to withdraw approval of TAVNEOS",
       "sourceType": "rss"
     },
     {
@@ -962,16 +1142,6 @@
       "url": "http://www.fda.gov/about-fda/center-drug-evaluation-and-research-cder/cders-framework-regulatory-advanced-manufacturing-evaluation-frame-initiative",
       "publishedAt": "2026-07-10",
       "excerpt": "CDER’s Framework for Regulatory Advanced Manufacturing Evaluation (FRAME) Initiative",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "CDER proposes to withdraw approval of TAVNEOS",
-      "url": "http://www.fda.gov/drugs/drug-alerts-and-statements/cder-proposes-withdraw-approval-tavneos",
-      "publishedAt": "2026-07-10",
-      "excerpt": "CDER proposes to withdraw approval of TAVNEOS",
       "sourceType": "rss"
     },
     {
@@ -1825,8 +1995,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[その他]倫理審査委員会の委員名簿を更新しました。",
       "url": "https://www.pmda.go.jp/rs-std-jp/research/0009.html",
@@ -3645,8 +3815,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[その他]令和8年度第1回研究支援委員会の議事要旨を掲載しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/research/0008.html",
@@ -4055,8 +4225,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Adverse Health Effects Relief (JP)",
       "region": "JP",
       "title": "[健康]令和7年度「医薬品副作用被害救済制度に関する認知度調査」結果を掲載しました",
       "url": "https://www.pmda.go.jp/relief-services/adr-sufferers/0023.html",
@@ -4695,8 +4865,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Adverse Health Effects Relief (JP)",
       "region": "JP",
       "title": "[健康]副用救済給付の決定に関する情報（2026年度4月分）を掲載しました",
       "url": "https://www.pmda.go.jp/relief-services/adr-sufferers/0043.html",
@@ -5695,8 +5865,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[その他]公的研究費に基づく研究ページを更新しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/research/0004.html",
@@ -6465,8 +6635,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Adverse Health Effects Relief (JP)",
       "region": "JP",
       "title": "[健康]生物由来製品等の一覧を更新しました",
       "url": "https://www.pmda.go.jp/relief-services/infections/0032.html",
@@ -6475,8 +6645,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Adverse Health Effects Relief (JP)",
       "region": "JP",
       "title": "[健康]医薬品副作用被害救済制度 対象除外医薬品等一覧を更新しました",
       "url": "https://www.pmda.go.jp/relief-services/adr-sufferers/0022.html",
@@ -7305,8 +7475,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[薬局方][パブコメ]日本薬局方新規収載候補品目（案）に関するご意見の募集について（2026年6月分）",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/pub-comments/jp/0262.html",
@@ -8880,16 +9050,6 @@
       "region": "JP",
       "title": "[医薬]「製薬企業からの医薬品の安全使用に関するお知らせ」に「グラセプターカプセルとタクロリムス普通製剤（後発医薬品含む）との取り違え注意のお願い」及び「ビーフリード輸液 調製時及び投与開始前の隔壁開通確認のお願い」を掲載しました",
       "url": "https://www.pmda.go.jp/safety/info-services/medical-safety-info/0178.html",
-      "publishedAt": "2026-06-02",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "PMDA：トップ 安全対策",
-      "siteName": "Safety Measures (JP)",
-      "region": "JP",
-      "title": "[医薬]「アトモキセチンカプセル25mg「サワイ」ニトロソアミン化合物の管理について」及び「ジェイゾロフトOD錠ニトロソアミン化合物検出のお知らせ」を掲載しました",
-      "url": "https://www.pmda.go.jp/safety/info-services/drugs/0371.html",
       "publishedAt": "2026-06-02",
       "excerpt": "",
       "sourceType": "rss"
