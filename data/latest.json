@@ -1,10 +1,20 @@
 {
-  "generatedAt": "2026-07-13T11:33:08.484727+00:00",
-  "count": 1406,
+  "generatedAt": "2026-07-13T15:17:37.515907+00:00",
+  "count": 1448,
   "errors": [
     {
       "groupId": "pmda",
       "siteId": "services-for-healtheffects",
+      "error": "RSS fetch failed - keeping archived data"
+    },
+    {
+      "groupId": "pmda",
+      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
+      "error": "RSS fetch failed - keeping archived data"
+    },
+    {
+      "groupId": "pmda",
+      "siteId": "PMDA：トップ 国際活動",
       "error": "RSS fetch failed - keeping archived data"
     },
     {
@@ -25,8 +35,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 国際活動",
-      "siteName": "International (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[薬局方]薬局方に関する国際的な活動についてのプレスリリースを掲載しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/0005.html",
@@ -35,8 +45,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 国際活動",
-      "siteName": "International (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[基準]初回治験届出時に留意すべきヒト又は動物由来の細胞株を用いて製造されるバイオテクノロジー応用医薬品等の品質関連資料のチェックリスト（Early Consideration）を掲載しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/guidance-guideline/0003.html",
@@ -85,6 +95,16 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "Zhejiang Huahai Pharmaceutical Co., Ltd.",
+      "url": "http://www.fda.gov/about-fda/zhejiang-huahai-pharmaceutical-co-ltd",
+      "publishedAt": "2026-07-13",
+      "excerpt": "Zhejiang Huahai Pharmaceutical Co., Ltd., Zhejiang, China, 4/24/26, 3003999190",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "ema-whats-new",
       "siteName": "What's new",
       "region": "EU",
@@ -92,6 +112,16 @@
       "url": "https://www.ema.europa.eu/en/human-regulatory-overview/post-authorisation/variations-including-extensions-marketing-authorisations/worksharing-questions-answers",
       "publishedAt": "2026-07-13",
       "excerpt": "Worksharing: questions and answers",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "What's New Related to Drugs",
+      "url": "http://www.fda.gov/drugs/news-events-human-drugs/whats-new-related-drugs",
+      "publishedAt": "2026-07-13",
+      "excerpt": "Want to know what's new on drugs from FDA? This page provides quick links to the latest on a variety of topics including: drug approvals, safety warnings, drug shortages, etc.",
       "sourceType": "rss"
     },
     {
@@ -125,6 +155,26 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Topical Dermatologic Corticosteroids: In Vivo Bioequivalence",
+      "url": "http://www.fda.gov/regulatory-information/search-fda-guidance-documents/topical-dermatologic-corticosteroids-in-vivo-bioequivalence-0",
+      "publishedAt": "2026-07-13",
+      "excerpt": "Topical Dermatologic Corticosteroids: In Vivo Bioequivalence",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Template - Application for transfer of marketing authorisation from transferor to transferee, attachment 1",
+      "url": "https://www.ema.europa.eu/system/files/documents/template-form/transfer-ma-template-attachment-1_sign-transferor-transferee-en.doc",
+      "publishedAt": "2026-07-13",
+      "excerpt": "Template - Application for transfer of marketing authorisation from transferor to transferee, attachment 1",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "ema-whats-new",
       "siteName": "What's new",
       "region": "EU",
@@ -132,6 +182,76 @@
       "url": "https://www.ema.europa.eu/system/files/documents/template-form/transfer-ma-template-cover-letter_sign-transferor-human-en.docx",
       "publishedAt": "2026-07-13",
       "excerpt": "Template - Application for transfer of marketing authorisation from transferor to transferee - cover letter (human)",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "Tarmac Products, Inc.",
+      "url": "http://www.fda.gov/about-fda/tarmac-products-inc",
+      "publishedAt": "2026-07-13",
+      "excerpt": "Tarmac Products, Inc., Miami Gardens, FL, 2/6/26, 1025483",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "Siegfried Pharma AG",
+      "url": "http://www.fda.gov/about-fda/siegfried-pharma-ag",
+      "publishedAt": "2026-07-13",
+      "excerpt": "Siegfried Pharma AG, Zofingen, Aargau, Switzerland, 12/13/19, 3007045622",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "Sheng Kee of California, Inc dba Sheng Kee Bakery",
+      "url": "http://www.fda.gov/about-fda/sheng-kee-california-inc-dba-sheng-kee-bakery",
+      "publishedAt": "2026-07-13",
+      "excerpt": "Sheng Kee of California, Inc dba Sheng Kee Bakery, Brisbane, CA 3/26/25, 3002363195",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "RayzeBio, Inc",
+      "url": "http://www.fda.gov/about-fda/rayzebio-inc",
+      "publishedAt": "2026-07-13",
+      "excerpt": "RayzeBio, Inc, Indianapolis, IN, 2/24/26, 3030530655",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Psychedelic Drugs: Considerations for Clinical Investigations",
+      "url": "http://www.fda.gov/regulatory-information/search-fda-guidance-documents/psychedelic-drugs-considerations-clinical-investigations",
+      "publishedAt": "2026-07-13",
+      "excerpt": "Psychedelic Drugs: Considerations for Clinical Investigations",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Psychedelic Drugs",
+      "url": "http://www.fda.gov/drugs/resources-drugs/psychedelic-drugs",
+      "publishedAt": "2026-07-13",
+      "excerpt": "FDA is supporting the development of psychedelic drugs, including new treatments for serious mental health conditions.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "Prof. Bernardo Leon Rapaport",
+      "url": "http://www.fda.gov/about-fda/prof-bernardo-leon-rapaport",
+      "publishedAt": "2026-07-13",
+      "excerpt": "Prof. Bernardo Leon Rapaport, Johannesburg, South Africa, 1/29/26, 3021927419",
       "sourceType": "rss"
     },
     {
@@ -185,6 +305,166 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "PSUSA/00003135/202512",
+      "url": "https://www.ema.europa.eu/en/medicines/psusa/psusa-00003135-202512",
+      "publishedAt": "2026-07-13",
+      "excerpt": "PSUSA/00003135/202512",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "PSUSA/00003102/202511",
+      "url": "https://www.ema.europa.eu/en/medicines/psusa/psusa-00003102-202511",
+      "publishedAt": "2026-07-13",
+      "excerpt": "PSUSA/00003102/202511",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "PSUSA/00002829/202511",
+      "url": "https://www.ema.europa.eu/en/medicines/psusa/psusa-00002829-202511",
+      "publishedAt": "2026-07-13",
+      "excerpt": "PSUSA/00002829/202511",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "PSUSA/00002298/202512",
+      "url": "https://www.ema.europa.eu/en/medicines/psusa/psusa-00002298-202512",
+      "publishedAt": "2026-07-13",
+      "excerpt": "PSUSA/00002298/202512",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "PSUSA/00002117/202511",
+      "url": "https://www.ema.europa.eu/en/medicines/psusa/psusa-00002117-202511",
+      "publishedAt": "2026-07-13",
+      "excerpt": "PSUSA/00002117/202511",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "PSUSA/00001731/202511",
+      "url": "https://www.ema.europa.eu/en/medicines/psusa/psusa-00001731-202511",
+      "publishedAt": "2026-07-13",
+      "excerpt": "PSUSA/00001731/202511",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "PSUSA/00001720/202511",
+      "url": "https://www.ema.europa.eu/en/medicines/psusa/psusa-00001720-202511",
+      "publishedAt": "2026-07-13",
+      "excerpt": "PSUSA/00001720/202511",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "PSUSA/00000409/202512",
+      "url": "https://www.ema.europa.eu/en/medicines/psusa/psusa-00000409-202512",
+      "publishedAt": "2026-07-13",
+      "excerpt": "PSUSA/00000409/202512",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "PETNET Solutions Inc",
+      "url": "http://www.fda.gov/about-fda/petnet-solutions-inc",
+      "publishedAt": "2026-07-13",
+      "excerpt": "PETNET Solutions Inc, Cleveland, OH, 2/17/26, 3011121261",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Over-The-Counter Monograph Drug User Fee Program (OMUFA)",
+      "url": "http://www.fda.gov/industry/fda-user-fee-programs/over-counter-monograph-drug-user-fee-program-omufa",
+      "publishedAt": "2026-07-13",
+      "excerpt": "A user fee program for nonprescription (over-the-counter or OTC) monograph drugs would be a potential funding mechanism to supplement congressional non user-fee appropriations.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Open letters",
+      "url": "https://www.ema.europa.eu/en/news-and-events/publications/open-letters",
+      "publishedAt": "2026-07-13",
+      "excerpt": "Open letters",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Newly Added Guidance Documents",
+      "url": "http://www.fda.gov/drugs/guidances-drugs/newly-added-guidance-documents",
+      "publishedAt": "2026-07-13",
+      "excerpt": "Guidance documents represent the FDA's current thinking on a particular subject. New guidance documents are listed here for three months.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "MSN Laboratories Private Limited",
+      "url": "http://www.fda.gov/about-fda/msn-laboratories-private-limited",
+      "publishedAt": "2026-07-13",
+      "excerpt": "MSN Laboratories Private Limited, Telangana, India, 12/11/25, 3035592613",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "MOU 225-26-007",
+      "url": "http://www.fda.gov/about-fda/domestic-mous/mou-225-26-007",
+      "publishedAt": "2026-07-13",
+      "excerpt": "This Memorandum of Understanding (\"MOU\") between the U.S. Department of Health and Human Services (HHS), the U.S. Food and Drug Administration (FDA), and the U.S. Department of Veterans Affairs (VA) (hereafter “the Parties” or “Federal Partners”) provides a framework for collaboration and the exchan",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Joint response from European Medicines Regulatory Network to letter from Health Action International and other health groups on missing clinical trial results in CTIS",
+      "url": "https://www.ema.europa.eu/system/files/documents/other/response-hai-letter-about-ctis_june-2026-en.pdf",
+      "publishedAt": "2026-07-13",
+      "excerpt": "Joint response from European Medicines Regulatory Network to letter from Health Action International and other health groups on missing clinical trial results in CTIS",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "If Soap and Water Are Not Available, Hand Sanitizers May Be a Good Alternative",
+      "url": "http://www.fda.gov/consumers/if-soap-and-water-are-not-available-hand-sanitizers-may-be-good-alternative",
+      "publishedAt": "2026-07-13",
+      "excerpt": "Washing your hands is one of the most important things you can do to avoid getting sick and spreading germs to people around you. The best way to prevent the spread of infections and decrease the risk of getting sick is by washing your hands with plain soap and water.",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
       "siteName": "Human medicines: EPARs and summaries of opinion",
       "region": "EU",
@@ -202,6 +482,56 @@
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/lyumjev",
       "publishedAt": "2026-07-13",
       "excerpt": "Human medicines European public assessment report (EPAR): Lyumjev (previously Liumjev), insulin lispro, Date of authorisation: 24/03/2020, Revision: 9, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Libmyris, adalimumab, Date of authorisation: 12/11/2021, Revision: 10, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/libmyris",
+      "publishedAt": "2026-07-13",
+      "excerpt": "Human medicines European public assessment report (EPAR): Libmyris, adalimumab, Date of authorisation: 12/11/2021, Revision: 10, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Kostaive, zapomeran, Date of authorisation: 12/02/2025, Revision: 5, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/kostaive",
+      "publishedAt": "2026-07-13",
+      "excerpt": "Human medicines European public assessment report (EPAR): Kostaive, zapomeran, Date of authorisation: 12/02/2025, Revision: 5, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Idacio, adalimumab, Date of authorisation: 02/04/2019, Revision: 15, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/idacio",
+      "publishedAt": "2026-07-13",
+      "excerpt": "Human medicines European public assessment report (EPAR): Idacio, adalimumab, Date of authorisation: 02/04/2019, Revision: 15, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Humalog, insulin lispro, Date of authorisation: 30/04/1996, Revision: 37, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/humalog",
+      "publishedAt": "2026-07-13",
+      "excerpt": "Human medicines European public assessment report (EPAR): Humalog, insulin lispro, Date of authorisation: 30/04/1996, Revision: 37, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Abasaglar (previously Abasria), insulin glargine, Date of authorisation: 09/09/2014, Revision: 14, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/abasaglar",
+      "publishedAt": "2026-07-13",
+      "excerpt": "Human medicines European public assessment report (EPAR): Abasaglar (previously Abasria), insulin glargine, Date of authorisation: 09/09/2014, Revision: 14, Status: Authorised",
       "sourceType": "rss"
     },
     {
@@ -245,6 +575,16 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Formal Meetings Between the Food and Drug Administration and Sponsors or Requestors of Over-the-Counter Monograph Drugs",
+      "url": "http://www.fda.gov/regulatory-information/search-fda-guidance-documents/formal-meetings-between-food-and-drug-administration-and-sponsors-or-requestors-over-counter",
+      "publishedAt": "2026-07-13",
+      "excerpt": "Formal Meetings Between the Food and Drug Administration and Sponsors or Requestors of Over-the-Counter Monograph Drugs",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "ema-whats-new",
       "siteName": "What's new",
       "region": "EU",
@@ -252,6 +592,16 @@
       "url": "https://www.ema.europa.eu/en/human-regulatory-overview/post-authorisation/variations-including-extensions-marketing-authorisations/extensions-marketing-authorisations-questions-answers",
       "publishedAt": "2026-07-13",
       "excerpt": "Extensions of marketing authorisations: questions and answers",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "European platform for regulatory science research meeting: June 2026 , Online, from 16 June 2026, 14:00 (CEST) to 16 June 2026, 18:00 (CEST)",
+      "url": "https://www.ema.europa.eu/en/events/european-platform-regulatory-science-research-meeting-june-2026",
+      "publishedAt": "2026-07-13",
+      "excerpt": "European platform for regulatory science research meeting: June 2026 , Online, from 16 June 2026, 14:00 (CEST) to 16 June 2026, 18:00 (CEST)",
       "sourceType": "rss"
     },
     {
@@ -335,6 +685,76 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "Enemeez LLC",
+      "url": "http://www.fda.gov/about-fda/enemeez-llc",
+      "publishedAt": "2026-07-13",
+      "excerpt": "Enemeez LLC, Phoenix, AZ, 2/12/26, 3005641023",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "Eduardo Patricio Yanez Ruiz, MD",
+      "url": "http://www.fda.gov/about-fda/eduardo-patricio-yanez-ruiz-md",
+      "publishedAt": "2026-07-13",
+      "excerpt": "Eduardo Patricio Yanez Ruiz, MD, Temuco, Chile, 1/22/26, 3022159116",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "EMEA-003356-PIP01-22",
+      "url": "https://www.ema.europa.eu/en/medicines/human/paediatric-investigation-plans/emea-003356-pip01-22",
+      "publishedAt": "2026-07-13",
+      "excerpt": "EMEA-003356-PIP01-22",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "Dr. J Skinclinic, Inc",
+      "url": "http://www.fda.gov/about-fda/dr-j-skinclinic-inc",
+      "publishedAt": "2026-07-13",
+      "excerpt": "Dr. J Skinclinic, Inc, Cerritos , CA, 3/23/26, 3006185812",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "Cosmetics & Cleaners International LLC",
+      "url": "http://www.fda.gov/about-fda/cosmetics-cleaners-international-llc",
+      "publishedAt": "2026-07-13",
+      "excerpt": "Cosmetics & Cleaners International LLC, High Point, NC, 3/26/26, 3009878984",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Considerations for Potential Future Therapeutic Use of Psychedelic Drugs Public Hearing - 09/14/2026",
+      "url": "http://www.fda.gov/news-events/fda-meetings-conferences-and-workshops/considerations-potential-future-therapeutic-use-psychedelic-drugs-public-hearing-09142026",
+      "publishedAt": "2026-07-13",
+      "excerpt": "The Food and Drug Administration is announcing a public hearing on the potential future therapeutic use of psychedelic drugs.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "Cliantha Research Limited",
+      "url": "http://www.fda.gov/about-fda/cliantha-research-limited",
+      "publishedAt": "2026-07-13",
+      "excerpt": "Cliantha Research Limited, Ahmedabad, Gujarat, India, 4/17/26, 3017682080",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "reviews",
       "siteName": "Reviews (EN)",
       "region": "JP",
@@ -355,6 +775,16 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "COSMETIC LABORATORY INC",
+      "url": "http://www.fda.gov/about-fda/cosmetic-laboratory-inc",
+      "publishedAt": "2026-07-13",
+      "excerpt": "COSMETIC LABORATORY INC, Downey, CA, 3/10/26, 3011959287",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "fda-whats-new-drugs",
       "siteName": "What's New: Drugs",
       "region": "US",
@@ -362,6 +792,76 @@
       "url": "http://www.fda.gov/drugs/drug-alerts-and-statements/cder-proposes-withdraw-approval-tavneos",
       "publishedAt": "2026-07-13",
       "excerpt": "CDER proposes to withdraw approval of TAVNEOS",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "Birchwood Laboratories, LLC",
+      "url": "http://www.fda.gov/about-fda/birchwood-laboratories-llc",
+      "publishedAt": "2026-07-13",
+      "excerpt": "Birchwood Laboratories, LLC, Eden Prairie, MN, 2/13/26, 2182825",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "Biotechnologines farmacijos centras Biotechpharma UAB",
+      "url": "http://www.fda.gov/about-fda/biotechnologines-farmacijos-centras-biotechpharma-uab",
+      "publishedAt": "2026-07-13",
+      "excerpt": "Biotechnologines farmacijos centras Biotechpharma UAB, Vilnius, Lithuania, 9/18/25, 3013580641",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "BeOne Medicines USA, Inc.",
+      "url": "http://www.fda.gov/about-fda/beone-medicines-usa-inc",
+      "publishedAt": "2026-07-13",
+      "excerpt": "BeOne Medicines USA, Inc., Pennington, NJ, 2/17/26, 3028672933",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "Ascendis Pharma LLC",
+      "url": "http://www.fda.gov/about-fda/ascendis-pharma-llc",
+      "publishedAt": "2026-07-13",
+      "excerpt": "Ascendis Pharma LLC, Palo Alto, CA, 3/6/26, 3022069968",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Agenda - EMA/HMA European platform for regulatory science research platform meeting",
+      "url": "https://www.ema.europa.eu/system/files/documents/agenda/2026-06-16-agenda-meeting-european-platform-regulatory-science-research_en.pdf",
+      "publishedAt": "2026-07-13",
+      "excerpt": "Agenda - EMA/HMA European platform for regulatory science research platform meeting",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "Abbisko Therapeutics Co., Ltd.",
+      "url": "http://www.fda.gov/about-fda/abbisko-therapeutics-co-ltd",
+      "publishedAt": "2026-07-13",
+      "excerpt": "Abbisko Therapeutics Co., Ltd., Shanghai, China, 3/20/26, 3020982471",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "2seventy bio, Inc.",
+      "url": "http://www.fda.gov/about-fda/2seventy-bio-inc",
+      "publishedAt": "2026-07-13",
+      "excerpt": "2seventy bio, Inc., Cambridge, MA, 3/20/25, 3013427685",
       "sourceType": "rss"
     },
     {
@@ -422,16 +922,6 @@
       "url": "https://www.pmda.go.jp/about-pmda/advisory-council-information/relief-services/0071.html",
       "publishedAt": "2026-07-10",
       "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "What's New Related to Drugs",
-      "url": "http://www.fda.gov/drugs/news-events-human-drugs/whats-new-related-drugs",
-      "publishedAt": "2026-07-10",
-      "excerpt": "Want to know what's new on drugs from FDA? This page provides quick links to the latest on a variety of topics including: drug approvals, safety warnings, drug shortages, etc.",
       "sourceType": "rss"
     },
     {
@@ -532,16 +1022,6 @@
       "url": "https://www.pmda.go.jp/english/int-activities/outline/0006.html",
       "publishedAt": "2026-07-10",
       "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-ora-foia-electronic-reading-room",
-      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
-      "region": "US",
-      "title": "PETNET Solutions Inc",
-      "url": "http://www.fda.gov/about-fda/petnet-solutions-inc",
-      "publishedAt": "2026-07-10",
-      "excerpt": "PETNET Solutions Inc, Cleveland, OH, 2/17/26, 3011121261",
       "sourceType": "rss"
     },
     {
@@ -1058,16 +1538,6 @@
       "siteId": "fda-ora-foia-electronic-reading-room",
       "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
       "region": "US",
-      "title": "Dr. J Skinclinic, Inc",
-      "url": "http://www.fda.gov/about-fda/dr-j-skinclinic-inc",
-      "publishedAt": "2026-07-10",
-      "excerpt": "Dr. J Skinclinic, Inc, Cerritos , CA, 3/23/26, 3006185812",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-ora-foia-electronic-reading-room",
-      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
-      "region": "US",
       "title": "Dennis J . Hsu, M.D",
       "url": "http://www.fda.gov/about-fda/dennis-j-hsu-md",
       "publishedAt": "2026-07-10",
@@ -1082,16 +1552,6 @@
       "url": "http://www.fda.gov/about-fda/custom-analytics-llc",
       "publishedAt": "2026-07-10",
       "excerpt": "Custom Analytics LLC, Dalzell, SC, 3/12/26, 3003261962",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-ora-foia-electronic-reading-room",
-      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
-      "region": "US",
-      "title": "Cosmetics & Cleaners International LLC",
-      "url": "http://www.fda.gov/about-fda/cosmetics-cleaners-international-llc",
-      "publishedAt": "2026-07-10",
-      "excerpt": "Cosmetics & Cleaners International LLC, High Point, NC, 3/26/26, 3009878984",
       "sourceType": "rss"
     },
     {
@@ -1122,16 +1582,6 @@
       "url": "https://www.ema.europa.eu/system/files/documents/report/cvmp-activities-related-antimicrobials_en.pdf",
       "publishedAt": "2026-07-10",
       "excerpt": "CVMP activities related to antimicrobials - Status report on EMA/CVMP activities (2021–2025) and EMANS 2028 Strategic Overview (Theme 4)",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-ora-foia-electronic-reading-room",
-      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
-      "region": "US",
-      "title": "COSMETIC LABORATORY INC",
-      "url": "http://www.fda.gov/about-fda/cosmetic-laboratory-inc",
-      "publishedAt": "2026-07-10",
-      "excerpt": "COSMETIC LABORATORY INC, Downey, CA, 3/10/26, 3011959287",
       "sourceType": "rss"
     },
     {
@@ -1995,8 +2445,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 国際活動",
-      "siteName": "International (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[その他]倫理審査委員会の委員名簿を更新しました。",
       "url": "https://www.pmda.go.jp/rs-std-jp/research/0009.html",
@@ -2092,16 +2542,6 @@
       "url": "https://www.ema.europa.eu/en/events/pcwp-hcpwp-joint-meeting",
       "publishedAt": "2026-07-07",
       "excerpt": "PCWP/HCPWP joint meeting, Online, European Medicines Agency, Amsterdam, the Netherlands, from 30 June 2026, 09:15 (CEST) to 1 July 2026, 12:00 (CEST)",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "Over-The-Counter Monograph Drug User Fee Program (OMUFA)",
-      "url": "http://www.fda.gov/industry/fda-user-fee-programs/over-counter-monograph-drug-user-fee-program-omufa",
-      "publishedAt": "2026-07-07",
-      "excerpt": "A user fee program for nonprescription (over-the-counter or OTC) monograph drugs would be a potential funding mechanism to supplement congressional non user-fee appropriations.",
       "sourceType": "rss"
     },
     {
@@ -3815,8 +4255,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 国際活動",
-      "siteName": "International (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[その他]令和8年度第1回研究支援委員会の議事要旨を掲載しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/research/0008.html",
@@ -4382,16 +4822,6 @@
       "url": "https://www.ema.europa.eu/en/medicines/human/paediatric-investigation-plans/ema-pe-0000235857",
       "publishedAt": "2026-07-01",
       "excerpt": "Opinion/decision on a Paediatric investigation plan (PIP): Exparel liposomal, bupivacaine, decision type: PM: decision on the application for modification of an agreed PIP, therapeutic area: Surgical and medical procedures, PIP number: P/0021/2024",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "Newly Added Guidance Documents",
-      "url": "http://www.fda.gov/drugs/guidances-drugs/newly-added-guidance-documents",
-      "publishedAt": "2026-07-01",
-      "excerpt": "Guidance documents represent the FDA's current thinking on a particular subject. New guidance documents are listed here for three months.",
       "sourceType": "rss"
     },
     {
@@ -5865,8 +6295,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 国際活動",
-      "siteName": "International (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[その他]公的研究費に基づく研究ページを更新しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/research/0004.html",
