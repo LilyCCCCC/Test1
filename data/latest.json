@@ -1,10 +1,20 @@
 {
-  "generatedAt": "2026-07-14T22:17:31.585554+00:00",
-  "count": 1549,
+  "generatedAt": "2026-07-14T23:16:15.741228+00:00",
+  "count": 1550,
   "errors": [
     {
       "groupId": "pmda",
       "siteId": "services-for-healtheffects",
+      "error": "RSS fetch failed - keeping archived data"
+    },
+    {
+      "groupId": "pmda",
+      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
+      "error": "RSS fetch failed - keeping archived data"
+    },
+    {
+      "groupId": "pmda",
+      "siteId": "PMDA：トップ 国際活動",
       "error": "RSS fetch failed - keeping archived data"
     }
   ],
@@ -50,8 +60,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "fda-tainted-products-dietary-supplements",
-      "siteName": "Tainted Products That are Marketed as Dietary Supplements",
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
       "region": "US",
       "title": "Xian Ling may be harmful due to hidden drug ingredients",
       "url": "http://www.fda.gov/drugs/medication-health-fraud-notifications/xian-ling-may-be-harmful-due-hidden-drug-ingredients",
@@ -100,8 +110,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "fda-tainted-products-dietary-supplements",
-      "siteName": "Tainted Products That are Marketed as Dietary Supplements",
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
       "region": "US",
       "title": "Tawon Liar contains hidden drug ingredient",
       "url": "http://www.fda.gov/drugs/medication-health-fraud-notifications/tawon-liar-contains-hidden-drug-ingredient",
@@ -207,16 +217,6 @@
       "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/positive-pressure-breathing-device-correction-baxter-issues-correction-volera-positive-pressure",
       "publishedAt": "2026-07-14",
       "excerpt": "Volara system patient circuits may leak air and medication from the nebulizer cup during therapy, leading to reduced oxygenation and ineffective nebulization.",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-tainted-products-dietary-supplements",
-      "siteName": "Tainted Products That are Marketed as Dietary Supplements",
-      "region": "US",
-      "title": "Pain and Arthritis Products Containing Hidden Ingredients",
-      "url": "http://www.fda.gov/drugs/medication-health-fraud-notifications/pain-and-arthritis-products-containing-hidden-ingredients",
-      "publishedAt": "2026-07-14",
-      "excerpt": "Learn about the warnings for pain and arthritis products that contain hidden drugs and other hidden ingredients.",
       "sourceType": "rss"
     },
     {
@@ -1110,8 +1110,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 国際活動",
-      "siteName": "International (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[薬局方]薬局方に関する国際的な活動についてのプレスリリースを掲載しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/0005.html",
@@ -1120,8 +1120,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 国際活動",
-      "siteName": "International (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[基準]初回治験届出時に留意すべきヒト又は動物由来の細胞株を用いて製造されるバイオテクノロジー応用医薬品等の品質関連資料のチェックリスト（Early Consideration）を掲載しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/guidance-guideline/0003.html",
@@ -3590,8 +3590,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 国際活動",
-      "siteName": "International (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[その他]倫理審査委員会の委員名簿を更新しました。",
       "url": "https://www.pmda.go.jp/rs-std-jp/research/0009.html",
@@ -4503,6 +4503,16 @@
       "siteId": "fda-food-safety-recalls",
       "siteName": "Food Safety Recalls",
       "region": "US",
+      "title": "Fayus Inc., dba Yusol International Foods Recalls OLA-OLA POUNDED YAM Due to Undeclared Milk Allergen",
+      "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/fayus-inc-dba-yusol-international-foods-recalls-ola-ola-pounded-yam-due-undeclared-milk-allergen",
+      "publishedAt": "2026-07-06",
+      "excerpt": "Fayus Inc., doing business as Yusol International Foods (Sacramento, CA) is voluntarily recalling OLA-OLA POUNDED YAM because the product may contain undeclared milk in the form of sodium caseinate, which is not declared on the label.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-food-allergies",
+      "siteName": "Food Allergies",
+      "region": "US",
       "title": "Faysu Inc., dba Yusol International Foods Recalls OLA-OLA POUNDED YAM Due to Undeclared Milk Allergen",
       "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/faysu-inc-dba-yusol-international-foods-recalls-ola-ola-pounded-yam-due-undeclared-milk-allergen",
       "publishedAt": "2026-07-06",
@@ -5390,8 +5400,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 国際活動",
-      "siteName": "International (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[その他]令和8年度第1回研究支援委員会の議事要旨を掲載しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/research/0008.html",
@@ -7370,8 +7380,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 国際活動",
-      "siteName": "International (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[その他]公的研究費に基づく研究ページを更新しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/research/0004.html",
@@ -10677,6 +10687,16 @@
       "url": "https://www.ema.europa.eu/en/documents/regulatory-procedural-guideline/pharmacovigilance-related-regulatory-recommendations-centrally-authorised-veterinary-medicinal-products-during-2026_en.pdf",
       "publishedAt": "2026-06-01",
       "excerpt": "Pharmacovigilance-related regulatory recommendations for centrally authorised veterinary medicinal products during 2026",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-tainted-products-dietary-supplements",
+      "siteName": "Tainted Products That are Marketed as Dietary Supplements",
+      "region": "US",
+      "title": "Pain and Arthritis Products Containing Hidden Ingredients",
+      "url": "http://www.fda.gov/drugs/medication-health-fraud-notifications/pain-and-arthritis-products-containing-hidden-ingredients",
+      "publishedAt": "2026-06-01",
+      "excerpt": "Learn about the warnings for pain and arthritis products that contain hidden drugs and other hidden ingredients.",
       "sourceType": "rss"
     },
     {
