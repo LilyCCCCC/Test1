@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-14T12:42:48.832739+00:00",
-  "count": 1495,
+  "generatedAt": "2026-07-14T15:09:49.843863+00:00",
+  "count": 1526,
   "errors": [
     {
       "groupId": "pmda",
@@ -9,7 +9,47 @@
     },
     {
       "groupId": "pmda",
+      "siteId": "rs-standard-development-jp",
+      "error": "RSS fetch failed - keeping archived data"
+    },
+    {
+      "groupId": "pmda",
+      "siteId": "international-activities",
+      "error": "RSS fetch failed - keeping archived data"
+    },
+    {
+      "groupId": "pmda",
+      "siteId": "PMDAの新着情報",
+      "error": "RSS fetch failed - keeping archived data"
+    },
+    {
+      "groupId": "pmda",
+      "siteId": "PMDA：トップ 承認審査",
+      "error": "RSS fetch failed - keeping archived data"
+    },
+    {
+      "groupId": "pmda",
+      "siteId": "PMDA：トップ 安全対策",
+      "error": "RSS fetch failed - keeping archived data"
+    },
+    {
+      "groupId": "pmda",
+      "siteId": "PMDA：トップ 安全対策",
+      "error": "RSS fetch failed - keeping archived data"
+    },
+    {
+      "groupId": "pmda",
       "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
+      "error": "RSS fetch failed - keeping archived data"
+    },
+    {
+      "groupId": "pmda",
+      "siteId": "PMDA：トップ 国際活動",
+      "error": "RSS fetch failed - keeping archived data"
+    },
+    {
+      "groupId": "pmda",
+      "siteId": "PMDA：トップ その他",
       "error": "RSS fetch failed - keeping archived data"
     }
   ],
@@ -52,6 +92,36 @@
       "url": "https://www.pmda.go.jp/safety/info-services/drugs/calling-attention/safety-info/0166.html",
       "publishedAt": "2026-07-14",
       "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Veterinary medicines European public assessment report (EPAR): Poulvac Procerta HVT-ND, Marek’s disease and Newcastle disease vaccine (live recombinant), Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/veterinary/EPAR/poulvac-procerta-hvt-nd",
+      "publishedAt": "2026-07-14",
+      "excerpt": "Veterinary medicines European public assessment report (EPAR): Poulvac Procerta HVT-ND, Marek’s disease and Newcastle disease vaccine (live recombinant), Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "Turbare Manufacturing. Conway, AR. 483 issued 5/07/2026",
+      "url": "http://www.fda.gov/about-fda/fda-commissioner/turbare-manufacturing-conway-ar-483-issued-5072026",
+      "publishedAt": "2026-07-14",
+      "excerpt": "Task Description Request\tPlease post to the OII FOIA Electronic Reading Room Record Date\t5/07/2026 Short Title (70 char)\tTurbare Manufacturing. Conway, AR. 483 issued 5/07/2026 FEI Number\t3027507354 Firm Name\tTurbare Manufacturing Record Type\t483 State\tAR Establishment Type\tOutsourcing Facility",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Spa De Soleil, Inc. - 728508 - 07/08/2026",
+      "url": "http://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/spa-de-soleil-inc-728508-07082026",
+      "publishedAt": "2026-07-14",
+      "excerpt": "CGMP/Finished Pharmaceuticals/Adulterated",
       "sourceType": "rss"
     },
     {
@@ -118,10 +188,50 @@
       "siteId": "ema-whats-new",
       "siteName": "What's new",
       "region": "EU",
+      "title": "PSUSA/00003041/202512",
+      "url": "https://www.ema.europa.eu/en/medicines/psusa/psusa-00003041-202512",
+      "publishedAt": "2026-07-14",
+      "excerpt": "PSUSA/00003041/202512",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "PSUSA/00000485/202511",
+      "url": "https://www.ema.europa.eu/en/medicines/psusa/psusa-00000485-202511",
+      "publishedAt": "2026-07-14",
+      "excerpt": "PSUSA/00000485/202511",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "PSUSA/00000313/202511",
+      "url": "https://www.ema.europa.eu/en/medicines/psusa/psusa-00000313-202511",
+      "publishedAt": "2026-07-14",
+      "excerpt": "PSUSA/00000313/202511",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
       "title": "PSUSA/00000227/202511",
       "url": "https://www.ema.europa.eu/en/medicines/psusa/psusa-00000227-202511",
       "publishedAt": "2026-07-14",
       "excerpt": "PSUSA/00000227/202511",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "PRIME eligibility requests: 2027 deadlines for submission and timetable for assessment",
+      "url": "https://www.ema.europa.eu/system/files/documents/other/2027-prime-eligibility-requests-submission-deadlines-timetable-assessment-en.pdf",
+      "publishedAt": "2026-07-14",
+      "excerpt": "PRIME eligibility requests: 2027 deadlines for submission and timetable for assessment",
       "sourceType": "rss"
     },
     {
@@ -148,10 +258,40 @@
       "siteId": "ema-whats-new",
       "siteName": "What's new",
       "region": "EU",
+      "title": "Opinion/decision on a Paediatric investigation plan (PIP): Filspari, sparsentan, decision type: PM: decision on the application for modification of an agreed PIP, therapeutic area: Uro-nephrology, PIP number: EMA/PE/0000226166",
+      "url": "https://www.ema.europa.eu/en/medicines/human/paediatric-investigation-plans/ema-pe-0000226166",
+      "publishedAt": "2026-07-14",
+      "excerpt": "Opinion/decision on a Paediatric investigation plan (PIP): Filspari, sparsentan, decision type: PM: decision on the application for modification of an agreed PIP, therapeutic area: Uro-nephrology, PIP number: EMA/PE/0000226166",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
       "title": "Opinion/decision on a Paediatric investigation plan (PIP): Ebglyss, Lebrikizumab, decision type: PM: decision on the application for modification of an agreed PIP, therapeutic area: Skin and subcutaneous tissue disorders, PIP number: EMA/PE/0000241034",
       "url": "https://www.ema.europa.eu/en/medicines/human/paediatric-investigation-plans/ema-pe-0000241034",
       "publishedAt": "2026-07-14",
       "excerpt": "Opinion/decision on a Paediatric investigation plan (PIP): Ebglyss, Lebrikizumab, decision type: PM: decision on the application for modification of an agreed PIP, therapeutic area: Skin and subcutaneous tissue disorders, PIP number: EMA/PE/0000241034",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Opinion/decision on a Paediatric investigation plan (PIP): Alofisel, darvadstrocel, decision type: PM: decision on the application for modification of an agreed PIP, therapeutic area: Gastroentology-Hepatology, PIP number: EMA/PE/0000244768",
+      "url": "https://www.ema.europa.eu/en/medicines/human/paediatric-investigation-plans/ema-pe-0000244768",
+      "publishedAt": "2026-07-14",
+      "excerpt": "Opinion/decision on a Paediatric investigation plan (PIP): Alofisel, darvadstrocel, decision type: PM: decision on the application for modification of an agreed PIP, therapeutic area: Gastroentology-Hepatology, PIP number: EMA/PE/0000244768",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Meeting report of the EMA cancer medicines forum 14 November 2025",
+      "url": "https://www.ema.europa.eu/system/files/documents/report/cancer-medicines-forum-workshop-14th-november-2025-meeting-report-en.pdf",
+      "publishedAt": "2026-07-14",
+      "excerpt": "Meeting report of the EMA cancer medicines forum 14 November 2025",
       "sourceType": "rss"
     },
     {
@@ -172,6 +312,26 @@
       "url": "https://www.ema.europa.eu/en/medicines/dhpc/ixchiq-1",
       "publishedAt": "2026-07-14",
       "excerpt": "Ixchiq",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "International Medication Systems Limited - 727560 - 07/02/2026",
+      "url": "http://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/international-medication-systems-limited-727560-07022026",
+      "publishedAt": "2026-07-14",
+      "excerpt": "CGMP/Finished Pharmaceuticals/Adulterated",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Industry webinar on new electronic application form (eAF) version, Online, from 22 July 2026, 14:00 (CEST) to 22 July 2026, 16:00 (CEST)",
+      "url": "https://www.ema.europa.eu/en/events/industry-webinar-new-electronic-application-form-eaf-version",
+      "publishedAt": "2026-07-14",
+      "excerpt": "Industry webinar on new electronic application form (eAF) version, Online, from 22 July 2026, 14:00 (CEST) to 22 July 2026, 16:00 (CEST)",
       "sourceType": "rss"
     },
     {
@@ -198,10 +358,70 @@
       "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
       "siteName": "Human medicines: EPARs and summaries of opinion",
       "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Tuznue, trastuzumab, Date of authorisation: 19/09/2024, Revision: 4, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/tuznue",
+      "publishedAt": "2026-07-14",
+      "excerpt": "Human medicines European public assessment report (EPAR): Tuznue, trastuzumab, Date of authorisation: 19/09/2024, Revision: 4, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Qaialdo, spironolactone, Date of authorisation: 26/05/2023, Revision: 6, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/qaialdo",
+      "publishedAt": "2026-07-14",
+      "excerpt": "Human medicines European public assessment report (EPAR): Qaialdo, spironolactone, Date of authorisation: 26/05/2023, Revision: 6, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Hemgenix, etranacogene dezaparvovec, Date of authorisation: 20/02/2023, Revision: 8, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/hemgenix",
+      "publishedAt": "2026-07-14",
+      "excerpt": "Human medicines European public assessment report (EPAR): Hemgenix, etranacogene dezaparvovec, Date of authorisation: 20/02/2023, Revision: 8, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Ekterly, sebetralstat, Date of authorisation: 17/09/2025, Revision: 1, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/ekterly",
+      "publishedAt": "2026-07-14",
+      "excerpt": "Human medicines European public assessment report (EPAR): Ekterly, sebetralstat, Date of authorisation: 17/09/2025, Revision: 1, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
       "title": "Human medicines European public assessment report (EPAR): Dyrupeg, pegfilgrastim, Date of authorisation: 28/03/2025, Revision: 4, Status: Authorised",
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/dyrupeg-0",
       "publishedAt": "2026-07-14",
       "excerpt": "Human medicines European public assessment report (EPAR): Dyrupeg, pegfilgrastim, Date of authorisation: 28/03/2025, Revision: 4, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Bilprevda, denosumab, Date of authorisation: 17/09/2025, Revision: 3, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/bilprevda",
+      "publishedAt": "2026-07-14",
+      "excerpt": "Human medicines European public assessment report (EPAR): Bilprevda, denosumab, Date of authorisation: 17/09/2025, Revision: 3, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Bildyos, denosumab, Date of authorisation: 17/09/2025, Revision: 4, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/bildyos",
+      "publishedAt": "2026-07-14",
+      "excerpt": "Human medicines European public assessment report (EPAR): Bildyos, denosumab, Date of authorisation: 17/09/2025, Revision: 4, Status: Authorised",
       "sourceType": "rss"
     },
     {
@@ -228,6 +448,26 @@
       "siteId": "ema-whats-new",
       "siteName": "What's new",
       "region": "EU",
+      "title": "EMEA-002828-PIP01-20",
+      "url": "https://www.ema.europa.eu/en/medicines/human/paediatric-investigation-plans/emea-002828-pip01-20-0",
+      "publishedAt": "2026-07-14",
+      "excerpt": "EMEA-002828-PIP01-20",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "EMEA-002004-PIP04-23",
+      "url": "https://www.ema.europa.eu/en/medicines/human/paediatric-investigation-plans/emea-002004-pip04-23",
+      "publishedAt": "2026-07-14",
+      "excerpt": "EMEA-002004-PIP04-23",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
       "title": "EMA/PE/0000242940",
       "url": "https://www.ema.europa.eu/en/medicines/human/paediatric-investigation-plans/ema-pe-0000242940",
       "publishedAt": "2026-07-14",
@@ -242,6 +482,16 @@
       "url": "https://www.ema.europa.eu/en/medicines/human/paediatric-investigation-plans/ema-pe-0000242923",
       "publishedAt": "2026-07-14",
       "excerpt": "EMA/PE/0000242923",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "EMA/PE/0000242278",
+      "url": "https://www.ema.europa.eu/en/medicines/human/paediatric-investigation-plans/ema-pe-0000242278",
+      "publishedAt": "2026-07-14",
+      "excerpt": "EMA/PE/0000242278",
       "sourceType": "rss"
     },
     {
@@ -268,6 +518,26 @@
       "siteId": "ema-whats-new",
       "siteName": "What's new",
       "region": "EU",
+      "title": "EMA/PE/0000241250",
+      "url": "https://www.ema.europa.eu/en/medicines/human/paediatric-investigation-plans/ema-pe-0000241250",
+      "publishedAt": "2026-07-14",
+      "excerpt": "EMA/PE/0000241250",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "EMA/PE/0000240621",
+      "url": "https://www.ema.europa.eu/en/medicines/human/paediatric-investigation-plans/ema-pe-0000240621",
+      "publishedAt": "2026-07-14",
+      "excerpt": "EMA/PE/0000240621",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
       "title": "EMA/PE/0000240529",
       "url": "https://www.ema.europa.eu/en/medicines/human/paediatric-investigation-plans/ema-pe-0000240529",
       "publishedAt": "2026-07-14",
@@ -282,6 +552,26 @@
       "url": "https://www.ema.europa.eu/en/medicines/human/paediatric-investigation-plans/ema-pe-0000239504",
       "publishedAt": "2026-07-14",
       "excerpt": "EMA/PE/0000239504",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "EMA/PE/0000236704",
+      "url": "https://www.ema.europa.eu/en/medicines/human/paediatric-investigation-plans/ema-pe-0000236704",
+      "publishedAt": "2026-07-14",
+      "excerpt": "EMA/PE/0000236704",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "EMA/PE/0000235924",
+      "url": "https://www.ema.europa.eu/en/medicines/human/paediatric-investigation-plans/ema-pe-0000235924",
+      "publishedAt": "2026-07-14",
+      "excerpt": "EMA/PE/0000235924",
       "sourceType": "rss"
     },
     {
@@ -318,6 +608,46 @@
       "siteId": "ema-whats-new",
       "siteName": "What's new",
       "region": "EU",
+      "title": "EMA/PE/0000232778",
+      "url": "https://www.ema.europa.eu/en/medicines/human/paediatric-investigation-plans/ema-pe-0000232778",
+      "publishedAt": "2026-07-14",
+      "excerpt": "EMA/PE/0000232778",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "EMA/PE/0000232777",
+      "url": "https://www.ema.europa.eu/en/medicines/human/paediatric-investigation-plans/ema-pe-0000232777",
+      "publishedAt": "2026-07-14",
+      "excerpt": "EMA/PE/0000232777",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "EMA/PE/0000232767",
+      "url": "https://www.ema.europa.eu/en/medicines/human/paediatric-investigation-plans/ema-pe-0000232767",
+      "publishedAt": "2026-07-14",
+      "excerpt": "EMA/PE/0000232767",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "EMA/PE/0000232760",
+      "url": "https://www.ema.europa.eu/en/medicines/human/paediatric-investigation-plans/ema-pe-0000232760",
+      "publishedAt": "2026-07-14",
+      "excerpt": "EMA/PE/0000232760",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
       "title": "EMA/PE/0000232449",
       "url": "https://www.ema.europa.eu/en/medicines/human/paediatric-investigation-plans/ema-pe-0000232449",
       "publishedAt": "2026-07-14",
@@ -348,6 +678,46 @@
       "siteId": "ema-whats-new",
       "siteName": "What's new",
       "region": "EU",
+      "title": "EMA/PE/0000182809",
+      "url": "https://www.ema.europa.eu/en/medicines/human/paediatric-investigation-plans/ema-pe-0000182809",
+      "publishedAt": "2026-07-14",
+      "excerpt": "EMA/PE/0000182809",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Drugs@FDA Data Files",
+      "url": "http://www.fda.gov/drugs/drug-approvals-and-databases/drugsfda-data-files",
+      "publishedAt": "2026-07-14",
+      "excerpt": "Drugs@FDA Downloadable Data File in ZIP format, Data Definitions, and Entity Relationship Diagram (ERD)",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Coronavirus (COVID-19) Update: FDA Issues Policies to Guide Medical Product Developers Addressing Virus Variants",
+      "url": "http://www.fda.gov/news-events/press-announcements/coronavirus-covid-19-update-fda-issues-policies-guide-medical-product-developers-addressing-virus",
+      "publishedAt": "2026-07-14",
+      "excerpt": "Coronavirus (COVID-19) Update: FDA Issues Policies to Guide Medical Product Developers Addressing Virus Variants",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Competitive Generic Therapy Approvals",
+      "url": "http://www.fda.gov/drugs/generic-drugs/competitive-generic-therapy-approvals",
+      "publishedAt": "2026-07-14",
+      "excerpt": "Explore the FDA’s Competitive Generic Therapy Approvals page, offering insights into the program designed to encourage generic drug competition. Access information about approved CGT products and find resources, including a downloadable CGT approvals spreadsheet.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
       "title": "Clinical pharmacology and pharmacokinetics: questions and answers",
       "url": "https://www.ema.europa.eu/en/human-regulatory-overview/research-development/scientific-guidelines/clinical-pharmacology-pharmacokinetics-guidelines/clinical-pharmacology-pharmacokinetics-questions-answers",
       "publishedAt": "2026-07-14",
@@ -362,6 +732,26 @@
       "url": "https://www.ema.europa.eu/en/human-regulatory-overview/post-authorisation/changing-labelling-package-leaflet-article-613-notifications",
       "publishedAt": "2026-07-14",
       "excerpt": "Changing the labelling and package leaflet (Article 61(3) notifications)",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "Blendhouse Portland LLC. Portland, OR. EIR issued 01/23/2026",
+      "url": "http://www.fda.gov/about-fda/fda-commissioner/blendhouse-portland-llc-portland-or-eir-issued-01232026",
+      "publishedAt": "2026-07-14",
+      "excerpt": "Task Description Request\tPlease post to the OII FOIA Electronic Reading Room Record Date\t01/23/2026 Short Title (70 char)\tBlendhouse Portland LLC. Portland, OR. EIR issued 01/23/2026 FEI Number\t3013670080 Firm Name\tBlendhouse Portland LLC Record Type\t483 State\tOR Establishment Type\tManufacturer",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "Blendhouse Allerton LLC. Allerton, IA. EIR issued 01/22/2026",
+      "url": "http://www.fda.gov/about-fda/fda-commissioner/blendhouse-allerton-llc-allerton-ia-eir-issued-01222026",
+      "publishedAt": "2026-07-14",
+      "excerpt": "Task Description Request\tPlease post to the OII FOIA Electronic Reading Room Record Date\t01/22/2026 Short Title (70 char)\tBlendhouse Allerton LLC. Allerton, IA. EIR issued 01/22/2026 FEI Number\t1921383 Firm Name\tBlendhouse Allerton LLC Record Type\tEIR State\tIA Establishment Type\tManufacturer",
       "sourceType": "rss"
     },
     {
@@ -2082,16 +2472,6 @@
       "url": "https://www.ema.europa.eu/en/medicines/human/paediatric-investigation-plans/emea-001556-pip01-13",
       "publishedAt": "2026-07-10",
       "excerpt": "EMEA-001556-PIP01-13",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "Drugs@FDA Data Files",
-      "url": "http://www.fda.gov/drugs/drug-approvals-and-databases/drugsfda-data-files",
-      "publishedAt": "2026-07-10",
-      "excerpt": "Drugs@FDA Downloadable Data File in ZIP format, Data Definitions, and Entity Relationship Diagram (ERD)",
       "sourceType": "rss"
     },
     {
@@ -5102,16 +5482,6 @@
       "url": "https://www.ema.europa.eu/system/files/documents/other/silvy-da-rocha-dias-doi-2026-en.pdf",
       "publishedAt": "2026-07-02",
       "excerpt": "Declaration of interests: Silvy da Rocha Dias",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "Competitive Generic Therapy Approvals",
-      "url": "http://www.fda.gov/drugs/generic-drugs/competitive-generic-therapy-approvals",
-      "publishedAt": "2026-07-02",
-      "excerpt": "Explore the FDA’s Competitive Generic Therapy Approvals page, offering insights into the program designed to encourage generic drug competition. Access information about approved CGT products and find resources, including a downloadable CGT approvals spreadsheet.",
       "sourceType": "rss"
     },
     {
@@ -9462,26 +9832,6 @@
       "url": "https://www.ema.europa.eu/en/news/emas-2025-annual-report-shows-strong-approval-numbers-human-veterinary-medicines",
       "publishedAt": "2026-06-11",
       "excerpt": "Today, EMA released its 2025 annual report, highlighting progress in bringing innovative, safe and effective medicines to patients. The report outlines the most important…",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-ora-foia-electronic-reading-room",
-      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
-      "region": "US",
-      "title": "Blendhouse Portland LLC. Portland, OR. EIR issued 01/23/2026",
-      "url": "http://www.fda.gov/about-fda/fda-commissioner/blendhouse-portland-llc-portland-or-eir-issued-01232026",
-      "publishedAt": "2026-06-11",
-      "excerpt": "Task Description Request\tPlease post to the OII FOIA Electronic Reading Room Record Date\t01/23/2026 Short Title (70 char)\tBlendhouse Portland LLC. Portland, OR. EIR issued 01/23/2026 FEI Number\t3013670080 Firm Name\tBlendhouse Portland LLC Record Type\t483 State\tOR Establishment Type\tManufacturer",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-ora-foia-electronic-reading-room",
-      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
-      "region": "US",
-      "title": "Blendhouse Allerton LLC. Allerton, IA. EIR issued 01/22/2026",
-      "url": "http://www.fda.gov/about-fda/fda-commissioner/blendhouse-allerton-llc-allerton-ia-eir-issued-01222026",
-      "publishedAt": "2026-06-11",
-      "excerpt": "Task Description Request\tPlease post to the OII FOIA Electronic Reading Room Record Date\t01/22/2026 Short Title (70 char)\tBlendhouse Allerton LLC. Allerton, IA. EIR issued 01/22/2026 FEI Number\t1921383 Firm Name\tBlendhouse Allerton LLC Record Type\tEIR State\tIA Establishment Type\tManufacturer",
       "sourceType": "rss"
     },
     {
