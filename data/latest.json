@@ -1,20 +1,10 @@
 {
-  "generatedAt": "2026-07-14T20:34:29.471867+00:00",
-  "count": 1542,
+  "generatedAt": "2026-07-14T22:17:31.585554+00:00",
+  "count": 1549,
   "errors": [
     {
       "groupId": "pmda",
       "siteId": "services-for-healtheffects",
-      "error": "RSS fetch failed - keeping archived data"
-    },
-    {
-      "groupId": "pmda",
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "error": "RSS fetch failed - keeping archived data"
-    },
-    {
-      "groupId": "pmda",
-      "siteId": "PMDA：トップ その他",
       "error": "RSS fetch failed - keeping archived data"
     }
   ],
@@ -60,6 +50,16 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "fda-tainted-products-dietary-supplements",
+      "siteName": "Tainted Products That are Marketed as Dietary Supplements",
+      "region": "US",
+      "title": "Xian Ling may be harmful due to hidden drug ingredients",
+      "url": "http://www.fda.gov/drugs/medication-health-fraud-notifications/xian-ling-may-be-harmful-due-hidden-drug-ingredients",
+      "publishedAt": "2026-07-14",
+      "excerpt": "The Food and Drug Administration is advising consumers not to purchase or use Xian Ling, a product promoted and sold for pain on various websites and in some retail stores.",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "fda-whats-new-drugs",
       "siteName": "What's New: Drugs",
       "region": "US",
@@ -97,6 +97,16 @@
       "url": "http://www.fda.gov/about-fda/fda-commissioner/turbare-manufacturing-conway-ar-483-issued-5072026",
       "publishedAt": "2026-07-14",
       "excerpt": "Task Description Request\tPlease post to the OII FOIA Electronic Reading Room Record Date\t5/07/2026 Short Title (70 char)\tTurbare Manufacturing. Conway, AR. 483 issued 5/07/2026 FEI Number\t3027507354 Firm Name\tTurbare Manufacturing Record Type\t483 State\tAR Establishment Type\tOutsourcing Facility",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-tainted-products-dietary-supplements",
+      "siteName": "Tainted Products That are Marketed as Dietary Supplements",
+      "region": "US",
+      "title": "Tawon Liar contains hidden drug ingredient",
+      "url": "http://www.fda.gov/drugs/medication-health-fraud-notifications/tawon-liar-contains-hidden-drug-ingredient",
+      "publishedAt": "2026-07-14",
+      "excerpt": "FDA is advising consumers not to purchase or use Tawon Liar, a product promoted and sold for pain, rheumatism, insomnia, improving the immune system, increasing energy, and lowering cholesterol on various websites, including www.etsy.com, and possibly in some retail stor",
       "sourceType": "rss"
     },
     {
@@ -170,6 +180,26 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Rare Disease News, Events & Reports",
+      "url": "http://www.fda.gov/about-fda/accelerating-rare-disease-cures-arc-program/rare-disease-news-events-reports",
+      "publishedAt": "2026-07-14",
+      "excerpt": "Learn more about recent news and events related to rare diseases and read ARC Program Annual Reports.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Rare Disease Drug Approvals",
+      "url": "http://www.fda.gov/about-fda/accelerating-rare-disease-cures-arc-program/rare-disease-drug-approvals",
+      "publishedAt": "2026-07-14",
+      "excerpt": "This page describes recent rare disease drug approvals that received a CDER or FDA communication.  This is not an exhaustive list of all rare disease drug approvals.",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "fda-medwatch",
       "siteName": "MedWatch Safety Alerts",
       "region": "US",
@@ -177,6 +207,16 @@
       "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/positive-pressure-breathing-device-correction-baxter-issues-correction-volera-positive-pressure",
       "publishedAt": "2026-07-14",
       "excerpt": "Volara system patient circuits may leak air and medication from the nebulizer cup during therapy, leading to reduced oxygenation and ineffective nebulization.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-tainted-products-dietary-supplements",
+      "siteName": "Tainted Products That are Marketed as Dietary Supplements",
+      "region": "US",
+      "title": "Pain and Arthritis Products Containing Hidden Ingredients",
+      "url": "http://www.fda.gov/drugs/medication-health-fraud-notifications/pain-and-arthritis-products-containing-hidden-ingredients",
+      "publishedAt": "2026-07-14",
+      "excerpt": "Learn about the warnings for pain and arthritis products that contain hidden drugs and other hidden ingredients.",
       "sourceType": "rss"
     },
     {
@@ -447,6 +487,26 @@
       "url": "https://www.ema.europa.eu/en/events/industry-webinar-new-electronic-application-form-eaf-version",
       "publishedAt": "2026-07-14",
       "excerpt": "Industry webinar on new electronic application form (eAF) version, Online, from 22 July 2026, 14:00 (CEST) to 22 July 2026, 16:00 (CEST)",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "ICON plc",
+      "url": "http://www.fda.gov/about-fda/icon-plc",
+      "publishedAt": "2026-07-14",
+      "excerpt": "ICON plc, Drentle, Netherlands, 10/24/25",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "ICON PLC",
+      "url": "http://www.fda.gov/about-fda/icon-plc-0",
+      "publishedAt": "2026-07-14",
+      "excerpt": "ICON PLC, Lenexa, KS, 6/13/25, 3020784373",
       "sourceType": "rss"
     },
     {
@@ -923,6 +983,16 @@
       "siteId": "fda-ora-foia-electronic-reading-room",
       "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
       "region": "US",
+      "title": "Central California Blood Center",
+      "url": "http://www.fda.gov/about-fda/central-california-blood-center",
+      "publishedAt": "2026-07-14",
+      "excerpt": "Central California Blood Center, Fresno, CA, 8/29/25, 2970324",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
       "title": "Blendhouse Portland LLC. Portland, OR. EIR issued 01/23/2026",
       "url": "http://www.fda.gov/about-fda/fda-commissioner/blendhouse-portland-llc-portland-or-eir-issued-01232026",
       "publishedAt": "2026-07-14",
@@ -947,6 +1017,26 @@
       "url": "http://www.fda.gov/about-fda/biomat-usa-inc",
       "publishedAt": "2026-07-14",
       "excerpt": "Biomat USA Inc, Surprise, AZ, 2/4/26, 3024304918",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "BioChem Sioux City, Inc.",
+      "url": "http://www.fda.gov/about-fda/biochem-sioux-city-inc",
+      "publishedAt": "2026-07-14",
+      "excerpt": "BioChem Sioux City, Inc., Sioux City, IA, 3/19/26, 1910218",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "Bentley Laboratories LLC",
+      "url": "http://www.fda.gov/about-fda/bentley-laboratories-llc",
+      "publishedAt": "2026-07-14",
+      "excerpt": "Bentley Laboratories LLC, Edison, NJ, 3/27/26, 2244819",
       "sourceType": "rss"
     },
     {
@@ -1933,26 +2023,6 @@
       "siteId": "fda-ora-foia-electronic-reading-room",
       "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
       "region": "US",
-      "title": "BioChem Sioux City, Inc.",
-      "url": "http://www.fda.gov/about-fda/biochem-sioux-city-inc",
-      "publishedAt": "2026-07-13",
-      "excerpt": "BioChem Sioux City, Inc., Sioux City, IA, 3/19/26, 1910218",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-ora-foia-electronic-reading-room",
-      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
-      "region": "US",
-      "title": "Bentley Laboratories LLC",
-      "url": "http://www.fda.gov/about-fda/bentley-laboratories-llc",
-      "publishedAt": "2026-07-13",
-      "excerpt": "Bentley Laboratories LLC, Edison, NJ, 3/27/26, 2244819",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-ora-foia-electronic-reading-room",
-      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
-      "region": "US",
       "title": "BeOne Medicines USA, Inc.",
       "url": "http://www.fda.gov/about-fda/beone-medicines-usa-inc",
       "publishedAt": "2026-07-13",
@@ -2050,8 +2120,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[PMDA]令和8年度第1回救済業務委員会　開催案内を掲載しました",
       "url": "https://www.pmda.go.jp/about-pmda/advisory-council-information/relief-services/0071.html",
@@ -3110,8 +3180,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[調達]一般競争入札公告（政府調達）（PMDAウェブサイト システム移行及び機能改修等の要件定義等業務）",
       "url": "https://www.pmda.go.jp/procurements/public-bidding/general-competition-government/0234.html",
@@ -3120,8 +3190,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[PMDA]法人文書開示請求書等様式",
       "url": "https://www.pmda.go.jp/about-pmda/disclosures/0003.html",
@@ -3530,8 +3600,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[PMDA]英国ロンドン大学衛生・熱帯医学大学院（LSHTM）との連携に係る覚書の締結について（ニュースリリース）[383KB]",
       "url": "https://www.pmda.go.jp/about-pmda/news-release/0096.pdf",
@@ -3540,8 +3610,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[PMDA]専門委員名簿を更新しました",
       "url": "https://www.pmda.go.jp/about-pmda/outline/0016.html",
@@ -4740,8 +4810,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[調達]一般競争入札公告（政府調達）（総合評価落札方式）（経営管理高度化のための技術的支援業務（第Ⅲ期））",
       "url": "https://www.pmda.go.jp/procurements/public-bidding/general-competition-government/0233.html",
@@ -5300,8 +5370,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[調達]一般競争入札公告（PMDA広報資材（パンフレット・リーフレット等）の印刷及び発送等業務一式）",
       "url": "https://www.pmda.go.jp/procurements/public-bidding/general-competition/1697.html",
@@ -5670,8 +5740,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[調達]一般競争入札公告（政府調達）（総合評価落札方式）（医薬品・医療機器等製品データベースの新規開発業務及び医薬品医療機器情報提供システムの再構築業務）",
       "url": "https://www.pmda.go.jp/procurements/public-bidding/general-competition-government/0232.html",
@@ -5680,8 +5750,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[採用]事務補助員（審査等手数料・対面助言等の手数料の管理業務に係る補助業務等（事務系））の募集について",
       "url": "https://www.pmda.go.jp/recruit/0890.html",
@@ -5690,8 +5760,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[採用]2026年度1day仕事体験（技術系　生物統計業務体験）の応募受付を開始しました",
       "url": "https://www.pmda.go.jp/recruit/0856.html",
@@ -5700,8 +5770,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[採用]2026年度1day仕事体験（技術系　新医療機器審査体験）の応募受付を開始しました",
       "url": "https://www.pmda.go.jp/recruit/0857.html",
@@ -5720,8 +5790,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[PMDA]オーストリア・ウィーン医科大学と医薬品医療機器総合機構（PMDA）の連携に係る覚書の締結について（ニュースリリース）[271KB]",
       "url": "https://www.pmda.go.jp/about-pmda/news-release/0095.pdf",
@@ -6330,8 +6400,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[PMDA]独立行政法人の役員の報酬等及び職員の給与水準の公表について",
       "url": "https://www.pmda.go.jp/about-pmda/info-about-pmda/0019.html",
@@ -7280,8 +7350,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[調達]一般競争入札公告（政府調達）（共用LANシステム 業務用PCの更新）",
       "url": "https://www.pmda.go.jp/procurements/public-bidding/general-competition-government/0231.html",
@@ -8090,8 +8160,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[PMDA]令和8事業年度第1回審査・安全業務委員会　開催案内を掲載しました",
       "url": "https://www.pmda.go.jp/about-pmda/advisory-council-information/review-and-safety/0070.html",
@@ -8290,8 +8360,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[採用]事務補助員（医薬品の規格基準作成業務に係る補助業務等（国際業務担当））の募集について",
       "url": "https://www.pmda.go.jp/recruit/0839.html",
@@ -10607,16 +10677,6 @@
       "url": "https://www.ema.europa.eu/en/documents/regulatory-procedural-guideline/pharmacovigilance-related-regulatory-recommendations-centrally-authorised-veterinary-medicinal-products-during-2026_en.pdf",
       "publishedAt": "2026-06-01",
       "excerpt": "Pharmacovigilance-related regulatory recommendations for centrally authorised veterinary medicinal products during 2026",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-tainted-products-dietary-supplements",
-      "siteName": "Tainted Products That are Marketed as Dietary Supplements",
-      "region": "US",
-      "title": "Pain and Arthritis Products Containing Hidden Ingredients",
-      "url": "http://www.fda.gov/drugs/medication-health-fraud-notifications/pain-and-arthritis-products-containing-hidden-ingredients",
-      "publishedAt": "2026-06-01",
-      "excerpt": "Learn about the warnings for pain and arthritis products that contain hidden drugs and other hidden ingredients.",
       "sourceType": "rss"
     },
     {
