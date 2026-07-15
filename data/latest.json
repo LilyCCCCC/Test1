@@ -1,10 +1,20 @@
 {
-  "generatedAt": "2026-07-15T15:55:42.858666+00:00",
-  "count": 1588,
+  "generatedAt": "2026-07-15T17:43:32.477909+00:00",
+  "count": 1591,
   "errors": [
     {
       "groupId": "pmda",
       "siteId": "services-for-healtheffects",
+      "error": "RSS fetch failed - keeping archived data"
+    },
+    {
+      "groupId": "pmda",
+      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
+      "error": "RSS fetch failed - keeping archived data"
+    },
+    {
+      "groupId": "pmda",
+      "siteId": "PMDA：トップ 国際活動",
       "error": "RSS fetch failed - keeping archived data"
     },
     {
@@ -72,6 +82,16 @@
       "url": "https://www.ema.europa.eu/en/human-regulatory-overview/post-authorisation/referral-procedures-human-medicines/questions-answers-article-31-non-pharmacovigilance-referrals",
       "publishedAt": "2026-07-15",
       "excerpt": "Questions and answers: Article 31 non-pharmacovigilance referrals",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Questions and answers: Article 30 referral procedures",
+      "url": "https://www.ema.europa.eu/en/human-regulatory-overview/post-authorisation/referral-procedures-human-medicines/questions-answers-article-30-referral-procedures",
+      "publishedAt": "2026-07-15",
+      "excerpt": "Questions and answers: Article 30 referral procedures",
       "sourceType": "rss"
     },
     {
@@ -355,6 +375,16 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "FDA’s Drug Registration and Listing Workshop: Compliance, Regulatory and Submission Updates - 09/29/2026",
+      "url": "http://www.fda.gov/drugs/news-events-human-drugs/fdas-drug-registration-and-listing-workshop-compliance-regulatory-and-submission-updates-09292026",
+      "publishedAt": "2026-07-15",
+      "excerpt": "Join SBIA as FDA shares the latest updates on registration and listing submissions, including current validation rules, and walks through the evolving regulatory requirements and compliance framework that shape how industry engages with these processes.",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "ema-news-and-press-releases",
       "siteName": "News and press releases",
       "region": "EU",
@@ -448,10 +478,40 @@
       "siteId": "fda-whats-new-drugs",
       "siteName": "What's New: Drugs",
       "region": "US",
+      "title": "CDER Small Business and Industry Assistance (SBIA) Learn",
+      "url": "http://www.fda.gov/drugs/cder-small-business-industry-assistance-sbia/cder-small-business-and-industry-assistance-sbia-learn",
+      "publishedAt": "2026-07-15",
+      "excerpt": "SBIA Learn offers a variety of multimedia resources to provide information that is comprehensive, interactive, and easily accessible to small pharmaceutical business and industry.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "CDER Small Business & Industry Assistance (SBIA)",
+      "url": "http://www.fda.gov/drugs/development-approval-process-drugs/cder-small-business-industry-assistance-sbia",
+      "publishedAt": "2026-07-15",
+      "excerpt": "A Comprehensive Resource for Information on Human Drug Development in Regulation",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
       "title": "CDER Guidance Agenda",
       "url": "http://www.fda.gov/drugs/guidances-drugs/cder-guidance-agenda",
       "publishedAt": "2026-07-15",
       "excerpt": "CDER Guidance Agenda",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "An Enduring Mission in a New Era: The FDA Public Health Pillars",
+      "url": "http://www.fda.gov/news-events/fda-voices/enduring-mission-new-era-fda-public-health-pillars",
+      "publishedAt": "2026-07-15",
+      "excerpt": "For 120 years the FDA's public health priorities have remained rooted in the same enduring mission. Today we are articulating our priorities in a way that reflects the scientific, technological and geopolitical reality shaping this new era of innovation as well as the future of public health.",
       "sourceType": "rss"
     },
     {
@@ -1555,8 +1615,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 国際活動",
-      "siteName": "International (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[薬局方]薬局方に関する国際的な活動についてのプレスリリースを掲載しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/0005.html",
@@ -1565,8 +1625,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 国際活動",
-      "siteName": "International (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[基準]初回治験届出時に留意すべきヒト又は動物由来の細胞株を用いて製造されるバイオテクノロジー応用医薬品等の品質関連資料のチェックリスト（Early Consideration）を掲載しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/guidance-guideline/0003.html",
@@ -2402,16 +2462,6 @@
       "url": "http://www.fda.gov/drugs/drug-alerts-and-statements/cder-proposes-withdraw-approval-tavneos",
       "publishedAt": "2026-07-13",
       "excerpt": "CDER proposes to withdraw approval of TAVNEOS",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "CDER Small Business & Industry Assistance (SBIA)",
-      "url": "http://www.fda.gov/drugs/development-approval-process-drugs/cder-small-business-industry-assistance-sbia",
-      "publishedAt": "2026-07-13",
-      "excerpt": "A Comprehensive Resource for Information on Human Drug Development in Regulation",
       "sourceType": "rss"
     },
     {
@@ -3995,8 +4045,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 国際活動",
-      "siteName": "International (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[その他]倫理審査委員会の委員名簿を更新しました。",
       "url": "https://www.pmda.go.jp/rs-std-jp/research/0009.html",
@@ -5805,8 +5855,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 国際活動",
-      "siteName": "International (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[その他]令和8年度第1回研究支援委員会の議事要旨を掲載しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/research/0008.html",
@@ -7785,8 +7835,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 国際活動",
-      "siteName": "International (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[その他]公的研究費に基づく研究ページを更新しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/research/0004.html",
@@ -9242,16 +9292,6 @@
       "url": "https://www.ema.europa.eu/en/medicines/human/paediatric-investigation-plans/ema-pe-0000228373",
       "publishedAt": "2026-06-23",
       "excerpt": "EMA/PE/0000228373",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "CDER Small Business and Industry Assistance (SBIA) Learn",
-      "url": "http://www.fda.gov/drugs/cder-small-business-industry-assistance-sbia/cder-small-business-and-industry-assistance-sbia-learn",
-      "publishedAt": "2026-06-23",
-      "excerpt": "SBIA Learn offers a variety of multimedia resources to provide information that is comprehensive, interactive, and easily accessible to small pharmaceutical business and industry.",
       "sourceType": "rss"
     },
     {
