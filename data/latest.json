@@ -1,10 +1,20 @@
 {
-  "generatedAt": "2026-07-16T06:37:37.178575+00:00",
-  "count": 1610,
+  "generatedAt": "2026-07-16T09:36:07.359157+00:00",
+  "count": 1613,
   "errors": [
     {
       "groupId": "pmda",
       "siteId": "services-for-healtheffects",
+      "error": "RSS fetch failed - keeping archived data"
+    },
+    {
+      "groupId": "pmda",
+      "siteId": "international-activities",
+      "error": "RSS fetch failed - keeping archived data"
+    },
+    {
+      "groupId": "pmda",
+      "siteId": "PMDAの新着情報",
       "error": "RSS fetch failed - keeping archived data"
     },
     {
@@ -19,7 +29,22 @@
     },
     {
       "groupId": "pmda",
+      "siteId": "PMDA：トップ 安全対策",
+      "error": "RSS fetch failed - keeping archived data"
+    },
+    {
+      "groupId": "pmda",
+      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
+      "error": "RSS fetch failed - keeping archived data"
+    },
+    {
+      "groupId": "pmda",
       "siteId": "PMDA：トップ 国際活動",
+      "error": "RSS fetch failed - keeping archived data"
+    },
+    {
+      "groupId": "pmda",
+      "siteId": "PMDA：トップ その他",
       "error": "RSS fetch failed - keeping archived data"
     }
   ],
@@ -42,6 +67,46 @@
       "url": "https://www.pmda.go.jp/about-pmda/symposia/0030.html",
       "publishedAt": "2026-07-16",
       "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Questions and answers on Article 29(4) referral procedures",
+      "url": "https://www.ema.europa.eu/system/files/documents/regulatory-procedural-guideline/questions-answers-article-294-referral-procedures-en.pdf",
+      "publishedAt": "2026-07-16",
+      "excerpt": "Questions and answers on Article 29(4) referral procedures",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-regulatory-and-procedural-guidelines",
+      "siteName": "Regulatory and procedural guidelines (human and veterinary)",
+      "region": "EU",
+      "title": "Questions and answers on Article 29(4) referral procedures",
+      "url": "https://www.ema.europa.eu/en/documents/regulatory-procedural-guideline/questions-answers-article-294-referral-procedures_en.pdf",
+      "publishedAt": "2026-07-16",
+      "excerpt": "Questions and answers on Article 29(4) referral procedures",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Opinion/decision on a Paediatric investigation plan (PIP): Enspryng, satralizumab, decision type: PM: decision on the application for modification of an agreed PIP, PIP number: P/0028/2023",
+      "url": "https://www.ema.europa.eu/en/medicines/human/paediatric-investigation-plans/ema-pe-0000228512",
+      "publishedAt": "2026-07-16",
+      "excerpt": "Opinion/decision on a Paediatric investigation plan (PIP): Enspryng, satralizumab, decision type: PM: decision on the application for modification of an agreed PIP, PIP number: P/0028/2023",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Rybrevant, amivantamab, Date of authorisation: 09/12/2021, Revision: 11, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/rybrevant",
+      "publishedAt": "2026-07-16",
+      "excerpt": "Human medicines European public assessment report (EPAR): Rybrevant, amivantamab, Date of authorisation: 09/12/2021, Revision: 11, Status: Authorised",
       "sourceType": "rss"
     },
     {
@@ -5582,16 +5647,6 @@
       "url": "https://www.ema.europa.eu/en/medicines/human/paediatric-investigation-plans/emea-002183-pip03-23-0",
       "publishedAt": "2026-07-03",
       "excerpt": "Opinion/decision on a Paediatric investigation plan (PIP): Idefirix, imlifidase, decision type: P: decision agreeing on a investigation plan, with or without partial waiver(s) and or deferral(s), therapeutic area: Renal and urinary disorders, PIP number: EMEA-002183-PIP03-23",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "ema-whats-new",
-      "siteName": "What's new",
-      "region": "EU",
-      "title": "Opinion/decision on a Paediatric investigation plan (PIP): Enspryng, satralizumab, decision type: PM: decision on the application for modification of an agreed PIP, PIP number: P/0028/2023",
-      "url": "https://www.ema.europa.eu/en/medicines/human/paediatric-investigation-plans/ema-pe-0000228512",
-      "publishedAt": "2026-07-03",
-      "excerpt": "Opinion/decision on a Paediatric investigation plan (PIP): Enspryng, satralizumab, decision type: PM: decision on the application for modification of an agreed PIP, PIP number: P/0028/2023",
       "sourceType": "rss"
     },
     {
