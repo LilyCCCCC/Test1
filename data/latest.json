@@ -1,10 +1,25 @@
 {
-  "generatedAt": "2026-07-17T11:45:15.776871+00:00",
-  "count": 1675,
+  "generatedAt": "2026-07-17T14:09:44.646607+00:00",
+  "count": 1683,
   "errors": [
     {
       "groupId": "pmda",
       "siteId": "services-for-healtheffects",
+      "error": "RSS fetch failed - keeping archived data"
+    },
+    {
+      "groupId": "pmda",
+      "siteId": "PMDA：トップ 安全対策",
+      "error": "RSS fetch failed - keeping archived data"
+    },
+    {
+      "groupId": "pmda",
+      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
+      "error": "RSS fetch failed - keeping archived data"
+    },
+    {
+      "groupId": "pmda",
+      "siteId": "PMDA：トップ 国際活動",
       "error": "RSS fetch failed - keeping archived data"
     },
     {
@@ -62,6 +77,16 @@
       "url": "https://www.ema.europa.eu/en/medicines/veterinary/EPAR/bexatil",
       "publishedAt": "2026-07-17",
       "excerpt": "Veterinary medicines European public assessment report (EPAR): Bexatil, Bexagliflozin, Status: Opinion",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Terms of reference for the advanced therapy medicinal products cluster",
+      "url": "https://www.ema.europa.eu/system/files/documents/other/terms-reference_atmp-cluster_en_0.pdf",
+      "publishedAt": "2026-07-17",
+      "excerpt": "Terms of reference for the advanced therapy medicinal products cluster",
       "sourceType": "rss"
     },
     {
@@ -158,6 +183,16 @@
       "siteId": "ema-whats-new",
       "siteName": "What's new",
       "region": "EU",
+      "title": "Minutes of the HMPC meeting 4-6 May 2026",
+      "url": "https://www.ema.europa.eu/system/files/documents/minutes/draft-hmpc-minutes-04-06-may-2026-en.pdf",
+      "publishedAt": "2026-07-17",
+      "excerpt": "Minutes of the HMPC meeting 4-6 May 2026",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
       "title": "Meeting of the Executive Steering Group on Shortages and Safety of Medicinal Products (MSSG) - July 2026, Online, European Medicines Agency, Amsterdam, the Netherlands, from 17 July 2026, 10:00 (CEST) to 17 July 2026, 11:30 (CEST)",
       "url": "https://www.ema.europa.eu/en/events/meeting-executive-steering-group-shortages-safety-medicinal-products-mssg-july-2026",
       "publishedAt": "2026-07-17",
@@ -178,10 +213,80 @@
       "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
       "siteName": "Human medicines: EPARs and summaries of opinion",
       "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Kefdensis, denosumab, Date of authorisation: 17/11/2025, Revision: 3, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/kefdensis",
+      "publishedAt": "2026-07-17",
+      "excerpt": "Human medicines European public assessment report (EPAR): Kefdensis, denosumab, Date of authorisation: 17/11/2025, Revision: 3, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Inaqovi, cedazuridine,decitabine, Date of authorisation: 15/09/2023, Revision: 4, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/inaqovi",
+      "publishedAt": "2026-07-17",
+      "excerpt": "Human medicines European public assessment report (EPAR): Inaqovi, cedazuridine,decitabine, Date of authorisation: 15/09/2023, Revision: 4, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Hukyndra, adalimumab, Date of authorisation: 15/11/2021, Revision: 12, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/hukyndra",
+      "publishedAt": "2026-07-17",
+      "excerpt": "Human medicines European public assessment report (EPAR): Hukyndra, adalimumab, Date of authorisation: 15/11/2021, Revision: 12, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Fluenz, influenza vaccine (live attenuated, nasal), Date of authorisation: 03/06/2024, Revision: 7, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/fluenz",
+      "publishedAt": "2026-07-17",
+      "excerpt": "Human medicines European public assessment report (EPAR): Fluenz, influenza vaccine (live attenuated, nasal), Date of authorisation: 03/06/2024, Revision: 7, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Flucelvax, influenza vaccine (surface antigen, inactivated, prepared in cell cultures), Date of authorisation: 15/11/2024, Revision: 4, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/flucelvax",
+      "publishedAt": "2026-07-17",
+      "excerpt": "Human medicines European public assessment report (EPAR): Flucelvax, influenza vaccine (surface antigen, inactivated, prepared in cell cultures), Date of authorisation: 15/11/2024, Revision: 4, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Fluad, influenza vaccine (surface antigen, inactivated, adjuvanted), Date of authorisation: 15/11/2024, Revision: 2, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/fluad",
+      "publishedAt": "2026-07-17",
+      "excerpt": "Human medicines European public assessment report (EPAR): Fluad, influenza vaccine (surface antigen, inactivated, adjuvanted), Date of authorisation: 15/11/2024, Revision: 2, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
       "title": "Human medicines European public assessment report (EPAR): Enhertu, trastuzumab deruxtecan, Date of authorisation: 18/01/2021, Revision: 21, Status: Authorised",
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/enhertu",
       "publishedAt": "2026-07-17",
       "excerpt": "Human medicines European public assessment report (EPAR): Enhertu, trastuzumab deruxtecan, Date of authorisation: 18/01/2021, Revision: 21, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Anzupgo, delgocitinib, Date of authorisation: 19/09/2024, Revision: 3, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/anzupgo",
+      "publishedAt": "2026-07-17",
+      "excerpt": "Human medicines European public assessment report (EPAR): Anzupgo, delgocitinib, Date of authorisation: 19/09/2024, Revision: 3, Status: Authorised",
       "sourceType": "rss"
     },
     {
@@ -232,6 +337,26 @@
       "url": "https://www.ema.europa.eu/system/files/documents/other/sponsor-handbook-v-64_clean-version_20260716-en.pdf",
       "publishedAt": "2026-07-17",
       "excerpt": "Clinical Trial Information System (CTIS) - Sponsor handbook",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Antivirals cluster – Terms of Reference",
+      "url": "https://www.ema.europa.eu/system/files/documents/other/terms-reference_antivirals-cluster_en_0.pdf",
+      "publishedAt": "2026-07-17",
+      "excerpt": "Antivirals cluster – Terms of Reference",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Advice on the influenza virus on request from the Medical Device Coordination Group",
+      "url": "https://www.ema.europa.eu/system/files/documents/other/advice-influenza-virus-request-medical-device-coordination-group_en.pdf",
+      "publishedAt": "2026-07-17",
+      "excerpt": "Advice on the influenza virus on request from the Medical Device Coordination Group",
       "sourceType": "rss"
     },
     {
@@ -2565,8 +2690,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 国際活動",
-      "siteName": "International (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[薬局方]薬局方に関する国際的な活動についてのプレスリリースを掲載しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/0005.html",
@@ -2575,8 +2700,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 国際活動",
-      "siteName": "International (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[基準]初回治験届出時に留意すべきヒト又は動物由来の細胞株を用いて製造されるバイオテクノロジー応用医薬品等の品質関連資料のチェックリスト（Early Consideration）を掲載しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/guidance-guideline/0003.html",
@@ -4955,8 +5080,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 国際活動",
-      "siteName": "International (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[その他]倫理審査委員会の委員名簿を更新しました。",
       "url": "https://www.pmda.go.jp/rs-std-jp/research/0009.html",
@@ -5322,16 +5447,6 @@
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/ixchiq",
       "publishedAt": "2026-07-07",
       "excerpt": "Human medicines European public assessment report (EPAR): Ixchiq, Chikungunya vaccine (live), Date of authorisation: 28/06/2024, Revision: 6, Status: Authorised",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
-      "siteName": "Human medicines: EPARs and summaries of opinion",
-      "region": "EU",
-      "title": "Human medicines European public assessment report (EPAR): Fluenz, influenza vaccine (live attenuated, nasal), Date of authorisation: 03/06/2024, Revision: 6, Status: Authorised",
-      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/fluenz",
-      "publishedAt": "2026-07-07",
-      "excerpt": "Human medicines European public assessment report (EPAR): Fluenz, influenza vaccine (live attenuated, nasal), Date of authorisation: 03/06/2024, Revision: 6, Status: Authorised",
       "sourceType": "rss"
     },
     {
@@ -6745,8 +6860,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 国際活動",
-      "siteName": "International (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[その他]令和8年度第1回研究支援委員会の議事要旨を掲載しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/research/0008.html",
@@ -7135,8 +7250,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 安全対策",
-      "siteName": "Adverse Health Effects Relief (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[健康]令和7年度「医薬品副作用被害救済制度に関する認知度調査」結果を掲載しました",
       "url": "https://www.pmda.go.jp/relief-services/adr-sufferers/0023.html",
@@ -7735,8 +7850,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 安全対策",
-      "siteName": "Adverse Health Effects Relief (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[健康]副用救済給付の決定に関する情報（2026年度4月分）を掲載しました",
       "url": "https://www.pmda.go.jp/relief-services/adr-sufferers/0043.html",
@@ -8705,8 +8820,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 国際活動",
-      "siteName": "International (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[その他]公的研究費に基づく研究ページを更新しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/research/0004.html",
@@ -9318,16 +9433,6 @@
       "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
       "siteName": "Human medicines: EPARs and summaries of opinion",
       "region": "EU",
-      "title": "Human medicines European public assessment report (EPAR): Inaqovi, cedazuridine,decitabine, Date of authorisation: 15/09/2023, Revision: 4, Status: Authorised",
-      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/inaqovi",
-      "publishedAt": "2026-06-25",
-      "excerpt": "Human medicines European public assessment report (EPAR): Inaqovi, cedazuridine,decitabine, Date of authorisation: 15/09/2023, Revision: 4, Status: Authorised",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
-      "siteName": "Human medicines: EPARs and summaries of opinion",
-      "region": "EU",
       "title": "Human medicines European public assessment report (EPAR): Feraccru, ferric maltol, Date of authorisation: 18/02/2016, Revision: 20, Status: Authorised",
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/feraccru",
       "publishedAt": "2026-06-25",
@@ -9455,8 +9560,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 安全対策",
-      "siteName": "Adverse Health Effects Relief (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[健康]生物由来製品等の一覧を更新しました",
       "url": "https://www.pmda.go.jp/relief-services/infections/0032.html",
@@ -10672,16 +10777,6 @@
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/nucala",
       "publishedAt": "2026-06-16",
       "excerpt": "Human medicines European public assessment report (EPAR): Nucala, mepolizumab, Date of authorisation: 01/12/2015, Revision: 27, Status: Authorised",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
-      "siteName": "Human medicines: EPARs and summaries of opinion",
-      "region": "EU",
-      "title": "Human medicines European public assessment report (EPAR): Kefdensis, denosumab, Date of authorisation: 17/11/2025, Revision: 2, Status: Authorised",
-      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/kefdensis",
-      "publishedAt": "2026-06-16",
-      "excerpt": "Human medicines European public assessment report (EPAR): Kefdensis, denosumab, Date of authorisation: 17/11/2025, Revision: 2, Status: Authorised",
       "sourceType": "rss"
     },
     {
