@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-17T14:09:44.630437+00:00",
-  "count": 1683,
+  "generatedAt": "2026-07-17T15:48:58.195355+00:00",
+  "count": 1708,
   "items": [
     {
       "siteId": "notice-from-tfda",
@@ -10,6 +10,16 @@
       "url": "http://www.fda.gov.tw/tc/newsContent.aspx?cid=3&id=31603&utm_source=rss&utm_medium=feed&utm_campaign=rss_subscription",
       "publishedAt": "2026-07-17",
       "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "eCTD Submission Standards for eCTD v3.2.2 and Regional M1",
+      "url": "http://www.fda.gov/drugs/electronic-regulatory-submission-and-review/ectd-submission-standards-ectd-v322-and-regional-m1",
+      "publishedAt": "2026-07-17",
+      "excerpt": "eCTD Submission Standards",
       "sourceType": "rss"
     },
     {
@@ -43,6 +53,26 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "What's New Related to Drugs",
+      "url": "http://www.fda.gov/drugs/news-events-human-drugs/whats-new-related-drugs",
+      "publishedAt": "2026-07-17",
+      "excerpt": "Want to know what's new on drugs from FDA? This page provides quick links to the latest on a variety of topics including: drug approvals, safety warnings, drug shortages, etc.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Veterinary pharmacovigilance cluster - Terms of reference",
+      "url": "https://www.ema.europa.eu/system/files/documents/other/terms-reference_veterinary-pharmacovigilance-cluster_en_0.pdf",
+      "publishedAt": "2026-07-17",
+      "excerpt": "Veterinary pharmacovigilance cluster - Terms of reference",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "ema-whats-new",
       "siteName": "What's new",
       "region": "EU",
@@ -56,10 +86,130 @@
       "siteId": "ema-whats-new",
       "siteName": "What's new",
       "region": "EU",
+      "title": "Veterinary medicinal products cluster - Terms of reference",
+      "url": "https://www.ema.europa.eu/system/files/documents/other/terms-reference_veterinary-medicinal-product-cluster_en.pdf",
+      "publishedAt": "2026-07-17",
+      "excerpt": "Veterinary medicinal products cluster - Terms of reference",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Terms of reference for the rare diseases cluster",
+      "url": "https://www.ema.europa.eu/system/files/documents/other/terms-reference_rare-diseases-cluster_en_0.pdf",
+      "publishedAt": "2026-07-17",
+      "excerpt": "Terms of reference for the rare diseases cluster",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Terms of reference for the cluster on pregnancy and lactation",
+      "url": "https://www.ema.europa.eu/system/files/documents/other/terms-reference_pregnancy-lactation-cluster_en_0.pdf",
+      "publishedAt": "2026-07-17",
+      "excerpt": "Terms of reference for the cluster on pregnancy and lactation",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
       "title": "Terms of reference for the advanced therapy medicinal products cluster",
       "url": "https://www.ema.europa.eu/system/files/documents/other/terms-reference_atmp-cluster_en_0.pdf",
       "publishedAt": "2026-07-17",
       "excerpt": "Terms of reference for the advanced therapy medicinal products cluster",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Terms of reference for the European Medicines Agency, United States Food and Drugs Administration and Health Canada cluster on patient engagement",
+      "url": "https://www.ema.europa.eu/system/files/documents/other/terms-reference_patient-engagement-cluster_en_0.pdf",
+      "publishedAt": "2026-07-17",
+      "excerpt": "Terms of reference for the European Medicines Agency, United States Food and Drugs Administration and Health Canada cluster on patient engagement",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Terms of reference for the European Medicines Agency, Health Canada and United States Food and Drugs Administration cluster on vaccines",
+      "url": "https://www.ema.europa.eu/system/files/documents/other/terms-reference_vaccines-cluster_en_0.pdf",
+      "publishedAt": "2026-07-17",
+      "excerpt": "Terms of reference for the European Medicines Agency, Health Canada and United States Food and Drugs Administration cluster on vaccines",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Terms of reference for the European Medicines Agency, Health Canada and United States Food and Drug Administration cluster on blood products",
+      "url": "https://www.ema.europa.eu/system/files/documents/other/terms-reference_blood-products-cluster_en_0.pdf",
+      "publishedAt": "2026-07-17",
+      "excerpt": "Terms of reference for the European Medicines Agency, Health Canada and United States Food and Drug Administration cluster on blood products",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Terms of reference for the European Medicines Agency – United States Food and Drugs Administration – Health Canada cluster on real world data",
+      "url": "https://www.ema.europa.eu/system/files/documents/other/terms-reference_real-word-evidence-cluster_en_0.pdf",
+      "publishedAt": "2026-07-17",
+      "excerpt": "Terms of reference for the European Medicines Agency – United States Food and Drugs Administration – Health Canada cluster on real world data",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Terms of reference for the European Medicines Agency and the United States Food and Drugs Administration cluster on orphan medicinal products",
+      "url": "https://www.ema.europa.eu/system/files/documents/other/terms-reference_orphan-medicinal-products-cluster_en_0.pdf",
+      "publishedAt": "2026-07-17",
+      "excerpt": "Terms of reference for the European Medicines Agency and the United States Food and Drugs Administration cluster on orphan medicinal products",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Terms of reference for the European Medicines Agency and United States Food and Drugs Administration cardiovascular cluster",
+      "url": "https://www.ema.europa.eu/system/files/documents/other/terms-reference_cardiovascular-cluster_en_0.pdf",
+      "publishedAt": "2026-07-17",
+      "excerpt": "Terms of reference for the European Medicines Agency and United States Food and Drugs Administration cardiovascular cluster",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Terms of reference for biosimilars cluster",
+      "url": "https://www.ema.europa.eu/system/files/documents/other/terms-reference_biosimilars-cluster_en_0.pdf",
+      "publishedAt": "2026-07-17",
+      "excerpt": "Terms of reference for biosimilars cluster",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Terms of reference for European Medicines Agency and United States Food and Drug Admnistration oncology early-dialogue cluster",
+      "url": "https://www.ema.europa.eu/system/files/documents/other/terms-reference_oncology-early-dialogue-cluster_en_0.pdf",
+      "publishedAt": "2026-07-17",
+      "excerpt": "Terms of reference for European Medicines Agency and United States Food and Drug Admnistration oncology early-dialogue cluster",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Terms of Reference for the Non-Clinical Oncology European Medicines Agency and United States Food and Drug Administration Cluster",
+      "url": "https://www.ema.europa.eu/system/files/documents/other/terms-reference_non-clinical-oncology-cluster_en_0.pdf",
+      "publishedAt": "2026-07-17",
+      "excerpt": "Terms of Reference for the Non-Clinical Oncology European Medicines Agency and United States Food and Drug Administration Cluster",
       "sourceType": "rss"
     },
     {
@@ -86,10 +236,60 @@
       "siteId": "ema-whats-new",
       "siteName": "What's new",
       "region": "EU",
+      "title": "Pharmacovigilance cluster – Terms of Reference",
+      "url": "https://www.ema.europa.eu/system/files/documents/other/terms-reference_pharmacovigilance-cluster_en_0.pdf",
+      "publishedAt": "2026-07-17",
+      "excerpt": "Pharmacovigilance cluster – Terms of Reference",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Pharmacometrics cluster – Terms of Reference",
+      "url": "https://www.ema.europa.eu/system/files/documents/other/terms-reference_pharmacometrics-cluster_en_0.pdf",
+      "publishedAt": "2026-07-17",
+      "excerpt": "Pharmacometrics cluster – Terms of Reference",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Pediatric cluster terms of reference",
+      "url": "https://www.ema.europa.eu/system/files/documents/other/terms-reference_pediatric-cluster_en_0.pdf",
+      "publishedAt": "2026-07-17",
+      "excerpt": "Pediatric cluster terms of reference",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "PSUSA/00010532/202509",
+      "url": "https://www.ema.europa.eu/en/medicines/psusa/psusa-00010532-202509",
+      "publishedAt": "2026-07-17",
+      "excerpt": "PSUSA/00010532/202509",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
       "title": "PSUSA/00002798/202411",
       "url": "https://www.ema.europa.eu/en/medicines/psusa/psusa-00002798-202411",
       "publishedAt": "2026-07-17",
       "excerpt": "PSUSA/00002798/202411",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "PSUSA/00000421/202509",
+      "url": "https://www.ema.europa.eu/en/medicines/psusa/psusa-00000421-202509",
+      "publishedAt": "2026-07-17",
+      "excerpt": "PSUSA/00000421/202509",
       "sourceType": "rss"
     },
     {
@@ -153,6 +353,26 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Novel Drug Approvals for 2026",
+      "url": "http://www.fda.gov/drugs/novel-drug-approvals-fda/novel-drug-approvals-2026",
+      "publishedAt": "2026-07-17",
+      "excerpt": "Novel Drug Approvals for 2026",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Neuroscience Cluster – Terms of Reference",
+      "url": "https://www.ema.europa.eu/system/files/documents/other/terms-reference_neuroscience-cluster_en_0.pdf",
+      "publishedAt": "2026-07-17",
+      "excerpt": "Neuroscience Cluster – Terms of Reference",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "ema-whats-new",
       "siteName": "What's new",
       "region": "EU",
@@ -180,6 +400,26 @@
       "url": "https://www.ema.europa.eu/en/news/meeting-highlights-committee-veterinary-medicinal-products-cvmp-14-16-july-2026",
       "publishedAt": "2026-07-17",
       "excerpt": "CVMP opinions on veterinary medicinal products The Committee adopted a positive opinion for a marketing authorisation for Bexatil for the reduction of hyperglycaemia in cats…",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "List of clinical evaluation consultation procedure (CECP) opinions issued for medical devices awaiting finalisation of conformity assessment",
+      "url": "https://www.ema.europa.eu/system/files/documents/other/list-cecp-opinions-issued-mds-awaiting-finalisation-conformity-assmt_en_2.pdf",
+      "publishedAt": "2026-07-17",
+      "excerpt": "List of clinical evaluation consultation procedure (CECP) opinions issued for medical devices awaiting finalisation of conformity assessment",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "July 23-24, 2026: Meeting of the Pharmacy Compounding Advisory Committee - 07/23/2026",
+      "url": "http://www.fda.gov/advisory-committees/advisory-committee-calendar/july-23-24-2026-meeting-pharmacy-compounding-advisory-committee-07232026",
+      "publishedAt": "2026-07-17",
+      "excerpt": "On July 23-24, 2026, the Committee will discuss bulk drug substances being considered for inclusion on the 503A Bulks List.",
       "sourceType": "rss"
     },
     {
@@ -256,10 +496,20 @@
       "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
       "siteName": "Human medicines: EPARs and summaries of opinion",
       "region": "EU",
-      "title": "Human medicines European public assessment report (EPAR): Anzupgo, delgocitinib, Date of authorisation: 19/09/2024, Revision: 3, Status: Authorised",
+      "title": "Human medicines European public assessment report (EPAR): Anzupgo, delgocitinib, Date of authorisation: 19/09/2024, Revision: 4, Status: Authorised",
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/anzupgo",
       "publishedAt": "2026-07-17",
-      "excerpt": "Human medicines European public assessment report (EPAR): Anzupgo, delgocitinib, Date of authorisation: 19/09/2024, Revision: 3, Status: Authorised",
+      "excerpt": "Human medicines European public assessment report (EPAR): Anzupgo, delgocitinib, Date of authorisation: 19/09/2024, Revision: 4, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Human Drug Imports",
+      "url": "http://www.fda.gov/drugs/guidance-compliance-regulatory-information/human-drug-imports",
+      "publishedAt": "2026-07-17",
+      "excerpt": "Human drug import information including PLAIR, safe importation action plan, and personal importation policy.",
       "sourceType": "rss"
     },
     {
@@ -283,6 +533,26 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Guiding principles for the EMA - US FDA cluster teleconferences on Artificial Intelligence in Pharmacovigilance",
+      "url": "https://www.ema.europa.eu/system/files/documents/other/terms-reference_ai-pharmacovigilance_en_0.pdf",
+      "publishedAt": "2026-07-17",
+      "excerpt": "Guiding principles for the EMA - US FDA cluster teleconferences on Artificial Intelligence in Pharmacovigilance",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-criminal-investigations-press-releases",
+      "siteName": "Criminal Investigations Press Releases",
+      "region": "US",
+      "title": "FDA Approves First Oral PCSK9 Inhibitor to Lower LDL Cholesterol in Adults with High Cholesterol",
+      "url": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-oral-pcsk9-inhibitor-lower-ldl-cholesterol-adults-high-cholesterol",
+      "publishedAt": "2026-07-17",
+      "excerpt": "The U.S. Food and Drug Administration approved Lipfendra (enlicitide), the first oral inhibitor of proprotein convertase subtilisin/kexin type 9 (PCSK9), as an adjunct to diet and exercise to reduce low-density lipoprotein cholesterol (LDL-C), or “bad” cholesterol, in adults with hypercholesterolemi",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "reviews",
       "siteName": "Reviews (EN)",
       "region": "JP",
@@ -290,6 +560,46 @@
       "url": "https://www.pmda.go.jp/english/review-services/reviews/approved-information/0004.html",
       "publishedAt": "2026-07-17",
       "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Dual chamber leadless pacemaker - Notified Bodfy 123 - 28/03/2024 - Expert decision and opinion in the context of the clinical evaluation consultation procedure (CECP)",
+      "url": "https://www.ema.europa.eu/system/files/documents/other/ema-ex-0000165655_cecp_opinion_final_en.pdf",
+      "publishedAt": "2026-07-17",
+      "excerpt": "Dual chamber leadless pacemaker - Notified Bodfy 123 - 28/03/2024 - Expert decision and opinion in the context of the clinical evaluation consultation procedure (CECP)",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Drugs@FDA Data Files",
+      "url": "http://www.fda.gov/drugs/drug-approvals-and-databases/drugsfda-data-files",
+      "publishedAt": "2026-07-17",
+      "excerpt": "Drugs@FDA Downloadable Data File in ZIP format, Data Definitions, and Entity Relationship Diagram (ERD)",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Drug Trials Snapshots: ZYCUBO",
+      "url": "http://www.fda.gov/drugs/drug-trials-snapshots/drug-trials-snapshots-zycubo",
+      "publishedAt": "2026-07-17",
+      "excerpt": "Drug Trials Snapshots: ZYCUBO",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Drug Trials Snapshots",
+      "url": "http://www.fda.gov/drugs/drug-approvals-and-databases/drug-trials-snapshots",
+      "publishedAt": "2026-07-17",
+      "excerpt": "Drug Trials Snapshots: breaking down the what, how and why. Drug Trials Snapshots are part of an overall FDA effort to make demographic data more available and transparent.",
       "sourceType": "rss"
     },
     {
@@ -310,6 +620,16 @@
       "url": "https://www.ema.europa.eu/system/files/documents/other/sponsor-handbook-v-64_clean-version_20260716-en.pdf",
       "publishedAt": "2026-07-17",
       "excerpt": "Clinical Trial Information System (CTIS) - Sponsor handbook",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Biostatistics cluster – Terms of Reference",
+      "url": "https://www.ema.europa.eu/system/files/documents/other/terms-reference_biostatistics_en.pdf",
+      "publishedAt": "2026-07-17",
+      "excerpt": "Biostatistics cluster – Terms of Reference",
       "sourceType": "rss"
     },
     {
@@ -370,16 +690,6 @@
       "url": "http://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/wholesale-peptide-729447-06172026",
       "publishedAt": "2026-07-16",
       "excerpt": "Unapproved New Drugs/Misbranded",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "What's New Related to Drugs",
-      "url": "http://www.fda.gov/drugs/news-events-human-drugs/whats-new-related-drugs",
-      "publishedAt": "2026-07-16",
-      "excerpt": "Want to know what's new on drugs from FDA? This page provides quick links to the latest on a variety of topics including: drug approvals, safety warnings, drug shortages, etc.",
       "sourceType": "rss"
     },
     {
@@ -1386,16 +1696,6 @@
       "siteId": "fda-whats-new-drugs",
       "siteName": "What's New: Drugs",
       "region": "US",
-      "title": "Drugs@FDA Data Files",
-      "url": "http://www.fda.gov/drugs/drug-approvals-and-databases/drugsfda-data-files",
-      "publishedAt": "2026-07-15",
-      "excerpt": "Drugs@FDA Downloadable Data File in ZIP format, Data Definitions, and Entity Relationship Diagram (ERD)",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
       "title": "Drug Shortages | Additional News and Information",
       "url": "http://www.fda.gov/drugs/drug-shortages/drug-shortages-additional-news-and-information",
       "publishedAt": "2026-07-15",
@@ -2010,16 +2310,6 @@
       "url": "http://www.fda.gov/about-fda/labor-augsburg-mvz-gmbh",
       "publishedAt": "2026-07-14",
       "excerpt": "Labor Augsburg MVZ GmbH, Bavaria, Germany, 5/9/25, 3036040213",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "July 23-24, 2026: Meeting of the Pharmacy Compounding Advisory Committee - 07/23/2026",
-      "url": "http://www.fda.gov/advisory-committees/advisory-committee-calendar/july-23-24-2026-meeting-pharmacy-compounding-advisory-committee-07232026",
-      "publishedAt": "2026-07-14",
-      "excerpt": "On July 23-24, 2026, the Committee will discuss bulk drug substances being considered for inclusion on the 503A Bulks List.",
       "sourceType": "rss"
     },
     {
@@ -2663,8 +2953,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
+      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
       "region": "JP",
       "title": "[薬局方]薬局方に関する国際的な活動についてのプレスリリースを掲載しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/0005.html",
@@ -2673,8 +2963,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
+      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
       "region": "JP",
       "title": "[基準]初回治験届出時に留意すべきヒト又は動物由来の細胞株を用いて製造されるバイオテクノロジー応用医薬品等の品質関連資料のチェックリスト（Early Consideration）を掲載しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/guidance-guideline/0003.html",
@@ -4343,16 +4633,6 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "eCTD Submission Standards for eCTD v3.2.2 and Regional M1",
-      "url": "http://www.fda.gov/drugs/electronic-regulatory-submission-and-review/ectd-submission-standards-ectd-v322-and-regional-m1",
-      "publishedAt": "2026-07-09",
-      "excerpt": "eCTD Submission Standards",
-      "sourceType": "rss"
-    },
-    {
       "siteId": "PMDA：トップ 承認審査",
       "siteName": "Review for (marketing) approval (JP)",
       "region": "JP",
@@ -4963,16 +5243,6 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "Drug Trials Snapshots",
-      "url": "http://www.fda.gov/drugs/drug-approvals-and-databases/drug-trials-snapshots",
-      "publishedAt": "2026-07-08",
-      "excerpt": "Drug Trials Snapshots: breaking down the what, how and why. Drug Trials Snapshots are part of an overall FDA effort to make demographic data more available and transparent.",
-      "sourceType": "rss"
-    },
-    {
       "siteId": "ema-whats-new",
       "siteName": "What's new",
       "region": "EU",
@@ -5053,8 +5323,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
+      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
       "region": "JP",
       "title": "[その他]倫理審査委員会の委員名簿を更新しました。",
       "url": "https://www.pmda.go.jp/rs-std-jp/research/0009.html",
@@ -5200,16 +5470,6 @@
       "url": "https://www.ema.europa.eu/en/medicines/human/paediatric-investigation-plans/ema-pe-0000240232",
       "publishedAt": "2026-07-07",
       "excerpt": "Opinion/decision on a Paediatric investigation plan (PIP): Briviact (in Italy: Nubriveo), Brivaracetam, decision type: PM: decision on the application for modification of an agreed PIP, therapeutic area: Nervous system disorders, PIP number: EMA/PE/0000240232",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "Novel Drug Approvals for 2026",
-      "url": "http://www.fda.gov/drugs/novel-drug-approvals-fda/novel-drug-approvals-2026",
-      "publishedAt": "2026-07-07",
-      "excerpt": "Novel Drug Approvals for 2026",
       "sourceType": "rss"
     },
     {
@@ -6833,8 +7093,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
+      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
       "region": "JP",
       "title": "[その他]令和8年度第1回研究支援委員会の議事要旨を掲載しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/research/0008.html",
@@ -7223,8 +7483,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Adverse Health Effects Relief (JP)",
       "region": "JP",
       "title": "[健康]令和7年度「医薬品副作用被害救済制度に関する認知度調査」結果を掲載しました",
       "url": "https://www.pmda.go.jp/relief-services/adr-sufferers/0023.html",
@@ -7823,8 +8083,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Adverse Health Effects Relief (JP)",
       "region": "JP",
       "title": "[健康]副用救済給付の決定に関する情報（2026年度4月分）を掲載しました",
       "url": "https://www.pmda.go.jp/relief-services/adr-sufferers/0043.html",
@@ -8793,8 +9053,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
+      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
       "region": "JP",
       "title": "[その他]公的研究費に基づく研究ページを更新しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/research/0004.html",
@@ -9533,8 +9793,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Adverse Health Effects Relief (JP)",
       "region": "JP",
       "title": "[健康]生物由来製品等の一覧を更新しました",
       "url": "https://www.pmda.go.jp/relief-services/infections/0032.html",
@@ -10343,8 +10603,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 国際活動",
-      "siteName": "International (JP)",
+      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
+      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
       "region": "JP",
       "title": "[薬局方][パブコメ]日本薬局方新規収載候補品目（案）に関するご意見の募集について（2026年6月分）",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/pub-comments/jp/0262.html",
@@ -11006,16 +11266,6 @@
       "siteId": "fda-whats-new-drugs",
       "siteName": "What's New: Drugs",
       "region": "US",
-      "title": "Human Drug Imports",
-      "url": "http://www.fda.gov/drugs/guidance-compliance-regulatory-information/human-drug-imports",
-      "publishedAt": "2026-06-15",
-      "excerpt": "Human drug import information including PLAIR, safe importation action plan, and personal importation policy.",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
       "title": "Human Drug Compounding Outsourcing Facility Fees",
       "url": "http://www.fda.gov/industry/fda-user-fee-programs/human-drug-compounding-outsourcing-facility-fees",
       "publishedAt": "2026-06-15",
@@ -11103,8 +11353,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 国際活動",
-      "siteName": "International (JP)",
+      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
+      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
       "region": "JP",
       "title": "[薬局方]PDG（薬局方調和国際会議）ニュースを掲載しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/0012.html",
@@ -11123,8 +11373,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 国際活動",
-      "siteName": "International (JP)",
+      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
+      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
       "region": "JP",
       "title": "[その他]「申請電子データを活用した解析」のページを更新しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/0002.html",
@@ -11833,8 +12083,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 国際活動",
-      "siteName": "International (JP)",
+      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
+      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
       "region": "JP",
       "title": "[その他]「AI利活用に関する基本的考え方」検討PTを設置しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/cross-sectional-project/0001.html",
@@ -11903,8 +12153,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 国際活動",
-      "siteName": "International (JP)",
+      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
+      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
       "region": "JP",
       "title": "[薬局方][パブコメ]日本薬局方収載原案に関するご意見の募集について（2026年6月分 その2）",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/pub-comments/jp/0258.html",
@@ -11913,8 +12163,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 国際活動",
-      "siteName": "International (JP)",
+      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
+      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
       "region": "JP",
       "title": "[薬局方][パブコメ]日本薬局方収載原案に関するご意見の募集について（2026年6月分 その1）",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/pub-comments/jp/0261.html",
@@ -11923,8 +12173,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 国際活動",
-      "siteName": "International (JP)",
+      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
+      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
       "region": "JP",
       "title": "[薬局方][パブコメ]日本薬局方から削除予定の（案）試薬・試液に関するご意見の募集について（2026年6月分）",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/pub-comments/jp/0259.html",
@@ -11933,8 +12183,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 国際活動",
-      "siteName": "International (JP)",
+      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
+      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
       "region": "JP",
       "title": "[薬局方][パブコメ]日本薬局方から削除予定の（案）医薬品各条・標準品に関するご意見の募集について（2026年6月分）",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/pub-comments/jp/0260.html",
@@ -13023,8 +13273,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 国際活動",
-      "siteName": "International (JP)",
+      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
+      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
       "region": "JP",
       "title": "[薬局方]日局におけるPDG調和文書への対応状況（試験法等）を更新しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/0021.html",
@@ -13573,8 +13823,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 国際活動",
-      "siteName": "International (JP)",
+      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
+      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
       "region": "JP",
       "title": "[薬局方]日局におけるPDG調和文書への対応状況（医薬品各条）を更新しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/0020.html",
@@ -13613,8 +13863,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 国際活動",
-      "siteName": "International (JP)",
+      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
+      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
       "region": "JP",
       "title": "[その他]研究推進業務のページを更新しました。",
       "url": "https://www.pmda.go.jp/rs-std-jp/research/0001.html",
@@ -14133,8 +14383,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 国際活動",
-      "siteName": "International (JP)",
+      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
+      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
       "region": "JP",
       "title": "[その他]研究紹介動画第6弾を更新しました。",
       "url": "https://www.pmda.go.jp/rs-std-jp/research/0016.html",
@@ -14373,8 +14623,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 国際活動",
-      "siteName": "International (JP)",
+      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
+      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
       "region": "JP",
       "title": "[その他]第50回科学委員会の議事概要を掲載しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/science-committee/0055.html",
@@ -14413,8 +14663,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 国際活動",
-      "siteName": "International (JP)",
+      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
+      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
       "region": "JP",
       "title": "[薬局方][パブコメ]薬局方調和国際会議調和案（Stage 2）に関するご意見の募集について（2026年3月分）",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/pub-comments/pdg/0058.html",
@@ -14423,8 +14673,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 国際活動",
-      "siteName": "International (JP)",
+      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
+      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
       "region": "JP",
       "title": "[薬局方][パブコメ]日本薬局方収載原案に関するご意見の募集について（2026年3月分）",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/pub-comments/jp/0257.html",
@@ -14773,8 +15023,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 国際活動",
-      "siteName": "International (JP)",
+      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
+      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
       "region": "JP",
       "title": "[薬局方]PDG（薬局方調和国際会議）の議事要旨を掲載しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/0009.html",
@@ -14893,8 +15143,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 国際活動",
-      "siteName": "International (JP)",
+      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
+      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
       "region": "JP",
       "title": "[その他]薬剤耐性菌感染症に用いるファージ製剤の開発における留意事項を掲載しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/subcommittees/0001.html",
@@ -15033,8 +15283,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 国際活動",
-      "siteName": "International (JP)",
+      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
+      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
       "region": "JP",
       "title": "[その他]「AI対応WG」のページを新設しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/cross-sectional-project/0024.html",
@@ -15093,8 +15343,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 国際活動",
-      "siteName": "International (JP)",
+      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
+      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
       "region": "JP",
       "title": "[薬局方][パブコメ]日本薬局方収載原案に関するご意見の募集について（2025年12月分 その2）",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/pub-comments/jp/0256.html",
@@ -15103,8 +15353,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 国際活動",
-      "siteName": "International (JP)",
+      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
+      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
       "region": "JP",
       "title": "[薬局方][パブコメ]日本薬局方収載原案に関するご意見の募集について（2025年12月分 その1）",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/pub-comments/jp/0255.html",
@@ -15133,8 +15383,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 国際活動",
-      "siteName": "International (JP)",
+      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
+      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
       "region": "JP",
       "title": "[薬局方][パブコメ]日本薬局方新規収載候補品目（案）に関するご意見の募集について（2025年11月分）",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/pub-comments/jp/0254.html",
@@ -15143,8 +15393,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 国際活動",
-      "siteName": "International (JP)",
+      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
+      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
       "region": "JP",
       "title": "[薬局方]PDG調和作業手順の改訂版を掲載しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/0022.html",
