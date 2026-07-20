@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-07-20T18:26:06.374171+00:00",
-  "count": 1746,
+  "generatedAt": "2026-07-20T20:46:34.661599+00:00",
+  "count": 1748,
   "errors": [
     {
-      "groupId": "ema",
-      "siteId": "ema-orphan-designations",
+      "groupId": "pmda",
+      "siteId": "services-for-healtheffects",
       "error": "RSS fetch failed - keeping archived data"
     },
     {
       "groupId": "pmda",
-      "siteId": "services-for-healtheffects",
+      "siteId": "PMDA：トップ 安全対策",
       "error": "RSS fetch failed - keeping archived data"
     },
     {
@@ -47,6 +47,26 @@
       "url": "http://www.fda.gov/drugs/development-resources/written-requests-issued",
       "publishedAt": "2026-07-20",
       "excerpt": "Updated list of approved active moieties to which FDA has issued a Written Request for pediatric studies",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "What's New Related to Drugs",
+      "url": "http://www.fda.gov/drugs/news-events-human-drugs/whats-new-related-drugs",
+      "publishedAt": "2026-07-20",
+      "excerpt": "Want to know what's new on drugs from FDA? This page provides quick links to the latest on a variety of topics including: drug approvals, safety warnings, drug shortages, etc.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "The Father' s Table, LLC",
+      "url": "http://www.fda.gov/about-fda/father-s-table-llc",
+      "publishedAt": "2026-07-20",
+      "excerpt": "The Father' s Table, LLC, Sanford, FL, 2/13/25, 3008020857",
       "sourceType": "rss"
     },
     {
@@ -250,6 +270,16 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Advancing Generic Drug Development: Leveraging Model-Integrated Evidence (MIE) in the Development & Approval of Generic Drugs - 08/27/2026",
+      "url": "http://www.fda.gov/drugs/news-events-human-drugs/advancing-generic-drug-development-leveraging-model-integrated-evidence-mie-development-approval",
+      "publishedAt": "2026-07-20",
+      "excerpt": "This half-day workshop includes a series of expert-lead presentations and audience Q&A sessions focused on the latest advancements and regulatory considerations in the evolving field of Model-Integrated Evidence (MIE)-supported generic drug development and approval.",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "fda-food-safety-recalls",
       "siteName": "Food Safety Recalls",
       "region": "US",
@@ -317,16 +347,6 @@
       "url": "https://www.pmda.go.jp/about-pmda/symposia/0035.html",
       "publishedAt": "2026-07-17",
       "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "What's New Related to Drugs",
-      "url": "http://www.fda.gov/drugs/news-events-human-drugs/whats-new-related-drugs",
-      "publishedAt": "2026-07-17",
-      "excerpt": "Want to know what's new on drugs from FDA? This page provides quick links to the latest on a variety of topics including: drug approvals, safety warnings, drug shortages, etc.",
       "sourceType": "rss"
     },
     {
@@ -7870,8 +7890,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 安全対策",
-      "siteName": "Adverse Health Effects Relief (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[健康]令和7年度「医薬品副作用被害救済制度に関する認知度調査」結果を掲載しました",
       "url": "https://www.pmda.go.jp/relief-services/adr-sufferers/0023.html",
@@ -8470,8 +8490,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 安全対策",
-      "siteName": "Adverse Health Effects Relief (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[健康]副用救済給付の決定に関する情報（2026年度4月分）を掲載しました",
       "url": "https://www.pmda.go.jp/relief-services/adr-sufferers/0043.html",
@@ -10180,8 +10200,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 安全対策",
-      "siteName": "Adverse Health Effects Relief (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[健康]生物由来製品等の一覧を更新しました",
       "url": "https://www.pmda.go.jp/relief-services/infections/0032.html",
