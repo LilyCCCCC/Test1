@@ -1,10 +1,20 @@
 {
-  "generatedAt": "2026-07-20T15:24:53.820221+00:00",
-  "count": 1741,
+  "generatedAt": "2026-07-20T18:26:06.374171+00:00",
+  "count": 1746,
   "errors": [
+    {
+      "groupId": "ema",
+      "siteId": "ema-orphan-designations",
+      "error": "RSS fetch failed - keeping archived data"
+    },
     {
       "groupId": "pmda",
       "siteId": "services-for-healtheffects",
+      "error": "RSS fetch failed - keeping archived data"
+    },
+    {
+      "groupId": "pmda",
+      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
       "error": "RSS fetch failed - keeping archived data"
     },
     {
@@ -33,6 +43,16 @@
       "siteId": "fda-whats-new-drugs",
       "siteName": "What's New: Drugs",
       "region": "US",
+      "title": "Written Requests Issued",
+      "url": "http://www.fda.gov/drugs/development-resources/written-requests-issued",
+      "publishedAt": "2026-07-20",
+      "excerpt": "Updated list of approved active moieties to which FDA has issued a Written Request for pediatric studies",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
       "title": "The Center for Research on Complex Generics",
       "url": "http://www.fda.gov/drugs/guidance-compliance-regulatory-information/center-research-complex-generics",
       "publishedAt": "2026-07-20",
@@ -47,6 +67,16 @@
       "url": "https://www.ema.europa.eu/system/files/documents/prac-recommendation/signal-assessement-report-neurodevelopmental-disorders-paternal-exposure-valproate-en.pdf",
       "publishedAt": "2026-07-20",
       "excerpt": "Signal assessment report on neurodevelopmental disorders with paternal exposure to valproate and related substances",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "SCA Pharmaceuticals LLC. Little Rock, AR. 483 Response issued 11/21/2025",
+      "url": "http://www.fda.gov/about-fda/fda-commissioner/sca-pharmaceuticals-llc-little-rock-ar-483-response-issued-11212025",
+      "publishedAt": "2026-07-20",
+      "excerpt": "Task Description Request\tPlease post to the OII FOIA Electronic Reading Room Record Date\t11/21/2025 Short Title (70 char)\tSCA Pharmaceuticals LLC. Little Rock, AR. 483 Response issued 11/21/2025 FEI Number\t3010683157 Firm Name\tSCA Pharmaceuticals LLC Record Type\t483 Response State\tAR Establishment T",
       "sourceType": "rss"
     },
     {
@@ -180,6 +210,16 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "fda-medwatch",
+      "siteName": "MedWatch Safety Alerts",
+      "region": "US",
+      "title": "Early Alert: Intravascular Administration Set Issue from Baxter",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-intravascular-administration-set-issue-baxter",
+      "publishedAt": "2026-07-20",
+      "excerpt": "Baxter administration sets may have air bubbles in the drip chamber and tubing, which may result in air being delivered through the IV line to the patient.",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "ema-whats-new",
       "siteName": "What's new",
       "region": "EU",
@@ -197,6 +237,16 @@
       "url": "https://www.ema.europa.eu/en/events/cancer-medicines-forum-june-2026",
       "publishedAt": "2026-07-20",
       "excerpt": "Cancer Medicines Forum: June 2026, Online, European Medicines Agency, Amsterdam, the Netherlands, 23 June 2026",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "BsUFA IV: Fiscal Years 2028-2032",
+      "url": "http://www.fda.gov/industry/biosimilar-user-fee-amendments/bsufa-iv-fiscal-years-2028-2032",
+      "publishedAt": "2026-07-20",
+      "excerpt": "On September 30, 2022, the President signed into law the FDA User Fee Reauthorization Act of 2022.",
       "sourceType": "rss"
     },
     {
@@ -1557,16 +1607,6 @@
       "url": "http://www.fda.gov/about-fda/center-drug-evaluation-and-research-cder/cder-manual-policies-procedures-mapp",
       "publishedAt": "2026-07-16",
       "excerpt": "CDER's Manual of Policies and Procedures (MAPPs) are federal directives and documentation of internal policies and procedures.",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "BsUFA IV: Fiscal Years 2028-2032",
-      "url": "http://www.fda.gov/industry/biosimilar-user-fee-amendments/bsufa-iv-fiscal-years-2028-2032",
-      "publishedAt": "2026-07-16",
-      "excerpt": "On September 30, 2022, the President signed into law the FDA User Fee Reauthorization Act of 2022.",
       "sourceType": "rss"
     },
     {
@@ -3310,8 +3350,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[薬局方]薬局方に関する国際的な活動についてのプレスリリースを掲載しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/0005.html",
@@ -3320,8 +3360,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[基準]初回治験届出時に留意すべきヒト又は動物由来の細胞株を用いて製造されるバイオテクノロジー応用医薬品等の品質関連資料のチェックリスト（Early Consideration）を掲載しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/guidance-guideline/0003.html",
@@ -5670,8 +5710,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[その他]倫理審査委員会の委員名簿を更新しました。",
       "url": "https://www.pmda.go.jp/rs-std-jp/research/0009.html",
@@ -7440,8 +7480,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[その他]令和8年度第1回研究支援委員会の議事要旨を掲載しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/research/0008.html",
@@ -9400,8 +9440,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[その他]公的研究費に基づく研究ページを更新しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/research/0004.html",
@@ -11200,6 +11240,16 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "light-drugs",
+      "siteName": "消費紅綠燈-國際藥品",
+      "region": "TW",
+      "title": "有關Newbridge Pharmaceuticals藥品Halaven 0.44 mg/ml vial（批號148342）回收警訊，國內並未輸入該批號藥品。",
+      "url": "http://www.fda.gov.tw/tc/csmnewsContent.aspx?mid=269&id=7881&utm_source=rss&utm_medium=feed&utm_campaign=rss_subscription",
+      "publishedAt": "2026-06-18",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "fda-consumer-health-information-updates",
       "siteName": "Consumer Health Information Updates",
       "region": "US",
@@ -11857,6 +11907,16 @@
       "url": "http://www.fda.gov/medical-devices/safety-communications/accolade-pacemaker-devices-boston-scientific-and-potential-need-early-device-replacement-fda-safety",
       "publishedAt": "2026-06-12",
       "excerpt": "Read the FDA’s recommendations related to Accolade pacemaker devices by Boston Scientific and a potential need for early device replacement.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "light-drugs",
+      "siteName": "消費紅綠燈-國際藥品",
+      "region": "TW",
+      "title": "有關株式会社クレハ（KUREHA）藥品クレメジン速崩錠500mg（Kremezin Tablets 500mg）（批號如附件）回收警訊，國內許可證持有廠商已啟動自主回收作業。",
+      "url": "http://www.fda.gov.tw/tc/csmnewsContent.aspx?mid=269&id=7866&utm_source=rss&utm_medium=feed&utm_campaign=rss_subscription",
+      "publishedAt": "2026-06-11",
+      "excerpt": "",
       "sourceType": "rss"
     },
     {
