@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-20T20:46:34.645942+00:00",
-  "count": 1748,
+  "generatedAt": "2026-07-20T22:17:04.054805+00:00",
+  "count": 1749,
   "items": [
     {
       "siteId": "tfda-news-and-press-releases",
@@ -83,6 +83,16 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Patent Certifications and Suitability Petitions",
+      "url": "http://www.fda.gov/drugs/abbreviated-new-drug-application-anda/patent-certifications-and-suitability-petitions",
+      "publishedAt": "2026-07-20",
+      "excerpt": "Information on patents and suitability petitions that impact the availability of generic drugs.",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "ema-whats-new",
       "siteName": "What's new",
       "region": "EU",
@@ -90,6 +100,16 @@
       "url": "https://www.ema.europa.eu/en/events/paediatric-committee-pdco-19-22-may-2026",
       "publishedAt": "2026-07-20",
       "excerpt": "Paediatric Committee (PDCO): 19-22 May 2026, Online, European Medicines Agency, Amsterdam, the Netherlands, from 19 May 2026 to 22 May 2026",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Novel Drug Approvals for 2026",
+      "url": "http://www.fda.gov/drugs/novel-drug-approvals-fda/novel-drug-approvals-2026",
+      "publishedAt": "2026-07-20",
+      "excerpt": "Novel Drug Approvals for 2026",
       "sourceType": "rss"
     },
     {
@@ -273,6 +293,16 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "fda-recalls",
+      "siteName": "Recalls",
+      "region": "US",
+      "title": "Unique Pharmaceutical Laboratories (A Div. of J. B. Chemicals & Pharmaceuticals Ltd.) Issues Voluntary Nationwide Recall of Cetirizine Hydrochloride Tablets USP 5 mg Due to Potential Cross Contamination with Ranitidine",
+      "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/unique-pharmaceutical-laboratories-div-j-b-chemicals-pharmaceuticals-ltd-issues-voluntary-nationwide",
+      "publishedAt": "2026-07-18",
+      "excerpt": "FOR IMMEDIATE RELEASE – July 18th, 2026 – Panoli, Gujarat, Unique Pharmaceutical Laboratories (A Div. of J. B. Chemicals & Pharmaceuticals Ltd.) is voluntarily recalling four lots of Cetirizine Hydrochloride Tablets USP 5 mg to the consumer level due to cross contamination with Ranitidine.",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "notice-from-tfda",
       "siteName": "公告",
       "region": "TW",
@@ -293,8 +323,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[採用]事務補助員（医薬翻訳事務）の募集について（採用時期を更新しました）",
       "url": "https://www.pmda.go.jp/recruit/0429.html",
@@ -313,8 +343,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[PMDA][イベント]令和8年度こども霞が関見学デーに出展します！「いろがかわる！おくすりじっけん」",
       "url": "https://www.pmda.go.jp/about-pmda/symposia/0035.html",
@@ -630,16 +660,6 @@
       "url": "https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-26-3237",
       "publishedAt": "2026-07-17",
       "excerpt": "Orphan designation: allogeneic human Wharton's jelly-derived mesenchymal stem cells Treatment of Charcot-Marie-Tooth disease, 20/05/2026 Positive",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "Novel Drug Approvals for 2026",
-      "url": "http://www.fda.gov/drugs/novel-drug-approvals-fda/novel-drug-approvals-2026",
-      "publishedAt": "2026-07-17",
-      "excerpt": "Novel Drug Approvals for 2026",
       "sourceType": "rss"
     },
     {
@@ -1083,8 +1103,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[PMDA][イベント]2026年度のPMDAオープン・カンパニー情報（技術系）を更新しました",
       "url": "https://www.pmda.go.jp/about-pmda/symposia/0030.html",
@@ -3343,8 +3363,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
+      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
       "region": "JP",
       "title": "[薬局方]薬局方に関する国際的な活動についてのプレスリリースを掲載しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/0005.html",
@@ -3353,8 +3373,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
+      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
       "region": "JP",
       "title": "[基準]初回治験届出時に留意すべきヒト又は動物由来の細胞株を用いて製造されるバイオテクノロジー応用医薬品等の品質関連資料のチェックリスト（Early Consideration）を掲載しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/guidance-guideline/0003.html",
@@ -4283,8 +4303,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[PMDA]令和8年度第1回救済業務委員会　開催案内を掲載しました",
       "url": "https://www.pmda.go.jp/about-pmda/advisory-council-information/relief-services/0071.html",
@@ -5313,8 +5333,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[調達]一般競争入札公告（政府調達）（PMDAウェブサイト システム移行及び機能改修等の要件定義等業務）",
       "url": "https://www.pmda.go.jp/procurements/public-bidding/general-competition-government/0234.html",
@@ -5323,8 +5343,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[PMDA]法人文書開示請求書等様式",
       "url": "https://www.pmda.go.jp/about-pmda/disclosures/0003.html",
@@ -5703,8 +5723,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
+      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
       "region": "JP",
       "title": "[その他]倫理審査委員会の委員名簿を更新しました。",
       "url": "https://www.pmda.go.jp/rs-std-jp/research/0009.html",
@@ -5713,8 +5733,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[PMDA]英国ロンドン大学衛生・熱帯医学大学院（LSHTM）との連携に係る覚書の締結について（ニュースリリース）[383KB]",
       "url": "https://www.pmda.go.jp/about-pmda/news-release/0096.pdf",
@@ -5723,8 +5743,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[PMDA]専門委員名簿を更新しました",
       "url": "https://www.pmda.go.jp/about-pmda/outline/0016.html",
@@ -6903,8 +6923,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[調達]一般競争入札公告（政府調達）（総合評価落札方式）（経営管理高度化のための技術的支援業務（第Ⅲ期））",
       "url": "https://www.pmda.go.jp/procurements/public-bidding/general-competition-government/0233.html",
@@ -7453,8 +7473,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[調達]一般競争入札公告（PMDA広報資材（パンフレット・リーフレット等）の印刷及び発送等業務一式）",
       "url": "https://www.pmda.go.jp/procurements/public-bidding/general-competition/1697.html",
@@ -7473,8 +7493,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
+      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
       "region": "JP",
       "title": "[その他]令和8年度第1回研究支援委員会の議事要旨を掲載しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/research/0008.html",
@@ -7510,16 +7530,6 @@
       "url": "http://www.fda.gov/drugs/generic-drugs/patient-education",
       "publishedAt": "2026-07-02",
       "excerpt": "Generic medications are just as safe and effective as their brand-name counterparts, and often cost less. To help educate patients about FDA’s rigorous review process, the economics of pricing, and related issues, FDA offers a range of educational materials, including videos, graphics, fact sheets,.",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "Patent Certifications and Suitability Petitions",
-      "url": "http://www.fda.gov/drugs/abbreviated-new-drug-application-anda/patent-certifications-and-suitability-petitions",
-      "publishedAt": "2026-07-02",
-      "excerpt": "Information on patents and suitability petitions that impact the availability of generic drugs.",
       "sourceType": "rss"
     },
     {
@@ -7823,8 +7833,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[調達]一般競争入札公告（政府調達）（総合評価落札方式）（医薬品・医療機器等製品データベースの新規開発業務及び医薬品医療機器情報提供システムの再構築業務）",
       "url": "https://www.pmda.go.jp/procurements/public-bidding/general-competition-government/0232.html",
@@ -7833,8 +7843,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[採用]事務補助員（審査等手数料・対面助言等の手数料の管理業務に係る補助業務等（事務系））の募集について",
       "url": "https://www.pmda.go.jp/recruit/0890.html",
@@ -7843,8 +7853,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[採用]2026年度1day仕事体験（技術系　生物統計業務体験）の応募受付を開始しました",
       "url": "https://www.pmda.go.jp/recruit/0856.html",
@@ -7853,8 +7863,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[採用]2026年度1day仕事体験（技術系　新医療機器審査体験）の応募受付を開始しました",
       "url": "https://www.pmda.go.jp/recruit/0857.html",
@@ -7863,8 +7873,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Adverse Health Effects Relief (JP)",
       "region": "JP",
       "title": "[健康]令和7年度「医薬品副作用被害救済制度に関する認知度調査」結果を掲載しました",
       "url": "https://www.pmda.go.jp/relief-services/adr-sufferers/0023.html",
@@ -7873,8 +7883,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[PMDA]オーストリア・ウィーン医科大学と医薬品医療機器総合機構（PMDA）の連携に係る覚書の締結について（ニュースリリース）[271KB]",
       "url": "https://www.pmda.go.jp/about-pmda/news-release/0095.pdf",
@@ -8463,8 +8473,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Adverse Health Effects Relief (JP)",
       "region": "JP",
       "title": "[健康]副用救済給付の決定に関する情報（2026年度4月分）を掲載しました",
       "url": "https://www.pmda.go.jp/relief-services/adr-sufferers/0043.html",
@@ -8473,8 +8483,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[PMDA]独立行政法人の役員の報酬等及び職員の給与水準の公表について",
       "url": "https://www.pmda.go.jp/about-pmda/info-about-pmda/0019.html",
@@ -9413,8 +9423,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[調達]一般競争入札公告（政府調達）（共用LANシステム 業務用PCの更新）",
       "url": "https://www.pmda.go.jp/procurements/public-bidding/general-competition-government/0231.html",
@@ -9433,8 +9443,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
+      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
       "region": "JP",
       "title": "[その他]公的研究費に基づく研究ページを更新しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/research/0004.html",
@@ -10173,8 +10183,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Adverse Health Effects Relief (JP)",
       "region": "JP",
       "title": "[健康]生物由来製品等の一覧を更新しました",
       "url": "https://www.pmda.go.jp/relief-services/infections/0032.html",
@@ -10193,8 +10203,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[PMDA]令和8事業年度第1回審査・安全業務委員会　開催案内を掲載しました",
       "url": "https://www.pmda.go.jp/about-pmda/advisory-council-information/review-and-safety/0070.html",
