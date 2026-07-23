@@ -1,17 +1,7 @@
 {
-  "generatedAt": "2026-07-23T03:50:57.200291+00:00",
-  "count": 1826,
+  "generatedAt": "2026-07-23T06:43:58.755010+00:00",
+  "count": 1827,
   "errors": [
-    {
-      "groupId": "ema",
-      "siteId": "ema-public-consultations",
-      "error": "RSS fetch failed - keeping archived data"
-    },
-    {
-      "groupId": "ema",
-      "siteId": "ema-human-medicines-highlights-newsletter",
-      "error": "RSS fetch failed - keeping archived data"
-    },
     {
       "groupId": "pmda",
       "siteId": "services-for-healtheffects",
@@ -29,6 +19,16 @@
     }
   ],
   "items": [
+    {
+      "siteId": "notice-from-tfda",
+      "siteName": "公告",
+      "region": "TW",
+      "title": "公告「含semaglutide及tirzepatide成分藥品風險評估及管控計畫」相關事宜",
+      "url": "http://www.fda.gov.tw/tc/newsContent.aspx?cid=3&id=31670&utm_source=rss&utm_medium=feed&utm_campaign=rss_subscription",
+      "publishedAt": "2026-07-23",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
     {
       "siteId": "tfda-news-and-press-releases",
       "siteName": "新聞",
@@ -380,8 +380,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "ema-scientific-guidelines",
-      "siteName": "Scientific guidelines (human and veterinary)",
+      "siteId": "ema-public-consultations",
+      "siteName": "Public consultations",
       "region": "EU",
       "title": "Concept paper on revision of: Guideline on similar biological medicinal products, CHMP/437/04 Rev.1",
       "url": "https://www.ema.europa.eu/en/documents/scientific-guideline/concept-paper-revision-guideline-similar-biological-medicinal-products-chmp-437-04-rev1_en.pdf",
@@ -3180,8 +3180,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "ema-scientific-guidelines",
-      "siteName": "Scientific guidelines (human and veterinary)",
+      "siteId": "ema-public-consultations",
+      "siteName": "Public consultations",
       "region": "EU",
       "title": "Draft reflection paper on particulars for safety signals for (traditional) herbal medicinal products",
       "url": "https://www.ema.europa.eu/en/documents/scientific-guideline/draft-reflection-paper-particulars-safety-signals-traditional-herbal-medicinal-products_en.pdf",
@@ -3450,8 +3450,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "ema-scientific-guidelines",
-      "siteName": "Scientific guidelines (human and veterinary)",
+      "siteId": "ema-public-consultations",
+      "siteName": "Public consultations",
       "region": "EU",
       "title": "Semaglutide and FlexTouch solution for injection in pre-filled pen product-specific bioequivalence guidance - various strengths",
       "url": "https://www.ema.europa.eu/en/documents/scientific-guideline/semaglutide-flextouch-solution-injection-pre-filled-pen-product-specific-bioequivalence-guidance-various-strengths_en.pdf",
@@ -10210,8 +10210,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "ema-scientific-guidelines",
-      "siteName": "Scientific guidelines (human and veterinary)",
+      "siteId": "ema-public-consultations",
+      "siteName": "Public consultations",
       "region": "EU",
       "title": "Concept paper on the revision of the guideline on the clinical evaluation of antifungal agents for the treatment and prophylaxis of invasive fungal disease",
       "url": "https://www.ema.europa.eu/en/documents/scientific-guideline/concept-paper-revision-guideline-clinical-evaluation-antifungal-agents-treatment-prophylaxis-invasive-fungal-disease_en.pdf",
@@ -10720,8 +10720,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "ema-scientific-guidelines",
-      "siteName": "Scientific guidelines (human and veterinary)",
+      "siteId": "ema-public-consultations",
+      "siteName": "Public consultations",
       "region": "EU",
       "title": "Concept paper on the revision of the guideline on data requirements for the replacement of established master seeds (MS) already used in authorised immunological veterinary medicinal products (IVMPs) by new MS of the same origin",
       "url": "https://www.ema.europa.eu/en/documents/scientific-guideline/concept-paper-revision-guideline-data-requirements-replacement-established-master-seeds-ms-already-used-authorised-immunological-veterinary-medicinal-products-ivmps-new-ms-same-origin_en.pdf",
@@ -10730,8 +10730,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "ema-scientific-guidelines",
-      "siteName": "Scientific guidelines (human and veterinary)",
+      "siteId": "ema-public-consultations",
+      "siteName": "Public consultations",
       "region": "EU",
       "title": "Concept paper on the revision of the guideline on data requirements for authorisation of immunological veterinary medicinal products in exceptional circumstances (EMA/CVMP/IWP/251947/2021)",
       "url": "https://www.ema.europa.eu/en/documents/scientific-guideline/concept-paper-revision-guideline-data-requirements-authorisation-immunological-veterinary-medicinal-products-exceptional-circumstances-ema-cvmp-iwp-251947-2021_en.pdf",
@@ -10980,8 +10980,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "ema-scientific-guidelines",
-      "siteName": "Scientific guidelines (human and veterinary)",
+      "siteId": "ema-public-consultations",
+      "siteName": "Public consultations",
       "region": "EU",
       "title": "Guideline on the clinical evaluation of medicinal products for weight management - Addendum on weight control in children",
       "url": "https://www.ema.europa.eu/en/documents/scientific-guideline/guideline-clinical-evaluation-medicinal-products-weight-management-addendum-weight-control-children_en.pdf",
