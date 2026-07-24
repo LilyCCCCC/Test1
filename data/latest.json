@@ -1,15 +1,10 @@
 {
-  "generatedAt": "2026-07-24T12:00:09.551568+00:00",
-  "count": 1889,
+  "generatedAt": "2026-07-24T14:19:15.128581+00:00",
+  "count": 1912,
   "errors": [
     {
       "groupId": "pmda",
       "siteId": "services-for-healtheffects",
-      "error": "RSS fetch failed - keeping archived data"
-    },
-    {
-      "groupId": "pmda",
-      "siteId": "PMDA：トップ 安全対策",
       "error": "RSS fetch failed - keeping archived data"
     },
     {
@@ -115,6 +110,26 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Vyvgart",
+      "url": "https://www.ema.europa.eu/en/medicines/dhpc/vyvgart",
+      "publishedAt": "2026-07-24",
+      "excerpt": "Vyvgart",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Training Course: Achieving Data Quality and Integrity in Maximum Containment Laboratories",
+      "url": "http://www.fda.gov/emergency-preparedness-and-response/outreach-and-professional-development-activities/training-course-achieving-data-quality-and-integrity-maximum-containment-laboratories",
+      "publishedAt": "2026-07-24",
+      "excerpt": "To help address challenges associated with ensuring data quality and integrity in regulated studies conducted in BSL-4 laboratories to support MCM development, FDA and UTMB collaborate to provide an annual training course on how to meet GLP requirements in BSL-4 facilities",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "international-activities",
       "siteName": "International Activities (EN)",
       "region": "JP",
@@ -122,6 +137,16 @@
       "url": "https://www.pmda.go.jp/english/int-activities/asia/0004.html",
       "publishedAt": "2026-07-24",
       "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Summary report - Network Data Steering Group and industry stakeholders annual meeting",
+      "url": "https://www.ema.europa.eu/system/files/documents/minutes/summary-report-annual-ndsg-industry-stakeholders-meeting-14-july-2026_en.pdf",
+      "publishedAt": "2026-07-24",
+      "excerpt": "Summary report - Network Data Steering Group and industry stakeholders annual meeting",
       "sourceType": "rss"
     },
     {
@@ -185,6 +210,26 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "SPOR and XEVMPD status update webinar - Q3 2026, Online, European Medicines Agency, Amsterdam, the Netherlands, from 8 July 2026, 10:00 (CEST) to 8 July 2026, 12:30 (CEST)",
+      "url": "https://www.ema.europa.eu/en/events/spor-xevmpd-status-update-webinar-q3-2026",
+      "publishedAt": "2026-07-24",
+      "excerpt": "SPOR and XEVMPD status update webinar - Q3 2026, Online, European Medicines Agency, Amsterdam, the Netherlands, from 8 July 2026, 10:00 (CEST) to 8 July 2026, 12:30 (CEST)",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Quantitative Systems Pharmacology (QSP)-Based Dose Selection for Minimum Anticipated Biological Effect Level (MABEL) in First-in-Human (FIH) Trials",
+      "url": "http://www.fda.gov/regulatory-information/search-fda-guidance-documents/quantitative-systems-pharmacology-qsp-based-dose-selection-minimum-anticipated-biological-effect",
+      "publishedAt": "2026-07-24",
+      "excerpt": "Quantitative Systems Pharmacology (QSP)-Based Dose Selection for Minimum Anticipated Biological Effect Level (MABEL) in First-in-Human (FIH) Trials",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "ema-regulatory-and-procedural-guidelines",
       "siteName": "Regulatory and procedural guidelines (human and veterinary)",
       "region": "EU",
@@ -205,6 +250,16 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Oncology Pharmaceuticals: Streamlined Nonclinical Safety Studies for Biologics and Conjugated Products",
+      "url": "http://www.fda.gov/regulatory-information/search-fda-guidance-documents/oncology-pharmaceuticals-streamlined-nonclinical-safety-studies-biologics-and-conjugated-products",
+      "publishedAt": "2026-07-24",
+      "excerpt": "Oncology Pharmaceuticals: Streamlined Nonclinical Safety Studies for Biologics and Conjugated Products",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "ema-whats-new",
       "siteName": "What's new",
       "region": "EU",
@@ -212,6 +267,36 @@
       "url": "https://www.ema.europa.eu/en/news/new-treatment-option-neovascular-age-related-macular-degeneration",
       "publishedAt": "2026-07-24",
       "excerpt": "New treatment option for neovascular age-related macular degeneration",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "New Approach Methodologies (NAMs)",
+      "url": "http://www.fda.gov/science-research/science-and-research-special-topics/new-approach-methodologies-nams",
+      "publishedAt": "2026-07-24",
+      "excerpt": "The FDA is leading a transformative shift in drug safety evaluation—reducing, replacing or refining animal testing with advanced, human-relevant methods that better predict how medicines work in people.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Network Data Steering Group and industry stakeholders annual meeting, Online, European Medicines Agency, Amsterdam, the Netherlands, 14 July 2026",
+      "url": "https://www.ema.europa.eu/en/events/network-data-steering-group-industry-stakeholders-annual-meeting",
+      "publishedAt": "2026-07-24",
+      "excerpt": "Network Data Steering Group and industry stakeholders annual meeting, Online, European Medicines Agency, Amsterdam, the Netherlands, 14 July 2026",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Monoclonal Antibodies: Streamlined Nonclinical Safety Studies",
+      "url": "http://www.fda.gov/regulatory-information/search-fda-guidance-documents/monoclonal-antibodies-streamlined-nonclinical-safety-studies",
+      "publishedAt": "2026-07-24",
+      "excerpt": "The Food and Drug Administration (FDA or Agency) is announcing the availability of a draft guidance for industry entitled “Monoclonal Antibodies: Streamlined Nonclinical Safety Studies.”",
       "sourceType": "rss"
     },
     {
@@ -252,6 +337,46 @@
       "url": "https://www.ema.europa.eu/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-20-23-july-2026",
       "publishedAt": "2026-07-24",
       "excerpt": "Twelve new medicines recommended for approvalEMA’s human medicines committee (CHMP) recommended twelve medicines for approval at its July 2026 meeting.The committee…,       CHMP statistics  Key figures from the July 2026 CHMP meeting are represented in the graphic below.        © European Medicines Agency ,                                                                                                                                                     CHMP statistics:…,       Positive recommend",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "M15 General Principles for Model-Informed Drug Development",
+      "url": "http://www.fda.gov/regulatory-information/search-fda-guidance-documents/m15-general-principles-model-informed-drug-development",
+      "publishedAt": "2026-07-24",
+      "excerpt": "M15 General Principles for Model-Informed Drug Development",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "List of changes to combined Veterinary Dictionary for Drug Regulatory Activities (VeDDRA) list of clinical terms for reporting suspected adverse events in animal and humans to veterinary medicinal products for 2025",
+      "url": "https://www.ema.europa.eu/system/files/documents/regulatory-procedural-guideline/veddra_loc_2026_en.pdf",
+      "publishedAt": "2026-07-24",
+      "excerpt": "List of changes to combined Veterinary Dictionary for Drug Regulatory Activities (VeDDRA) list of clinical terms for reporting suspected adverse events in animal and humans to veterinary medicinal products for 2025",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-regulatory-and-procedural-guidelines",
+      "siteName": "Regulatory and procedural guidelines (human and veterinary)",
+      "region": "EU",
+      "title": "List of changes to combined Veterinary Dictionary for Drug Regulatory Activities (VeDDRA) list of clinical terms for reporting suspected adverse events in animal and humans to veterinary medicinal products for 2025",
+      "url": "https://www.ema.europa.eu/en/documents/regulatory-procedural-guideline/list-changes-combined-veterinary-dictionary-drug-regulatory-activities-veddra-list-clinical-terms-reporting-suspected-adverse-events-animal-humans-veterinary-medicinal-products-2025_en.pdf",
+      "publishedAt": "2026-07-24",
+      "excerpt": "List of changes to combined Veterinary Dictionary for Drug Regulatory Activities (VeDDRA) list of clinical terms for reporting suspected adverse events in animal and humans to veterinary medicinal products for 2025",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Innovative Science and Technology Approaches for New Drugs (ISTAND) Program",
+      "url": "http://www.fda.gov/drugs/drug-development-tool-ddt-qualification-programs/innovative-science-and-technology-approaches-new-drugs-istand-program",
+      "publishedAt": "2026-07-24",
+      "excerpt": "The Innovative Science and Technology Approaches for New Drugs (ISTAND) Pilot Program is designed to expand DDT types by encouraging development of DDTs that are out of scope for existing DDT qualification programs but may still be beneficial for drug development.",
       "sourceType": "rss"
     },
     {
@@ -408,6 +533,16 @@
       "siteId": "ema-whats-new",
       "siteName": "What's new",
       "region": "EU",
+      "title": "Healthcare Professionals' Working Party",
+      "url": "https://www.ema.europa.eu/en/committees/working-parties-other-groups/chmp-working-parties-other-groups/healthcare-professionals-working-party",
+      "publishedAt": "2026-07-24",
+      "excerpt": "Healthcare Professionals' Working Party",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
       "title": "Guideline on data requirements to support in-use stability claims for veterinary vaccines - Revision 1",
       "url": "https://www.ema.europa.eu/system/files/documents/scientific-guideline/use-stability-claims-draft-revised-gl-2026_en.pdf",
       "publishedAt": "2026-07-24",
@@ -445,6 +580,16 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "General Considerations for the Use of New Approach Methodologies in Drug Development",
+      "url": "http://www.fda.gov/regulatory-information/search-fda-guidance-documents/general-considerations-use-new-approach-methodologies-drug-development",
+      "publishedAt": "2026-07-24",
+      "excerpt": "This draft guidance provides drug developers with a validation framework and general recommendations for using new approach methodologies (NAMs) in drug development.",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "ema-whats-new",
       "siteName": "What's new",
       "region": "EU",
@@ -452,6 +597,76 @@
       "url": "https://www.ema.europa.eu/en/news/first-oral-medicine-targeting-interleukin-23-receptor-recommended-plaque-psoriasis",
       "publishedAt": "2026-07-24",
       "excerpt": "First oral medicine targeting interleukin-23 receptor recommended for plaque psoriasis",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "FDA Accepts First In Silico Drug Development Tool Under ISTAND Program to Help Predict Drug-Induced Liver Injury",
+      "url": "http://www.fda.gov/drugs/drug-alerts-and-statements/fda-accepts-first-silico-drug-development-tool-under-istand-program-help-predict-drug-induced-liver",
+      "publishedAt": "2026-07-24",
+      "excerpt": "FDA Accepts First In Silico Drug Development Tool Under ISTAND Program to Help Predict Drug-Induced Liver Injury",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "European Medicines Agency’s data protection notice for meeting registration forms via Microsoft Forms",
+      "url": "https://www.ema.europa.eu/system/files/documents/other/ema-006-dpn-meeting-registration-forms-msforms_en.pdf",
+      "publishedAt": "2026-07-24",
+      "excerpt": "European Medicines Agency’s data protection notice for meeting registration forms via Microsoft Forms",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "European Medicines Agency’s data protection notice for meeting registration forms via EUSurvey",
+      "url": "https://www.ema.europa.eu/system/files/documents/other/ema-002-dpn-meeting-registration-forms-eusurvey_en.pdf",
+      "publishedAt": "2026-07-24",
+      "excerpt": "European Medicines Agency’s data protection notice for meeting registration forms via EUSurvey",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "European Medicines Agency’s data protection notice for conducting surveys via Microsoft Forms",
+      "url": "https://www.ema.europa.eu/system/files/documents/other/ema-007-dpn-surveys-msforms_en.pdf",
+      "publishedAt": "2026-07-24",
+      "excerpt": "European Medicines Agency’s data protection notice for conducting surveys via Microsoft Forms",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "European Medicines Agency’s data protection notice for conducting surveys via EUSurvey",
+      "url": "https://www.ema.europa.eu/system/files/documents/other/ema-003-dpn-surveys-eu-survey_en.pdf",
+      "publishedAt": "2026-07-24",
+      "excerpt": "European Medicines Agency’s data protection notice for conducting surveys via EUSurvey",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Drugs@FDA Data Files",
+      "url": "http://www.fda.gov/drugs/drug-approvals-and-databases/drugsfda-data-files",
+      "publishedAt": "2026-07-24",
+      "excerpt": "Drugs@FDA Downloadable Data File in ZIP format, Data Definitions, and Entity Relationship Diagram (ERD)",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Critical Path Innovation Meetings (CPIM)",
+      "url": "http://www.fda.gov/drugs/novel-drug-approvals-fda/critical-path-innovation-meetings-cpim",
+      "publishedAt": "2026-07-24",
+      "excerpt": "Critical Path Innovation Meetings (CPIM)",
       "sourceType": "rss"
     },
     {
@@ -508,10 +723,60 @@
       "siteId": "ema-whats-new",
       "siteName": "What's new",
       "region": "EU",
+      "title": "Combined VeDDRA list of clinical terms for reporting suspected adverse events in animals and humans to veterinary medicinal products",
+      "url": "https://www.ema.europa.eu/system/files/documents/other/veddra_rev17_evvetv22_en.xlsx",
+      "publishedAt": "2026-07-24",
+      "excerpt": "Combined VeDDRA list of clinical terms for reporting suspected adverse events in animals and humans to veterinary medicinal products",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
       "title": "Cardiac valves - Notified Body 0344 - 20/12/2025 - Expert decision and opinion in the context of the clinical evaluation consultation procedure (CECP)",
       "url": "https://www.ema.europa.eu/system/files/documents/other/emaex0000309556-cecp-opinion-be-shared-nb_en.pdf",
       "publishedAt": "2026-07-24",
       "excerpt": "Cardiac valves - Notified Body 0344 - 20/12/2025 - Expert decision and opinion in the context of the clinical evaluation consultation procedure (CECP)",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "CDER Streamlined Nonclinical Studies and Acceptable New Approach Methodologies (NAMs)",
+      "url": "http://www.fda.gov/about-fda/center-drug-evaluation-and-research-cder/cder-streamlined-nonclinical-studies-and-acceptable-new-approach-methodologies-nams",
+      "publishedAt": "2026-07-24",
+      "excerpt": "It has become increasingly clear that new approach methodologies (NAMs)—when combined with knowledge of the pathway, results of pharmacology studies, and other relevant data—may offer ways to reduce animal testing.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Antimicrobial Sales and Use (ASU) Platform: Release notes",
+      "url": "https://www.ema.europa.eu/system/files/documents/other/asu-platform-release-notes_2026-07-23_en.pdf",
+      "publishedAt": "2026-07-24",
+      "excerpt": "Antimicrobial Sales and Use (ASU) Platform: Release notes",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Agenda - Network Data Steering Group and industry stakeholders annual meeting",
+      "url": "https://www.ema.europa.eu/system/files/documents/agenda/agenda_annual-ndsg-industry-stakeholders-meeting-14-july-2026_en.pdf",
+      "publishedAt": "2026-07-24",
+      "excerpt": "Agenda - Network Data Steering Group and industry stakeholders annual meeting",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Advancing Novel Surrogate Endpoints For Rare Disease Drug Development Workshop - 05/18/2026",
+      "url": "http://www.fda.gov/drugs/news-events-human-drugs/advancing-novel-surrogate-endpoints-rare-disease-drug-development-workshop-05182026",
+      "publishedAt": "2026-07-24",
+      "excerpt": "FDA is convening a one-day virtual public workshop on May 18, 2026, focused on the development of surrogate endpoints for drugs and biological products intended to treat rare diseases.",
       "sourceType": "rss"
     },
     {
@@ -738,16 +1003,6 @@
       "siteId": "fda-whats-new-drugs",
       "siteName": "What's New: Drugs",
       "region": "US",
-      "title": "Drugs@FDA Data Files",
-      "url": "http://www.fda.gov/drugs/drug-approvals-and-databases/drugsfda-data-files",
-      "publishedAt": "2026-07-23",
-      "excerpt": "Drugs@FDA Downloadable Data File in ZIP format, Data Definitions, and Entity Relationship Diagram (ERD)",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
       "title": "Digital Health Technologies (DHTs) for Drug Development",
       "url": "http://www.fda.gov/science-research/science-and-research-special-topics/digital-health-technologies-dhts-drug-development",
       "publishedAt": "2026-07-23",
@@ -795,31 +1050,31 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Safety Measures (JP)",
       "region": "JP",
-      "title": "[安全]「不具合が疑われる症例報告に関する情報（医療機器）」に2026年3月分の情報を追加しました",
+      "title": "[医薬]「不具合が疑われる症例報告に関する情報（コンビネーション製品）」に2026年3月分の情報を追加しました",
+      "url": "https://www.pmda.go.jp/safety/info-services/drugs/adr-info/malfunctions-combination-drugs/0001.html",
+      "publishedAt": "2026-07-22",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Safety Measures (JP)",
+      "region": "JP",
+      "title": "[医療]「不具合が疑われる症例報告に関する情報（医療機器）」に2026年3月分の情報を追加しました",
       "url": "https://www.pmda.go.jp/safety/info-services/devices/0090.html",
       "publishedAt": "2026-07-22",
       "excerpt": "",
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Safety Measures (JP)",
       "region": "JP",
-      "title": "[安全]「不具合が疑われる症例報告に関する情報（再生医療等製品）」に2026年3月分の情報を追加しました",
+      "title": "[再生]「不具合が疑われる症例報告に関する情報（再生医療等製品）」に2026年3月分の情報を追加しました",
       "url": "https://www.pmda.go.jp/safety/info-services/ctp/0006.html",
-      "publishedAt": "2026-07-22",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
-      "region": "JP",
-      "title": "[安全]「不具合が疑われる症例報告に関する情報（コンビネーション製品）」に2026年3月分の情報を追加しました",
-      "url": "https://www.pmda.go.jp/safety/info-services/drugs/adr-info/malfunctions-combination-drugs/0001.html",
       "publishedAt": "2026-07-22",
       "excerpt": "",
       "sourceType": "rss"
@@ -1245,10 +1500,10 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Safety Measures (JP)",
       "region": "JP",
-      "title": "[安全]添付文書改訂相談に基づく添付文書改訂（医薬品）を掲載しました",
+      "title": "[医薬]添付文書改訂相談に基づく添付文書改訂（医薬品）を掲載しました",
       "url": "https://www.pmda.go.jp/safety/info-services/drugs/calling-attention/revision-based-on-the-consultation/0001.html",
       "publishedAt": "2026-07-21",
       "excerpt": "",
@@ -2155,10 +2410,10 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Safety Measures (JP)",
       "region": "JP",
-      "title": "[安全]「副作用が疑われる症例報告に関する情報」に2026年3月分の情報を追加しました",
+      "title": "[医薬]「副作用が疑われる症例報告に関する情報」に2026年3月分の情報を追加しました",
       "url": "https://www.pmda.go.jp/safety/info-services/drugs/adr-info/suspected-adr/0005.html",
       "publishedAt": "2026-07-17",
       "excerpt": "",
@@ -3435,10 +3690,10 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Safety Measures (JP)",
       "region": "JP",
-      "title": "[安全]［MID-NET］利活用状況を更新しました",
+      "title": "[医薬]［MID-NET］利活用状況を更新しました",
       "url": "https://www.pmda.go.jp/safety/mid-net/0010.html",
       "publishedAt": "2026-07-15",
       "excerpt": "",
@@ -4065,31 +4320,31 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Safety Measures (JP)",
       "region": "JP",
-      "title": "[安全]医薬品・医療機器等安全性情報 No.430（厚生労働省発行）を掲載しました",
-      "url": "https://www.pmda.go.jp/safety/info-services/drugs/calling-attention/safety-info/0166.html",
-      "publishedAt": "2026-07-14",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
-      "region": "JP",
-      "title": "[安全]使用上の注意の改訂指示通知（医薬品）2026年07月14日付（厚生労働省より発出）を掲載しました",
+      "title": "[医薬]使用上の注意の改訂指示通知（医薬品）2026年07月14日付（厚生労働省より発出）を掲載しました",
       "url": "https://www.pmda.go.jp/safety/info-services/drugs/calling-attention/revision-of-precautions/0375.html",
       "publishedAt": "2026-07-14",
       "excerpt": "",
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Safety Measures (JP)",
       "region": "JP",
-      "title": "[安全]「医薬品に関する評価中のリスク等の情報について」を掲載しました",
+      "title": "[医薬]「医薬品に関する評価中のリスク等の情報について」を掲載しました",
       "url": "https://www.pmda.go.jp/safety/info-services/drugs/calling-attention/risk-communications/0001.html",
+      "publishedAt": "2026-07-14",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Safety Measures (JP)",
+      "region": "JP",
+      "title": "[全製品]医薬品・医療機器等安全性情報 No.430（厚生労働省発行）を掲載しました",
+      "url": "https://www.pmda.go.jp/safety/info-services/drugs/calling-attention/safety-info/0166.html",
       "publishedAt": "2026-07-14",
       "excerpt": "",
       "sourceType": "rss"
@@ -5095,20 +5350,20 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Safety Measures (JP)",
       "region": "JP",
-      "title": "[安全]患者副作用報告（2025年12月1日から2026年3月31日受付分）を追加しました",
+      "title": "[医薬]患者副作用報告（2025年12月1日から2026年3月31日受付分）を追加しました",
       "url": "https://www.pmda.go.jp/safety/reports/patients/0005.html",
       "publishedAt": "2026-07-13",
       "excerpt": "",
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Safety Measures (JP)",
       "region": "JP",
-      "title": "[安全]「「ガストログラフイン経口・注腸用」 ニトロソアミン化合物検出のお知らせ（第2版）」を掲載しました",
+      "title": "[医薬]「「ガストログラフイン経口・注腸用」 ニトロソアミン化合物検出のお知らせ（第2版）」を掲載しました",
       "url": "https://www.pmda.go.jp/safety/info-services/drugs/0371.html",
       "publishedAt": "2026-07-13",
       "excerpt": "",
@@ -5978,18 +6233,18 @@
       "siteId": "PMDAの新着情報",
       "siteName": "What's New (JP)",
       "region": "JP",
-      "title": "[安全]クラスI回収 該当回収品目　新鮮凍結血漿-LR「日赤」240",
-      "url": "https://www.pmda.go.jp/safety/info-services/drugs/calling-attention/recall-info/0002.html",
+      "title": "[国際]PMDA Updates（2026 No.2）を掲載しました",
+      "url": "https://www.pmda.go.jp/int-activities/outline/0007.html",
       "publishedAt": "2026-07-10",
       "excerpt": "",
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Safety Measures (JP)",
       "region": "JP",
-      "title": "[国際]PMDA Updates（2026 No.2）を掲載しました",
-      "url": "https://www.pmda.go.jp/int-activities/outline/0007.html",
+      "title": "[医薬]クラスI回収 該当回収品目　新鮮凍結血漿-LR「日赤」240",
+      "url": "https://www.pmda.go.jp/safety/info-services/drugs/calling-attention/recall-info/0002.html",
       "publishedAt": "2026-07-10",
       "excerpt": "",
       "sourceType": "rss"
@@ -7335,16 +7590,6 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "CDER Streamlined Nonclinical Studies and Acceptable New Approach Methodologies (NAMs)",
-      "url": "http://www.fda.gov/about-fda/center-drug-evaluation-and-research-cder/cder-streamlined-nonclinical-studies-and-acceptable-new-approach-methodologies-nams",
-      "publishedAt": "2026-07-08",
-      "excerpt": "It has become increasingly clear that new approach methodologies (NAMs)—when combined with knowledge of the pathway, results of pharmacology studies, and other relevant data—may offer ways to reduce animal testing.",
-      "sourceType": "rss"
-    },
-    {
       "siteId": "tfda-news-and-press-releases",
       "siteName": "新聞",
       "region": "TW",
@@ -7378,18 +7623,18 @@
       "siteId": "PMDAの新着情報",
       "siteName": "What's New (JP)",
       "region": "JP",
-      "title": "[安全]「医療事故情報収集等事業第85回報告書の公表について」及び「医療事故情報収集等事業2025年年報の公表について」を掲載しました",
-      "url": "https://www.pmda.go.jp/safety/info-services/medical-safety-info/0005.html",
+      "title": "[国際]ICH-E11A「小児用医薬品開発における外挿に関するガイドラインについて」が発出されました",
+      "url": "https://www.pmda.go.jp/int-activities/int-harmony/ich/0017.html",
       "publishedAt": "2026-07-07",
       "excerpt": "",
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Safety Measures (JP)",
       "region": "JP",
-      "title": "[国際]ICH-E11A「小児用医薬品開発における外挿に関するガイドラインについて」が発出されました",
-      "url": "https://www.pmda.go.jp/int-activities/int-harmony/ich/0017.html",
+      "title": "[全製品]「医療事故情報収集等事業第85回報告書の公表について」及び「医療事故情報収集等事業2025年年報の公表について」を掲載しました",
+      "url": "https://www.pmda.go.jp/safety/info-services/medical-safety-info/0005.html",
       "publishedAt": "2026-07-07",
       "excerpt": "",
       "sourceType": "rss"
@@ -7422,16 +7667,6 @@
       "url": "https://www.pmda.go.jp/about-pmda/outline/0016.html",
       "publishedAt": "2026-07-07",
       "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "ema-whats-new",
-      "siteName": "What's new",
-      "region": "EU",
-      "title": "SPOR and XEVMPD status update webinar - Q3 2026, Online, European Medicines Agency, Amsterdam, the Netherlands, from 8 July 2026, 10:00 (CEST) to 8 July 2026, 12:30 (CEST)",
-      "url": "https://www.ema.europa.eu/en/events/spor-xevmpd-status-update-webinar-q3-2026",
-      "publishedAt": "2026-07-07",
-      "excerpt": "SPOR and XEVMPD status update webinar - Q3 2026, Online, European Medicines Agency, Amsterdam, the Netherlands, from 8 July 2026, 10:00 (CEST) to 8 July 2026, 12:30 (CEST)",
       "sourceType": "rss"
     },
     {
@@ -9105,10 +9340,10 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Safety Measures (JP)",
       "region": "JP",
-      "title": "[安全]「定期の予防接種等による副反応疑いの報告等の取扱いについて」の一部改正について」を掲載しました",
+      "title": "[医薬]「定期の予防接種等による副反応疑いの報告等の取扱いについて」の一部改正について」を掲載しました",
       "url": "https://www.pmda.go.jp/safety/reports/hcp/prev-vacc-act/0003.html",
       "publishedAt": "2026-07-02",
       "excerpt": "",
@@ -10025,10 +10260,10 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Safety Measures (JP)",
       "region": "JP",
-      "title": "[安全]「PMDAからの医薬品適正使用のお願い」に「ピボキシル基を有する抗菌薬投与による小児等の重篤な低カルニチン血症、重篤な低血糖について（続報）」を掲載しました",
+      "title": "[医薬]「PMDAからの医薬品適正使用のお願い」に「ピボキシル基を有する抗菌薬投与による小児等の重篤な低カルニチン血症、重篤な低血糖について（続報）」を掲載しました",
       "url": "https://www.pmda.go.jp/safety/info-services/drugs/calling-attention/properly-use-alert/0002.html",
       "publishedAt": "2026-06-30",
       "excerpt": "",
@@ -10602,16 +10837,6 @@
       "url": "http://www.fda.gov.tw/tc/newsContent.aspx?cid=5072&id=31582&utm_source=rss&utm_medium=feed&utm_campaign=rss_subscription",
       "publishedAt": "2026-06-29",
       "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "Training Course: Achieving Data Quality and Integrity in Maximum Containment Laboratories",
-      "url": "http://www.fda.gov/emergency-preparedness-and-response/outreach-and-professional-development-activities/training-course-achieving-data-quality-and-integrity-maximum-containment-laboratories",
-      "publishedAt": "2026-06-29",
-      "excerpt": "To help address challenges associated with ensuring data quality and integrity in regulated studies conducted in BSL-4 laboratories to support MCM development, FDA and UTMB collaborate to provide an annual training course on how to meet GLP requirements in BSL-4 facilities",
       "sourceType": "rss"
     },
     {
@@ -11455,16 +11680,6 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "Quantitative Systems Pharmacology (QSP)-Based Dose Selection for Minimum Anticipated Biological Effect Level (MABEL) in First-in-Human (FIH) Trials",
-      "url": "http://www.fda.gov/regulatory-information/search-fda-guidance-documents/quantitative-systems-pharmacology-qsp-based-dose-selection-minimum-anticipated-biological-effect",
-      "publishedAt": "2026-06-25",
-      "excerpt": "Quantitative Systems Pharmacology (QSP)-Based Dose Selection for Minimum Anticipated Biological Effect Level (MABEL) in First-in-Human (FIH) Trials",
-      "sourceType": "rss"
-    },
-    {
       "siteId": "ema-whats-new",
       "siteName": "What's new",
       "region": "EU",
@@ -11742,6 +11957,16 @@
       "url": "https://www.pmda.go.jp/about-pmda/advisory-council-information/review-and-safety/0070.html",
       "publishedAt": "2026-06-24",
       "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-regulatory-and-procedural-guidelines",
+      "siteName": "Regulatory and procedural guidelines (human and veterinary)",
+      "region": "EU",
+      "title": "Veterinary Dictionary for Drug Regulatory Activities (VeDDRA) dataload friendly file including deprecated terms",
+      "url": "https://www.ema.europa.eu/en/documents/regulatory-procedural-guideline/veterinary-dictionary-drug-regulatory-activities-veddra-dataload-friendly-file-including-deprecated-terms_en.xlsx",
+      "publishedAt": "2026-06-24",
+      "excerpt": "Veterinary Dictionary for Drug Regulatory Activities (VeDDRA) dataload friendly file including deprecated terms",
       "sourceType": "rss"
     },
     {
@@ -15895,8 +16120,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 承認審査",
-      "siteName": "Review for (marketing) approval (JP)",
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Safety Measures (JP)",
       "region": "JP",
       "title": "[安全][医療]「医療機器添付文書改訂相談」のページを掲載しました",
       "url": "https://www.pmda.go.jp/review-services/f2f-pre/consultations/0122.html",
@@ -16135,8 +16360,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 承認審査",
-      "siteName": "Review for (marketing) approval (JP)",
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Safety Measures (JP)",
       "region": "JP",
       "title": "[審査][安全][イベント]PMDAシンポジウム「生成AIの医療活用の最前線」の開催について（資料掲載）",
       "url": "https://www.pmda.go.jp/review-services/symposia/0198.html",
@@ -16145,8 +16370,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 承認審査",
-      "siteName": "Review for (marketing) approval (JP)",
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Safety Measures (JP)",
       "region": "JP",
       "title": "[審査][安全][イベント]PMDAシンポジウム「リアルワールドデータを活用した医療機器開発」の開催について（資料掲載）",
       "url": "https://www.pmda.go.jp/review-services/symposia/0199.html",
