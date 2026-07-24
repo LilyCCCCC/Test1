@@ -1,24 +1,24 @@
 {
-  "generatedAt": "2026-07-24T06:43:29.063612+00:00",
-  "count": 1847,
+  "generatedAt": "2026-07-24T09:39:24.039092+00:00",
+  "count": 1857,
   "errors": [
     {
       "groupId": "pmda",
       "siteId": "services-for-healtheffects",
       "error": "RSS fetch failed - keeping archived data"
-    },
-    {
-      "groupId": "pmda",
-      "siteId": "PMDA：トップ 国際活動",
-      "error": "RSS fetch failed - keeping archived data"
-    },
-    {
-      "groupId": "pmda",
-      "siteId": "PMDA：トップ その他",
-      "error": "RSS fetch failed - keeping archived data"
     }
   ],
   "items": [
+    {
+      "siteId": "tfda-news-and-press-releases",
+      "siteName": "新聞",
+      "region": "TW",
+      "title": "食藥署召開地方衛生局聯繫會議 統一問題產品銷毀及重新上架原則",
+      "url": "http://www.fda.gov.tw/tc/newsContent.aspx?cid=4&id=t634541&utm_source=rss&utm_medium=feed&utm_campaign=rss_subscription",
+      "publishedAt": "2026-07-24",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
     {
       "siteId": "notice-from-tfda",
       "siteName": "公告",
@@ -30,8 +30,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[調達]一般競争入札公告（2026年度国際会議等実用英語研修）",
       "url": "https://www.pmda.go.jp/procurements/public-bidding/general-competition/1698.html",
@@ -40,8 +40,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[基準]小児の先天性血友病に対する血液凝固第VIII因子製剤及び血液凝固第IX因子製剤の臨床評価の留意点（Early Consideration）の英訳版を掲載しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/guidance-guideline/0003.html",
@@ -70,8 +70,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[RS][イベント]第12回PMDAレギュラトリーサイエンス研究会の開催について掲載しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/symposia/0034.html",
@@ -90,6 +90,86 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "ema-regulatory-and-procedural-guidelines",
+      "siteName": "Regulatory and procedural guidelines (human and veterinary)",
+      "region": "EU",
+      "title": "Pharmacovigilance-related regulatory recommendations for centrally authorised veterinary medicinal products during 2026",
+      "url": "https://www.ema.europa.eu/en/documents/regulatory-procedural-guideline/pharmacovigilance-related-regulatory-recommendations-centrally-authorised-veterinary-medicinal-products-during-2026_en.pdf",
+      "publishedAt": "2026-07-24",
+      "excerpt": "Pharmacovigilance-related regulatory recommendations for centrally authorised veterinary medicinal products during 2026",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Pharmacovigilance-related regulatory recommendations for centrally authorised veterinary medicinal products during 2026",
+      "url": "https://www.ema.europa.eu/system/files/documents/regulatory-procedural-guideline/cvmp-phv-pi-updates-2026_en.pdf",
+      "publishedAt": "2026-07-24",
+      "excerpt": "Pharmacovigilance-related regulatory recommendations for centrally authorised veterinary medicinal products during 2026",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Minutes – Ad hoc Executive Steering Group on Shortages and Safety of Medicinal Products (MSSG) - 12 June 2026",
+      "url": "https://www.ema.europa.eu/system/files/documents/minutes/minutes-ad-hoc-executive-steering-group-shortages-safety-medicinal-products-mssg_en.pdf",
+      "publishedAt": "2026-07-24",
+      "excerpt": "Minutes – Ad hoc Executive Steering Group on Shortages and Safety of Medicinal Products (MSSG) - 12 June 2026",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Minutes - HMA-EMA joint Network Data Steering Group meeting - 16 June 2026",
+      "url": "https://www.ema.europa.eu/system/files/documents/minutes/final-minutes-network-data-steering-group-16-june-2026_en.pdf",
+      "publishedAt": "2026-07-24",
+      "excerpt": "Minutes - HMA-EMA joint Network Data Steering Group meeting - 16 June 2026",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Meeting of the Executive Steering Group on Shortages and Safety of Medicinal Products (MSSG) – June 2026, Online, European Medicines Agency, Amsterdam, the Netherlands, from 12 June 2026, 16:30 (CEST) to 12 June 2026, 17:30 (CEST)",
+      "url": "https://www.ema.europa.eu/en/events/meeting-executive-steering-group-shortages-safety-medicinal-products-mssg-june-2026-0",
+      "publishedAt": "2026-07-24",
+      "excerpt": "Meeting of the Executive Steering Group on Shortages and Safety of Medicinal Products (MSSG) – June 2026, Online, European Medicines Agency, Amsterdam, the Netherlands, from 12 June 2026, 16:30 (CEST) to 12 June 2026, 17:30 (CEST)",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Comirnaty, COVID-19 mRNA vaccine, Date of authorisation: 21/12/2020, Revision: 62, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/comirnaty",
+      "publishedAt": "2026-07-24",
+      "excerpt": "Human medicines European public assessment report (EPAR): Comirnaty, COVID-19 mRNA vaccine, Date of authorisation: 21/12/2020, Revision: 62, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Guideline on data requirements to support in-use stability claims for veterinary vaccines - Revision 1",
+      "url": "https://www.ema.europa.eu/system/files/documents/scientific-guideline/use-stability-claims-draft-revised-gl-2026_en.pdf",
+      "publishedAt": "2026-07-24",
+      "excerpt": "Guideline on data requirements to support in-use stability claims for veterinary vaccines - Revision 1",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-scientific-guidelines",
+      "siteName": "Scientific guidelines (human and veterinary)",
+      "region": "EU",
+      "title": "Guideline on data requirements to support in-use stability claims for veterinary vaccines - Revision 1",
+      "url": "https://www.ema.europa.eu/en/documents/scientific-guideline/guideline-data-requirements-support-use-stability-claims-veterinary-vaccines-revision-1_en.pdf",
+      "publishedAt": "2026-07-24",
+      "excerpt": "Guideline on data requirements to support in-use stability claims for veterinary vaccines - Revision 1",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "reviews",
       "siteName": "Reviews (EN)",
       "region": "JP",
@@ -97,6 +177,36 @@
       "url": "https://www.pmda.go.jp/english/review-services/regulatory-info/0005.html",
       "publishedAt": "2026-07-24",
       "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Concept paper on the revision of the guideline on  pharmaceutical fixed combination products  (EMA/CVMP/83804/2005-Rev.1)",
+      "url": "https://www.ema.europa.eu/system/files/documents/scientific-guideline/concept-paper-revision-fixed-combinations-gl_en.pdf",
+      "publishedAt": "2026-07-24",
+      "excerpt": "Concept paper on the revision of the guideline on  pharmaceutical fixed combination products  (EMA/CVMP/83804/2005-Rev.1)",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-public-consultations",
+      "siteName": "Public consultations",
+      "region": "EU",
+      "title": "Concept paper on the revision of the guideline on  pharmaceutical fixed combination products  (EMA/CVMP/83804/2005-Rev.1)",
+      "url": "https://www.ema.europa.eu/en/documents/scientific-guideline/concept-paper-revision-guideline-pharmaceutical-fixed-combination-products-ema-cvmp-83804-2005-rev1_en.pdf",
+      "publishedAt": "2026-07-24",
+      "excerpt": "Concept paper on the revision of the guideline on  pharmaceutical fixed combination products  (EMA/CVMP/83804/2005-Rev.1)",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Cardiac valves - Notified Body 0344 - 20/12/2025 - Expert decision and opinion in the context of the clinical evaluation consultation procedure (CECP)",
+      "url": "https://www.ema.europa.eu/system/files/documents/other/emaex0000309556-cecp-opinion-be-shared-nb_en.pdf",
+      "publishedAt": "2026-07-24",
+      "excerpt": "Cardiac valves - Notified Body 0344 - 20/12/2025 - Expert decision and opinion in the context of the clinical evaluation consultation procedure (CECP)",
       "sourceType": "rss"
     },
     {
@@ -350,8 +460,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[採用]事務補助員（手数料の入金確認・データ管理に関する補助業務等（事務系））の募集について",
       "url": "https://www.pmda.go.jp/recruit/0890.html",
@@ -1680,8 +1790,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[採用]事務補助員（医薬翻訳事務）の募集について（採用時期を更新しました）",
       "url": "https://www.pmda.go.jp/recruit/0429.html",
@@ -1700,8 +1810,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[PMDA][イベント]令和8年度こども霞が関見学デーに出展します！「いろがかわる！おくすりじっけん」",
       "url": "https://www.pmda.go.jp/about-pmda/symposia/0035.html",
@@ -2430,8 +2540,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[PMDA][イベント]2026年度のPMDAオープン・カンパニー情報（技術系）を更新しました",
       "url": "https://www.pmda.go.jp/about-pmda/symposia/0030.html",
@@ -4620,8 +4730,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[薬局方]薬局方に関する国際的な活動についてのプレスリリースを掲載しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/0005.html",
@@ -5540,8 +5650,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[PMDA]令和8年度第1回救済業務委員会　開催案内を掲載しました",
       "url": "https://www.pmda.go.jp/about-pmda/advisory-council-information/relief-services/0071.html",
@@ -6540,8 +6650,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[調達]一般競争入札公告（政府調達）（PMDAウェブサイト システム移行及び機能改修等の要件定義等業務）",
       "url": "https://www.pmda.go.jp/procurements/public-bidding/general-competition-government/0234.html",
@@ -6550,8 +6660,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[PMDA]法人文書開示請求書等様式",
       "url": "https://www.pmda.go.jp/about-pmda/disclosures/0003.html",
@@ -6930,8 +7040,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[その他]倫理審査委員会の委員名簿を更新しました。",
       "url": "https://www.pmda.go.jp/rs-std-jp/research/0009.html",
@@ -6940,8 +7050,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[PMDA]英国ロンドン大学衛生・熱帯医学大学院（LSHTM）との連携に係る覚書の締結について（ニュースリリース）[383KB]",
       "url": "https://www.pmda.go.jp/about-pmda/news-release/0096.pdf",
@@ -6950,8 +7060,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[PMDA]専門委員名簿を更新しました",
       "url": "https://www.pmda.go.jp/about-pmda/outline/0016.html",
@@ -8080,8 +8190,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[調達]一般競争入札公告（政府調達）（総合評価落札方式）（経営管理高度化のための技術的支援業務（第Ⅲ期））",
       "url": "https://www.pmda.go.jp/procurements/public-bidding/general-competition-government/0233.html",
@@ -8650,8 +8760,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[その他]令和8年度第1回研究支援委員会の議事要旨を掲載しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/research/0008.html",
@@ -8990,8 +9100,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[調達]一般競争入札公告（政府調達）（総合評価落札方式）（医薬品・医療機器等製品データベースの新規開発業務及び医薬品医療機器情報提供システムの再構築業務）",
       "url": "https://www.pmda.go.jp/procurements/public-bidding/general-competition-government/0232.html",
@@ -9000,8 +9110,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[採用]2026年度1day仕事体験（技術系　生物統計業務体験）の応募受付を開始しました",
       "url": "https://www.pmda.go.jp/recruit/0856.html",
@@ -9010,8 +9120,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[採用]2026年度1day仕事体験（技術系　新医療機器審査体験）の応募受付を開始しました",
       "url": "https://www.pmda.go.jp/recruit/0857.html",
@@ -9030,8 +9140,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[PMDA]オーストリア・ウィーン医科大学と医薬品医療機器総合機構（PMDA）の連携に係る覚書の締結について（ニュースリリース）[271KB]",
       "url": "https://www.pmda.go.jp/about-pmda/news-release/0095.pdf",
@@ -9600,8 +9710,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[PMDA]独立行政法人の役員の報酬等及び職員の給与水準の公表について",
       "url": "https://www.pmda.go.jp/about-pmda/info-about-pmda/0019.html",
@@ -9927,16 +10037,6 @@
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/doptelet",
       "publishedAt": "2026-06-30",
       "excerpt": "Human medicines European public assessment report (EPAR): Doptelet, avatrombopag, Date of authorisation: 20/06/2019, Revision: 12, Status: Authorised",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
-      "siteName": "Human medicines: EPARs and summaries of opinion",
-      "region": "EU",
-      "title": "Human medicines European public assessment report (EPAR): Comirnaty, COVID-19 mRNA vaccine, Date of authorisation: 21/12/2020, Revision: 62, Status: Authorised",
-      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/comirnaty",
-      "publishedAt": "2026-06-30",
-      "excerpt": "Human medicines European public assessment report (EPAR): Comirnaty, COVID-19 mRNA vaccine, Date of authorisation: 21/12/2020, Revision: 62, Status: Authorised",
       "sourceType": "rss"
     },
     {
@@ -10520,8 +10620,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[調達]一般競争入札公告（政府調達）（共用LANシステム 業務用PCの更新）",
       "url": "https://www.pmda.go.jp/procurements/public-bidding/general-competition-government/0231.html",
@@ -10540,8 +10640,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[その他]公的研究費に基づく研究ページを更新しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/research/0004.html",
@@ -12040,8 +12140,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[薬局方][パブコメ]日本薬局方新規収載候補品目（案）に関するご意見の募集について（2026年6月分）",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/pub-comments/jp/0262.html",
@@ -12770,8 +12870,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[薬局方]PDG（薬局方調和国際会議）ニュースを掲載しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/0012.html",
@@ -12790,8 +12890,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[その他]「申請電子データを活用した解析」のページを更新しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/0002.html",
@@ -13500,8 +13600,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[その他]「AI利活用に関する基本的考え方」検討PTを設置しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/cross-sectional-project/0001.html",
@@ -13570,8 +13670,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[薬局方][パブコメ]日本薬局方収載原案に関するご意見の募集について（2026年6月分 その2）",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/pub-comments/jp/0258.html",
@@ -13580,8 +13680,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[薬局方][パブコメ]日本薬局方収載原案に関するご意見の募集について（2026年6月分 その1）",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/pub-comments/jp/0261.html",
@@ -13590,8 +13690,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[薬局方][パブコメ]日本薬局方から削除予定の（案）試薬・試液に関するご意見の募集について（2026年6月分）",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/pub-comments/jp/0259.html",
@@ -13600,8 +13700,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[薬局方][パブコメ]日本薬局方から削除予定の（案）医薬品各条・標準品に関するご意見の募集について（2026年6月分）",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/pub-comments/jp/0260.html",
@@ -13667,16 +13767,6 @@
       "url": "https://www.ema.europa.eu/en/news/united-health-ema-worldpride-2026",
       "publishedAt": "2026-06-01",
       "excerpt": "June is PRIDE month and EMA starts a two-month celebration of diversity and inclusion in science and healthcare, leading up to its participation in the world-famous Amsterdam…,         Our strength in the EU comes from our unity in diversity. Equality and non-discrimination are critical everywhere, but in health they can make the difference between…,   EMA staff will be joined on the boat by representatives of patient organisations such as EURORDIS-Rare Diseases Europe, European AIDS Treatment G",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "ema-regulatory-and-procedural-guidelines",
-      "siteName": "Regulatory and procedural guidelines (human and veterinary)",
-      "region": "EU",
-      "title": "Pharmacovigilance-related regulatory recommendations for centrally authorised veterinary medicinal products during 2026",
-      "url": "https://www.ema.europa.eu/en/documents/regulatory-procedural-guideline/pharmacovigilance-related-regulatory-recommendations-centrally-authorised-veterinary-medicinal-products-during-2026_en.pdf",
-      "publishedAt": "2026-06-01",
-      "excerpt": "Pharmacovigilance-related regulatory recommendations for centrally authorised veterinary medicinal products during 2026",
       "sourceType": "rss"
     },
     {
@@ -14680,8 +14770,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[薬局方]日局におけるPDG調和文書への対応状況（試験法等）を更新しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/0021.html",
@@ -15230,8 +15320,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[薬局方]日局におけるPDG調和文書への対応状況（医薬品各条）を更新しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/0020.html",
@@ -15270,8 +15360,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[その他]研究推進業務のページを更新しました。",
       "url": "https://www.pmda.go.jp/rs-std-jp/research/0001.html",
@@ -15790,8 +15880,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[その他]研究紹介動画第6弾を更新しました。",
       "url": "https://www.pmda.go.jp/rs-std-jp/research/0016.html",
@@ -16030,8 +16120,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[その他]第50回科学委員会の議事概要を掲載しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/science-committee/0055.html",
@@ -16070,8 +16160,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[薬局方][パブコメ]薬局方調和国際会議調和案（Stage 2）に関するご意見の募集について（2026年3月分）",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/pub-comments/pdg/0058.html",
@@ -16080,8 +16170,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[薬局方][パブコメ]日本薬局方収載原案に関するご意見の募集について（2026年3月分）",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/pub-comments/jp/0257.html",
@@ -16430,8 +16520,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[薬局方]PDG（薬局方調和国際会議）の議事要旨を掲載しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/0009.html",
@@ -16550,8 +16640,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[その他]薬剤耐性菌感染症に用いるファージ製剤の開発における留意事項を掲載しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/subcommittees/0001.html",
@@ -16690,8 +16780,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[その他]「AI対応WG」のページを新設しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/cross-sectional-project/0024.html",
@@ -16750,8 +16840,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[薬局方][パブコメ]日本薬局方収載原案に関するご意見の募集について（2025年12月分 その2）",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/pub-comments/jp/0256.html",
@@ -16760,8 +16850,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[薬局方][パブコメ]日本薬局方収載原案に関するご意見の募集について（2025年12月分 その1）",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/pub-comments/jp/0255.html",
@@ -16790,8 +16880,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[薬局方][パブコメ]日本薬局方新規収載候補品目（案）に関するご意見の募集について（2025年11月分）",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/pub-comments/jp/0254.html",
@@ -16800,8 +16890,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[薬局方]PDG調和作業手順の改訂版を掲載しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/0022.html",
