@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-07-23T22:28:47.762531+00:00",
-  "count": 1841,
+  "generatedAt": "2026-07-24T00:16:23.155918+00:00",
+  "count": 1843,
   "errors": [
     {
       "groupId": "pmda",
       "siteId": "services-for-healtheffects",
+      "error": "RSS fetch failed - keeping archived data"
+    },
+    {
+      "groupId": "pmda",
+      "siteId": "PMDA：トップ 安全対策",
       "error": "RSS fetch failed - keeping archived data"
     },
     {
@@ -24,6 +29,46 @@
     }
   ],
   "items": [
+    {
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
+      "region": "JP",
+      "title": "[基準]小児の先天性血友病に対する血液凝固第VIII因子製剤及び血液凝固第IX因子製剤の臨床評価の留意点（Early Consideration）の英訳版を掲載しました",
+      "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/guidance-guideline/0003.html",
+      "publishedAt": "2026-07-24",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "PMDA：トップ 承認審査",
+      "siteName": "Review for (marketing) approval (JP)",
+      "region": "JP",
+      "title": "[イベント]Early Consideration「少数例臨床試験に関する留意事項」説明会開催のお知らせを掲載しました",
+      "url": "https://www.pmda.go.jp/review-services/symposia/0207.html",
+      "publishedAt": "2026-07-24",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
+      "region": "JP",
+      "title": "[RS][イベント]第12回PMDAレギュラトリーサイエンス研究会の開催について掲載しました",
+      "url": "https://www.pmda.go.jp/rs-std-jp/symposia/0034.html",
+      "publishedAt": "2026-07-24",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "reviews",
+      "siteName": "Reviews (EN)",
+      "region": "JP",
+      "title": "Considerations for the Clinical Evaluation of Blood Coagulation Factor VIII and Factor IX Products for Pediatric Congenital Hemophilia (Early Consideration) posted.",
+      "url": "https://www.pmda.go.jp/english/review-services/regulatory-info/0005.html",
+      "publishedAt": "2026-07-24",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
     {
       "siteId": "notice-from-tfda",
       "siteName": "公告",
@@ -4555,16 +4600,6 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
-      "region": "JP",
-      "title": "[基準]初回治験届出時に留意すべきヒト又は動物由来の細胞株を用いて製造されるバイオテクノロジー応用医薬品等の品質関連資料のチェックリスト（Early Consideration）を掲載しました",
-      "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/guidance-guideline/0003.html",
-      "publishedAt": "2026-07-13",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
       "siteId": "PMDA：トップ 安全対策",
       "siteName": "Safety Measures (JP)",
       "region": "JP",
@@ -5332,16 +5367,6 @@
       "url": "http://www.fda.gov/about-fda/cliantha-research-limited",
       "publishedAt": "2026-07-13",
       "excerpt": "Cliantha Research Limited, Ahmedabad, Gujarat, India, 4/17/26, 3017682080",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "reviews",
-      "siteName": "Reviews (EN)",
-      "region": "JP",
-      "title": "Checklist for Quality-Related Documents for Biotechnology Products Derived from Cell Lines of Human or Animal Origin at the Time of Initial Clinical Trial Notification（Early Consideration）posted.",
-      "url": "https://www.pmda.go.jp/english/review-services/regulatory-info/0005.html",
-      "publishedAt": "2026-07-13",
-      "excerpt": "",
       "sourceType": "rss"
     },
     {
@@ -8965,8 +8990,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 安全対策",
-      "siteName": "Adverse Health Effects Relief (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[健康]令和7年度「医薬品副作用被害救済制度に関する認知度調査」結果を掲載しました",
       "url": "https://www.pmda.go.jp/relief-services/adr-sufferers/0023.html",
@@ -9535,8 +9560,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 安全対策",
-      "siteName": "Adverse Health Effects Relief (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[健康]副用救済給付の決定に関する情報（2026年度4月分）を掲載しました",
       "url": "https://www.pmda.go.jp/relief-services/adr-sufferers/0043.html",
