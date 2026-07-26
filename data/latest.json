@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-07-26T21:14:19.107749+00:00",
+  "generatedAt": "2026-07-26T22:16:38.411923+00:00",
   "count": 1927,
   "errors": [
     {
       "groupId": "pmda",
       "siteId": "services-for-healtheffects",
+      "error": "RSS fetch failed - keeping archived data"
+    },
+    {
+      "groupId": "pmda",
+      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
       "error": "RSS fetch failed - keeping archived data"
     }
   ],
