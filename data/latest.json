@@ -1,17 +1,32 @@
 {
-  "generatedAt": "2026-07-28T14:44:14.080053+00:00",
-  "count": 1974,
+  "generatedAt": "2026-07-28T16:55:50.844405+00:00",
+  "count": 1987,
   "errors": [
     {
       "groupId": "pmda",
       "siteId": "services-for-healtheffects",
       "error": "RSS fetch failed - keeping archived data"
+    },
+    {
+      "groupId": "pmda",
+      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
+      "error": "RSS fetch failed - keeping archived data"
+    },
+    {
+      "groupId": "pmda",
+      "siteId": "PMDA：トップ 国際活動",
+      "error": "RSS fetch failed - keeping archived data"
+    },
+    {
+      "groupId": "pmda",
+      "siteId": "PMDA：トップ その他",
+      "error": "RSS fetch failed - keeping archived data"
     }
   ],
   "items": [
     {
-      "siteId": "PMDA：トップ その他",
-      "siteName": "Others (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[調達]一般競争入札公告（海外旅行傷害保険にかかる企業包括契約）",
       "url": "https://www.pmda.go.jp/procurements/public-bidding/general-competition/1700.html",
@@ -63,6 +78,36 @@
       "siteId": "fda-ora-foia-electronic-reading-room",
       "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
       "region": "US",
+      "title": "Veganic SKN Limited",
+      "url": "http://www.fda.gov/about-fda/veganic-skn-limited",
+      "publishedAt": "2026-07-28",
+      "excerpt": "Veganic SKN Limited, Rocklea, Queensland, Australia, 7/21/25, 3024609429",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Untitled Letters",
+      "url": "http://www.fda.gov/drugs/warning-letters-and-notice-violation-letters-pharmaceutical-companies/untitled-letters",
+      "publishedAt": "2026-07-28",
+      "excerpt": "These letters are supplied by the CDER Freedom of Information Office and only cover Office of Prescription Drug Promotion's untitled letters. FDA may have redacted or edited some of the letters to remove confidential information.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "The Harvard Drug Group LLC dba Major Pharmaceuticals and Rugby Laboratories",
+      "url": "http://www.fda.gov/about-fda/harvard-drug-group-llc-dba-major-pharmaceuticals-and-rugby-laboratories",
+      "publishedAt": "2026-07-28",
+      "excerpt": "The Harvard Drug Group LLC dba Major Pharmaceuticals and Rugby Laboratories, La Vergne, TN, 3/20/26, 1818658",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
       "title": "Strides Pharma Sciencs Ltd.",
       "url": "http://www.fda.gov/about-fda/strides-pharma-sciencs-ltd",
       "publishedAt": "2026-07-28",
@@ -73,10 +118,70 @@
       "siteId": "fda-ora-foia-electronic-reading-room",
       "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
       "region": "US",
+      "title": "Stille AB",
+      "url": "http://www.fda.gov/about-fda/stille-ab",
+      "publishedAt": "2026-07-28",
+      "excerpt": "Stille AB, Sweden, 9/28/23, 3003696170",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "Reliance Life Sciences Private Limited",
+      "url": "http://www.fda.gov/about-fda/reliance-life-sciences-private-limited",
+      "publishedAt": "2026-07-28",
+      "excerpt": "Reliance Life Sciences Private Limited, Navi Mumbai, Maharashtra, India, 2/27/26, 3009510975",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "PETNET Solutions, Inc.",
+      "url": "http://www.fda.gov/about-fda/petnet-solutions-inc-0",
+      "publishedAt": "2026-07-28",
+      "excerpt": "PETNET Solutions, Inc., Las Vegas, NV, 3/6/26, 3009856092",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "New Approach Methodologies (NAMs)",
+      "url": "http://www.fda.gov/science-research/science-and-research-special-topics/new-approach-methodologies-nams",
+      "publishedAt": "2026-07-28",
+      "excerpt": "The FDA is leading a transformative shift in drug safety evaluation—reducing, replacing or refining animal testing with advanced, human-relevant methods that better predict how medicines work in people.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
       "title": "Neeyaan LLC",
       "url": "http://www.fda.gov/about-fda/neeyaan-llc",
       "publishedAt": "2026-07-28",
       "excerpt": "Neeyaan LLC, Cranbury, NJ, 1/27/26, 3024366553",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "Micro-X Ltd.",
+      "url": "http://www.fda.gov/about-fda/micro-x-ltd",
+      "publishedAt": "2026-07-28",
+      "excerpt": "Micro-X Ltd., Australia, 5/23/24, 3012855798",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "Kibun Foods Inc. Funabasi Factory",
+      "url": "http://www.fda.gov/about-fda/kibun-foods-inc-funabasi-factory",
+      "publishedAt": "2026-07-28",
+      "excerpt": "Kibun Foods Inc. Funabasi Factory, Chiba, Japan, 3/13/26, 3004323569",
       "sourceType": "rss"
     },
     {
@@ -100,6 +205,16 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "ema-human-medicines-highlights-newsletter",
+      "siteName": "Human Medicines Highlights newsletter",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Itvisma, onasemnogene abeparvovec, Date of authorisation: 30/06/2026, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/itvisma",
+      "publishedAt": "2026-07-28",
+      "excerpt": "Human medicines European public assessment report (EPAR): Itvisma, onasemnogene abeparvovec, Date of authorisation: 30/06/2026, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
       "siteName": "Human medicines: EPARs and summaries of opinion",
       "region": "EU",
@@ -117,6 +232,16 @@
       "url": "http://www.fda.gov/industry/generic-drug-user-fee-amendments/generic-drug-facilities-sites-and-organization-lists",
       "publishedAt": "2026-07-28",
       "excerpt": "Generic Drug Facilities, Sites and Organization Lists",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "Gasco Industrial Corp.",
+      "url": "http://www.fda.gov/about-fda/gasco-industrial-corp",
+      "publishedAt": "2026-07-28",
+      "excerpt": "Gasco Industrial Corp., Gurabo, PR, 2/27/26, 3010222586",
       "sourceType": "rss"
     },
     {
@@ -157,6 +282,36 @@
       "url": "http://www.fda.gov/about-fda/delta-kozmetik-sanyi-ve-ticaret-selim-yesil",
       "publishedAt": "2026-07-28",
       "excerpt": "Delta Kozmetik Sanyi Ve Ticaret-Selim Yesil, Sokak Tuzla, Istanbul, Turkey, 3/5/26, 3010166780",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "Cardinal Health 414, LLC",
+      "url": "http://www.fda.gov/about-fda/cardinal-health-414-llc",
+      "publishedAt": "2026-07-28",
+      "excerpt": "Cardinal Health 414, LLC, Jackson, MS, 3/18/26, 3004750502",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "Brio Pharmaceuticals Inc",
+      "url": "http://www.fda.gov/about-fda/brio-pharmaceuticals-inc",
+      "publishedAt": "2026-07-28",
+      "excerpt": "Brio Pharmaceuticals Inc, Houston, TX, 2/27/26, 1628196",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "Baystate Medical Center IRB",
+      "url": "http://www.fda.gov/about-fda/baystate-medical-center-irb",
+      "publishedAt": "2026-07-28",
+      "excerpt": "Baystate Medical Center IRB, Springfield, MA, 2/2/26, 1283379",
       "sourceType": "rss"
     },
     {
@@ -640,8 +795,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ その他",
-      "siteName": "Others (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[調達]一般競争入札公告（2026年度国際会議等実用英語研修）",
       "url": "https://www.pmda.go.jp/procurements/public-bidding/general-competition/1698.html",
@@ -650,8 +805,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 国際活動",
-      "siteName": "International (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[基準]小児の先天性血友病に対する血液凝固第VIII因子製剤及び血液凝固第IX因子製剤の臨床評価の留意点（Early Consideration）の英訳版を掲載しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/guidance-guideline/0003.html",
@@ -690,8 +845,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 国際活動",
-      "siteName": "International (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[RS][イベント]第12回PMDAレギュラトリーサイエンス研究会の開催について掲載しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/symposia/0034.html",
@@ -910,16 +1065,6 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "New Approach Methodologies (NAMs)",
-      "url": "http://www.fda.gov/science-research/science-and-research-special-topics/new-approach-methodologies-nams",
-      "publishedAt": "2026-07-24",
-      "excerpt": "The FDA is leading a transformative shift in drug safety evaluation—reducing, replacing or refining animal testing with advanced, human-relevant methods that better predict how medicines work in people.",
-      "sourceType": "rss"
-    },
-    {
       "siteId": "ema-whats-new",
       "siteName": "What's new",
       "region": "EU",
@@ -1017,6 +1162,16 @@
       "url": "http://www.fda.gov/about-fda/lan-luo-m-d",
       "publishedAt": "2026-07-24",
       "excerpt": "Lan Luo, M. D., Ocala, FL, 9/16/25, 3038258929",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-food-safety-recalls",
+      "siteName": "Food Safety Recalls",
+      "region": "US",
+      "title": "LIDL US Recalls Eridanous Shortbread Cookies with Chocolate Truffle Coating & Apricot Filling due to Undeclared Wheat, Soy, Milk, and Eggs",
+      "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/lidl-us-recalls-eridanous-shortbread-cookies-chocolate-truffle-coating-apricot-filling-due",
+      "publishedAt": "2026-07-24",
+      "excerpt": "ARLINGTON, VA – JULY 24, 2026 – Lidl US is recalling all units of Eridanous Shortbread Cookies with Chocolate Truffle Coating & Apricot Filling 11.6 oz (330 g) box UPC 4056489125839 with foreign language ingredients and nutrition facts panel due to undeclared wheat, soy, milk, and egg allergens. Peo",
       "sourceType": "rss"
     },
     {
@@ -1780,8 +1935,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ その他",
-      "siteName": "Others (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[採用]事務補助員（手数料の入金確認・データ管理に関する補助業務等（事務系））の募集について",
       "url": "https://www.pmda.go.jp/recruit/0890.html",
@@ -2267,16 +2422,6 @@
       "url": "http://www.fda.gov/about-fda/waylis-therapeutics-llc",
       "publishedAt": "2026-07-21",
       "excerpt": "Waylis Therapeutics LLC, Rahway, NJ, 2/12/26, 3021614574",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "Untitled Letters",
-      "url": "http://www.fda.gov/drugs/warning-letters-and-notice-violation-letters-pharmaceutical-companies/untitled-letters",
-      "publishedAt": "2026-07-21",
-      "excerpt": "These letters are supplied by the CDER Freedom of Information Office and only cover Office of Prescription Drug Promotion's untitled letters. FDA may have redacted or edited some of the letters to remove confidential information.",
       "sourceType": "rss"
     },
     {
@@ -3120,8 +3265,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ その他",
-      "siteName": "Others (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[採用]事務補助員（医薬翻訳事務）の募集について（採用時期を更新しました）",
       "url": "https://www.pmda.go.jp/recruit/0429.html",
@@ -3140,8 +3285,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ その他",
-      "siteName": "Others (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[PMDA][イベント]令和8年度こども霞が関見学デーに出展します！「いろがかわる！おくすりじっけん」",
       "url": "https://www.pmda.go.jp/about-pmda/symposia/0035.html",
@@ -3870,8 +4015,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ その他",
-      "siteName": "Others (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[PMDA][イベント]2026年度のPMDAオープン・カンパニー情報（技術系）を更新しました",
       "url": "https://www.pmda.go.jp/about-pmda/symposia/0030.html",
@@ -4027,16 +4172,6 @@
       "url": "https://www.ema.europa.eu/en/prac-meeting-archive-2018-2020",
       "publishedAt": "2026-07-16",
       "excerpt": "PRAC: meeting archive 2018-2020",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-ora-foia-electronic-reading-room",
-      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
-      "region": "US",
-      "title": "PETNET Solutions, Inc.",
-      "url": "http://www.fda.gov/about-fda/petnet-solutions-inc-0",
-      "publishedAt": "2026-07-16",
-      "excerpt": "PETNET Solutions, Inc., Las Vegas, NV, 3/6/26, 3009856092",
       "sourceType": "rss"
     },
     {
@@ -6010,8 +6145,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 国際活動",
-      "siteName": "International (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[薬局方]薬局方に関する国際的な活動についてのプレスリリースを掲載しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/0005.html",
@@ -6910,8 +7045,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ その他",
-      "siteName": "Others (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[PMDA]令和8年度第1回救済業務委員会　開催案内を掲載しました",
       "url": "https://www.pmda.go.jp/about-pmda/advisory-council-information/relief-services/0071.html",
@@ -7890,8 +8025,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ その他",
-      "siteName": "Others (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[調達]一般競争入札公告（政府調達）（PMDAウェブサイト システム移行及び機能改修等の要件定義等業務）",
       "url": "https://www.pmda.go.jp/procurements/public-bidding/general-competition-government/0234.html",
@@ -7900,8 +8035,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ その他",
-      "siteName": "Others (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[PMDA]法人文書開示請求書等様式",
       "url": "https://www.pmda.go.jp/about-pmda/disclosures/0003.html",
@@ -8270,8 +8405,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 国際活動",
-      "siteName": "International (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[その他]倫理審査委員会の委員名簿を更新しました。",
       "url": "https://www.pmda.go.jp/rs-std-jp/research/0009.html",
@@ -8280,8 +8415,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ その他",
-      "siteName": "Others (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[PMDA]英国ロンドン大学衛生・熱帯医学大学院（LSHTM）との連携に係る覚書の締結について（ニュースリリース）[383KB]",
       "url": "https://www.pmda.go.jp/about-pmda/news-release/0096.pdf",
@@ -8290,8 +8425,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ その他",
-      "siteName": "Others (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[PMDA]専門委員名簿を更新しました",
       "url": "https://www.pmda.go.jp/about-pmda/outline/0016.html",
@@ -9410,8 +9545,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ その他",
-      "siteName": "Others (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[調達]一般競争入札公告（政府調達）（総合評価落札方式）（経営管理高度化のための技術的支援業務（第Ⅲ期））",
       "url": "https://www.pmda.go.jp/procurements/public-bidding/general-competition-government/0233.html",
@@ -9980,8 +10115,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 国際活動",
-      "siteName": "International (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[その他]令和8年度第1回研究支援委員会の議事要旨を掲載しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/research/0008.html",
@@ -10310,6 +10445,16 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "light-drugs",
+      "siteName": "消費紅綠燈-國際藥品",
+      "region": "TW",
+      "title": "有關Alcon Switzerland SA藥品Miostat, Injektionslösung警訊，國內並未輸入該批號藥品。",
+      "url": "http://www.fda.gov.tw/tc/csmnewsContent.aspx?mid=269&id=7909&utm_source=rss&utm_medium=feed&utm_campaign=rss_subscription",
+      "publishedAt": "2026-07-01",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "PMDA：トップ 承認審査",
       "siteName": "Review for (marketing) approval (JP)",
       "region": "JP",
@@ -10320,8 +10465,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ その他",
-      "siteName": "Others (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[調達]一般競争入札公告（政府調達）（総合評価落札方式）（医薬品・医療機器等製品データベースの新規開発業務及び医薬品医療機器情報提供システムの再構築業務）",
       "url": "https://www.pmda.go.jp/procurements/public-bidding/general-competition-government/0232.html",
@@ -10330,8 +10475,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ その他",
-      "siteName": "Others (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[採用]2026年度1day仕事体験（技術系　生物統計業務体験）の応募受付を開始しました",
       "url": "https://www.pmda.go.jp/recruit/0856.html",
@@ -10360,8 +10505,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ その他",
-      "siteName": "Others (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[PMDA]オーストリア・ウィーン医科大学と医薬品医療機器総合機構（PMDA）の連携に係る覚書の締結について（ニュースリリース）[271KB]",
       "url": "https://www.pmda.go.jp/about-pmda/news-release/0095.pdf",
