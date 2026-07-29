@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-29T03:46:26.671659+00:00",
+  "generatedAt": "2026-07-29T07:09:23.999011+00:00",
   "count": 1988,
   "errors": [
     {
@@ -9,11 +9,26 @@
     },
     {
       "groupId": "pmda",
+      "siteId": "PMDA：トップ 安全対策",
+      "error": "RSS fetch failed - keeping archived data"
+    },
+    {
+      "groupId": "pmda",
       "siteId": "PMDA：トップ 国際活動",
       "error": "RSS fetch failed - keeping archived data"
     }
   ],
   "items": [
+    {
+      "siteId": "ema-eurd-list",
+      "siteName": "European Union reference dates (EURD) list",
+      "region": "EU",
+      "title": "List of European Union reference dates (EURD) and frequency of submission of periodic safety update reports (PSURs)",
+      "url": "https://www.ema.europa.eu/en/documents/other/list-european-union-reference-dates-eurd-frequency-submission-periodic-safety-update-reports-psurs_en.xlsx",
+      "publishedAt": "2026-07-29",
+      "excerpt": "List of European Union reference dates (EURD) and frequency of submission of periodic safety update reports (PSURs)",
+      "sourceType": "rss"
+    },
     {
       "siteId": "PMDA：トップ その他",
       "siteName": "Others (JP)",
@@ -10495,8 +10510,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 安全対策",
-      "siteName": "Adverse Health Effects Relief (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[健康]令和7年度「医薬品副作用被害救済制度に関する認知度調査」結果を掲載しました",
       "url": "https://www.pmda.go.jp/relief-services/adr-sufferers/0023.html",
@@ -10672,16 +10687,6 @@
       "url": "https://www.ema.europa.eu/system/files/documents/regulatory-procedural-guideline/202605-list-centrally-authorised-products-safety-related-changes-product-inform-en.xlsx",
       "publishedAt": "2026-07-01",
       "excerpt": "List of centrally authorised products with safety-related changes to the product information",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "ema-eurd-list",
-      "siteName": "European Union reference dates (EURD) list",
-      "region": "EU",
-      "title": "List of European Union reference dates (EURD) and frequency of submission of periodic safety update reports (PSURs)",
-      "url": "https://www.ema.europa.eu/en/documents/other/list-european-union-reference-dates-eurd-frequency-submission-periodic-safety-update-reports-psurs_en.xlsx",
-      "publishedAt": "2026-07-01",
-      "excerpt": "List of European Union reference dates (EURD) and frequency of submission of periodic safety update reports (PSURs)",
       "sourceType": "rss"
     },
     {
