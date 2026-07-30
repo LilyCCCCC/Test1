@@ -1,14 +1,29 @@
 {
-  "generatedAt": "2026-07-30T06:45:30.251544+00:00",
-  "count": 1999,
+  "generatedAt": "2026-07-30T09:47:01.391931+00:00",
+  "count": 2002,
   "errors": [
     {
       "groupId": "pmda",
       "siteId": "services-for-healtheffects",
       "error": "RSS fetch failed - keeping archived data"
+    },
+    {
+      "groupId": "pmda",
+      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
+      "error": "RSS fetch failed - keeping archived data"
     }
   ],
   "items": [
+    {
+      "siteId": "notice-from-tfda",
+      "siteName": "公告",
+      "region": "TW",
+      "title": "預告修正「管制藥品分級及品項」(增列Ethyl N-formyl-N-(1-phenylethyl)glycinate等2項管制藥品)",
+      "url": "http://www.fda.gov.tw/tc/newsContent.aspx?cid=5072&id=31680&utm_source=rss&utm_medium=feed&utm_campaign=rss_subscription",
+      "publishedAt": "2026-07-30",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
     {
       "siteId": "PMDA：トップ その他",
       "siteName": "Others (JP)",
@@ -17,6 +32,36 @@
       "url": "https://www.pmda.go.jp/procurements/public-bidding/general-competition/1699.html",
       "publishedAt": "2026-07-30",
       "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Safety Measures (JP)",
+      "region": "JP",
+      "title": "[医薬]クラスI回収 該当回収品目　新鮮凍結血漿-LR「日赤」240",
+      "url": "https://www.pmda.go.jp/safety/info-services/drugs/calling-attention/recall-info/0002.html",
+      "publishedAt": "2026-07-30",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Leflunomide ratiopharm, leflunomide, Date of authorisation: 28/11/2010, Revision: 21, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/leflunomide-ratiopharm",
+      "publishedAt": "2026-07-30",
+      "excerpt": "Human medicines European public assessment report (EPAR): Leflunomide ratiopharm, leflunomide, Date of authorisation: 28/11/2010, Revision: 21, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Hulio, adalimumab, Date of authorisation: 17/09/2018, Revision: 20, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/hulio",
+      "publishedAt": "2026-07-30",
+      "excerpt": "Human medicines European public assessment report (EPAR): Hulio, adalimumab, Date of authorisation: 17/09/2018, Revision: 20, Status: Authorised",
       "sourceType": "rss"
     },
     {
@@ -265,16 +310,6 @@
       "region": "JP",
       "title": "[国際][イベント]「日本-ASEAN医療機器規制シンポジウム2026」の開催報告を掲載しました",
       "url": "https://www.pmda.go.jp/int-activities/symposia/0171.html",
-      "publishedAt": "2026-07-28",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "PMDA：トップ 安全対策",
-      "siteName": "Safety Measures (JP)",
-      "region": "JP",
-      "title": "[医薬]クラスI回収 該当回収品目　新鮮凍結血漿-LR「日赤」480、照射濃厚血小板-LRBS「日赤」",
-      "url": "https://www.pmda.go.jp/safety/info-services/drugs/calling-attention/recall-info/0002.html",
       "publishedAt": "2026-07-28",
       "excerpt": "",
       "sourceType": "rss"
