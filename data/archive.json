@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-31T13:10:02.257243+00:00",
-  "count": 2039,
+  "generatedAt": "2026-07-31T15:33:23.895618+00:00",
+  "count": 2051,
   "items": [
     {
       "siteId": "PMDA：トップ 承認審査",
@@ -13,8 +13,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[基準]「パンデミックインフルエンザに備えたプロトタイプワクチンの開発等に関するガイドライン」の改訂に向けた留意事項について（Early Consideration）を掲載しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/guidance-guideline/0003.html",
@@ -63,13 +63,23 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 安全対策",
-      "siteName": "Adverse Health Effects Relief (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[健康]副用救済給付の決定に関する情報（2026年度5月分）を掲載しました",
       "url": "https://www.pmda.go.jp/relief-services/adr-sufferers/0043.html",
       "publishedAt": "2026-07-31",
       "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "What's New Related to Drugs",
+      "url": "http://www.fda.gov/drugs/news-events-human-drugs/whats-new-related-drugs",
+      "publishedAt": "2026-07-31",
+      "excerpt": "Want to know what's new on drugs from FDA? This page provides quick links to the latest on a variety of topics including: drug approvals, safety warnings, drug shortages, etc.",
       "sourceType": "rss"
     },
     {
@@ -96,10 +106,60 @@
       "siteId": "ema-whats-new",
       "siteName": "What's new",
       "region": "EU",
+      "title": "Sponsor guidance:  New safety module on the annual safety report",
+      "url": "https://www.ema.europa.eu/system/files/documents/report/sponsors_safety-module-training_en.pdf",
+      "publishedAt": "2026-07-31",
+      "excerpt": "Sponsor guidance:  New safety module on the annual safety report",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Recently Issued Guidance Documents",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/biologics-guidances/recently-issued-guidance-documents",
+      "publishedAt": "2026-07-31",
+      "excerpt": "This page lists Recently Issued CBER and Cross-Center Guidance Documents.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "OTC Monograph Reform: OMOR Format and Content & Electronic Submissions - 08/22/2023",
+      "url": "http://www.fda.gov/drugs/news-events-human-drugs/otc-monograph-reform-omor-format-and-content-electronic-submissions-08222023",
+      "publishedAt": "2026-07-31",
+      "excerpt": "OTC Monograph Reform: OMOR Format and Content & Electronic Submissions",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Newly Added Guidance Documents",
+      "url": "http://www.fda.gov/drugs/guidances-drugs/newly-added-guidance-documents",
+      "publishedAt": "2026-07-31",
+      "excerpt": "Guidance documents represent the FDA's current thinking on a particular subject. New guidance documents are listed here for three months.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
       "title": "Medicines for human use under evaluation",
       "url": "https://www.ema.europa.eu/en/medicines/medicines-human-use-under-evaluation",
       "publishedAt": "2026-07-31",
       "excerpt": "Medicines for human use under evaluation",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Qoyvolma, ustekinumab, Date of authorisation: 02/06/2025, Revision: 4, Status: Withdrawn",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/qoyvolma",
+      "publishedAt": "2026-07-31",
+      "excerpt": "Human medicines European public assessment report (EPAR): Qoyvolma, ustekinumab, Date of authorisation: 02/06/2025, Revision: 4, Status: Withdrawn",
       "sourceType": "rss"
     },
     {
@@ -126,10 +186,30 @@
       "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
       "siteName": "Human medicines: EPARs and summaries of opinion",
       "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Iclusig, ponatinib, Date of authorisation: 01/07/2013, Revision: 30, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/iclusig",
+      "publishedAt": "2026-07-31",
+      "excerpt": "Human medicines European public assessment report (EPAR): Iclusig, ponatinib, Date of authorisation: 01/07/2013, Revision: 30, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
       "title": "Human medicines European public assessment report (EPAR): Aspaveli, pegcetacoplan, Date of authorisation: 13/12/2021, Revision: 14, Status: Authorised",
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/aspaveli",
       "publishedAt": "2026-07-31",
       "excerpt": "Human medicines European public assessment report (EPAR): Aspaveli, pegcetacoplan, Date of authorisation: 13/12/2021, Revision: 14, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Generic Drug Facilities, Sites and Organization Lists",
+      "url": "http://www.fda.gov/industry/generic-drug-user-fee-amendments/generic-drug-facilities-sites-and-organization-lists",
+      "publishedAt": "2026-07-31",
+      "excerpt": "Generic Drug Facilities, Sites and Organization Lists",
       "sourceType": "rss"
     },
     {
@@ -143,6 +223,46 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Fifth European Medicines Agency and Nuclear Medicines Europe bilateral meeting, Online, European Medicines Agency, Amsterdam, the Netherlands, 10 July 2026",
+      "url": "https://www.ema.europa.eu/en/events/fifth-european-medicines-agency-nuclear-medicines-europe-bilateral-meeting",
+      "publishedAt": "2026-07-31",
+      "excerpt": "Fifth European Medicines Agency and Nuclear Medicines Europe bilateral meeting, Online, European Medicines Agency, Amsterdam, the Netherlands, 10 July 2026",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "FDA’s Drug Registration and Listing Workshop: Compliance, Regulatory and Submission Updates - 09/29/2026",
+      "url": "http://www.fda.gov/drugs/news-events-human-drugs/fdas-drug-registration-and-listing-workshop-compliance-regulatory-and-submission-updates-09292026",
+      "publishedAt": "2026-07-31",
+      "excerpt": "Join SBIA as FDA shares the latest updates on registration and listing submissions, including current validation rules, and walks through the evolving regulatory requirements and compliance framework that shape how industry engages with these processes.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "FDA Drug Competition Action Plan | Maximizing scientific and regulatory clarity with respect to complex generic drugs",
+      "url": "http://www.fda.gov/drugs/guidance-compliance-regulatory-information/fda-drug-competition-action-plan-maximizing-scientific-and-regulatory-clarity-respect-complex",
+      "publishedAt": "2026-07-31",
+      "excerpt": "Complex generic products are typically harder to develop, which means that many complex products face less competition than other products, and therefore can be more expensive and less accessible to the patients who need them.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "FDA Drug Competition Action Plan",
+      "url": "http://www.fda.gov/drugs/guidance-compliance-regulatory-information/fda-drug-competition-action-plan",
+      "publishedAt": "2026-07-31",
+      "excerpt": "FDA's Drug Competition Action Plan (DCAP) encourages robust and timely market competition for generic drugs and helps bring greater efficiency and transparency to the generic drug review process, without sacrificing the scientific rigor underlying our generic drug program.",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "reviews",
       "siteName": "Reviews (EN)",
       "region": "JP",
@@ -150,6 +270,96 @@
       "url": "https://www.pmda.go.jp/english/review-services/reviews/approved-information/devices/0003.html",
       "publishedAt": "2026-07-31",
       "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Electronic Drug Registration and Listing (eDRLS) Using CDER Direct - 2023 - 09/28/2023",
+      "url": "http://www.fda.gov/drugs/news-events-human-drugs/electronic-drug-registration-and-listing-edrls-using-cder-direct-2023-09282023",
+      "publishedAt": "2026-07-31",
+      "excerpt": "SBIA Conference/Workshop&#58; Electronic Drug Registration and Listing (eDRLS) Using CDER Direct - 2023",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Drugs@FDA Data Files",
+      "url": "http://www.fda.gov/drugs/drug-approvals-and-databases/drugsfda-data-files",
+      "publishedAt": "2026-07-31",
+      "excerpt": "Drugs@FDA Downloadable Data File in ZIP format, Data Definitions, and Entity Relationship Diagram (ERD)",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Drug Registration and Listing Instructions",
+      "url": "http://www.fda.gov/drugs/electronic-drug-registration-and-listing-system-edrls/drug-registration-and-listing-instructions",
+      "publishedAt": "2026-07-31",
+      "excerpt": "FDA adopts the use of Extensible Markup Language (XML) files for the submission of Drug Registration and Listing data. Do I need to register and how? There are three steps, or submissions, that are needed in order to register an establishment and list a drug with FDA: Establishment Registration, Lab",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Developing and Manufacturing Drugs Including Biologics",
+      "url": "http://www.fda.gov/drugs/coronavirus-covid-19-drugs/developing-and-manufacturing-drugs-including-biologics",
+      "publishedAt": "2026-07-31",
+      "excerpt": "This material is intended to be a helpful resource that consolidates information relevant for drug manufacturers making products for the U.S. market. It is not a comprehensive list of all applicable statutory and regulatory requirements.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Companies that Have Not Submitted Drug Amount Reports",
+      "url": "http://www.fda.gov/drugs/drug-shortages/companies-have-not-submitted-drug-amount-reports",
+      "publishedAt": "2026-07-31",
+      "excerpt": "Registrants that failed to provide annual amount reporting for calendar year 2024 are included on one of two lists on this page.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Biosimilar and Interchangeable Biosimilar Products: Considerations for Container Closure Systems and Device Constituent Parts",
+      "url": "http://www.fda.gov/regulatory-information/search-fda-guidance-documents/biosimilar-and-interchangeable-biosimilar-products-considerations-container-closure-systems-and",
+      "publishedAt": "2026-07-31",
+      "excerpt": "Biosimilar and Interchangeable Biosimilar Products: Considerations for Container Closure Systems and Device Constituent Parts",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Assessing the Irritation and Sensitization Potential of Transdermal and Topical Delivery Systems for ANDAs",
+      "url": "http://www.fda.gov/regulatory-information/search-fda-guidance-documents/assessing-irritation-and-sensitization-potential-transdermal-and-topical-delivery-systems-andas",
+      "publishedAt": "2026-07-31",
+      "excerpt": "This guidance provides recommendations for the design and conduct of studies to evaluate the in 17 vivo skin irritation and sensitization (I/S) potential of a proposed transdermal or topical delivery 18 system (collectively referred to as TDS2).",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Assessing Adhesion With Transdermal and Topical Delivery Systems for ANDAs",
+      "url": "http://www.fda.gov/regulatory-information/search-fda-guidance-documents/assessing-adhesion-transdermal-and-topical-delivery-systems-andas",
+      "publishedAt": "2026-07-31",
+      "excerpt": "Generics",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "18th Industry Standing Group (ISG) meeting, Online, European Medicines Agency, Amsterdam, the Netherlands, from 21 September 2026, 09:00 (CEST) to 21 September 2026, 12:30 (CEST)",
+      "url": "https://www.ema.europa.eu/en/events/18th-industry-standing-group-isg-meeting",
+      "publishedAt": "2026-07-31",
+      "excerpt": "18th Industry Standing Group (ISG) meeting, Online, European Medicines Agency, Amsterdam, the Netherlands, from 21 September 2026, 09:00 (CEST) to 21 September 2026, 12:30 (CEST)",
       "sourceType": "rss"
     },
     {
@@ -240,16 +450,6 @@
       "url": "http://www.fda.gov/drugs/human-drug-compounding/registered-outsourcing-facilities",
       "publishedAt": "2026-07-30",
       "excerpt": "Discover FDA's comprehensive list of registered outsourcing facilities engaged in human drug compounding. Get the latest updates, compliance guidelines, and resources to ensure safe, high-quality compounded medications. Explore regulations and stay informed with verified facility details.",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "Recently Issued Guidance Documents",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/biologics-guidances/recently-issued-guidance-documents",
-      "publishedAt": "2026-07-30",
-      "excerpt": "This page lists Recently Issued CBER and Cross-Center Guidance Documents.",
       "sourceType": "rss"
     },
     {
@@ -476,16 +676,6 @@
       "siteId": "fda-whats-new-drugs",
       "siteName": "What's New: Drugs",
       "region": "US",
-      "title": "Generic Drug Facilities, Sites and Organization Lists",
-      "url": "http://www.fda.gov/industry/generic-drug-user-fee-amendments/generic-drug-facilities-sites-and-organization-lists",
-      "publishedAt": "2026-07-30",
-      "excerpt": "Generic Drug Facilities, Sites and Organization Lists",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
       "title": "GDUFA User Fee Rates Archive",
       "url": "http://www.fda.gov/industry/fda-user-fee-programs/gdufa-user-fee-rates-archive",
       "publishedAt": "2026-07-30",
@@ -610,16 +800,6 @@
       "url": "http://www.fda.gov.tw/tc/newsContent.aspx?cid=4&id=t634555&utm_source=rss&utm_medium=feed&utm_campaign=rss_subscription",
       "publishedAt": "2026-07-29",
       "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "What's New Related to Drugs",
-      "url": "http://www.fda.gov/drugs/news-events-human-drugs/whats-new-related-drugs",
-      "publishedAt": "2026-07-29",
-      "excerpt": "Want to know what's new on drugs from FDA? This page provides quick links to the latest on a variety of topics including: drug approvals, safety warnings, drug shortages, etc.",
       "sourceType": "rss"
     },
     {
@@ -780,16 +960,6 @@
       "url": "http://www.fda.gov/news-events/press-announcements/fda-licenses-first-ever-freeze-dried-plasma-product-us",
       "publishedAt": "2026-07-29",
       "excerpt": "FDA today licensed Ezplaz Freeze Dried Plasma (FDP), making it the first freeze-dried plasma product licensed for use in the United States. Ezplaz is intended for transfusion in adult patients who need plasma and for whom other plasma products are not available.",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "Drugs@FDA Data Files",
-      "url": "http://www.fda.gov/drugs/drug-approvals-and-databases/drugsfda-data-files",
-      "publishedAt": "2026-07-29",
-      "excerpt": "Drugs@FDA Downloadable Data File in ZIP format, Data Definitions, and Entity Relationship Diagram (ERD)",
       "sourceType": "rss"
     },
     {
@@ -1583,8 +1753,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[RS][イベント]第12回PMDAレギュラトリーサイエンス研究会の開催について掲載しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/symposia/0034.html",
@@ -3860,16 +4030,6 @@
       "url": "http://www.fda.gov/regulatory-information/search-fda-guidance-documents/form-fda-3674-certifications-accompany-drug-biological-product-and-device-applicationssubmissions",
       "publishedAt": "2026-07-20",
       "excerpt": "Guidance for Sponsors, Industry, Researchers, Investigators, and Food and Drug Administration Staff - Form FDA 3674 - Certifications To Accompany Drug, Biological Product, and Device Applications/Submissions",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "FDA’s Drug Registration and Listing Workshop: Compliance, Regulatory and Submission Updates - 09/29/2026",
-      "url": "http://www.fda.gov/drugs/news-events-human-drugs/fdas-drug-registration-and-listing-workshop-compliance-regulatory-and-submission-updates-09292026",
-      "publishedAt": "2026-07-20",
-      "excerpt": "Join SBIA as FDA shares the latest updates on registration and listing submissions, including current validation rules, and walks through the evolving regulatory requirements and compliance framework that shape how industry engages with these processes.",
       "sourceType": "rss"
     },
     {
@@ -6793,8 +6953,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[薬局方]薬局方に関する国際的な活動についてのプレスリリースを掲載しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/0005.html",
@@ -7153,16 +7313,6 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "Newly Added Guidance Documents",
-      "url": "http://www.fda.gov/drugs/guidances-drugs/newly-added-guidance-documents",
-      "publishedAt": "2026-07-13",
-      "excerpt": "Guidance documents represent the FDA's current thinking on a particular subject. New guidance documents are listed here for three months.",
-      "sourceType": "rss"
-    },
-    {
       "siteId": "ema-whats-new",
       "siteName": "What's new",
       "region": "EU",
@@ -7330,26 +7480,6 @@
       "url": "http://www.fda.gov/about-fda/frederick-j-raal",
       "publishedAt": "2026-07-13",
       "excerpt": "Frederick J. Raal, Johannesburg, South Africa, 9/4/25, 3009568404",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "FDA Drug Competition Action Plan | Maximizing scientific and regulatory clarity with respect to complex generic drugs",
-      "url": "http://www.fda.gov/drugs/guidance-compliance-regulatory-information/fda-drug-competition-action-plan-maximizing-scientific-and-regulatory-clarity-respect-complex",
-      "publishedAt": "2026-07-13",
-      "excerpt": "Complex generic products are typically harder to develop, which means that many complex products face less competition than other products, and therefore can be more expensive and less accessible to the patients who need them.",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "FDA Drug Competition Action Plan",
-      "url": "http://www.fda.gov/drugs/guidance-compliance-regulatory-information/fda-drug-competition-action-plan",
-      "publishedAt": "2026-07-13",
-      "excerpt": "FDA's Drug Competition Action Plan (DCAP) encourages robust and timely market competition for generic drugs and helps bring greater efficiency and transparency to the generic drug review process, without sacrificing the scientific rigor underlying our generic drug program.",
       "sourceType": "rss"
     },
     {
@@ -9033,8 +9163,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[その他]倫理審査委員会の委員名簿を更新しました。",
       "url": "https://www.pmda.go.jp/rs-std-jp/research/0009.html",
@@ -10743,8 +10873,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[その他]令和8年度第1回研究支援委員会の議事要旨を掲載しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/research/0008.html",
@@ -12533,8 +12663,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[その他]公的研究費に基づく研究ページを更新しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/research/0004.html",
@@ -14013,8 +14143,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[薬局方][パブコメ]日本薬局方新規収載候補品目（案）に関するご意見の募集について（2026年6月分）",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/pub-comments/jp/0262.html",
@@ -14140,16 +14270,6 @@
       "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/heart-pump-controller-correction-abiomed-updates-use-instructions-automated-impella-controllers",
       "publishedAt": "2026-06-22",
       "excerpt": "A software error may cause the Automated Impella Controller to restart when used in conjunction with left ventricular Impella devices.",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "ema-whats-new",
-      "siteName": "What's new",
-      "region": "EU",
-      "title": "Fifth European Medicines Agency and Nuclear Medicines Europe bilateral meeting, Online, 14 June 2024",
-      "url": "https://www.ema.europa.eu/en/events/fifth-european-medicines-agency-nuclear-medicines-europe-bilateral-meeting",
-      "publishedAt": "2026-06-22",
-      "excerpt": "Fifth European Medicines Agency and Nuclear Medicines Europe bilateral meeting, Online, 14 June 2024",
       "sourceType": "rss"
     },
     {
@@ -14713,8 +14833,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[薬局方]PDG（薬局方調和国際会議）ニュースを掲載しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/0012.html",
@@ -14733,8 +14853,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[その他]「申請電子データを活用した解析」のページを更新しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/0002.html",
@@ -15433,8 +15553,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[その他]「AI利活用に関する基本的考え方」検討PTを設置しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/cross-sectional-project/0001.html",
@@ -15503,8 +15623,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[薬局方][パブコメ]日本薬局方収載原案に関するご意見の募集について（2026年6月分 その2）",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/pub-comments/jp/0258.html",
@@ -15513,8 +15633,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[薬局方][パブコメ]日本薬局方収載原案に関するご意見の募集について（2026年6月分 その1）",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/pub-comments/jp/0261.html",
@@ -15523,8 +15643,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[薬局方][パブコメ]日本薬局方から削除予定の（案）試薬・試液に関するご意見の募集について（2026年6月分）",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/pub-comments/jp/0259.html",
@@ -15533,8 +15653,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[薬局方][パブコメ]日本薬局方から削除予定の（案）医薬品各条・標準品に関するご意見の募集について（2026年6月分）",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/pub-comments/jp/0260.html",
@@ -16603,8 +16723,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[薬局方]日局におけるPDG調和文書への対応状況（試験法等）を更新しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/0021.html",
@@ -17133,8 +17253,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[薬局方]日局におけるPDG調和文書への対応状況（医薬品各条）を更新しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/0020.html",
@@ -17173,8 +17293,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[その他]研究推進業務のページを更新しました。",
       "url": "https://www.pmda.go.jp/rs-std-jp/research/0001.html",
@@ -17693,8 +17813,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[その他]研究紹介動画第6弾を更新しました。",
       "url": "https://www.pmda.go.jp/rs-std-jp/research/0016.html",
@@ -17933,8 +18053,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[その他]第50回科学委員会の議事概要を掲載しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/science-committee/0055.html",
@@ -17973,8 +18093,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[薬局方][パブコメ]薬局方調和国際会議調和案（Stage 2）に関するご意見の募集について（2026年3月分）",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/pub-comments/pdg/0058.html",
@@ -17983,8 +18103,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[薬局方][パブコメ]日本薬局方収載原案に関するご意見の募集について（2026年3月分）",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/pub-comments/jp/0257.html",
@@ -18333,8 +18453,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[薬局方]PDG（薬局方調和国際会議）の議事要旨を掲載しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/0009.html",
@@ -18453,8 +18573,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[その他]薬剤耐性菌感染症に用いるファージ製剤の開発における留意事項を掲載しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/subcommittees/0001.html",
@@ -18593,8 +18713,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[その他]「AI対応WG」のページを新設しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/cross-sectional-project/0024.html",
@@ -18653,8 +18773,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[薬局方][パブコメ]日本薬局方収載原案に関するご意見の募集について（2025年12月分 その2）",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/pub-comments/jp/0256.html",
@@ -18663,8 +18783,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[薬局方][パブコメ]日本薬局方収載原案に関するご意見の募集について（2025年12月分 その1）",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/pub-comments/jp/0255.html",
@@ -18693,8 +18813,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[薬局方][パブコメ]日本薬局方新規収載候補品目（案）に関するご意見の募集について（2025年11月分）",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/pub-comments/jp/0254.html",
@@ -18703,8 +18823,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[薬局方]PDG調和作業手順の改訂版を掲載しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/0022.html",
