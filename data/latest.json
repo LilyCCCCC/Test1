@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-03T04:03:22.641277+00:00",
-  "count": 2067,
+  "generatedAt": "2026-08-03T07:56:00.334119+00:00",
+  "count": 2068,
   "errors": [
     {
       "groupId": "ema",
@@ -10,6 +10,11 @@
     {
       "groupId": "pmda",
       "siteId": "services-for-healtheffects",
+      "error": "RSS fetch failed - keeping archived data"
+    },
+    {
+      "groupId": "pmda",
+      "siteId": "PMDAの新着情報",
       "error": "RSS fetch failed - keeping archived data"
     },
     {
@@ -24,11 +29,36 @@
     },
     {
       "groupId": "pmda",
+      "siteId": "PMDA：トップ 安全対策",
+      "error": "RSS fetch failed - keeping archived data"
+    },
+    {
+      "groupId": "pmda",
+      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
+      "error": "RSS fetch failed - keeping archived data"
+    },
+    {
+      "groupId": "pmda",
       "siteId": "PMDA：トップ 国際活動",
+      "error": "RSS fetch failed - keeping archived data"
+    },
+    {
+      "groupId": "pmda",
+      "siteId": "PMDA：トップ その他",
       "error": "RSS fetch failed - keeping archived data"
     }
   ],
   "items": [
+    {
+      "siteId": "notice-from-tfda",
+      "siteName": "公告",
+      "region": "TW",
+      "title": "公告「115年度醫療器材標準採認清單」及「歷年廢除之原採認醫療器材標準清單」",
+      "url": "http://www.fda.gov.tw/tc/newsContent.aspx?cid=3&id=31683&utm_source=rss&utm_medium=feed&utm_campaign=rss_subscription",
+      "publishedAt": "2026-08-03",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
     {
       "siteId": "PMDA：トップ その他",
       "siteName": "Others (JP)",
