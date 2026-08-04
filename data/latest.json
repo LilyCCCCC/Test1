@@ -1,10 +1,55 @@
 {
-  "generatedAt": "2026-08-04T11:00:16.633575+00:00",
-  "count": 2104,
+  "generatedAt": "2026-08-04T13:14:46.168980+00:00",
+  "count": 2109,
   "errors": [
     {
       "groupId": "pmda",
+      "siteId": "reviews",
+      "error": "RSS fetch failed - keeping archived data"
+    },
+    {
+      "groupId": "pmda",
+      "siteId": "safety-measures",
+      "error": "RSS fetch failed - keeping archived data"
+    },
+    {
+      "groupId": "pmda",
       "siteId": "services-for-healtheffects",
+      "error": "RSS fetch failed - keeping archived data"
+    },
+    {
+      "groupId": "pmda",
+      "siteId": "rs-standard-development-jp",
+      "error": "RSS fetch failed - keeping archived data"
+    },
+    {
+      "groupId": "pmda",
+      "siteId": "international-activities",
+      "error": "RSS fetch failed - keeping archived data"
+    },
+    {
+      "groupId": "pmda",
+      "siteId": "PMDAの新着情報",
+      "error": "RSS fetch failed - keeping archived data"
+    },
+    {
+      "groupId": "pmda",
+      "siteId": "PMDA：トップ 承認審査",
+      "error": "RSS fetch failed - keeping archived data"
+    },
+    {
+      "groupId": "pmda",
+      "siteId": "PMDA：トップ 安全対策",
+      "error": "RSS fetch failed - keeping archived data"
+    },
+    {
+      "groupId": "pmda",
+      "siteId": "PMDA：トップ 安全対策",
+      "error": "RSS fetch failed - keeping archived data"
+    },
+    {
+      "groupId": "pmda",
+      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
       "error": "RSS fetch failed - keeping archived data"
     },
     {
@@ -23,6 +68,16 @@
       "siteId": "ema-whats-new",
       "siteName": "What's new",
       "region": "EU",
+      "title": "Retinal stimulation systems - Notified Body 0344 - 12/06/2026 - Expert decision and opinion in the context of the clinical evaluation consultation procedure (CECP)",
+      "url": "https://www.ema.europa.eu/system/files/documents/medical_device/ema_ex_0000340980-cecp-decision_opinion-final-nb_en.pdf",
+      "publishedAt": "2026-08-04",
+      "excerpt": "Retinal stimulation systems - Notified Body 0344 - 12/06/2026 - Expert decision and opinion in the context of the clinical evaluation consultation procedure (CECP)",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
       "title": "Plasma master file certificates",
       "url": "https://www.ema.europa.eu/en/human-regulatory-overview/plasma-master-file-pmf-certification/plasma-master-file-certificates",
       "publishedAt": "2026-08-04",
@@ -33,10 +88,30 @@
       "siteId": "ema-whats-new",
       "siteName": "What's new",
       "region": "EU",
+      "title": "PSUSA/00003186/202511",
+      "url": "https://www.ema.europa.eu/en/medicines/psusa/psusa-00003186-202511",
+      "publishedAt": "2026-08-04",
+      "excerpt": "PSUSA/00003186/202511",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
       "title": "Meeting summary - Medicine Shortages SPOC Working Party meeting 16-17 June 2026",
       "url": "https://www.ema.europa.eu/system/files/documents/other/meeting-summary-medicine-shortages-spoc-working-party-meeting-16-17-june-2026_en.pdf",
       "publishedAt": "2026-08-04",
       "excerpt": "Meeting summary - Medicine Shortages SPOC Working Party meeting 16-17 June 2026",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "List of clinical evaluation consultation procedure (CECP) opinions issued for medical devices awaiting finalisation of conformity assessment",
+      "url": "https://www.ema.europa.eu/system/files/documents/other/list-cecp-opinions-issued-mds-awaiting-finalisation-conformity-assmt_en_3.pdf",
+      "publishedAt": "2026-08-04",
+      "excerpt": "List of clinical evaluation consultation procedure (CECP) opinions issued for medical devices awaiting finalisation of conformity assessment",
       "sourceType": "rss"
     },
     {
@@ -60,6 +135,26 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Leflunomide medac, leflunomide, Date of authorisation: 27/07/2010, Revision: 26, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/leflunomide-medac",
+      "publishedAt": "2026-08-04",
+      "excerpt": "Human medicines European public assessment report (EPAR): Leflunomide medac, leflunomide, Date of authorisation: 27/07/2010, Revision: 26, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Irbesartan Hydrochlorothiazide Zentiva (previously Irbesartan Hydrochlorothiazide Winthrop), irbesartan,hydrochlorothiazide, Date of authorisation: 18/01/2007, Revision: 38, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/irbesartan-hydrochlorothiazide-zentiva",
+      "publishedAt": "2026-08-04",
+      "excerpt": "Human medicines European public assessment report (EPAR): Irbesartan Hydrochlorothiazide Zentiva (previously Irbesartan Hydrochlorothiazide Winthrop), irbesartan,hydrochlorothiazide, Date of authorisation: 18/01/2007, Revision: 38, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "ema-whats-new",
       "siteName": "What's new",
       "region": "EU",
@@ -77,6 +172,16 @@
       "url": "https://www.pmda.go.jp/english/review-services/reviews/approved-information/drugs/0001.html",
       "publishedAt": "2026-08-04",
       "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Drugs@FDA Data Files",
+      "url": "http://www.fda.gov/drugs/drug-approvals-and-databases/drugsfda-data-files",
+      "publishedAt": "2026-08-04",
+      "excerpt": "Drugs@FDA Downloadable Data File in ZIP format, Data Definitions, and Entity Relationship Diagram (ERD)",
       "sourceType": "rss"
     },
     {
@@ -497,16 +602,6 @@
       "url": "http://www.fda.gov/drugs/emergency-preparedness-drugs",
       "publishedAt": "2026-08-03",
       "excerpt": "The Center for Drug Evaluation and Research (CDER) takes an active role in helping prepare the nation to respond to terrorist events, emerging health threats, and emergency response to natural and man-made crises.",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "Drugs@FDA Data Files",
-      "url": "http://www.fda.gov/drugs/drug-approvals-and-databases/drugsfda-data-files",
-      "publishedAt": "2026-08-03",
-      "excerpt": "Drugs@FDA Downloadable Data File in ZIP format, Data Definitions, and Entity Relationship Diagram (ERD)",
       "sourceType": "rss"
     },
     {
