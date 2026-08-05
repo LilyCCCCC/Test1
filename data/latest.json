@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-05T10:02:38.928604+00:00",
-  "count": 2147,
+  "generatedAt": "2026-08-05T12:21:18.224037+00:00",
+  "count": 2150,
   "errors": [
     {
       "groupId": "pmda",
@@ -14,21 +14,21 @@
     },
     {
       "groupId": "pmda",
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "error": "RSS fetch failed - keeping archived data"
-    },
-    {
-      "groupId": "pmda",
-      "siteId": "PMDA：トップ 国際活動",
-      "error": "RSS fetch failed - keeping archived data"
-    },
-    {
-      "groupId": "pmda",
       "siteId": "PMDA：トップ その他",
       "error": "RSS fetch failed - keeping archived data"
     }
   ],
   "items": [
+    {
+      "siteId": "tfda-news-and-press-releases",
+      "siteName": "新聞",
+      "region": "TW",
+      "title": "食藥署主動公開7月4日中聯大豆沙拉油案專家會議資料與紀錄",
+      "url": "http://www.fda.gov.tw/tc/newsContent.aspx?cid=4&id=31685&utm_source=rss&utm_medium=feed&utm_campaign=rss_subscription",
+      "publishedAt": "2026-08-05",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
     {
       "siteId": "PMDAの新着情報",
       "siteName": "What's New (JP)",
@@ -63,10 +63,30 @@
       "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
       "siteName": "Human medicines: EPARs and summaries of opinion",
       "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Vantobra (previously Tobramycin PARI), tobramycin, Date of authorisation: 18/02/2019, Revision: 7, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/vantobra-previously-tobramycin-pari",
+      "publishedAt": "2026-08-05",
+      "excerpt": "Human medicines European public assessment report (EPAR): Vantobra (previously Tobramycin PARI), tobramycin, Date of authorisation: 18/02/2019, Revision: 7, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
       "title": "Human medicines European public assessment report (EPAR): Kisqali, ribociclib, Date of authorisation: 22/08/2017, Revision: 27, Status: Authorised",
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/kisqali",
       "publishedAt": "2026-08-05",
       "excerpt": "Human medicines European public assessment report (EPAR): Kisqali, ribociclib, Date of authorisation: 22/08/2017, Revision: 27, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Caprelsa, vandetanib, Date of authorisation: 16/02/2012, Revision: 32, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/caprelsa",
+      "publishedAt": "2026-08-05",
+      "excerpt": "Human medicines European public assessment report (EPAR): Caprelsa, vandetanib, Date of authorisation: 16/02/2012, Revision: 32, Status: Authorised",
       "sourceType": "rss"
     },
     {
@@ -1160,8 +1180,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[基準]「パンデミックインフルエンザに備えたプロトタイプワクチンの開発等に関するガイドライン」の改訂に向けた留意事項について（Early Consideration）を掲載しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/guidance-guideline/0003.html",
@@ -2920,8 +2940,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[RS][イベント]第12回PMDAレギュラトリーサイエンス研究会の開催について掲載しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/symposia/0034.html",
@@ -8000,8 +8020,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[薬局方]薬局方に関する国際的な活動についてのプレスリリースを掲載しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/0005.html",
