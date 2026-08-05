@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-05T12:21:18.224037+00:00",
-  "count": 2150,
+  "generatedAt": "2026-08-05T14:42:22.541757+00:00",
+  "count": 2154,
   "errors": [
     {
       "groupId": "pmda",
@@ -10,6 +10,16 @@
     {
       "groupId": "pmda",
       "siteId": "PMDA：トップ 安全対策",
+      "error": "RSS fetch failed - keeping archived data"
+    },
+    {
+      "groupId": "pmda",
+      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
+      "error": "RSS fetch failed - keeping archived data"
+    },
+    {
+      "groupId": "pmda",
+      "siteId": "PMDA：トップ 国際活動",
       "error": "RSS fetch failed - keeping archived data"
     },
     {
@@ -50,6 +60,26 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Supporting Clinical Practice Guidelines for Drugs with Abuse Potential",
+      "url": "http://www.fda.gov/drugs/food-and-drug-administration-overdose-prevention-framework/supporting-clinical-practice-guidelines-drugs-abuse-potential",
+      "publishedAt": "2026-08-05",
+      "excerpt": "Information regarding the FDA's efforts to support the development of clinical practice guidelines for drugs with abuse potential.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Natural Disaster Preparedness and Response | Drugs",
+      "url": "http://www.fda.gov/drugs/emergency-preparedness-drugs/natural-disaster-preparedness-and-response-drugs",
+      "publishedAt": "2026-08-05",
+      "excerpt": "Stay informed on FDA's guidance for drugs used in natural disaster preparedness and response. Learn about emergency drug supplies, FDA-approved treatments, and safety measures for public health during disasters like hurricanes, floods, and more.",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "reviews",
       "siteName": "Reviews (EN)",
       "region": "JP",
@@ -73,6 +103,26 @@
       "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
       "siteName": "Human medicines: EPARs and summaries of opinion",
       "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Signifor, pasireotide, Date of authorisation: 24/04/2012, Revision: 16, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/signifor",
+      "publishedAt": "2026-08-05",
+      "excerpt": "Human medicines European public assessment report (EPAR): Signifor, pasireotide, Date of authorisation: 24/04/2012, Revision: 16, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Leqembi, lecanemab, Date of authorisation: 15/04/2025, Revision: 5, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/leqembi",
+      "publishedAt": "2026-08-05",
+      "excerpt": "Human medicines European public assessment report (EPAR): Leqembi, lecanemab, Date of authorisation: 15/04/2025, Revision: 5, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
       "title": "Human medicines European public assessment report (EPAR): Kisqali, ribociclib, Date of authorisation: 22/08/2017, Revision: 27, Status: Authorised",
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/kisqali",
       "publishedAt": "2026-08-05",
@@ -83,10 +133,50 @@
       "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
       "siteName": "Human medicines: EPARs and summaries of opinion",
       "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Iqirvo, elafibranor, Date of authorisation: 19/09/2024, Revision: 5, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/iqirvo",
+      "publishedAt": "2026-08-05",
+      "excerpt": "Human medicines European public assessment report (EPAR): Iqirvo, elafibranor, Date of authorisation: 19/09/2024, Revision: 5, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
       "title": "Human medicines European public assessment report (EPAR): Caprelsa, vandetanib, Date of authorisation: 16/02/2012, Revision: 32, Status: Authorised",
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/caprelsa",
       "publishedAt": "2026-08-05",
       "excerpt": "Human medicines European public assessment report (EPAR): Caprelsa, vandetanib, Date of authorisation: 16/02/2012, Revision: 32, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Arikayce liposomal, amikacin, Date of authorisation: 27/10/2020, Revision: 5, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/arikayce-liposomal",
+      "publishedAt": "2026-08-05",
+      "excerpt": "Human medicines European public assessment report (EPAR): Arikayce liposomal, amikacin, Date of authorisation: 27/10/2020, Revision: 5, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "FDA/Duke-Margolis Institute for Health Policy Virtual Public Meeting: Innovation in Quantitative Medicine Summit - 09/01/2026",
+      "url": "http://www.fda.gov/drugs/news-events-human-drugs/fdaduke-margolis-institute-health-policy-virtual-public-meeting-innovation-quantitative-medicine",
+      "publishedAt": "2026-08-05",
+      "excerpt": "The Duke-Margolis Institute for Health Policy and the U.S. Food and Drug Administration's (FDA) Quantitative Medicine Center of Excellence (QM CoE) will co-convene a virtual workshop to inform the establishment of the Quantitative Medicine Innovation Network (QMIN).",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "America Must Address Early Clinical Development",
+      "url": "http://www.fda.gov/news-events/fda-voices/america-must-address-early-clinical-development",
+      "publishedAt": "2026-08-05",
+      "excerpt": "FDA is reimagining the IND Process Through Clarifying Requirements and Launching the Expedited IND Pilot.",
       "sourceType": "rss"
     },
     {
@@ -1180,8 +1270,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 国際活動",
-      "siteName": "International (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[基準]「パンデミックインフルエンザに備えたプロトタイプワクチンの開発等に関するガイドライン」の改訂に向けた留意事項について（Early Consideration）を掲載しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/guidance-guideline/0003.html",
@@ -1877,16 +1967,6 @@
       "url": "http://www.fda.gov/industry/fda-user-fee-programs/gdufa-user-fee-rates-archive",
       "publishedAt": "2026-07-30",
       "excerpt": "GDUFA User Fee Rates Archive",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "FDA/Duke-Margolis Institute for Health Policy Virtual Public Meeting: Innovation in Quantitative Medicine Summit - 09/01/2026",
-      "url": "http://www.fda.gov/drugs/news-events-human-drugs/fdaduke-margolis-institute-health-policy-virtual-public-meeting-innovation-quantitative-medicine",
-      "publishedAt": "2026-07-30",
-      "excerpt": "The Duke-Margolis Institute for Health Policy and the U.S. Food and Drug Administration's (FDA) Quantitative Medicine Center of Excellence (QM CoE) will co-convene a virtual workshop to inform the establishment of the Quantitative Medicine Innovation Network (QMIN).",
       "sourceType": "rss"
     },
     {
@@ -2940,8 +3020,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 国際活動",
-      "siteName": "International (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[RS][イベント]第12回PMDAレギュラトリーサイエンス研究会の開催について掲載しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/symposia/0034.html",
@@ -6630,16 +6710,6 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "Natural Disaster Preparedness and Response | Drugs",
-      "url": "http://www.fda.gov/drugs/emergency-preparedness-drugs/natural-disaster-preparedness-and-response-drugs",
-      "publishedAt": "2026-07-15",
-      "excerpt": "Stay informed on FDA's guidance for drugs used in natural disaster preparedness and response. Learn about emergency drug supplies, FDA-approved treatments, and safety measures for public health during disasters like hurricanes, floods, and more.",
-      "sourceType": "rss"
-    },
-    {
       "siteId": "fda-ora-foia-electronic-reading-room",
       "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
       "region": "US",
@@ -8020,8 +8090,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 国際活動",
-      "siteName": "International (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[薬局方]薬局方に関する国際的な活動についてのプレスリリースを掲載しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/0005.html",
@@ -13103,16 +13173,6 @@
       "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
       "siteName": "Human medicines: EPARs and summaries of opinion",
       "region": "EU",
-      "title": "Human medicines European public assessment report (EPAR): Iqirvo, elafibranor, Date of authorisation: 19/09/2024, Revision: 4, Status: Authorised",
-      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/iqirvo",
-      "publishedAt": "2026-06-30",
-      "excerpt": "Human medicines European public assessment report (EPAR): Iqirvo, elafibranor, Date of authorisation: 19/09/2024, Revision: 4, Status: Authorised",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
-      "siteName": "Human medicines: EPARs and summaries of opinion",
-      "region": "EU",
       "title": "Human medicines European public assessment report (EPAR): Doptelet, avatrombopag, Date of authorisation: 20/06/2019, Revision: 12, Status: Authorised",
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/doptelet",
       "publishedAt": "2026-06-30",
@@ -15367,16 +15427,6 @@
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/semglee",
       "publishedAt": "2026-06-19",
       "excerpt": "Human medicines European public assessment report (EPAR): Semglee, insulin glargine, Date of authorisation: 23/03/2018, Revision: 12, Status: Authorised",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
-      "siteName": "Human medicines: EPARs and summaries of opinion",
-      "region": "EU",
-      "title": "Human medicines European public assessment report (EPAR): Leqembi, lecanemab, Date of authorisation: 15/04/2025, Revision: 4, Status: Authorised",
-      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/leqembi",
-      "publishedAt": "2026-06-19",
-      "excerpt": "Human medicines European public assessment report (EPAR): Leqembi, lecanemab, Date of authorisation: 15/04/2025, Revision: 4, Status: Authorised",
       "sourceType": "rss"
     },
     {
