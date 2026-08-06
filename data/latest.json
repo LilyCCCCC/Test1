@@ -1,45 +1,10 @@
 {
-  "generatedAt": "2026-08-06T07:11:51.089160+00:00",
-  "count": 2178,
+  "generatedAt": "2026-08-06T10:05:09.528040+00:00",
+  "count": 2179,
   "errors": [
-    {
-      "groupId": "ema",
-      "siteId": "ema-orphan-designations",
-      "error": "RSS fetch failed - keeping archived data"
-    },
-    {
-      "groupId": "ema",
-      "siteId": "ema-withdrawn-applications",
-      "error": "RSS fetch failed - keeping archived data"
-    },
-    {
-      "groupId": "ema",
-      "siteId": "ema-human-medicines-highlights-newsletter",
-      "error": "RSS fetch failed - keeping archived data"
-    },
     {
       "groupId": "pmda",
       "siteId": "services-for-healtheffects",
-      "error": "RSS fetch failed - keeping archived data"
-    },
-    {
-      "groupId": "pmda",
-      "siteId": "international-activities",
-      "error": "RSS fetch failed - keeping archived data"
-    },
-    {
-      "groupId": "pmda",
-      "siteId": "PMDAの新着情報",
-      "error": "RSS fetch failed - keeping archived data"
-    },
-    {
-      "groupId": "pmda",
-      "siteId": "PMDA：トップ 承認審査",
-      "error": "RSS fetch failed - keeping archived data"
-    },
-    {
-      "groupId": "pmda",
-      "siteId": "PMDA：トップ 安全対策",
       "error": "RSS fetch failed - keeping archived data"
     },
     {
@@ -82,6 +47,16 @@
       "url": "https://www.pmda.go.jp/review-services/drug-reviews/foreign-mfr/0003.html",
       "publishedAt": "2026-08-06",
       "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Desogestrel / etonogestrel",
+      "url": "https://www.ema.europa.eu/en/medicines/dhpc/desogestrel-etonogestrel",
+      "publishedAt": "2026-08-06",
+      "excerpt": "Desogestrel / etonogestrel",
       "sourceType": "rss"
     },
     {
@@ -605,8 +580,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "ema-whats-new",
-      "siteName": "What's new",
+      "siteId": "ema-orphan-designations",
+      "siteName": "Orphan designations",
       "region": "EU",
       "title": "Orphan designation: tobevibart Treatment of hepatitis delta virus infection, 13/12/2024 Positive",
       "url": "https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-24-3012",
@@ -615,8 +590,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "ema-whats-new",
-      "siteName": "What's new",
+      "siteId": "ema-orphan-designations",
+      "siteName": "Orphan designations",
       "region": "EU",
       "title": "Orphan designation: recombinant human surfactant protein D Prevention of bronchopulmonary dysplasia, 11/04/2014 Positive",
       "url": "https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-14-1262",
@@ -625,8 +600,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "ema-whats-new",
-      "siteName": "What's new",
+      "siteId": "ema-orphan-designations",
+      "siteName": "Orphan designations",
       "region": "EU",
       "title": "Orphan designation: mavorixafor Treatment of WHIM syndrome, 25/07/2019 Positive",
       "url": "https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-19-2183",
@@ -635,8 +610,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "ema-whats-new",
-      "siteName": "What's new",
+      "siteId": "ema-orphan-designations",
+      "siteName": "Orphan designations",
       "region": "EU",
       "title": "Orphan designation: mRNA encoding Cas12HF endonuclease, Single guide RNA against the human HAO1 gene Treatment of primary hyperoxaluria, 22/08/2025 Positive",
       "url": "https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-25-3118",
@@ -645,8 +620,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "ema-whats-new",
-      "siteName": "What's new",
+      "siteId": "ema-orphan-designations",
+      "siteName": "Orphan designations",
       "region": "EU",
       "title": "Orphan designation: elebsiran Treatment of hepatitis delta virus infection, 13/12/2024 Positive",
       "url": "https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-24-3010",
@@ -665,8 +640,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "ema-whats-new",
-      "siteName": "What's new",
+      "siteId": "ema-orphan-designations",
+      "siteName": "Orphan designations",
       "region": "EU",
       "title": "Orphan designation: autologous CD4+ and CD8+ T cells transduced with a lentiviral vector encoding an affinity enhanced T cell receptor specific to MAGE-A4 Treatment of soft tissue sarcoma, 04/06/2020 Positive",
       "url": "https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-20-2286",
@@ -675,8 +650,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "ema-whats-new",
-      "siteName": "What's new",
+      "siteId": "ema-orphan-designations",
+      "siteName": "Orphan designations",
       "region": "EU",
       "title": "Orphan designation: Measles virus Schwarz strain (live, attenuated) Treatment of mesothelioma, 23/02/2026 Positive",
       "url": "https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-26-3201",
@@ -685,8 +660,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "ema-whats-new",
-      "siteName": "What's new",
+      "siteId": "ema-orphan-designations",
+      "siteName": "Orphan designations",
       "region": "EU",
       "title": "Orphan designation: Lutetium (177Lu)-N-[(4,7,10-Tricarboxymethyl-1,4,7,10-tetraazacyclododec-1-yl)acetyl]-D-phenylalanyl-L-cysteinyl-L-tyrosyl-D-tryptophanyl-L-lysyl-L-threoninyl-L-cysteinyl-L-threonine-cyclic(2-7)disulfide (lutetium (177Lu) oxodotreotide) Treatment of gastro-entero-pancreatic neuroendocrine tumours, 31/01/2008 Positive",
       "url": "https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-07-523",
@@ -695,8 +670,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "ema-whats-new",
-      "siteName": "What's new",
+      "siteId": "ema-orphan-designations",
+      "siteName": "Orphan designations",
       "region": "EU",
       "title": "Orphan designation: Infigratinib Treatment of achondroplasia, 19/07/2021 Positive",
       "url": "https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-21-2475",
@@ -705,8 +680,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "ema-whats-new",
-      "siteName": "What's new",
+      "siteId": "ema-orphan-designations",
+      "siteName": "Orphan designations",
       "region": "EU",
       "title": "Orphan designation: Gallium (68Ga)-edotreotide Diagnosis of gastro-entero-pancreatic neuroendocrine tumours, 19/03/2015 Positive",
       "url": "https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-15-1450",
@@ -715,8 +690,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "ema-whats-new",
-      "siteName": "What's new",
+      "siteId": "ema-orphan-designations",
+      "siteName": "Orphan designations",
       "region": "EU",
       "title": "Orphan designation: (R)-(3-(2'-cyclopropyl-3-(hydroxymethyl)-[1,1'-biphenyl]-4-yl)pyrrolidin-1-yl)(5-hydroxy-6-methylpyridin-2-yl)methanone Treatment of Olmsted syndrome, 26/02/2025 Positive",
       "url": "https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-25-3032",
@@ -855,8 +830,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
-      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "siteId": "ema-withdrawn-applications",
+      "siteName": "Withdrawn applications",
       "region": "EU",
       "title": "Human medicines European public assessment report (EPAR): Orblid, bevacizumab, Status: Application withdrawn",
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/orblid",
@@ -1085,31 +1060,21 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Safety Measures (JP)",
       "region": "JP",
-      "title": "[安全]［MID-NET］MID-NETの利活用に関する有識者会議の情報を更新しました",
+      "title": "[医薬]［MID-NET］MID-NETの利活用に関する有識者会議の情報を更新しました",
       "url": "https://www.pmda.go.jp/safety/mid-net/0011.html",
       "publishedAt": "2026-08-03",
       "excerpt": "",
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Safety Measures (JP)",
       "region": "JP",
-      "title": "[安全]クラスI回収 該当回収品目　新鮮凍結血漿-LR「日赤」480",
+      "title": "[医薬]クラスI回収 該当回収品目　新鮮凍結血漿-LR「日赤」480",
       "url": "https://www.pmda.go.jp/safety/info-services/drugs/calling-attention/recall-info/0002.html",
-      "publishedAt": "2026-08-03",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
-      "region": "JP",
-      "title": "[安全][MID-NET]利活用ガイドライン、事務処理手続通知を改正しました",
-      "url": "https://www.pmda.go.jp/safety/mid-net/0016.html",
       "publishedAt": "2026-08-03",
       "excerpt": "",
       "sourceType": "rss"
@@ -1120,6 +1085,16 @@
       "region": "JP",
       "title": "[医薬]「バイオ後続品」のページを更新しました",
       "url": "https://www.pmda.go.jp/review-services/drug-reviews/about-reviews/p-drugs/0034.html",
+      "publishedAt": "2026-08-03",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Safety Measures (JP)",
+      "region": "JP",
+      "title": "[医薬][MID-NET]利活用ガイドライン、事務処理手続通知を改正しました",
+      "url": "https://www.pmda.go.jp/safety/mid-net/0016.html",
       "publishedAt": "2026-08-03",
       "excerpt": "",
       "sourceType": "rss"
@@ -1598,16 +1573,6 @@
       "siteId": "PMDAの新着情報",
       "siteName": "What's New (JP)",
       "region": "JP",
-      "title": "[安全]「高齢者におけるポリファーマシー対策の普及啓発資材について」を掲載しました",
-      "url": "https://www.pmda.go.jp/safety/info-services/drugs/0010.html",
-      "publishedAt": "2026-07-31",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "PMDA：トップ 国際活動",
-      "siteName": "International (JP)",
-      "region": "JP",
       "title": "[基準]「パンデミックインフルエンザに備えたプロトタイプワクチンの開発等に関するガイドライン」の改訂に向けた留意事項について（Early Consideration）を掲載しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/guidance-guideline/0003.html",
       "publishedAt": "2026-07-31",
@@ -1635,6 +1600,16 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Safety Measures (JP)",
+      "region": "JP",
+      "title": "[医薬]「高齢者におけるポリファーマシー対策の普及啓発資材について」を掲載しました",
+      "url": "https://www.pmda.go.jp/safety/info-services/drugs/0010.html",
+      "publishedAt": "2026-07-31",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "PMDA：トップ 承認審査",
       "siteName": "Review for (marketing) approval (JP)",
       "region": "JP",
@@ -1645,8 +1620,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 安全対策",
-      "siteName": "Adverse Health Effects Relief (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[健康]副用救済給付の決定に関する情報（2026年度5月分）を掲載しました",
       "url": "https://www.pmda.go.jp/relief-services/adr-sufferers/0043.html",
@@ -3315,8 +3290,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 国際活動",
-      "siteName": "International (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[RS][イベント]第12回PMDAレギュラトリーサイエンス研究会の開催について掲載しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/symposia/0034.html",
@@ -4365,31 +4340,31 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Safety Measures (JP)",
       "region": "JP",
-      "title": "[安全]「不具合が疑われる症例報告に関する情報（医療機器）」に2026年3月分の情報を追加しました",
+      "title": "[医薬]「不具合が疑われる症例報告に関する情報（コンビネーション製品）」に2026年3月分の情報を追加しました",
+      "url": "https://www.pmda.go.jp/safety/info-services/drugs/adr-info/malfunctions-combination-drugs/0001.html",
+      "publishedAt": "2026-07-22",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Safety Measures (JP)",
+      "region": "JP",
+      "title": "[医療]「不具合が疑われる症例報告に関する情報（医療機器）」に2026年3月分の情報を追加しました",
       "url": "https://www.pmda.go.jp/safety/info-services/devices/0090.html",
       "publishedAt": "2026-07-22",
       "excerpt": "",
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Safety Measures (JP)",
       "region": "JP",
-      "title": "[安全]「不具合が疑われる症例報告に関する情報（再生医療等製品）」に2026年3月分の情報を追加しました",
+      "title": "[再生]「不具合が疑われる症例報告に関する情報（再生医療等製品）」に2026年3月分の情報を追加しました",
       "url": "https://www.pmda.go.jp/safety/info-services/ctp/0006.html",
-      "publishedAt": "2026-07-22",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
-      "region": "JP",
-      "title": "[安全]「不具合が疑われる症例報告に関する情報（コンビネーション製品）」に2026年3月分の情報を追加しました",
-      "url": "https://www.pmda.go.jp/safety/info-services/drugs/adr-info/malfunctions-combination-drugs/0001.html",
       "publishedAt": "2026-07-22",
       "excerpt": "",
       "sourceType": "rss"
@@ -4725,10 +4700,10 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Safety Measures (JP)",
       "region": "JP",
-      "title": "[安全]添付文書改訂相談に基づく添付文書改訂（医薬品）を掲載しました",
+      "title": "[医薬]添付文書改訂相談に基づく添付文書改訂（医薬品）を掲載しました",
       "url": "https://www.pmda.go.jp/safety/info-services/drugs/calling-attention/revision-based-on-the-consultation/0001.html",
       "publishedAt": "2026-07-21",
       "excerpt": "",
@@ -5575,10 +5550,10 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Safety Measures (JP)",
       "region": "JP",
-      "title": "[安全]「副作用が疑われる症例報告に関する情報」に2026年3月分の情報を追加しました",
+      "title": "[医薬]「副作用が疑われる症例報告に関する情報」に2026年3月分の情報を追加しました",
       "url": "https://www.pmda.go.jp/safety/info-services/drugs/adr-info/suspected-adr/0005.html",
       "publishedAt": "2026-07-17",
       "excerpt": "",
@@ -6775,10 +6750,10 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Safety Measures (JP)",
       "region": "JP",
-      "title": "[安全]［MID-NET］利活用状況を更新しました",
+      "title": "[医薬]［MID-NET］利活用状況を更新しました",
       "url": "https://www.pmda.go.jp/safety/mid-net/0010.html",
       "publishedAt": "2026-07-15",
       "excerpt": "",
@@ -7375,31 +7350,31 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Safety Measures (JP)",
       "region": "JP",
-      "title": "[安全]医薬品・医療機器等安全性情報 No.430（厚生労働省発行）を掲載しました",
-      "url": "https://www.pmda.go.jp/safety/info-services/drugs/calling-attention/safety-info/0166.html",
-      "publishedAt": "2026-07-14",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
-      "region": "JP",
-      "title": "[安全]使用上の注意の改訂指示通知（医薬品）2026年07月14日付（厚生労働省より発出）を掲載しました",
+      "title": "[医薬]使用上の注意の改訂指示通知（医薬品）2026年07月14日付（厚生労働省より発出）を掲載しました",
       "url": "https://www.pmda.go.jp/safety/info-services/drugs/calling-attention/revision-of-precautions/0375.html",
       "publishedAt": "2026-07-14",
       "excerpt": "",
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Safety Measures (JP)",
       "region": "JP",
-      "title": "[安全]「医薬品に関する評価中のリスク等の情報について」を掲載しました",
+      "title": "[医薬]「医薬品に関する評価中のリスク等の情報について」を掲載しました",
       "url": "https://www.pmda.go.jp/safety/info-services/drugs/calling-attention/risk-communications/0001.html",
+      "publishedAt": "2026-07-14",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Safety Measures (JP)",
+      "region": "JP",
+      "title": "[全製品]医薬品・医療機器等安全性情報 No.430（厚生労働省発行）を掲載しました",
+      "url": "https://www.pmda.go.jp/safety/info-services/drugs/calling-attention/safety-info/0166.html",
       "publishedAt": "2026-07-14",
       "excerpt": "",
       "sourceType": "rss"
@@ -8365,8 +8340,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 国際活動",
-      "siteName": "International (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[薬局方]薬局方に関する国際的な活動についてのプレスリリースを掲載しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/0005.html",
@@ -8375,20 +8350,20 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Safety Measures (JP)",
       "region": "JP",
-      "title": "[安全]患者副作用報告（2025年12月1日から2026年3月31日受付分）を追加しました",
+      "title": "[医薬]患者副作用報告（2025年12月1日から2026年3月31日受付分）を追加しました",
       "url": "https://www.pmda.go.jp/safety/reports/patients/0005.html",
       "publishedAt": "2026-07-13",
       "excerpt": "",
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Safety Measures (JP)",
       "region": "JP",
-      "title": "[安全]「「ガストログラフイン経口・注腸用」 ニトロソアミン化合物検出のお知らせ（第2版）」を掲載しました",
+      "title": "[医薬]「「ガストログラフイン経口・注腸用」 ニトロソアミン化合物検出のお知らせ（第2版）」を掲載しました",
       "url": "https://www.pmda.go.jp/safety/info-services/drugs/0371.html",
       "publishedAt": "2026-07-13",
       "excerpt": "",
@@ -18815,8 +18790,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 承認審査",
-      "siteName": "Review for (marketing) approval (JP)",
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Safety Measures (JP)",
       "region": "JP",
       "title": "[安全][医療]「医療機器添付文書改訂相談」のページを掲載しました",
       "url": "https://www.pmda.go.jp/review-services/f2f-pre/consultations/0122.html",
@@ -19055,8 +19030,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 承認審査",
-      "siteName": "Review for (marketing) approval (JP)",
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Safety Measures (JP)",
       "region": "JP",
       "title": "[審査][安全][イベント]PMDAシンポジウム「生成AIの医療活用の最前線」の開催について（資料掲載）",
       "url": "https://www.pmda.go.jp/review-services/symposia/0198.html",
@@ -19065,8 +19040,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 承認審査",
-      "siteName": "Review for (marketing) approval (JP)",
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Safety Measures (JP)",
       "region": "JP",
       "title": "[審査][安全][イベント]PMDAシンポジウム「リアルワールドデータを活用した医療機器開発」の開催について（資料掲載）",
       "url": "https://www.pmda.go.jp/review-services/symposia/0199.html",
