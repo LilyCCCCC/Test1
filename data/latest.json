@@ -1,15 +1,10 @@
 {
-  "generatedAt": "2026-08-11T07:43:13.738989+00:00",
-  "count": 2264,
+  "generatedAt": "2026-08-11T09:18:00.172724+00:00",
+  "count": 2266,
   "errors": [
     {
       "groupId": "pmda",
       "siteId": "services-for-healtheffects",
-      "error": "RSS fetch failed - keeping archived data"
-    },
-    {
-      "groupId": "pmda",
-      "siteId": "PMDA：トップ 安全対策",
       "error": "RSS fetch failed - keeping archived data"
     },
     {
@@ -27,6 +22,26 @@
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/yesintek",
       "publishedAt": "2026-08-11",
       "excerpt": "Human medicines European public assessment report (EPAR): Yesintek, ustekinumab, Date of authorisation: 14/02/2025, Revision: 4, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Usgena, ustekinumab, Date of authorisation: 17/11/2025, Revision: 2, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/usgena",
+      "publishedAt": "2026-08-11",
+      "excerpt": "Human medicines European public assessment report (EPAR): Usgena, ustekinumab, Date of authorisation: 17/11/2025, Revision: 2, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Kanjinti, trastuzumab, Date of authorisation: 16/05/2018, Revision: 12, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/kanjinti",
+      "publishedAt": "2026-08-11",
+      "excerpt": "Human medicines European public assessment report (EPAR): Kanjinti, trastuzumab, Date of authorisation: 16/05/2018, Revision: 12, Status: Authorised",
       "sourceType": "rss"
     },
     {
@@ -50,8 +65,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Adverse Health Effects Relief (JP)",
       "region": "JP",
       "title": "[健康]健康被害救済業務に関するデータを掲載しました",
       "url": "https://www.pmda.go.jp/relief-services/outline/0001.html",
@@ -2710,8 +2725,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Adverse Health Effects Relief (JP)",
       "region": "JP",
       "title": "[健康]副用救済給付の決定に関する情報（2026年度5月分）を掲載しました",
       "url": "https://www.pmda.go.jp/relief-services/adr-sufferers/0043.html",
