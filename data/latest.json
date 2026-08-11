@@ -1,10 +1,20 @@
 {
-  "generatedAt": "2026-08-11T15:25:28.359676+00:00",
-  "count": 2274,
+  "generatedAt": "2026-08-11T17:17:50.259021+00:00",
+  "count": 2276,
   "errors": [
     {
       "groupId": "pmda",
       "siteId": "services-for-healtheffects",
+      "error": "RSS fetch failed - keeping archived data"
+    },
+    {
+      "groupId": "pmda",
+      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
+      "error": "RSS fetch failed - keeping archived data"
+    },
+    {
+      "groupId": "pmda",
+      "siteId": "PMDA：トップ その他",
       "error": "RSS fetch failed - keeping archived data"
     }
   ],
@@ -17,6 +27,16 @@
       "url": "http://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/tex-stein-dairy-728755-06162026",
       "publishedAt": "2026-08-11",
       "excerpt": "New Animal Drug/Adulterated",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Novel Drug Approvals for 2026",
+      "url": "http://www.fda.gov/drugs/novel-drug-approvals-fda/novel-drug-approvals-2026",
+      "publishedAt": "2026-08-11",
+      "excerpt": "FDA Novel Drug Therapy Approvals for 2026",
       "sourceType": "rss"
     },
     {
@@ -80,6 +100,16 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "fda-recalls",
+      "siteName": "Recalls",
+      "region": "US",
+      "title": "Henkel Corp. Announces a Nationwide Recall of Schwarzkopf Professional Osis Grip 6.76 fl. Oz/200 ml Due to Packaging Imperfection",
+      "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/henkel-corp-announces-nationwide-recall-schwarzkopf-professional-osis-grip-676-fl-oz200-ml-due",
+      "publishedAt": "2026-08-11",
+      "excerpt": "Rocky Hill, CT -- Henkel Corporation (“Henkel”) is voluntarily recalling its Schwarzkopf Professional Osis Grip 6.76 fl. Oz/200 ml sold in the United States due to a potential packaging issue in which product could leak from the package under pressure, which creates a risk of explosion.",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "ema-whats-new",
       "siteName": "What's new",
       "region": "EU",
@@ -92,6 +122,16 @@
     {
       "siteId": "fda-whats-new-drugs",
       "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Generic Drug Facilities, Sites and Organization Lists",
+      "url": "http://www.fda.gov/industry/generic-drug-user-fee-amendments/generic-drug-facilities-sites-and-organization-lists",
+      "publishedAt": "2026-08-11",
+      "excerpt": "Generic Drug Facilities, Sites and Organization Lists",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-medwatch",
+      "siteName": "MedWatch Safety Alerts",
       "region": "US",
       "title": "Fresenius Kabi Issues Nationwide Recall of Tyenne® (tocilizumab-aazg) Injection 400 mg/20 mL Vials Due to Presence of Glass Particles",
       "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/fresenius-kabi-issues-nationwide-recall-tyenner-tocilizumab-aazg-injection-400-mg20-ml-vials-due",
@@ -137,6 +177,26 @@
       "url": "http://www.fda.gov/drugs/drug-approvals-and-databases/drugsfda-data-files",
       "publishedAt": "2026-08-11",
       "excerpt": "Drugs@FDA Downloadable Data File in ZIP format, Data Definitions, and Entity Relationship Diagram (ERD)",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Drug Trials Snapshots: ICOTYDE",
+      "url": "http://www.fda.gov/drugs/drug-trials-snapshots/drug-trials-snapshots-icotyde",
+      "publishedAt": "2026-08-11",
+      "excerpt": "ICOTYDE is an interleukin-23 (IL-23) receptor antagonist used for the treatment of moderate-to-severe plaque psoriasis in adults and pediatric patients 12 years of age and older who weigh at least 40 kg and who are candidates for systemic therapy or phototherapy.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Drug Trials Snapshots",
+      "url": "http://www.fda.gov/drugs/drug-approvals-and-databases/drug-trials-snapshots",
+      "publishedAt": "2026-08-11",
+      "excerpt": "Drug Trials Snapshots: breaking down the what, how and why. Drug Trials Snapshots are part of an overall FDA effort to make demographic data more available and transparent.",
       "sourceType": "rss"
     },
     {
@@ -373,16 +433,6 @@
       "siteId": "fda-whats-new-drugs",
       "siteName": "What's New: Drugs",
       "region": "US",
-      "title": "Generic Drug Facilities, Sites and Organization Lists",
-      "url": "http://www.fda.gov/industry/generic-drug-user-fee-amendments/generic-drug-facilities-sites-and-organization-lists",
-      "publishedAt": "2026-08-10",
-      "excerpt": "Generic Drug Facilities, Sites and Organization Lists",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
       "title": "GDUFA IV: Fiscal Years 2028 – 2032",
       "url": "http://www.fda.gov/industry/generic-drug-user-fee-amendments/gdufa-iv-fiscal-years-2028-2032",
       "publishedAt": "2026-08-10",
@@ -560,8 +610,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ その他",
-      "siteName": "Others (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[PMDA]業務上使用していたUSBメモリの紛失について（ニュースリリース）[87.2KB]",
       "url": "https://www.pmda.go.jp/about-pmda/news-release/0097.pdf",
@@ -570,8 +620,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ その他",
-      "siteName": "Others (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[PMDA]専門委員名簿を更新しました",
       "url": "https://www.pmda.go.jp/about-pmda/outline/0016.html",
@@ -850,8 +900,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ その他",
-      "siteName": "Others (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[調達]一般競争入札公告（プロジェクターの購入）",
       "url": "https://www.pmda.go.jp/procurements/public-bidding/general-competition/1701.html",
@@ -860,8 +910,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ その他",
-      "siteName": "Others (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[採用]嘱託職員（予防接種副反応報告整理・調査事業担当）の募集について",
       "url": "https://www.pmda.go.jp/recruit/0892.html",
@@ -1350,8 +1400,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ その他",
-      "siteName": "Others (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[採用]事務補助員（手数料の入金確認・データ管理に関する補助業務等（事務系））の募集について",
       "url": "https://www.pmda.go.jp/recruit/0890.html",
@@ -1487,16 +1537,6 @@
       "url": "https://www.ema.europa.eu/en/medicines/psusa/psusa-00000669-202512",
       "publishedAt": "2026-08-05",
       "excerpt": "PSUSA/00000669/202512",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "Novel Drug Approvals for 2026",
-      "url": "http://www.fda.gov/drugs/novel-drug-approvals-fda/novel-drug-approvals-2026",
-      "publishedAt": "2026-08-05",
-      "excerpt": "FDA Novel Drug Therapy Approvals for 2026",
       "sourceType": "rss"
     },
     {
@@ -2250,8 +2290,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ その他",
-      "siteName": "Others (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[採用]運営評議会（救済業務委員会）専門委員の公募について",
       "url": "https://www.pmda.go.jp/recruit/0742.html",
@@ -3130,8 +3170,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ その他",
-      "siteName": "Others (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[調達]一般競争入札公告（2026年度（令和8年度）データヘルス改革を見据えた次世代型お薬手帳活用推進事業（患者向医薬品ガイド等閲覧推進事業））",
       "url": "https://www.pmda.go.jp/procurements/public-bidding/general-competition/1699.html",
@@ -3640,16 +3680,6 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "Drug Trials Snapshots",
-      "url": "http://www.fda.gov/drugs/drug-approvals-and-databases/drug-trials-snapshots",
-      "publishedAt": "2026-07-29",
-      "excerpt": "Drug Trials Snapshots: breaking down the what, how and why. Drug Trials Snapshots are part of an overall FDA effort to make demographic data more available and transparent.",
-      "sourceType": "rss"
-    },
-    {
       "siteId": "fda-food-safety-recalls",
       "siteName": "Food Safety Recalls",
       "region": "US",
@@ -3660,8 +3690,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ その他",
-      "siteName": "Others (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[調達]一般競争入札公告（海外旅行傷害保険にかかる企業包括契約）",
       "url": "https://www.pmda.go.jp/procurements/public-bidding/general-competition/1700.html",
@@ -4350,8 +4380,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ その他",
-      "siteName": "Others (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[調達]一般競争入札公告（2026年度国際会議等実用英語研修）",
       "url": "https://www.pmda.go.jp/procurements/public-bidding/general-competition/1698.html",
@@ -6570,8 +6600,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ その他",
-      "siteName": "Others (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[採用]事務補助員（医薬翻訳事務）の募集について（採用時期を更新しました）",
       "url": "https://www.pmda.go.jp/recruit/0429.html",
@@ -6590,8 +6620,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ その他",
-      "siteName": "Others (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[PMDA][イベント]令和8年度こども霞が関見学デーに出展します！「いろがかわる！おくすりじっけん」",
       "url": "https://www.pmda.go.jp/about-pmda/symposia/0035.html",
@@ -7300,8 +7330,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ その他",
-      "siteName": "Others (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[PMDA][イベント]2026年度のPMDAオープン・カンパニー情報（技術系）を更新しました",
       "url": "https://www.pmda.go.jp/about-pmda/symposia/0030.html",
