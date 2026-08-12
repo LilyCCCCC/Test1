@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-12T12:03:24.713194+00:00",
-  "count": 2298,
+  "generatedAt": "2026-08-12T13:53:05.115525+00:00",
+  "count": 2303,
   "errors": [
     {
       "groupId": "pmda",
@@ -9,12 +9,7 @@
     },
     {
       "groupId": "pmda",
-      "siteId": "PMDA：トップ 安全対策",
-      "error": "RSS fetch failed - keeping archived data"
-    },
-    {
-      "groupId": "pmda",
-      "siteId": "PMDA：トップ その他",
+      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
       "error": "RSS fetch failed - keeping archived data"
     }
   ],
@@ -60,8 +55,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[調達]一般競争入札公告（会計システムの改修業務（旅費規程改正））",
       "url": "https://www.pmda.go.jp/procurements/public-bidding/general-competition/1702.html",
@@ -100,13 +95,23 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[PMDA][イベント]2026年度のPMDAオープン・カンパニー情報（技術系）を更新しました",
       "url": "https://www.pmda.go.jp/about-pmda/symposia/0030.html",
       "publishedAt": "2026-08-12",
       "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Table of Pharmacogenomic Biomarkers in Drug Labeling",
+      "url": "http://www.fda.gov/drugs/science-and-research-drugs/table-pharmacogenomic-biomarkers-drug-labeling",
+      "publishedAt": "2026-08-12",
+      "excerpt": "Pharmacogenomics can play an important role in identifying responders and non-responders to medications, avoiding adverse events, and optimizing drug dose. Drug labeling may contain information on genomic biomarkers.",
       "sourceType": "rss"
     },
     {
@@ -153,10 +158,30 @@
       "siteId": "ema-whats-new",
       "siteName": "What's new",
       "region": "EU",
+      "title": "Product Management Service (PMS) – Frequently Asked Questions (FAQs)",
+      "url": "https://www.ema.europa.eu/system/files/documents/other/20260807_pms-faq-doc-en.pdf",
+      "publishedAt": "2026-08-12",
+      "excerpt": "Product Management Service (PMS) – Frequently Asked Questions (FAQs)",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
       "title": "Process for the electronic submission of medicinal product information - Chapter 3",
       "url": "https://www.ema.europa.eu/system/files/documents/other/eu-iso-idmp-ig_chapter-3-process-electronic-submission-medicinal-product-information-en_5.pdf",
       "publishedAt": "2026-08-12",
       "excerpt": "Process for the electronic submission of medicinal product information - Chapter 3",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Over-the-Counter (OTC) | Nonprescription Drugs",
+      "url": "http://www.fda.gov/drugs/how-drugs-are-developed-and-approved/over-counter-otc-nonprescription-drugs",
+      "publishedAt": "2026-08-12",
+      "excerpt": "Over-the-counter (OTC) drugs are developed under the OTC Monograph Process or through the New Drug Application (NDA) Process.",
       "sourceType": "rss"
     },
     {
@@ -167,6 +192,16 @@
       "url": "https://www.ema.europa.eu/en/human-regulatory-overview/research-development/scientific-advice-protocol-assistance/opinions-letters-support-qualification-novel-methodologies-medicine-development",
       "publishedAt": "2026-08-12",
       "excerpt": "Opinions and letters of support on the qualification of novel methodologies for medicine development",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Formal Meetings Between the FDA and Sponsors or Applicants of PDUFA Products",
+      "url": "http://www.fda.gov/regulatory-information/search-fda-guidance-documents/formal-meetings-between-fda-and-sponsors-or-applicants-pdufa-products",
+      "publishedAt": "2026-08-12",
+      "excerpt": "Formal Meetings Between the Food and Drug Administration and Sponsors or Applicants of Prescription Drug User Fee Act Products",
       "sourceType": "rss"
     },
     {
@@ -197,6 +232,16 @@
       "url": "https://www.ema.europa.eu/en/documents/other/draft-qualification-opinion-big-multiple-sclerosis-data-bmsd-network_en.pdf",
       "publishedAt": "2026-08-12",
       "excerpt": "Draft qualification opinion for the Big Multiple Sclerosis Data (BMSD) network",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Assessment of the Use of Patient Experience Data in Regulatory Decision-Making",
+      "url": "http://www.fda.gov/drugs/development-approval-process-drugs/assessment-use-patient-experience-data-regulatory-decision-making",
+      "publishedAt": "2026-08-12",
+      "excerpt": "Section 3004 of the 21st Century Cures Act directs FDA to report on the use of patient experience data in regulatory decision-making",
       "sourceType": "rss"
     },
     {
@@ -240,6 +285,16 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "3Rs Working Party (3RsWP) stakeholder meeting - Public session on the 2026-2028 work plan, Online, European Medicines Agency, Amsterdam, the Netherlands, Broadcast, from 31 March 2026, 09:30 (CEST) to 31 March 2026, 10:30 (CEST)",
+      "url": "https://www.ema.europa.eu/en/events/3rs-working-party-3rswp-stakeholder-meeting-public-session-2026-2028-work-plan",
+      "publishedAt": "2026-08-12",
+      "excerpt": "3Rs Working Party (3RsWP) stakeholder meeting - Public session on the 2026-2028 work plan, Online, European Medicines Agency, Amsterdam, the Netherlands, Broadcast, from 31 March 2026, 09:30 (CEST) to 31 March 2026, 10:30 (CEST)",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "fda-whats-new-drugs",
       "siteName": "What's New: Drugs",
       "region": "US",
@@ -267,16 +322,6 @@
       "url": "http://www.fda.gov/drugs/news-events-human-drugs/public-meeting-reauthorization-generic-drug-user-fee-amendments-gdufa-09172026",
       "publishedAt": "2026-08-11",
       "excerpt": "The hybrid public meeting will be held on September 17, 2026, from 9 a.m. to 2 p.m. ET",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "Over-the-Counter (OTC) | Nonprescription Drugs",
-      "url": "http://www.fda.gov/drugs/how-drugs-are-developed-and-approved/over-counter-otc-nonprescription-drugs",
-      "publishedAt": "2026-08-11",
-      "excerpt": "Over-the-counter (OTC) drugs are developed under the OTC Monograph Process or through the New Drug Application (NDA) Process.",
       "sourceType": "rss"
     },
     {
@@ -377,6 +422,16 @@
       "url": "http://www.fda.gov/industry/generic-drug-user-fee-amendments/generic-drug-facilities-sites-and-organization-lists",
       "publishedAt": "2026-08-11",
       "excerpt": "Generic Drug Facilities, Sites and Organization Lists",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-medwatch",
+      "siteName": "MedWatch Safety Alerts",
+      "region": "US",
+      "title": "Fresenius Kabi Issues Nationwide Recall of Tyenne® (tocilizumab-aazg) Injection 400 mg/20 mL Vials Due to Presence of Glass Particles",
+      "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/fresenius-kabi-issues-nationwide-recall-tyenner-tocilizumab-aazg-injection-400-mg20-ml-vials-due",
+      "publishedAt": "2026-08-11",
+      "excerpt": "FOR IMMEDIATE RELEASE – August 10, 2026 – LAKE ZURICH, Ill.— Fresenius Kabi, an operating company of the Fresenius Group, is recalling one lot of Tyenne® (tocilizumab-aazg) Injection 400 mg/20 mL (20 mg/mL)20 mL vials to the user level. An internal investigation at the firm found the product to cont",
       "sourceType": "rss"
     },
     {
@@ -490,8 +545,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Adverse Health Effects Relief (JP)",
       "region": "JP",
       "title": "[健康]健康被害救済業務に関するデータを掲載しました",
       "url": "https://www.pmda.go.jp/relief-services/outline/0001.html",
@@ -690,16 +745,6 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "fda-recalls",
-      "siteName": "Recalls",
-      "region": "US",
-      "title": "Fresenius Kabi Issues Nationwide Recall of Tyenne® (tocilizumab-aazg) Injection 400 mg/20 mL Vials Due to Presence of Glass Particles",
-      "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/fresenius-kabi-issues-nationwide-recall-tyenner-tocilizumab-aazg-injection-400-mg20-ml-vials-due",
-      "publishedAt": "2026-08-10",
-      "excerpt": "FOR IMMEDIATE RELEASE – August 10, 2026 – LAKE ZURICH, Ill.— Fresenius Kabi, an operating company of the Fresenius Group, is recalling one lot of Tyenne® (tocilizumab-aazg) Injection 400 mg/20 mL (20 mg/mL)20 mL vials to the user level. An internal investigation at the firm found the product to cont",
-      "sourceType": "rss"
-    },
-    {
       "siteId": "fda-whats-new-drugs",
       "siteName": "What's New: Drugs",
       "region": "US",
@@ -870,8 +915,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[PMDA]業務上使用していたUSBメモリの紛失について（ニュースリリース）[87.2KB]",
       "url": "https://www.pmda.go.jp/about-pmda/news-release/0097.pdf",
@@ -880,8 +925,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[PMDA]専門委員名簿を更新しました",
       "url": "https://www.pmda.go.jp/about-pmda/outline/0016.html",
@@ -1160,8 +1205,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[調達]一般競争入札公告（プロジェクターの購入）",
       "url": "https://www.pmda.go.jp/procurements/public-bidding/general-competition/1701.html",
@@ -1170,8 +1215,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[採用]嘱託職員（予防接種副反応報告整理・調査事業担当）の募集について",
       "url": "https://www.pmda.go.jp/recruit/0892.html",
@@ -1660,8 +1705,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[採用]事務補助員（手数料の入金確認・データ管理に関する補助業務等（事務系））の募集について",
       "url": "https://www.pmda.go.jp/recruit/0890.html",
@@ -2550,8 +2595,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[採用]運営評議会（救済業務委員会）専門委員の公募について",
       "url": "https://www.pmda.go.jp/recruit/0742.html",
@@ -3100,8 +3145,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Adverse Health Effects Relief (JP)",
       "region": "JP",
       "title": "[健康]副用救済給付の決定に関する情報（2026年度5月分）を掲載しました",
       "url": "https://www.pmda.go.jp/relief-services/adr-sufferers/0043.html",
@@ -3420,8 +3465,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[調達]一般競争入札公告（2026年度（令和8年度）データヘルス改革を見据えた次世代型お薬手帳活用推進事業（患者向医薬品ガイド等閲覧推進事業））",
       "url": "https://www.pmda.go.jp/procurements/public-bidding/general-competition/1699.html",
@@ -3940,8 +3985,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[調達]一般競争入札公告（海外旅行傷害保険にかかる企業包括契約）",
       "url": "https://www.pmda.go.jp/procurements/public-bidding/general-competition/1700.html",
@@ -4630,8 +4675,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[調達]一般競争入札公告（2026年度国際会議等実用英語研修）",
       "url": "https://www.pmda.go.jp/procurements/public-bidding/general-competition/1698.html",
@@ -6850,8 +6895,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[採用]事務補助員（医薬翻訳事務）の募集について（採用時期を更新しました）",
       "url": "https://www.pmda.go.jp/recruit/0429.html",
@@ -6870,8 +6915,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[PMDA][イベント]令和8年度こども霞が関見学デーに出展します！「いろがかわる！おくすりじっけん」",
       "url": "https://www.pmda.go.jp/about-pmda/symposia/0035.html",
