@@ -1,15 +1,10 @@
 {
-  "generatedAt": "2026-08-12T13:53:05.115525+00:00",
-  "count": 2303,
+  "generatedAt": "2026-08-12T15:18:31.177498+00:00",
+  "count": 2306,
   "errors": [
     {
       "groupId": "pmda",
       "siteId": "services-for-healtheffects",
-      "error": "RSS fetch failed - keeping archived data"
-    },
-    {
-      "groupId": "pmda",
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
       "error": "RSS fetch failed - keeping archived data"
     }
   ],
@@ -105,6 +100,16 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Vaccines: concerns, questions and false claims",
+      "url": "https://www.ema.europa.eu/en/human-regulatory-overview/public-health-threats/vaccine-preventable-diseases-key-facts/vaccines-concerns-questions-false-claims",
+      "publishedAt": "2026-08-12",
+      "excerpt": "Vaccines: concerns, questions and false claims",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "fda-whats-new-drugs",
       "siteName": "What's New: Drugs",
       "region": "US",
@@ -112,6 +117,16 @@
       "url": "http://www.fda.gov/drugs/science-and-research-drugs/table-pharmacogenomic-biomarkers-drug-labeling",
       "publishedAt": "2026-08-12",
       "excerpt": "Pharmacogenomics can play an important role in identifying responders and non-responders to medications, avoiding adverse events, and optimizing drug dose. Drug labeling may contain information on genomic biomarkers.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Recently Issued Guidance Documents",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/biologics-guidances/recently-issued-guidance-documents",
+      "publishedAt": "2026-08-12",
+      "excerpt": "This page lists Recently Issued CBER and Cross-Center Guidance Documents.",
       "sourceType": "rss"
     },
     {
@@ -175,6 +190,16 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Performance enhancers - Scientific guideline",
+      "url": "https://www.ema.europa.eu/en/performance-enhancers-scientific-guideline",
+      "publishedAt": "2026-08-12",
+      "excerpt": "Performance enhancers - Scientific guideline",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "fda-whats-new-drugs",
       "siteName": "What's New: Drugs",
       "region": "US",
@@ -192,6 +217,26 @@
       "url": "https://www.ema.europa.eu/en/human-regulatory-overview/research-development/scientific-advice-protocol-assistance/opinions-letters-support-qualification-novel-methodologies-medicine-development",
       "publishedAt": "2026-08-12",
       "excerpt": "Opinions and letters of support on the qualification of novel methodologies for medicine development",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Non-Compliance Letters under 505B(d)(1) of the Federal Food, Drug, and Cosmetic Act",
+      "url": "http://www.fda.gov/drugs/guidance-compliance-regulatory-information/non-compliance-letters-under-505bd1-federal-food-drug-and-cosmetic-act",
+      "publishedAt": "2026-08-12",
+      "excerpt": "Section 505B(d)(1) requires FDA to send a PREA Non-Compliance letter to sponsors who have failed to submit their pediatric assessments required under PREA by the final due date, have failed to seek or obtain a deferral or deferral extension.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Comirnaty, COVID-19 mRNA vaccine, Date of authorisation: 21/12/2020, Revision: 63, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/comirnaty",
+      "publishedAt": "2026-08-12",
+      "excerpt": "Human medicines European public assessment report (EPAR): Comirnaty, COVID-19 mRNA vaccine, Date of authorisation: 21/12/2020, Revision: 63, Status: Authorised",
       "sourceType": "rss"
     },
     {
@@ -432,6 +477,16 @@
       "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/fresenius-kabi-issues-nationwide-recall-tyenner-tocilizumab-aazg-injection-400-mg20-ml-vials-due",
       "publishedAt": "2026-08-11",
       "excerpt": "FOR IMMEDIATE RELEASE – August 10, 2026 – LAKE ZURICH, Ill.— Fresenius Kabi, an operating company of the Fresenius Group, is recalling one lot of Tyenne® (tocilizumab-aazg) Injection 400 mg/20 mL (20 mg/mL)20 mL vials to the user level. An internal investigation at the firm found the product to cont",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-food-allergies",
+      "siteName": "Food Allergies",
+      "region": "US",
+      "title": "Frankie's Organic Issues Allergy Alert on Undeclared Milk in Frankie’s Organic Plant-Based Vegan Cheddar Puffs",
+      "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/frankies-organic-issues-allergy-alert-undeclared-milk-frankies-organic-plant-based-vegan-cheddar",
+      "publishedAt": "2026-08-11",
+      "excerpt": "Laval, Quebec Frankie's Organic is recalling 94 cases of Frankie’s Organic Plant-Based Vegan Cheddar Puffs because it may contain undeclared milk. People who have an allergy or severe sensitivity to milk run the risk of serious or life-threatening allergic reaction if they consume these products.",
       "sourceType": "rss"
     },
     {
@@ -1492,16 +1547,6 @@
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/deqtynet",
       "publishedAt": "2026-08-06",
       "excerpt": "Human medicines European public assessment report (EPAR): Deqtynet, copper (64Cu) oxodotreotide, Date of refusal: 03/08/2026, Status: Refused",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
-      "siteName": "Human medicines: EPARs and summaries of opinion",
-      "region": "EU",
-      "title": "Human medicines European public assessment report (EPAR): Comirnaty, COVID-19 mRNA vaccine, Date of authorisation: 21/12/2020, Revision: 63, Status: Authorised",
-      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/comirnaty",
-      "publishedAt": "2026-08-06",
-      "excerpt": "Human medicines European public assessment report (EPAR): Comirnaty, COVID-19 mRNA vaccine, Date of authorisation: 21/12/2020, Revision: 63, Status: Authorised",
       "sourceType": "rss"
     },
     {
@@ -3202,16 +3247,6 @@
       "url": "http://www.fda.gov/drugs/fdas-labeling-resources-human-prescription-drugs/selection-appropriate-spl-codes-human-prescription-drug-labeling",
       "publishedAt": "2026-07-31",
       "excerpt": "Selection of Appropriate SPL Codes for Human Prescription Drug Labeling (for SPL Drug Developers)",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "Recently Issued Guidance Documents",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/biologics-guidances/recently-issued-guidance-documents",
-      "publishedAt": "2026-07-31",
-      "excerpt": "This page lists Recently Issued CBER and Cross-Center Guidance Documents.",
       "sourceType": "rss"
     },
     {
@@ -14622,16 +14657,6 @@
       "url": "http://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/compliance-actions-and-activities/online-advisory-letters",
       "publishedAt": "2026-06-30",
       "excerpt": "Online Advisory Letters",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "Non-Compliance Letters under 505B(d)(1) of the Federal Food, Drug, and Cosmetic Act",
-      "url": "http://www.fda.gov/drugs/guidance-compliance-regulatory-information/non-compliance-letters-under-505bd1-federal-food-drug-and-cosmetic-act",
-      "publishedAt": "2026-06-30",
-      "excerpt": "Section 505B(d)(1) requires FDA to send a PREA Non-Compliance letter to sponsors who have failed to submit their pediatric assessments required under PREA by the final due date, have failed to seek or obtain a deferral or deferral extension.",
       "sourceType": "rss"
     },
     {
