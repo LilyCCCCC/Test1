@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-13T13:54:32.683812+00:00",
-  "count": 2353,
+  "generatedAt": "2026-08-13T15:26:40.628676+00:00",
+  "count": 2356,
   "errors": [
     {
       "groupId": "pmda",
@@ -14,24 +14,14 @@
     },
     {
       "groupId": "pmda",
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "error": "RSS fetch failed - keeping archived data"
-    },
-    {
-      "groupId": "pmda",
       "siteId": "PMDA：トップ 国際活動",
-      "error": "RSS fetch failed - keeping archived data"
-    },
-    {
-      "groupId": "pmda",
-      "siteId": "PMDA：トップ その他",
       "error": "RSS fetch failed - keeping archived data"
     }
   ],
   "items": [
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[調達]オープンカウンター公告（救済関連業務統合システムDX Suite Standard 関連ライセンス等購入一式）",
       "url": "https://www.pmda.go.jp/procurements/public-bidding/open-counter/1661.html",
@@ -40,8 +30,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[採用]事務補助員（医薬品の規格基準作成業務に係る補助業務等（国際業務担当））の募集について",
       "url": "https://www.pmda.go.jp/recruit/0839.html",
@@ -70,8 +60,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
+      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
       "region": "JP",
       "title": "[RS]2025年度レギュラトリーサイエンス活動報告書（日本語版 PDF）を掲載しました。",
       "url": "https://www.pmda.go.jp/rs-std-jp/outline/0001.html",
@@ -293,6 +283,16 @@
       "siteId": "fda-whats-new-drugs",
       "siteName": "What's New: Drugs",
       "region": "US",
+      "title": "Nonprescription Drug Product with an Additional Condition for Nonprescription Use",
+      "url": "http://www.fda.gov/drugs/over-counter-otc-nonprescription-drugs/nonprescription-drug-product-additional-condition-nonprescription-use",
+      "publishedAt": "2026-08-13",
+      "excerpt": "The FDA is announcing the availability of the proposed rule Nonprescription Drug Product with an Additional Condition for Nonprescription Use (Docket No.  FDA-2021-N-0862). The proposed rule, if finalized, would establish requirements for a nonprescription drug product that has an additional conditi",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
       "title": "Newly Added Guidance Documents",
       "url": "http://www.fda.gov/drugs/guidances-drugs/newly-added-guidance-documents",
       "publishedAt": "2026-08-13",
@@ -307,6 +307,26 @@
       "url": "https://www.ema.europa.eu/system/files/documents/report/regulators-only-workshop-reliance-post-approval-changes_18-19-may-2026_meeting-report_en.pdf",
       "publishedAt": "2026-08-13",
       "excerpt": "Meeting report: Regulators-only workshop on reliance for post-approval changes (PACs) 18–19 May 2026",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Laboratory Information Bulletins",
+      "url": "http://www.fda.gov/science-research/field-science-and-laboratories/laboratory-information-bulletins",
+      "publishedAt": "2026-08-13",
+      "excerpt": "Laboratory Information Bulletins available to the public",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Information Regarding Insulin Storage and Switching Between Products in an Emergency",
+      "url": "http://www.fda.gov/drugs/emergency-preparedness-drugs/information-regarding-insulin-storage-and-switching-between-products-emergency",
+      "publishedAt": "2026-08-13",
+      "excerpt": "Updated",
       "sourceType": "rss"
     },
     {
@@ -370,6 +390,16 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "ema-human-medicines-highlights-newsletter",
+      "siteName": "Human Medicines Highlights newsletter",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): KemSu, sufentanil,ketamine, Status: Opinion under re-examination",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/kemsu",
+      "publishedAt": "2026-08-13",
+      "excerpt": "Human medicines European public assessment report (EPAR): KemSu, sufentanil,ketamine, Status: Opinion under re-examination",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
       "siteName": "Human medicines: EPARs and summaries of opinion",
       "region": "EU",
@@ -397,6 +427,26 @@
       "url": "http://www.fda.gov/regulatory-information/search-fda-guidance-documents/formal-meetings-between-fda-and-sponsors-or-applicants-pdufa-products",
       "publishedAt": "2026-08-13",
       "excerpt": "Formal Meetings Between the Food and Drug Administration and Sponsors or Applicants of Prescription Drug User Fee Act Products",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Drugs@FDA Data Files",
+      "url": "http://www.fda.gov/drugs/drug-approvals-and-databases/drugsfda-data-files",
+      "publishedAt": "2026-08-13",
+      "excerpt": "Drugs@FDA Downloadable Data File in ZIP format, Data Definitions, and Entity Relationship Diagram (ERD)",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Digitalisation and artificial Intelligence in pharmaceutical manufacturing: Quality Innovation Group (QIG) - Follow-up roundtable meeting, Online, European Medicines Agency, Amsterdam, the Netherlands, Broadcast, from 18 November 2026, 09:30 (CET) to 19 November 2026, 17:30 (CET)",
+      "url": "https://www.ema.europa.eu/en/events/digitalisation-artificial-intelligence-pharmaceutical-manufacturing-quality-innovation-group-qig-follow-roundtable-meeting",
+      "publishedAt": "2026-08-13",
+      "excerpt": "Digitalisation and artificial Intelligence in pharmaceutical manufacturing: Quality Innovation Group (QIG) - Follow-up roundtable meeting, Online, European Medicines Agency, Amsterdam, the Netherlands, Broadcast, from 18 November 2026, 09:30 (CET) to 19 November 2026, 17:30 (CET)",
       "sourceType": "rss"
     },
     {
@@ -450,8 +500,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[調達]一般競争入札公告（会計システムの改修業務（旅費規程改正））",
       "url": "https://www.pmda.go.jp/procurements/public-bidding/general-competition/1702.html",
@@ -490,8 +540,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[PMDA][イベント]2026年度のPMDAオープン・カンパニー情報（技術系）を更新しました",
       "url": "https://www.pmda.go.jp/about-pmda/symposia/0030.html",
@@ -787,16 +837,6 @@
       "url": "https://www.ema.europa.eu/en/events/european-medicines-agency-ema-patients-consumers-pcwp-healthcare-professionals-hcpwp-working-parties-meeting-all-eligible-organisations",
       "publishedAt": "2026-08-12",
       "excerpt": "European Medicines Agency (EMA) Patients' and Consumers' (PCWP) and Healthcare Professionals' (HCPWP) Working Parties meeting with all eligible organisations, Online, European Medicines Agency, Amsterdam, the Netherlands, from 20 October 2026, 09:00 (CEST) to 21 October 2026, 16:15 (CEST)",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "Drugs@FDA Data Files",
-      "url": "http://www.fda.gov/drugs/drug-approvals-and-databases/drugsfda-data-files",
-      "publishedAt": "2026-08-12",
-      "excerpt": "Drugs@FDA Downloadable Data File in ZIP format, Data Definitions, and Entity Relationship Diagram (ERD)",
       "sourceType": "rss"
     },
     {
@@ -1520,8 +1560,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
+      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
       "region": "JP",
       "title": "[基準]後発医薬品開発における健康成人を対象とした生物学的同等性試験の安全性確保策に関する考え方（Early Consideration）を掲載しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/guidance-guideline/0003.html",
@@ -1540,8 +1580,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
+      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
       "region": "JP",
       "title": "[その他]第51回科学委員会の議事概要を掲載しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/science-committee/0059.html",
@@ -1550,8 +1590,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[PMDA]業務上使用していたUSBメモリの紛失について（ニュースリリース）[87.2KB]",
       "url": "https://www.pmda.go.jp/about-pmda/news-release/0097.pdf",
@@ -1560,8 +1600,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[PMDA]専門委員名簿を更新しました",
       "url": "https://www.pmda.go.jp/about-pmda/outline/0016.html",
@@ -1647,16 +1687,6 @@
       "url": "http://www.fda.gov/drugs/resources-information-approved-drugs/ongoing-cancer-accelerated-approvals",
       "publishedAt": "2026-08-07",
       "excerpt": "This listing includes accelerated approvals (AAs) for malignant hematology and oncology indications that have postmarketing requirement(s) for ongoing clinical trial(s) to verify clinical benefit.",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "Nonprescription Drug Product with an Additional Condition for Nonprescription Use",
-      "url": "http://www.fda.gov/drugs/over-counter-otc-nonprescription-drugs/nonprescription-drug-product-additional-condition-nonprescription-use",
-      "publishedAt": "2026-08-07",
-      "excerpt": "The FDA is announcing the availability of the proposed rule Nonprescription Drug Product with an Additional Condition for Nonprescription Use (Docket No.  FDA-2021-N-0862). The proposed rule, if finalized, would establish requirements for a nonprescription drug product that has an additional conditi",
       "sourceType": "rss"
     },
     {
@@ -1840,8 +1870,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[調達]一般競争入札公告（プロジェクターの購入）",
       "url": "https://www.pmda.go.jp/procurements/public-bidding/general-competition/1701.html",
@@ -1850,8 +1880,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[採用]嘱託職員（予防接種副反応報告整理・調査事業担当）の募集について",
       "url": "https://www.pmda.go.jp/recruit/0892.html",
@@ -2320,8 +2350,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[採用]事務補助員（手数料の入金確認・データ管理に関する補助業務等（事務系））の募集について",
       "url": "https://www.pmda.go.jp/recruit/0890.html",
@@ -3210,8 +3240,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[採用]運営評議会（救済業務委員会）専門委員の公募について",
       "url": "https://www.pmda.go.jp/recruit/0742.html",
@@ -4060,8 +4090,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[調達]一般競争入札公告（2026年度（令和8年度）データヘルス改革を見据えた次世代型お薬手帳活用推進事業（患者向医薬品ガイド等閲覧推進事業））",
       "url": "https://www.pmda.go.jp/procurements/public-bidding/general-competition/1699.html",
@@ -4580,8 +4610,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[調達]一般競争入札公告（海外旅行傷害保険にかかる企業包括契約）",
       "url": "https://www.pmda.go.jp/procurements/public-bidding/general-competition/1700.html",
@@ -5260,8 +5290,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[調達]一般競争入札公告（2026年度国際会議等実用英語研修）",
       "url": "https://www.pmda.go.jp/procurements/public-bidding/general-competition/1698.html",
@@ -5300,8 +5330,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
+      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
       "region": "JP",
       "title": "[RS][イベント]第12回PMDAレギュラトリーサイエンス研究会の開催について掲載しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/symposia/0034.html",
@@ -5707,16 +5737,6 @@
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/lynavoy",
       "publishedAt": "2026-07-24",
       "excerpt": "Human medicines European public assessment report (EPAR): Lynavoy, Linerixibat, Status: Opinion",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "ema-human-medicines-highlights-newsletter",
-      "siteName": "Human Medicines Highlights newsletter",
-      "region": "EU",
-      "title": "Human medicines European public assessment report (EPAR): KemSu, sufentanil,ketamine, Status: Opinion",
-      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/kemsu",
-      "publishedAt": "2026-07-24",
-      "excerpt": "Human medicines European public assessment report (EPAR): KemSu, sufentanil,ketamine, Status: Opinion",
       "sourceType": "rss"
     },
     {
@@ -7470,8 +7490,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[採用]事務補助員（医薬翻訳事務）の募集について（採用時期を更新しました）",
       "url": "https://www.pmda.go.jp/recruit/0429.html",
@@ -7490,8 +7510,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[PMDA][イベント]令和8年度こども霞が関見学デーに出展します！「いろがかわる！おくすりじっけん」",
       "url": "https://www.pmda.go.jp/about-pmda/symposia/0035.html",
