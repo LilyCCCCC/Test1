@@ -1,10 +1,25 @@
 {
-  "generatedAt": "2026-08-13T15:26:40.628676+00:00",
-  "count": 2356,
+  "generatedAt": "2026-08-13T17:21:01.701618+00:00",
+  "count": 2358,
   "errors": [
     {
       "groupId": "pmda",
       "siteId": "services-for-healtheffects",
+      "error": "RSS fetch failed - keeping archived data"
+    },
+    {
+      "groupId": "pmda",
+      "siteId": "international-activities",
+      "error": "RSS fetch failed - keeping archived data"
+    },
+    {
+      "groupId": "pmda",
+      "siteId": "PMDAの新着情報",
+      "error": "RSS fetch failed - keeping archived data"
+    },
+    {
+      "groupId": "pmda",
+      "siteId": "PMDA：トップ 承認審査",
       "error": "RSS fetch failed - keeping archived data"
     },
     {
@@ -14,7 +29,22 @@
     },
     {
       "groupId": "pmda",
+      "siteId": "PMDA：トップ 安全対策",
+      "error": "RSS fetch failed - keeping archived data"
+    },
+    {
+      "groupId": "pmda",
+      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
+      "error": "RSS fetch failed - keeping archived data"
+    },
+    {
+      "groupId": "pmda",
       "siteId": "PMDA：トップ 国際活動",
+      "error": "RSS fetch failed - keeping archived data"
+    },
+    {
+      "groupId": "pmda",
+      "siteId": "PMDA：トップ その他",
       "error": "RSS fetch failed - keeping archived data"
     }
   ],
@@ -73,6 +103,16 @@
       "siteId": "fda-whats-new-drugs",
       "siteName": "What's New: Drugs",
       "region": "US",
+      "title": "Withdrawn and Expired Guidances | Drugs",
+      "url": "http://www.fda.gov/drugs/guidances-drugs/withdrawn-and-expired-guidances-drugs",
+      "publishedAt": "2026-08-13",
+      "excerpt": "Withdrawn and Expired Guidances | Drugs",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
       "title": "What's New Related to Drugs",
       "url": "http://www.fda.gov/drugs/news-events-human-drugs/whats-new-related-drugs",
       "publishedAt": "2026-08-13",
@@ -117,6 +157,16 @@
       "url": "https://www.ema.europa.eu/en/medicines/human/referrals/tavneos",
       "publishedAt": "2026-08-13",
       "excerpt": "Referral: Tavneos, avacopan Article 20 procedures European Commission final decision, 25/06/2026, 04/08/2026, 13/08/2026",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Recently Issued Guidance Documents",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/biologics-guidances/recently-issued-guidance-documents",
+      "publishedAt": "2026-08-13",
+      "excerpt": "This page lists Recently Issued CBER and Cross-Center Guidance Documents.",
       "sourceType": "rss"
     },
     {
@@ -320,6 +370,16 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "fda-medwatch",
+      "siteName": "MedWatch Safety Alerts",
+      "region": "US",
+      "title": "Intravascular Administration Set Recall: Baxter Removes Duo-Vent Solution Sets",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/intravascular-administration-set-recall-baxter-removes-duo-vent-solution-sets",
+      "publishedAt": "2026-08-13",
+      "excerpt": "Baxter administration sets may have air bubbles in the drip chamber and tubing, which may result in air being delivered through the IV line to the patient.",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "fda-whats-new-drugs",
       "siteName": "What's New: Drugs",
       "region": "US",
@@ -417,6 +477,26 @@
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/exdensur",
       "publishedAt": "2026-08-13",
       "excerpt": "Human medicines European public assessment report (EPAR): Exdensur, depemokimab, Date of authorisation: 12/02/2026, Revision: 2, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Generic Drug User Fee Amendments",
+      "url": "http://www.fda.gov/industry/fda-user-fee-programs/generic-drug-user-fee-amendments",
+      "publishedAt": "2026-08-13",
+      "excerpt": "This page features news and information for industry and stakeholders about GDUFA, its fee structure, payment methods, and related information.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Generic Drug Facilities, Sites and Organization Lists",
+      "url": "http://www.fda.gov/industry/generic-drug-user-fee-amendments/generic-drug-facilities-sites-and-organization-lists",
+      "publishedAt": "2026-08-13",
+      "excerpt": "Generic Drug Facilities, Sites and Organization Lists",
       "sourceType": "rss"
     },
     {
@@ -627,16 +707,6 @@
       "url": "http://www.fda.gov/drugs/medication-health-fraud-notifications/sexual-enhancement-and-energy-product-notifications",
       "publishedAt": "2026-08-12",
       "excerpt": "Learn about the warnings for sexual enhancement and energy products that contain hidden drugs and other hidden ingredients.",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "Recently Issued Guidance Documents",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/biologics-guidances/recently-issued-guidance-documents",
-      "publishedAt": "2026-08-12",
-      "excerpt": "This page lists Recently Issued CBER and Cross-Center Guidance Documents.",
       "sourceType": "rss"
     },
     {
@@ -1100,16 +1170,6 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "Generic Drug Facilities, Sites and Organization Lists",
-      "url": "http://www.fda.gov/industry/generic-drug-user-fee-amendments/generic-drug-facilities-sites-and-organization-lists",
-      "publishedAt": "2026-08-11",
-      "excerpt": "Generic Drug Facilities, Sites and Organization Lists",
-      "sourceType": "rss"
-    },
-    {
       "siteId": "fda-medwatch",
       "siteName": "MedWatch Safety Alerts",
       "region": "US",
@@ -1397,16 +1457,6 @@
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/boey",
       "publishedAt": "2026-08-10",
       "excerpt": "Human medicines European public assessment report (EPAR): Boey, trenibotulinumtoxinE, Date of authorisation: 15/07/2026, Status: Authorised",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "Generic Drug User Fee Amendments",
-      "url": "http://www.fda.gov/industry/fda-user-fee-programs/generic-drug-user-fee-amendments",
-      "publishedAt": "2026-08-10",
-      "excerpt": "This page features news and information for industry and stakeholders about GDUFA, its fee structure, payment methods, and related information.",
       "sourceType": "rss"
     },
     {
@@ -4630,16 +4680,6 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "Withdrawn and Expired Guidances | Drugs",
-      "url": "http://www.fda.gov/drugs/guidances-drugs/withdrawn-and-expired-guidances-drugs",
-      "publishedAt": "2026-07-28",
-      "excerpt": "Withdrawn and Expired Guidances | Drugs",
-      "sourceType": "rss"
-    },
-    {
       "siteId": "fda-ora-foia-electronic-reading-room",
       "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
       "region": "US",
@@ -6315,6 +6355,16 @@
       "region": "TW",
       "title": "連淨綠色科技股份有限公司自主通報苦茶油檢出苯駢芘不合格案",
       "url": "http://www.fda.gov.tw/tc/newsContent.aspx?cid=4&id=31669&utm_source=rss&utm_medium=feed&utm_campaign=rss_subscription",
+      "publishedAt": "2026-07-22",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "light-drugs",
+      "siteName": "消費紅綠燈-國際藥品",
+      "region": "TW",
+      "title": "有關Bayer（Switzerland）AG藥品Primovist 0.25 mmol/ml, Injektionslösung（批號KT10V9A /1）警訊，國內並未輸入該批號藥品。",
+      "url": "http://www.fda.gov.tw/tc/csmnewsContent.aspx?mid=269&id=7939&utm_source=rss&utm_medium=feed&utm_campaign=rss_subscription",
       "publishedAt": "2026-07-22",
       "excerpt": "",
       "sourceType": "rss"
