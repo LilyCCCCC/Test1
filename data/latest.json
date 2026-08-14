@@ -1,15 +1,10 @@
 {
-  "generatedAt": "2026-08-14T00:02:29.004012+00:00",
-  "count": 2364,
+  "generatedAt": "2026-08-14T03:02:36.726721+00:00",
+  "count": 2366,
   "errors": [
     {
       "groupId": "pmda",
       "siteId": "services-for-healtheffects",
-      "error": "RSS fetch failed - keeping archived data"
-    },
-    {
-      "groupId": "pmda",
-      "siteId": "PMDAの新着情報",
       "error": "RSS fetch failed - keeping archived data"
     },
     {
@@ -19,6 +14,36 @@
     }
   ],
   "items": [
+    {
+      "siteId": "notice-from-tfda",
+      "siteName": "公告",
+      "region": "TW",
+      "title": "預告修正「食品添加物規格檢驗方法－甲基纖維素」草案。",
+      "url": "http://www.fda.gov.tw/tc/newsContent.aspx?cid=5072&id=31692&utm_source=rss&utm_medium=feed&utm_campaign=rss_subscription",
+      "publishedAt": "2026-08-14",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "notice-from-tfda",
+      "siteName": "公告",
+      "region": "TW",
+      "title": "預告修正「食品添加物規格檢驗方法－L－抗壞血酸硬脂酸酯」草案及「食品添加物規格檢驗方法－菸鹼醯胺」草案。",
+      "url": "http://www.fda.gov.tw/tc/newsContent.aspx?cid=5072&id=31693&utm_source=rss&utm_medium=feed&utm_campaign=rss_subscription",
+      "publishedAt": "2026-08-14",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "reviews",
+      "siteName": "Reviews (EN)",
+      "region": "JP",
+      "title": "English Translation of Review Report: Optune Lua and Esprit BTK Everolimus Eluting Resorbable Scaffold System",
+      "url": "https://www.pmda.go.jp/english/review-services/reviews/approved-information/devices/0003.html",
+      "publishedAt": "2026-08-14",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
     {
       "siteId": "PMDA：トップ その他",
       "siteName": "Others (JP)",
@@ -4127,16 +4152,6 @@
       "url": "http://www.fda.gov/drugs/guidance-compliance-regulatory-information/fda-drug-competition-action-plan",
       "publishedAt": "2026-07-31",
       "excerpt": "FDA's Drug Competition Action Plan (DCAP) encourages robust and timely market competition for generic drugs and helps bring greater efficiency and transparency to the generic drug review process, without sacrificing the scientific rigor underlying our generic drug program.",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "reviews",
-      "siteName": "Reviews (EN)",
-      "region": "JP",
-      "title": "English Translation of Review Report: MiSight 1 Day",
-      "url": "https://www.pmda.go.jp/english/review-services/reviews/approved-information/devices/0003.html",
-      "publishedAt": "2026-07-31",
-      "excerpt": "",
       "sourceType": "rss"
     },
     {
