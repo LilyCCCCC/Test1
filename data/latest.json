@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-08-14T08:41:28.562576+00:00",
-  "count": 2377,
+  "generatedAt": "2026-08-14T10:29:50.898431+00:00",
+  "count": 2379,
   "errors": [
     {
       "groupId": "pmda",
       "siteId": "services-for-healtheffects",
+      "error": "RSS fetch failed - keeping archived data"
+    },
+    {
+      "groupId": "pmda",
+      "siteId": "PMDA：トップ 安全対策",
       "error": "RSS fetch failed - keeping archived data"
     },
     {
@@ -128,10 +133,30 @@
       "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
       "siteName": "Human medicines: EPARs and summaries of opinion",
       "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Vafseo, vadadustat, Date of authorisation: 24/04/2023, Revision: 6, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/vafseo",
+      "publishedAt": "2026-08-14",
+      "excerpt": "Human medicines European public assessment report (EPAR): Vafseo, vadadustat, Date of authorisation: 24/04/2023, Revision: 6, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
       "title": "Human medicines European public assessment report (EPAR): Tuzulby, methylphenidate hydrochloride, Date of authorisation: 28/02/2025, Revision: 3, Status: Authorised",
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/tuzulby",
       "publishedAt": "2026-08-14",
       "excerpt": "Human medicines European public assessment report (EPAR): Tuzulby, methylphenidate hydrochloride, Date of authorisation: 28/02/2025, Revision: 3, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "European Medicines Agency’s data protection notice on 360 assessment",
+      "url": "https://www.ema.europa.eu/system/files/documents/other/ema-079-dpn-360-assessment-public-en.pdf",
+      "publishedAt": "2026-08-14",
+      "excerpt": "European Medicines Agency’s data protection notice on 360 assessment",
       "sourceType": "rss"
     },
     {
@@ -1535,8 +1560,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 安全対策",
-      "siteName": "Adverse Health Effects Relief (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[健康]健康被害救済業務に関するデータを掲載しました",
       "url": "https://www.pmda.go.jp/relief-services/outline/0001.html",
@@ -4075,8 +4100,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 安全対策",
-      "siteName": "Adverse Health Effects Relief (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[健康]副用救済給付の決定に関する情報（2026年度5月分）を掲載しました",
       "url": "https://www.pmda.go.jp/relief-services/adr-sufferers/0043.html",
