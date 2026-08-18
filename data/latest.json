@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T05:00:03.736620+00:00",
+  "generatedAt": "2026-08-18T05:54:38.607960+00:00",
   "count": 2405,
   "errors": [
     {
@@ -10,6 +10,11 @@
     {
       "groupId": "pmda",
       "siteId": "services-for-healtheffects",
+      "error": "RSS fetch failed - keeping archived data"
+    },
+    {
+      "groupId": "pmda",
+      "siteId": "rs-standard-development-jp",
       "error": "RSS fetch failed - keeping archived data"
     },
     {
