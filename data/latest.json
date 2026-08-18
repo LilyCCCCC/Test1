@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T04:04:40.178580+00:00",
+  "generatedAt": "2026-08-18T05:00:03.736620+00:00",
   "count": 2405,
   "errors": [
     {
@@ -10,6 +10,21 @@
     {
       "groupId": "pmda",
       "siteId": "services-for-healtheffects",
+      "error": "RSS fetch failed - keeping archived data"
+    },
+    {
+      "groupId": "pmda",
+      "siteId": "international-activities",
+      "error": "RSS fetch failed - keeping archived data"
+    },
+    {
+      "groupId": "pmda",
+      "siteId": "PMDAの新着情報",
+      "error": "RSS fetch failed - keeping archived data"
+    },
+    {
+      "groupId": "pmda",
+      "siteId": "PMDA：トップ 承認審査",
       "error": "RSS fetch failed - keeping archived data"
     },
     {
