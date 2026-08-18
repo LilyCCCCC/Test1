@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-18T10:50:44.362648+00:00",
-  "count": 2413,
+  "generatedAt": "2026-08-18T11:45:41.901705+00:00",
+  "count": 2415,
   "errors": [
     {
       "groupId": "ema",
@@ -10,6 +10,11 @@
     {
       "groupId": "pmda",
       "siteId": "services-for-healtheffects",
+      "error": "RSS fetch failed - keeping archived data"
+    },
+    {
+      "groupId": "pmda",
+      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
       "error": "RSS fetch failed - keeping archived data"
     }
   ],
@@ -102,6 +107,16 @@
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/menquadfi",
       "publishedAt": "2026-08-18",
       "excerpt": "Human medicines European public assessment report (EPAR): MenQuadfi, meningococcal group A, C, W-135 and Y conjugate vaccine, Date of authorisation: 18/11/2020, Revision: 27, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Conexxence, denosumab, Date of authorisation: 18/07/2025, Revision: 2, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/conexxence",
+      "publishedAt": "2026-08-18",
+      "excerpt": "Human medicines European public assessment report (EPAR): Conexxence, denosumab, Date of authorisation: 18/07/2025, Revision: 2, Status: Authorised",
       "sourceType": "rss"
     },
     {
@@ -252,6 +267,16 @@
       "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/l-nutra-issues-allergy-alert-undeclared-tree-nuts-prolon-brand-apulian-almond-cocoa-spread",
       "publishedAt": "2026-08-17",
       "excerpt": "L-Nutra of Culver City, California is recalling Prolon brand Apulian Almond & Cocoa Spread because it contains undeclared cashew, pistachio, and hazelnut. People who have an allergy or severe sensitivity to cashew, pistachio, and/or hazelnut run the risk of serious or life-threatening allergic react",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-medwatch",
+      "siteName": "MedWatch Safety Alerts",
+      "region": "US",
+      "title": "Intraosseous Needle Set Recall: Becton Dickinson Removes Certain Intraosseous Vascular Access System Needle Sets",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/intraosseous-needle-set-recall-becton-dickinson-removes-certain-intraosseous-vascular-access-system",
+      "publishedAt": "2026-08-17",
+      "excerpt": "BD is recalling certain BD Intraosseous Vascular Access System Needle Sets due to difficulty removing the obturator (stylet) following placement.",
       "sourceType": "rss"
     },
     {
