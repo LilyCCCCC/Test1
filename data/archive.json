@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-19T08:00:21.693853+00:00",
-  "count": 2458,
+  "generatedAt": "2026-08-19T08:58:42.437614+00:00",
+  "count": 2466,
   "items": [
     {
       "siteId": "notice-from-tfda",
@@ -13,8 +13,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[採用]事務補助員（医薬品の規格基準作成業務に係る補助業務等（国際業務担当））の募集について",
       "url": "https://www.pmda.go.jp/recruit/0839.html",
@@ -46,6 +46,56 @@
       "siteId": "ema-whats-new",
       "siteName": "What's new",
       "region": "EU",
+      "title": "Template for submission of comments for the Veterinary Dictionary for Drug Regulatory Activities (VeDDRA) standard list for EudraVigilance Veterinary (EVVet)",
+      "url": "https://www.ema.europa.eu/system/files/documents/template-form/veddratemplate-submission-comments-en_1.xlsx",
+      "publishedAt": "2026-08-19",
+      "excerpt": "Template for submission of comments for the Veterinary Dictionary for Drug Regulatory Activities (VeDDRA) standard list for EudraVigilance Veterinary (EVVet)",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Questions and answers on the consultation procedure to the European Medicines Agency by notified bodies on an ancillary medicinal substance or an ancillary human blood derivative incorporated in a medical device",
+      "url": "https://www.ema.europa.eu/system/files/documents/other/ancillary-medicinal-substances-qa-clean-en.pdf",
+      "publishedAt": "2026-08-19",
+      "excerpt": "Questions and answers on the consultation procedure to the European Medicines Agency by notified bodies on an ancillary medicinal substance or an ancillary human blood derivative incorporated in a medical device",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Questions and answers - Practical arrangements on the companion diagnostics consultation procedure to the European Medicines Agency by notified bodies - tracked changes",
+      "url": "https://www.ema.europa.eu/system/files/documents/other/questions-answers-practical-arrangements-companion-diagnostics-consultation-procedure-_tracked-changes-en.pdf",
+      "publishedAt": "2026-08-19",
+      "excerpt": "Questions and answers - Practical arrangements on the companion diagnostics consultation procedure to the European Medicines Agency by notified bodies - tracked changes",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Questions and answers - Practical arrangements on the companion diagnostics consultation procedure to the European Medicines Agency by notified bodies",
+      "url": "https://www.ema.europa.eu/system/files/documents/other/questions-answers-practical-arrangements-companion-diagnostics-consultation-procedure-en_0.pdf",
+      "publishedAt": "2026-08-19",
+      "excerpt": "Questions and answers - Practical arrangements on the companion diagnostics consultation procedure to the European Medicines Agency by notified bodies",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Pre-authorisation guidance under the Veterinary Medicinal Products Regulation (Regulation (EU) 2019/6)",
+      "url": "https://www.ema.europa.eu/en/veterinary-regulatory-overview/marketing-authorisation-veterinary-medicines/pre-authorisation-guidance-under-veterinary-medicinal-products-regulation-regulation-eu-2019-6",
+      "publishedAt": "2026-08-19",
+      "excerpt": "Pre-authorisation guidance under the Veterinary Medicinal Products Regulation (Regulation (EU) 2019/6)",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
       "title": "Marketing authorisation (veterinary medicines)",
       "url": "https://www.ema.europa.eu/en/veterinary-regulatory-overview/marketing-authorisation-veterinary-medicines",
       "publishedAt": "2026-08-19",
@@ -56,10 +106,30 @@
       "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
       "siteName": "Human medicines: EPARs and summaries of opinion",
       "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Xeljanz, tofacitinib, Date of authorisation: 22/03/2017, Revision: 38, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/xeljanz",
+      "publishedAt": "2026-08-19",
+      "excerpt": "Human medicines European public assessment report (EPAR): Xeljanz, tofacitinib, Date of authorisation: 22/03/2017, Revision: 38, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
       "title": "Human medicines European public assessment report (EPAR): Prolia, denosumab, Date of authorisation: 26/05/2010, Revision: 35, Status: Authorised",
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/prolia",
       "publishedAt": "2026-08-19",
       "excerpt": "Human medicines European public assessment report (EPAR): Prolia, denosumab, Date of authorisation: 26/05/2010, Revision: 35, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Inrebic, fedratinib, Date of authorisation: 08/02/2021, Revision: 10, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/inrebic",
+      "publishedAt": "2026-08-19",
+      "excerpt": "Human medicines European public assessment report (EPAR): Inrebic, fedratinib, Date of authorisation: 08/02/2021, Revision: 10, Status: Authorised",
       "sourceType": "rss"
     },
     {
@@ -100,6 +170,26 @@
       "url": "https://www.ema.europa.eu/system/files/documents/regulatory-procedural-guideline/ema-pre-authorisation-procedural-advice-users-centralised-procedure-integrated-vers-en.pdf",
       "publishedAt": "2026-08-19",
       "excerpt": "European Medicines Agency pre-authorisation procedural advice for users of the centralised procedure",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "EMA procedural advice for medicinal products intended exclusively for markets outside the European Union in the context of co-operation with the World Health Organisation (WHO)",
+      "url": "https://www.ema.europa.eu/system/files/documents/regulatory-procedural-guideline/ema-procedural-advice-medicinal-products-intended-exclusively-markets-outside-europe-en.pdf",
+      "publishedAt": "2026-08-19",
+      "excerpt": "EMA procedural advice for medicinal products intended exclusively for markets outside the European Union in the context of co-operation with the World Health Organisation (WHO)",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-regulatory-and-procedural-guidelines",
+      "siteName": "Regulatory and procedural guidelines (human and veterinary)",
+      "region": "EU",
+      "title": "EMA procedural advice for medicinal products intended exclusively for markets outside the European Union in the context of co-operation with the World Health Organisation (WHO)",
+      "url": "https://www.ema.europa.eu/en/documents/regulatory-procedural-guideline/ema-procedural-advice-medicinal-products-intended-exclusively-markets-outside-european-union-context-co-operation-world-health-organisation-who_en.pdf",
+      "publishedAt": "2026-08-19",
+      "excerpt": "EMA procedural advice for medicinal products intended exclusively for markets outside the European Union in the context of co-operation with the World Health Organisation (WHO)",
       "sourceType": "rss"
     },
     {
@@ -723,8 +813,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[調達]一般競争入札公告（海外旅行傷害保険にかかる企業包括契約（再公告））",
       "url": "https://www.pmda.go.jp/procurements/public-bidding/general-competition/1703.html",
@@ -1203,8 +1293,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[調達]オープンカウンター公告（救済関連業務統合システムDX Suite Standard 関連ライセンス等購入一式）",
       "url": "https://www.pmda.go.jp/procurements/public-bidding/open-counter/1661.html",
@@ -1783,8 +1873,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[調達]一般競争入札公告（会計システムの改修業務（旅費規程改正））",
       "url": "https://www.pmda.go.jp/procurements/public-bidding/general-competition/1702.html",
@@ -1813,8 +1903,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[PMDA][イベント]2026年度のPMDAオープン・カンパニー情報（技術系）を更新しました",
       "url": "https://www.pmda.go.jp/about-pmda/symposia/0030.html",
@@ -2823,8 +2913,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[PMDA]業務上使用していたUSBメモリの紛失について（ニュースリリース）[87.2KB]",
       "url": "https://www.pmda.go.jp/about-pmda/news-release/0097.pdf",
@@ -2833,8 +2923,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[PMDA]専門委員名簿を更新しました",
       "url": "https://www.pmda.go.jp/about-pmda/outline/0016.html",
@@ -3093,8 +3183,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[調達]一般競争入札公告（プロジェクターの購入）",
       "url": "https://www.pmda.go.jp/procurements/public-bidding/general-competition/1701.html",
@@ -3103,8 +3193,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[採用]嘱託職員（予防接種副反応報告整理・調査事業担当）の募集について",
       "url": "https://www.pmda.go.jp/recruit/0892.html",
@@ -3553,8 +3643,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[採用]事務補助員（手数料の入金確認・データ管理に関する補助業務等（事務系））の募集について",
       "url": "https://www.pmda.go.jp/recruit/0890.html",
@@ -4413,8 +4503,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[採用]運営評議会（救済業務委員会）専門委員の公募について",
       "url": "https://www.pmda.go.jp/recruit/0742.html",
@@ -5243,8 +5333,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[調達]一般競争入札公告（2026年度（令和8年度）データヘルス改革を見据えた次世代型お薬手帳活用推進事業（患者向医薬品ガイド等閲覧推進事業））",
       "url": "https://www.pmda.go.jp/procurements/public-bidding/general-competition/1699.html",
@@ -6413,8 +6503,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[調達]一般競争入札公告（2026年度国際会議等実用英語研修）",
       "url": "https://www.pmda.go.jp/procurements/public-bidding/general-competition/1698.html",
@@ -8613,8 +8703,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[採用]事務補助員（医薬翻訳事務）の募集について（採用時期を更新しました）",
       "url": "https://www.pmda.go.jp/recruit/0429.html",
@@ -8633,8 +8723,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[PMDA][イベント]令和8年度こども霞が関見学デーに出展します！「いろがかわる！おくすりじっけん」",
       "url": "https://www.pmda.go.jp/about-pmda/symposia/0035.html",
@@ -9560,16 +9650,6 @@
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/xervyteg",
       "publishedAt": "2026-07-16",
       "excerpt": "Human medicines European public assessment report (EPAR): Xervyteg, Allogeneic faecal microbiota, pooled, Status: Opinion",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
-      "siteName": "Human medicines: EPARs and summaries of opinion",
-      "region": "EU",
-      "title": "Human medicines European public assessment report (EPAR): Xeljanz, tofacitinib, Date of authorisation: 22/03/2017, Revision: 37, Status: Authorised",
-      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/xeljanz",
-      "publishedAt": "2026-07-16",
-      "excerpt": "Human medicines European public assessment report (EPAR): Xeljanz, tofacitinib, Date of authorisation: 22/03/2017, Revision: 37, Status: Authorised",
       "sourceType": "rss"
     },
     {
