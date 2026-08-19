@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T05:52:25.121519+00:00",
+  "generatedAt": "2026-08-19T07:11:39.298989+00:00",
   "count": 2453,
   "errors": [
     {
@@ -14,7 +14,12 @@
     },
     {
       "groupId": "pmda",
-      "siteId": "international-activities",
+      "siteId": "PMDAの新着情報",
+      "error": "RSS fetch failed - keeping archived data"
+    },
+    {
+      "groupId": "pmda",
+      "siteId": "PMDA：トップ 安全対策",
       "error": "RSS fetch failed - keeping archived data"
     },
     {
