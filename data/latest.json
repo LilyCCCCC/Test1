@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T14:58:03.724667+00:00",
+  "generatedAt": "2026-08-21T15:52:51.873604+00:00",
   "count": 2574,
   "errors": [
     {
@@ -10,11 +10,6 @@
     {
       "groupId": "pmda",
       "siteId": "services-for-healtheffects",
-      "error": "RSS fetch failed - keeping archived data"
-    },
-    {
-      "groupId": "pmda",
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
       "error": "RSS fetch failed - keeping archived data"
     },
     {
@@ -762,6 +757,26 @@
       "url": "http://www.fda.gov/drugs/drug-safety-and-availability/drug-alerts-and-statements",
       "publishedAt": "2026-08-21",
       "excerpt": "See updates from CDER on fast-moving issues and learn about CDER's work to enhance public health",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Considerations for Potential Future Therapeutic Use of Psychedelic Drugs Public Hearing - 09/14/2026",
+      "url": "http://www.fda.gov/news-events/fda-meetings-conferences-and-workshops/considerations-potential-future-therapeutic-use-psychedelic-drugs-public-hearing-09142026",
+      "publishedAt": "2026-08-21",
+      "excerpt": "The Food and Drug Administration is announcing a public hearing on the potential future therapeutic use of psychedelic drugs.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Biosimilar and Interchangeable Biosimilar Products: Considerations for Container Closure Systems and Device Constituent Parts",
+      "url": "http://www.fda.gov/regulatory-information/search-fda-guidance-documents/biosimilar-and-interchangeable-biosimilar-products-considerations-container-closure-systems-and",
+      "publishedAt": "2026-08-21",
+      "excerpt": "Biosimilar and Interchangeable Biosimilar Products: Considerations for Container Closure Systems and Device Constituent Parts",
       "sourceType": "rss"
     },
     {
@@ -6262,16 +6277,6 @@
       "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/boticelli-foods-recalls-bettergoods-pistachio-nut-butter-because-possible-health-risk",
       "publishedAt": "2026-08-03",
       "excerpt": "Boticelli Foods of Melville NY, is recalling 1 lot of bettergoods Pistachio Nut Butter, NET WT 6.7oz (190g), UPC 194346207961, Lot LB028ACP04, because it has the potential to be contaminated with Salmonella, an organism which can cause serious and sometimes fatal infections in young children, frail",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "Biosimilar and Interchangeable Biosimilar Products: Considerations for Container Closure Systems and Device Constituent Parts",
-      "url": "http://www.fda.gov/regulatory-information/search-fda-guidance-documents/biosimilar-and-interchangeable-biosimilar-products-considerations-container-closure-systems-and",
-      "publishedAt": "2026-08-03",
-      "excerpt": "Biosimilar and Interchangeable Biosimilar Products: Considerations for Container Closure Systems and Device Constituent Parts",
       "sourceType": "rss"
     },
     {
@@ -13262,16 +13267,6 @@
       "url": "http://www.fda.gov/about-fda/cosmetics-cleaners-international-llc",
       "publishedAt": "2026-07-13",
       "excerpt": "Cosmetics & Cleaners International LLC, High Point, NC, 3/26/26, 3009878984",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "Considerations for Potential Future Therapeutic Use of Psychedelic Drugs Public Hearing - 09/14/2026",
-      "url": "http://www.fda.gov/news-events/fda-meetings-conferences-and-workshops/considerations-potential-future-therapeutic-use-psychedelic-drugs-public-hearing-09142026",
-      "publishedAt": "2026-07-13",
-      "excerpt": "The Food and Drug Administration is announcing a public hearing on the potential future therapeutic use of psychedelic drugs.",
       "sourceType": "rss"
     },
     {
