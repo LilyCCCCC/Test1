@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-21T11:47:41.142552+00:00",
-  "count": 2532,
+  "generatedAt": "2026-08-21T13:16:13.788412+00:00",
+  "count": 2571,
   "items": [
     {
       "siteId": "notice-from-tfda",
@@ -63,6 +63,26 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "What's New Related to Drugs",
+      "url": "http://www.fda.gov/drugs/news-events-human-drugs/whats-new-related-drugs",
+      "publishedAt": "2026-08-21",
+      "excerpt": "Want to know what's new on drugs from FDA? This page provides quick links to the latest on a variety of topics including: drug approvals, safety warnings, drug shortages, etc.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Upcoming Product-Specific Guidances for Generic Drug Product Development",
+      "url": "http://www.fda.gov/drugs/guidances-drugs/upcoming-product-specific-guidances-generic-drug-product-development",
+      "publishedAt": "2026-08-21",
+      "excerpt": "Information related to upcoming new and revised product-specific guidances (PSGs) to support the development and approval of safe and effective complex generic drug products.",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "ema-whats-new",
       "siteName": "What's new",
       "region": "EU",
@@ -70,6 +90,106 @@
       "url": "https://www.ema.europa.eu/system/files/documents/report/llfg-report-sustainability_en.pdf",
       "publishedAt": "2026-08-21",
       "excerpt": "Report - Quality Innovation Group (QIG): Listen and learn focus group meeting on sustainability",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "PSUSA/00000633/202504",
+      "url": "https://www.ema.europa.eu/en/medicines/psusa/psusa-00000633-202504",
+      "publishedAt": "2026-08-21",
+      "excerpt": "PSUSA/00000633/202504",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-orphan-designations",
+      "siteName": "Orphan designations",
+      "region": "EU",
+      "title": "Orphan designation: ziftomenib Treatment of acute myeloid leukaemia, 12/01/2024 Positive",
+      "url": "https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-23-2881",
+      "publishedAt": "2026-08-21",
+      "excerpt": "Orphan designation: ziftomenib Treatment of acute myeloid leukaemia, 12/01/2024 Positive",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-orphan-designations",
+      "siteName": "Orphan designations",
+      "region": "EU",
+      "title": "Orphan designation: setanaxib Treatment of primary biliary cholangitis, 06/01/2021 Positive",
+      "url": "https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-20-2387",
+      "publishedAt": "2026-08-21",
+      "excerpt": "Orphan designation: setanaxib Treatment of primary biliary cholangitis, 06/01/2021 Positive",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-orphan-designations",
+      "siteName": "Orphan designations",
+      "region": "EU",
+      "title": "Orphan designation: setanaxib Treatment of Alport syndrome, 08/11/2023 Positive",
+      "url": "https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-23-2850",
+      "publishedAt": "2026-08-21",
+      "excerpt": "Orphan designation: setanaxib Treatment of Alport syndrome, 08/11/2023 Positive",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-orphan-designations",
+      "siteName": "Orphan designations",
+      "region": "EU",
+      "title": "Orphan designation: serdexmethylphenidate Treatment of idiopathic hypersomnia, 24/05/2024 Withdrawn",
+      "url": "https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-24-2915",
+      "publishedAt": "2026-08-21",
+      "excerpt": "Orphan designation: serdexmethylphenidate Treatment of idiopathic hypersomnia, 24/05/2024 Withdrawn",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-orphan-designations",
+      "siteName": "Orphan designations",
+      "region": "EU",
+      "title": "Orphan designation: milademetan tosilate monohydrate Treatment of soft tissue sarcoma, 20/03/2017 Withdrawn",
+      "url": "https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-17-1847",
+      "publishedAt": "2026-08-21",
+      "excerpt": "Orphan designation: milademetan tosilate monohydrate Treatment of soft tissue sarcoma, 20/03/2017 Withdrawn",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-orphan-designations",
+      "siteName": "Orphan designations",
+      "region": "EU",
+      "title": "Orphan designation: human anti-promyostatin monoclonal antibody (apitegromab) Treatment of spinal muscular atrophy, 14/12/2018 Positive",
+      "url": "https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-18-2115",
+      "publishedAt": "2026-08-21",
+      "excerpt": "Orphan designation: human anti-promyostatin monoclonal antibody (apitegromab) Treatment of spinal muscular atrophy, 14/12/2018 Positive",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-orphan-designations",
+      "siteName": "Orphan designations",
+      "region": "EU",
+      "title": "Orphan designation: human MHC non-restricted cytotoxic T-cell line Treatment of ovarian cancer, 30/11/2009 Withdrawn",
+      "url": "https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-09-696",
+      "publishedAt": "2026-08-21",
+      "excerpt": "Orphan designation: human MHC non-restricted cytotoxic T-cell line Treatment of ovarian cancer, 30/11/2009 Withdrawn",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-orphan-designations",
+      "siteName": "Orphan designations",
+      "region": "EU",
+      "title": "Orphan designation: human IgG1 monoclonal antibody against hepatitis B virus, surface antigen Treatment of hepatitis D virus infection, 28/06/2024 Positive",
+      "url": "https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-24-2933",
+      "publishedAt": "2026-08-21",
+      "excerpt": "Orphan designation: human IgG1 monoclonal antibody against hepatitis B virus, surface antigen Treatment of hepatitis D virus infection, 28/06/2024 Positive",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-orphan-designations",
+      "siteName": "Orphan designations",
+      "region": "EU",
+      "title": "Orphan designation: guanabenz acetate Treatment of vanishing white matter disease, 20/03/2023 Positive",
+      "url": "https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-23-2764",
+      "publishedAt": "2026-08-21",
+      "excerpt": "Orphan designation: guanabenz acetate Treatment of vanishing white matter disease, 20/03/2023 Positive",
       "sourceType": "rss"
     },
     {
@@ -90,6 +210,216 @@
       "url": "https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-20-2268",
       "publishedAt": "2026-08-21",
       "excerpt": "Orphan designation: florbetaben (18F) Diagnosis of AL amyloidosis, 22/04/2020 Positive",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-orphan-designations",
+      "siteName": "Orphan designations",
+      "region": "EU",
+      "title": "Orphan designation: edaravone Treatment of amyotrophic lateral sclerosis, 19/06/2015 Positive",
+      "url": "https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-15-1510",
+      "publishedAt": "2026-08-21",
+      "excerpt": "Orphan designation: edaravone Treatment of amyotrophic lateral sclerosis, 19/06/2015 Positive",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-orphan-designations",
+      "siteName": "Orphan designations",
+      "region": "EU",
+      "title": "Orphan designation: daraxonrasib Treatment of pancreatic cancer, 20/04/2026 Positive",
+      "url": "https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-26-3227",
+      "publishedAt": "2026-08-21",
+      "excerpt": "Orphan designation: daraxonrasib Treatment of pancreatic cancer, 20/04/2026 Positive",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-orphan-designations",
+      "siteName": "Orphan designations",
+      "region": "EU",
+      "title": "Orphan designation: chenodeoxycholic acid Treatment of inborn errors in primary bile acid synthesis, 16/12/2014 Positive",
+      "url": "https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-14-1406",
+      "publishedAt": "2026-08-21",
+      "excerpt": "Orphan designation: chenodeoxycholic acid Treatment of inborn errors in primary bile acid synthesis, 16/12/2014 Positive",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-orphan-designations",
+      "siteName": "Orphan designations",
+      "region": "EU",
+      "title": "Orphan designation: carbetocin Treatment of Prader-Willi syndrome, 21/03/2012 Withdrawn",
+      "url": "https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-12-975",
+      "publishedAt": "2026-08-21",
+      "excerpt": "Orphan designation: carbetocin Treatment of Prader-Willi syndrome, 21/03/2012 Withdrawn",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-orphan-designations",
+      "siteName": "Orphan designations",
+      "region": "EU",
+      "title": "Orphan designation: amatuximab Treatment of malignant mesothelioma, 16/01/2014 Withdrawn",
+      "url": "https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-13-1222",
+      "publishedAt": "2026-08-21",
+      "excerpt": "Orphan designation: amatuximab Treatment of malignant mesothelioma, 16/01/2014 Withdrawn",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-orphan-designations",
+      "siteName": "Orphan designations",
+      "region": "EU",
+      "title": "Orphan designation: adeno-associated virus vector serotype 1 containing the human GRN gene Treatment of frontotemporal dementia, 19/07/2021 Withdrawn",
+      "url": "https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-21-2478",
+      "publishedAt": "2026-08-21",
+      "excerpt": "Orphan designation: adeno-associated virus vector serotype 1 containing the human GRN gene Treatment of frontotemporal dementia, 19/07/2021 Withdrawn",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-orphan-designations",
+      "siteName": "Orphan designations",
+      "region": "EU",
+      "title": "Orphan designation: adeno-associated viral vector serotype 2 containing the human CHM gene encoding human Rab escort protein 1 Treatment of choroideraemia, 04/06/2014 Positive",
+      "url": "https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-14-1278",
+      "publishedAt": "2026-08-21",
+      "excerpt": "Orphan designation: adeno-associated viral vector serotype 2 containing the human CHM gene encoding human Rab escort protein 1 Treatment of choroideraemia, 04/06/2014 Positive",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-orphan-designations",
+      "siteName": "Orphan designations",
+      "region": "EU",
+      "title": "Orphan designation: Treatment of Leber’s hereditary optic neuropathy, 14/01/2022 Positive",
+      "url": "https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-21-2571",
+      "publishedAt": "2026-08-21",
+      "excerpt": "Orphan designation: Treatment of Leber’s hereditary optic neuropathy, 14/01/2022 Positive",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-orphan-designations",
+      "siteName": "Orphan designations",
+      "region": "EU",
+      "title": "Orphan designation: N-{2-[(6-{[(2,6-dichloro-3,5-dimethoxyphenyl)carbamoyl](methyl)amino}pyrimidin-4-yl)amino]-5-(4-ethylpiperazin-1-yl)phenyl}prop-2-enamide Treatment of hepatocellular carcinoma, 23/08/2017 Withdrawn",
+      "url": "https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-17-1902",
+      "publishedAt": "2026-08-21",
+      "excerpt": "Orphan designation: N-{2-[(6-{[(2,6-dichloro-3,5-dimethoxyphenyl)carbamoyl](methyl)amino}pyrimidin-4-yl)amino]-5-(4-ethylpiperazin-1-yl)phenyl}prop-2-enamide Treatment of hepatocellular carcinoma, 23/08/2017 Withdrawn",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-orphan-designations",
+      "siteName": "Orphan designations",
+      "region": "EU",
+      "title": "Orphan designation: N-Hydroxy-4-(3-methyl-2-(S)-phenyl-butyrylamino) benzamide Treatment of schwannoma, 06/06/2012 Withdrawn",
+      "url": "https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-12-997",
+      "publishedAt": "2026-08-21",
+      "excerpt": "Orphan designation: N-Hydroxy-4-(3-methyl-2-(S)-phenyl-butyrylamino) benzamide Treatment of schwannoma, 06/06/2012 Withdrawn",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-orphan-designations",
+      "siteName": "Orphan designations",
+      "region": "EU",
+      "title": "Orphan designation: N-Hydroxy-4-(3-methyl-2-(S)-phenyl-butyrylamino) benzamide Treatment of meningioma, 06/06/2012 Withdrawn",
+      "url": "https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-12-996",
+      "publishedAt": "2026-08-21",
+      "excerpt": "Orphan designation: N-Hydroxy-4-(3-methyl-2-(S)-phenyl-butyrylamino) benzamide Treatment of meningioma, 06/06/2012 Withdrawn",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Orphan designation: Letermovir Treatment of cytomegalovirus disease in patients with impaired cell-mediated immunity, 06/06/2012 Withdrawn",
+      "url": "https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-12-999",
+      "publishedAt": "2026-08-21",
+      "excerpt": "Orphan designation: Letermovir Treatment of cytomegalovirus disease in patients with impaired cell-mediated immunity, 06/06/2012 Withdrawn",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-orphan-designations",
+      "siteName": "Orphan designations",
+      "region": "EU",
+      "title": "Orphan designation: Immunoglobulin G1, anti-(human tumour-associated calcium signal transducer 2)(human-Mus musculus monoclonal hRS7 heavy chain), disulfide with human-Mus musculus monoclonal hRS7 κ-chain, dimer, hexakis(thioether) with (4S)-4-[[[[4-[[(2S)-2-(4-aminobutyl)-2-[[2-[2-[[26-[4-[[[[4-[(3-mercapto-2,5-dioxo-1-pyrrolidinyl)methyl]cyclohexyl]carbonyl]amino]methyl]-1H-1,2,3-triazol-1-yl]-3,6,9,12,15,18,21,24-octaoxahexacos-1-yl]amino]-2-oxoethoxy]acetyl]amino]-1-oxoethyl]amino]phenyl]methoxy]carbonyl]oxy]-4,11-diethyl-9-hydroxy-1H-pyrano[3',4':6,7]indolizino[1,2-b]quinoline-3,14(4H,12H)-dione (sacituzumab govitecan) Treatment of pancreatic cancer, 15/10/2014 Withdrawn",
+      "url": "https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-14-1343",
+      "publishedAt": "2026-08-21",
+      "excerpt": "Orphan designation: Immunoglobulin G1, anti-(human tumour-associated calcium signal transducer 2)(human-Mus musculus monoclonal hRS7 heavy chain), disulfide with human-Mus musculus monoclonal hRS7 κ-chain, dimer, hexakis(thioether) with (4S)-4-[[[[4-[[(2S)-2-(4-aminobutyl)-2-[[2-[2-[[26-[4-[[[[4-[(3-mercapto-2,5-dioxo-1-pyrrolidinyl)methyl]cyclohexyl]carbonyl]amino]methyl]-1H-1,2,3-triazol-1-yl]-3,6,9,12,15,18,21,24-octaoxahexacos-1-yl]amino]-2-oxoethoxy]acetyl]amino]-1-oxoethyl]amino]phenyl]met",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-orphan-designations",
+      "siteName": "Orphan designations",
+      "region": "EU",
+      "title": "Orphan designation: Icerguastat acetate Treatment of amyotrophic lateral sclerosis, 16/05/2022 Positive",
+      "url": "https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-22-2618",
+      "publishedAt": "2026-08-21",
+      "excerpt": "Orphan designation: Icerguastat acetate Treatment of amyotrophic lateral sclerosis, 16/05/2022 Positive",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-orphan-designations",
+      "siteName": "Orphan designations",
+      "region": "EU",
+      "title": "Orphan designation: Humanised monoclonal antibody to the folate receptor alpha Treatment of ovarian cancer, 01/04/2008 Withdrawn",
+      "url": "https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-08-535",
+      "publishedAt": "2026-08-21",
+      "excerpt": "Orphan designation: Humanised monoclonal antibody to the folate receptor alpha Treatment of ovarian cancer, 01/04/2008 Withdrawn",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-orphan-designations",
+      "siteName": "Orphan designations",
+      "region": "EU",
+      "title": "Orphan designation: Eculizumab Treatment of Guillain-Barré syndrome, 11/10/2022 Withdrawn",
+      "url": "https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-22-2707",
+      "publishedAt": "2026-08-21",
+      "excerpt": "Orphan designation: Eculizumab Treatment of Guillain-Barré syndrome, 11/10/2022 Withdrawn",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-orphan-designations",
+      "siteName": "Orphan designations",
+      "region": "EU",
+      "title": "Orphan designation: 7-ethyl-10-hydroxy-camptothecin,irinotecan hydrochloride trihydrate Treatment of small cell lung cancer, 24/05/2024 Positive",
+      "url": "https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-24-2923",
+      "publishedAt": "2026-08-21",
+      "excerpt": "Orphan designation: 7-ethyl-10-hydroxy-camptothecin,irinotecan hydrochloride trihydrate Treatment of small cell lung cancer, 24/05/2024 Positive",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-orphan-designations",
+      "siteName": "Orphan designations",
+      "region": "EU",
+      "title": "Orphan designation: 5-fluoro-4-(7'-fluoro-2'-methylspiro[cyclopentane-1,3'-indol]-5'-yl)-N-(5-(1-methylpiperidin-4-yl)pyridin-2-yl)pyrimidin-2-amine,crozbaciclib Treatment of glioma, 26/03/2021 Withdrawn",
+      "url": "https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-21-2416",
+      "publishedAt": "2026-08-21",
+      "excerpt": "Orphan designation: 5-fluoro-4-(7'-fluoro-2'-methylspiro[cyclopentane-1,3'-indol]-5'-yl)-N-(5-(1-methylpiperidin-4-yl)pyridin-2-yl)pyrimidin-2-amine,crozbaciclib Treatment of glioma, 26/03/2021 Withdrawn",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-orphan-designations",
+      "siteName": "Orphan designations",
+      "region": "EU",
+      "title": "Orphan designation: 2-(2-chlorophenyl)-4-[3-(dimethylamino)phenyl]-5-methyl-1H-pyrazolo[4,3-C]pyridine-3,6(2H,5H)-dione Treatment of systemic sclerosis, 09/10/2015 Positive",
+      "url": "https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-15-1559",
+      "publishedAt": "2026-08-21",
+      "excerpt": "Orphan designation: 2-(2-chlorophenyl)-4-[3-(dimethylamino)phenyl]-5-methyl-1H-pyrazolo[4,3-C]pyridine-3,6(2H,5H)-dione Treatment of systemic sclerosis, 09/10/2015 Positive",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-orphan-designations",
+      "siteName": "Orphan designations",
+      "region": "EU",
+      "title": "Orphan designation: 2-(2-chlorophenyl)-4-[3-(dimethylamino)phenyl]-5-methyl-1H-pyrazolo[4,3-C]pyridine-3,6(2H,5H)-dione Treatment of idiopathic pulmonary fibrosis, 26/11/2010 Positive",
+      "url": "https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-10-802",
+      "publishedAt": "2026-08-21",
+      "excerpt": "Orphan designation: 2-(2-chlorophenyl)-4-[3-(dimethylamino)phenyl]-5-methyl-1H-pyrazolo[4,3-C]pyridine-3,6(2H,5H)-dione Treatment of idiopathic pulmonary fibrosis, 26/11/2010 Positive",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-orphan-designations",
+      "siteName": "Orphan designations",
+      "region": "EU",
+      "title": "Orphan designation: 2-(2-Chlorobenzylidene)hydrazinecarboximidamide acetate Treatment of Charcot-Marie-Tooth disease, 14/12/2015 Positive",
+      "url": "https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-15-1598",
+      "publishedAt": "2026-08-21",
+      "excerpt": "Orphan designation: 2-(2-Chlorobenzylidene)hydrazinecarboximidamide acetate Treatment of Charcot-Marie-Tooth disease, 14/12/2015 Positive",
       "sourceType": "rss"
     },
     {
@@ -120,6 +450,26 @@
       "url": "https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-22-2661",
       "publishedAt": "2026-08-21",
       "excerpt": "Orphan designation: 2,4,6,7,8,9-hexahydro-4-((2-methylphenyl)methyl)-7-(phenylmethyl)imidazo(1,2-a)pyrido(3,4-e)pyrimidin-5(1H)-one Treatment of glioma, 18/07/2022 Positive",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-orphan-designations",
+      "siteName": "Orphan designations",
+      "region": "EU",
+      "title": "Orphan designation: (S)-12-fluoro-4-(2-methylpyridin-3-yl)-7a,8,13,14-tetrahydro-7H-[1,2,4]triazolo[4',3':1,6]pyrido[3,2-b]benzofuro[4,3-fg][1,4]oxazonine Treatment of sickle cell disease, 16/03/2022 Withdrawn",
+      "url": "https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-22-2589",
+      "publishedAt": "2026-08-21",
+      "excerpt": "Orphan designation: (S)-12-fluoro-4-(2-methylpyridin-3-yl)-7a,8,13,14-tetrahydro-7H-[1,2,4]triazolo[4',3':1,6]pyrido[3,2-b]benzofuro[4,3-fg][1,4]oxazonine Treatment of sickle cell disease, 16/03/2022 Withdrawn",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Newly Added Guidance Documents",
+      "url": "http://www.fda.gov/drugs/guidances-drugs/newly-added-guidance-documents",
+      "publishedAt": "2026-08-21",
+      "excerpt": "Guidance documents represent the FDA's current thinking on a particular subject. New guidance documents are listed here for three months.",
       "sourceType": "rss"
     },
     {
@@ -156,6 +506,26 @@
       "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
       "siteName": "Human medicines: EPARs and summaries of opinion",
       "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Taltz, ixekizumab, Date of authorisation: 25/04/2016, Revision: 22, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/taltz",
+      "publishedAt": "2026-08-21",
+      "excerpt": "Human medicines European public assessment report (EPAR): Taltz, ixekizumab, Date of authorisation: 25/04/2016, Revision: 22, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Rystiggo, rozanolixizumab, Date of authorisation: 05/01/2024, Revision: 10, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/rystiggo",
+      "publishedAt": "2026-08-21",
+      "excerpt": "Human medicines European public assessment report (EPAR): Rystiggo, rozanolixizumab, Date of authorisation: 05/01/2024, Revision: 10, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
       "title": "Human medicines European public assessment report (EPAR): Oxbryta, voxelotor, Date of authorisation: 14/02/2022, Revision: 7, Status: Suspended",
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/oxbryta",
       "publishedAt": "2026-08-21",
@@ -170,6 +540,36 @@
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/ngenla",
       "publishedAt": "2026-08-21",
       "excerpt": "Human medicines European public assessment report (EPAR): Ngenla, somatrogon, Date of authorisation: 14/02/2022, Revision: 9, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Krazati, adagrasib, Date of authorisation: 05/01/2024, Revision: 4, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/krazati",
+      "publishedAt": "2026-08-21",
+      "excerpt": "Human medicines European public assessment report (EPAR): Krazati, adagrasib, Date of authorisation: 05/01/2024, Revision: 4, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-withdrawn-applications",
+      "siteName": "Withdrawn applications",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Isembyld, apitegromab, Status: Application withdrawn",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/isembyld",
+      "publishedAt": "2026-08-21",
+      "excerpt": "Human medicines European public assessment report (EPAR): Isembyld, apitegromab, Status: Application withdrawn",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Eylea, aflibercept, Date of authorisation: 21/11/2012, Revision: 40, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/eylea",
+      "publishedAt": "2026-08-21",
+      "excerpt": "Human medicines European public assessment report (EPAR): Eylea, aflibercept, Date of authorisation: 21/11/2012, Revision: 40, Status: Authorised",
       "sourceType": "rss"
     },
     {
@@ -193,6 +593,26 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "FDA Publishes New Product-Specific Guidances to Facilitate Generic Drug Development",
+      "url": "http://www.fda.gov/drugs/drug-alerts-and-statements/fda-publishes-new-product-specific-guidances-facilitate-generic-drug-development",
+      "publishedAt": "2026-08-21",
+      "excerpt": "FDA published a new batch of draft product-specific guidances (PSGs) for developing generic drugs and generating evidence for abbreviated new drug applications (ANDAs).",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Evaluation of Therapeutic Equivalence",
+      "url": "http://www.fda.gov/regulatory-information/search-fda-guidance-documents/evaluation-therapeutic-equivalence",
+      "publishedAt": "2026-08-21",
+      "excerpt": "Evaluation of Therapeutic Equivalence",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "ema-whats-new",
       "siteName": "What's new",
       "region": "EU",
@@ -200,6 +620,16 @@
       "url": "https://www.ema.europa.eu/en/events/ema-risk-management-information-day",
       "publishedAt": "2026-08-21",
       "excerpt": "EMA risk management information day, European Medicines Agency, Amsterdam, the Netherlands, from 8 September 2026, 09:00 (CEST) to 8 September 2026, 17:00 (CEST)",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Drug Alerts and Statements",
+      "url": "http://www.fda.gov/drugs/drug-safety-and-availability/drug-alerts-and-statements",
+      "publishedAt": "2026-08-21",
+      "excerpt": "See updates from CDER on fast-moving issues and learn about CDER's work to enhance public health",
       "sourceType": "rss"
     },
     {
@@ -366,10 +796,10 @@
       "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
       "siteName": "Human medicines: EPARs and summaries of opinion",
       "region": "EU",
-      "title": "Human medicines European public assessment report (EPAR): Zolgensma, onasemnogene abeparvovec, Date of authorisation: 18/05/2020, Revision: 22, Status: Authorised",
+      "title": "Human medicines European public assessment report (EPAR): Zolgensma, onasemnogene abeparvovec, Date of authorisation: 18/05/2020, Revision: 23, Status: Authorised",
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/zolgensma",
       "publishedAt": "2026-08-20",
-      "excerpt": "Human medicines European public assessment report (EPAR): Zolgensma, onasemnogene abeparvovec, Date of authorisation: 18/05/2020, Revision: 22, Status: Authorised",
+      "excerpt": "Human medicines European public assessment report (EPAR): Zolgensma, onasemnogene abeparvovec, Date of authorisation: 18/05/2020, Revision: 23, Status: Authorised",
       "sourceType": "rss"
     },
     {
@@ -1176,16 +1606,6 @@
       "siteId": "fda-whats-new-drugs",
       "siteName": "What's New: Drugs",
       "region": "US",
-      "title": "What's New Related to Drugs",
-      "url": "http://www.fda.gov/drugs/news-events-human-drugs/whats-new-related-drugs",
-      "publishedAt": "2026-08-18",
-      "excerpt": "Want to know what's new on drugs from FDA? This page provides quick links to the latest on a variety of topics including: drug approvals, safety warnings, drug shortages, etc.",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
       "title": "Weight Loss Product Notifications",
       "url": "http://www.fda.gov/drugs/medication-health-fraud-notifications/weight-loss-product-notifications",
       "publishedAt": "2026-08-18",
@@ -1780,16 +2200,6 @@
       "url": "https://www.pmda.go.jp/english/safety/info-services/drugs/revision-of-precautions/0014.html",
       "publishedAt": "2026-08-17",
       "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "Newly Added Guidance Documents",
-      "url": "http://www.fda.gov/drugs/guidances-drugs/newly-added-guidance-documents",
-      "publishedAt": "2026-08-17",
-      "excerpt": "Guidance documents represent the FDA's current thinking on a particular subject. New guidance documents are listed here for three months.",
       "sourceType": "rss"
     },
     {
@@ -3463,8 +3873,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Adverse Health Effects Relief (JP)",
       "region": "JP",
       "title": "[健康]健康被害救済業務に関するデータを掲載しました",
       "url": "https://www.pmda.go.jp/relief-services/outline/0001.html",
@@ -5883,8 +6293,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Adverse Health Effects Relief (JP)",
       "region": "JP",
       "title": "[健康]副用救済給付の決定に関する情報（2026年度5月分）を掲載しました",
       "url": "https://www.pmda.go.jp/relief-services/adr-sufferers/0043.html",
@@ -6686,16 +7096,6 @@
       "siteId": "fda-whats-new-drugs",
       "siteName": "What's New: Drugs",
       "region": "US",
-      "title": "Upcoming Product-Specific Guidances for Generic Drug Product Development",
-      "url": "http://www.fda.gov/drugs/guidances-drugs/upcoming-product-specific-guidances-generic-drug-product-development",
-      "publishedAt": "2026-07-28",
-      "excerpt": "Information related to upcoming new and revised product-specific guidances (PSGs) to support the development and approval of safe and effective complex generic drug products.",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
       "title": "Untitled Letters",
       "url": "http://www.fda.gov/drugs/warning-letters-and-notice-violation-letters-pharmaceutical-companies/untitled-letters",
       "publishedAt": "2026-07-28",
@@ -6850,16 +7250,6 @@
       "url": "http://www.fda.gov/drugs/drug-alerts-and-statements/fda-publishes-revised-draft-product-specific-guidances-certain-generic-peptide-products",
       "publishedAt": "2026-07-28",
       "excerpt": "Today, the Food and Drug Administration published 17 revised draft product-specific guidances (PSGs) for peptide products, marking Today, the Food and Drug Administration published 17 revised draft product-specific guidances (PSGs) for peptide products.",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "Drug Alerts and Statements",
-      "url": "http://www.fda.gov/drugs/drug-safety-and-availability/drug-alerts-and-statements",
-      "publishedAt": "2026-07-28",
-      "excerpt": "See updates from CDER on fast-moving issues and learn about CDER's work to enhance public health",
       "sourceType": "rss"
     },
     {
