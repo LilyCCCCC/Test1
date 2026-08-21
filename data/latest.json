@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-21T19:43:12.713638+00:00",
-  "count": 2583,
+  "generatedAt": "2026-08-21T20:45:47.567306+00:00",
+  "count": 2587,
   "errors": [
     {
       "groupId": "ema",
@@ -15,6 +15,11 @@
     {
       "groupId": "pmda",
       "siteId": "PMDA：トップ 安全対策",
+      "error": "RSS fetch failed - keeping archived data"
+    },
+    {
+      "groupId": "pmda",
+      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
       "error": "RSS fetch failed - keeping archived data"
     },
     {
@@ -45,31 +50,31 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 安全対策",
-      "siteName": "Safety Measures (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
-      "title": "[医薬]「副作用が疑われる症例報告に関する情報」に2026年4月分の情報を追加しました",
+      "title": "[安全]「副作用が疑われる症例報告に関する情報」に2026年4月分の情報を追加しました",
       "url": "https://www.pmda.go.jp/safety/info-services/drugs/adr-info/suspected-adr/0005.html",
       "publishedAt": "2026-08-21",
       "excerpt": "",
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 安全対策",
-      "siteName": "Safety Measures (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
-      "title": "[医薬]「2025年度くすり相談の受付状況」を掲載しました",
-      "url": "https://www.pmda.go.jp/safety/consultation-for-patients/on-drugs/state/0001.html",
+      "title": "[安全]「2025年度医療機器相談の受付状況」を掲載しました",
+      "url": "https://www.pmda.go.jp/safety/consultation-for-patients/on-devices/state/0001.html",
       "publishedAt": "2026-08-21",
       "excerpt": "",
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 安全対策",
-      "siteName": "Safety Measures (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
-      "title": "[医療]「2025年度医療機器相談の受付状況」を掲載しました",
-      "url": "https://www.pmda.go.jp/safety/consultation-for-patients/on-devices/state/0001.html",
+      "title": "[安全]「2025年度くすり相談の受付状況」を掲載しました",
+      "url": "https://www.pmda.go.jp/safety/consultation-for-patients/on-drugs/state/0001.html",
       "publishedAt": "2026-08-21",
       "excerpt": "",
       "sourceType": "rss"
@@ -838,10 +843,30 @@
       "siteId": "fda-medwatch",
       "siteName": "MedWatch Safety Alerts",
       "region": "US",
+      "title": "Early Alert: Portrait Core Services Software Issue from GE HealthCare",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-portrait-core-services-software-issue-ge-healthcare",
+      "publishedAt": "2026-08-21",
+      "excerpt": "Patients monitored on Portrait Mobile devices can be discharged (removed) from the Portrait monitoring system during an update to the Portrait Core Services software.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-medwatch",
+      "siteName": "MedWatch Safety Alerts",
+      "region": "US",
       "title": "Early Alert: Epidural Kit Issue from Medical Action Industries",
       "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-epidural-kit-issue-medical-action-industries",
       "publishedAt": "2026-08-21",
       "excerpt": "Medical Action Industries is correcting epidural kits containing recalled Huons Co. sodium chloride ampules.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-medwatch",
+      "siteName": "MedWatch Safety Alerts",
+      "region": "US",
+      "title": "Early Alert: Breathing Circuit Issue from Medline",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-breathing-circuit-issue-medline",
+      "publishedAt": "2026-08-21",
+      "excerpt": "Medline is recalling certain neonatal and infant heated wire breathing circuits due to failures involving the electrical connector.",
       "sourceType": "rss"
     },
     {
@@ -888,6 +913,16 @@
       "siteId": "fda-whats-new-drugs",
       "siteName": "What's New: Drugs",
       "region": "US",
+      "title": "Compounding and the FDA: Questions and Answers",
+      "url": "http://www.fda.gov/drugs/human-drug-compounding/compounding-and-fda-questions-and-answers",
+      "publishedAt": "2026-08-21",
+      "excerpt": "Creating a medication tailored to the needs of an individual patient. FDA answers the “what” and “why” of compounding. From consumers to health care professionals, there are many questions about compounding. FDA works to answer questions related to the meaning, intent and requirements of compounding",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
       "title": "Compounding Information for States",
       "url": "http://www.fda.gov/drugs/human-drug-compounding/compounding-information-states",
       "publishedAt": "2026-08-21",
@@ -922,6 +957,16 @@
       "url": "http://www.fda.gov/drugs/generic-drugs/approvals-reports",
       "publishedAt": "2026-08-21",
       "excerpt": "FDA publishes a list of first-time approvals to manufacture generic drugs and a variety of reports on generic drug application reviews.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "40th Anniversary of the Generic Drug Approval Pathway",
+      "url": "http://www.fda.gov/drugs/cder-conversations/40th-anniversary-generic-drug-approval-pathway",
+      "publishedAt": "2026-08-21",
+      "excerpt": "In this CDER Conversation, Darby Kozak, PhD, deputy director for CDER’s Office of Generic Drugs, talks about the impact of the Hatch-Waxman Amendments on the generic drug industry, FDA’s work, and patients and consumers.",
       "sourceType": "rss"
     },
     {
@@ -1305,10 +1350,10 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 安全対策",
-      "siteName": "Safety Measures (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
-      "title": "[医薬]添付文書改訂相談に基づく添付文書改訂（医薬品）を掲載しました",
+      "title": "[安全]添付文書改訂相談に基づく添付文書改訂（医薬品）を掲載しました",
       "url": "https://www.pmda.go.jp/safety/info-services/drugs/calling-attention/revision-based-on-the-consultation/0001.html",
       "publishedAt": "2026-08-19",
       "excerpt": "",
@@ -2395,20 +2440,20 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 安全対策",
-      "siteName": "Safety Measures (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
-      "title": "[医薬]［MID-NET］MID-NETの利活用状況を更新しました",
+      "title": "[安全]［MID-NET］MID-NETの利活用状況を更新しました",
       "url": "https://www.pmda.go.jp/safety/mid-net/0010.html",
       "publishedAt": "2026-08-17",
       "excerpt": "",
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 安全対策",
-      "siteName": "Safety Measures (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
-      "title": "[医薬]使用上の注意の改訂指示通知（医薬品）2026年08月17日付（厚生労働省より発出）を掲載しました",
+      "title": "[安全]使用上の注意の改訂指示通知（医薬品）2026年08月17日付（厚生労働省より発出）を掲載しました",
       "url": "https://www.pmda.go.jp/safety/info-services/drugs/calling-attention/revision-of-precautions/0375.html",
       "publishedAt": "2026-08-17",
       "excerpt": "",
@@ -2875,8 +2920,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[RS]2025年度レギュラトリーサイエンス活動報告書（日本語版 PDF）を掲載しました。",
       "url": "https://www.pmda.go.jp/rs-std-jp/outline/0001.html",
@@ -3435,21 +3480,21 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 安全対策",
-      "siteName": "Safety Measures (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
-      "title": "[医薬]クラスI回収 該当回収品目　新鮮凍結血漿-LR「日赤」240、照射濃厚血小板-LRBS「日赤」",
-      "url": "https://www.pmda.go.jp/safety/info-services/drugs/calling-attention/recall-info/0002.html",
+      "title": "[安全]医薬品・医療機器等安全性情報 No.431（厚生労働省発行）を掲載しました",
+      "url": "https://www.pmda.go.jp/safety/info-services/drugs/calling-attention/safety-info/0166.html",
       "publishedAt": "2026-08-12",
       "excerpt": "",
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 安全対策",
-      "siteName": "Safety Measures (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
-      "title": "[全製品]医薬品・医療機器等安全性情報 No.431（厚生労働省発行）を掲載しました",
-      "url": "https://www.pmda.go.jp/safety/info-services/drugs/calling-attention/safety-info/0166.html",
+      "title": "[安全]クラスI回収 該当回収品目　新鮮凍結血漿-LR「日赤」240、照射濃厚血小板-LRBS「日赤」",
+      "url": "https://www.pmda.go.jp/safety/info-services/drugs/calling-attention/recall-info/0002.html",
       "publishedAt": "2026-08-12",
       "excerpt": "",
       "sourceType": "rss"
@@ -4125,8 +4170,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Adverse Health Effects Relief (JP)",
       "region": "JP",
       "title": "[健康]健康被害救済業務に関するデータを掲載しました",
       "url": "https://www.pmda.go.jp/relief-services/outline/0001.html",
@@ -4425,8 +4470,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[基準]後発医薬品開発における健康成人を対象とした生物学的同等性試験の安全性確保策に関する考え方（Early Consideration）を掲載しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/guidance-guideline/0003.html",
@@ -4435,8 +4480,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[その他]第51回科学委員会の議事概要を掲載しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/science-committee/0059.html",
@@ -5995,11 +6040,21 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 安全対策",
-      "siteName": "Safety Measures (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
-      "title": "[医薬]［MID-NET］MID-NETの利活用に関する有識者会議の情報を更新しました",
+      "title": "[安全]［MID-NET］MID-NETの利活用に関する有識者会議の情報を更新しました",
       "url": "https://www.pmda.go.jp/safety/mid-net/0011.html",
+      "publishedAt": "2026-08-03",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
+      "region": "JP",
+      "title": "[安全][MID-NET]利活用ガイドライン、事務処理手続通知を改正しました",
+      "url": "https://www.pmda.go.jp/safety/mid-net/0016.html",
       "publishedAt": "2026-08-03",
       "excerpt": "",
       "sourceType": "rss"
@@ -6010,16 +6065,6 @@
       "region": "JP",
       "title": "[医薬]「バイオ後続品」のページを更新しました",
       "url": "https://www.pmda.go.jp/review-services/drug-reviews/about-reviews/p-drugs/0034.html",
-      "publishedAt": "2026-08-03",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "PMDA：トップ 安全対策",
-      "siteName": "Safety Measures (JP)",
-      "region": "JP",
-      "title": "[医薬][MID-NET]利活用ガイドライン、事務処理手続通知を改正しました",
-      "url": "https://www.pmda.go.jp/safety/mid-net/0016.html",
       "publishedAt": "2026-08-03",
       "excerpt": "",
       "sourceType": "rss"
@@ -6465,6 +6510,16 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
+      "region": "JP",
+      "title": "[安全]「高齢者におけるポリファーマシー対策の普及啓発資材について」を掲載しました",
+      "url": "https://www.pmda.go.jp/safety/info-services/drugs/0010.html",
+      "publishedAt": "2026-07-31",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "PMDA：トップ 承認審査",
       "siteName": "Review for (marketing) approval (JP)",
       "region": "JP",
@@ -6485,16 +6540,6 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 安全対策",
-      "siteName": "Safety Measures (JP)",
-      "region": "JP",
-      "title": "[医薬]「高齢者におけるポリファーマシー対策の普及啓発資材について」を掲載しました",
-      "url": "https://www.pmda.go.jp/safety/info-services/drugs/0010.html",
-      "publishedAt": "2026-07-31",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
       "siteId": "PMDA：トップ 承認審査",
       "siteName": "Review for (marketing) approval (JP)",
       "region": "JP",
@@ -6505,8 +6550,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Adverse Health Effects Relief (JP)",
       "region": "JP",
       "title": "[健康]副用救済給付の決定に関する情報（2026年度5月分）を掲載しました",
       "url": "https://www.pmda.go.jp/relief-services/adr-sufferers/0043.html",
@@ -7945,8 +7990,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[RS][イベント]第12回PMDAレギュラトリーサイエンス研究会の開催について掲載しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/symposia/0034.html",
@@ -8955,21 +9000,21 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 安全対策",
-      "siteName": "Safety Measures (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
-      "title": "[医薬]「不具合が疑われる症例報告に関する情報（コンビネーション製品）」に2026年3月分の情報を追加しました",
-      "url": "https://www.pmda.go.jp/safety/info-services/drugs/adr-info/malfunctions-combination-drugs/0001.html",
+      "title": "[安全]「不具合が疑われる症例報告に関する情報（医療機器）」に2026年3月分の情報を追加しました",
+      "url": "https://www.pmda.go.jp/safety/info-services/devices/0090.html",
       "publishedAt": "2026-07-22",
       "excerpt": "",
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 安全対策",
-      "siteName": "Safety Measures (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
-      "title": "[医療]「不具合が疑われる症例報告に関する情報（医療機器）」に2026年3月分の情報を追加しました",
-      "url": "https://www.pmda.go.jp/safety/info-services/devices/0090.html",
+      "title": "[安全]「不具合が疑われる症例報告に関する情報（コンビネーション製品）」に2026年3月分の情報を追加しました",
+      "url": "https://www.pmda.go.jp/safety/info-services/drugs/adr-info/malfunctions-combination-drugs/0001.html",
       "publishedAt": "2026-07-22",
       "excerpt": "",
       "sourceType": "rss"
@@ -22835,8 +22880,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 安全対策",
-      "siteName": "Safety Measures (JP)",
+      "siteId": "PMDA：トップ 承認審査",
+      "siteName": "Review for (marketing) approval (JP)",
       "region": "JP",
       "title": "[安全][医療]「医療機器添付文書改訂相談」のページを掲載しました",
       "url": "https://www.pmda.go.jp/review-services/f2f-pre/consultations/0122.html",
@@ -23075,8 +23120,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 安全対策",
-      "siteName": "Safety Measures (JP)",
+      "siteId": "PMDA：トップ 承認審査",
+      "siteName": "Review for (marketing) approval (JP)",
       "region": "JP",
       "title": "[審査][安全][イベント]PMDAシンポジウム「生成AIの医療活用の最前線」の開催について（資料掲載）",
       "url": "https://www.pmda.go.jp/review-services/symposia/0198.html",
@@ -23085,8 +23130,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 安全対策",
-      "siteName": "Safety Measures (JP)",
+      "siteId": "PMDA：トップ 承認審査",
+      "siteName": "Review for (marketing) approval (JP)",
       "region": "JP",
       "title": "[審査][安全][イベント]PMDAシンポジウム「リアルワールドデータを活用した医療機器開発」の開催について（資料掲載）",
       "url": "https://www.pmda.go.jp/review-services/symposia/0199.html",
