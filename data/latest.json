@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-21T09:03:50.052530+00:00",
-  "count": 2525,
+  "generatedAt": "2026-08-21T09:56:46.167739+00:00",
+  "count": 2532,
   "errors": [
     {
       "groupId": "ema",
@@ -10,6 +10,11 @@
     {
       "groupId": "pmda",
       "siteId": "services-for-healtheffects",
+      "error": "RSS fetch failed - keeping archived data"
+    },
+    {
+      "groupId": "pmda",
+      "siteId": "PMDA：トップ 安全対策",
       "error": "RSS fetch failed - keeping archived data"
     },
     {
@@ -90,6 +95,66 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Report - Quality Innovation Group (QIG): Listen and learn focus group meeting on sustainability",
+      "url": "https://www.ema.europa.eu/system/files/documents/report/llfg-report-sustainability_en.pdf",
+      "publishedAt": "2026-08-21",
+      "excerpt": "Report - Quality Innovation Group (QIG): Listen and learn focus group meeting on sustainability",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-orphan-designations",
+      "siteName": "Orphan designations",
+      "region": "EU",
+      "title": "Orphan designation: florbetaben (18F) Diagnosis of ATTR amyloidosis, 22/05/2025 Positive",
+      "url": "https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-25-3055",
+      "publishedAt": "2026-08-21",
+      "excerpt": "Orphan designation: florbetaben (18F) Diagnosis of ATTR amyloidosis, 22/05/2025 Positive",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-orphan-designations",
+      "siteName": "Orphan designations",
+      "region": "EU",
+      "title": "Orphan designation: florbetaben (18F) Diagnosis of AL amyloidosis, 22/04/2020 Positive",
+      "url": "https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-20-2268",
+      "publishedAt": "2026-08-21",
+      "excerpt": "Orphan designation: florbetaben (18F) Diagnosis of AL amyloidosis, 22/04/2020 Positive",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-orphan-designations",
+      "siteName": "Orphan designations",
+      "region": "EU",
+      "title": "Orphan designation: 2-(2-(18F)fluoropyridin-4-yl)-9H-pyrrolo[2,3-b:4,5-c']dipyridine Diagnosis of progressive supranuclear palsy, 21/08/2020 Positive",
+      "url": "https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-20-2313",
+      "publishedAt": "2026-08-21",
+      "excerpt": "Orphan designation: 2-(2-(18F)fluoropyridin-4-yl)-9H-pyrrolo[2,3-b:4,5-c']dipyridine Diagnosis of progressive supranuclear palsy, 21/08/2020 Positive",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-orphan-designations",
+      "siteName": "Orphan designations",
+      "region": "EU",
+      "title": "Orphan designation: 2-(2-(18F)fluoropyridin-4-yl)-9H-pyrrolo[2,3-b:4,5-c']dipyridine Diagnosis of corticobasal degeneration, 19/10/2020 Positive",
+      "url": "https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-20-2340",
+      "publishedAt": "2026-08-21",
+      "excerpt": "Orphan designation: 2-(2-(18F)fluoropyridin-4-yl)-9H-pyrrolo[2,3-b:4,5-c']dipyridine Diagnosis of corticobasal degeneration, 19/10/2020 Positive",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-orphan-designations",
+      "siteName": "Orphan designations",
+      "region": "EU",
+      "title": "Orphan designation: 2,4,6,7,8,9-hexahydro-4-((2-methylphenyl)methyl)-7-(phenylmethyl)imidazo(1,2-a)pyrido(3,4-e)pyrimidin-5(1H)-one Treatment of glioma, 18/07/2022 Positive",
+      "url": "https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-22-2661",
+      "publishedAt": "2026-08-21",
+      "excerpt": "Orphan designation: 2,4,6,7,8,9-hexahydro-4-((2-methylphenyl)methyl)-7-(phenylmethyl)imidazo(1,2-a)pyrido(3,4-e)pyrimidin-5(1H)-one Treatment of glioma, 18/07/2022 Positive",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
       "siteName": "Human medicines: EPARs and summaries of opinion",
       "region": "EU",
@@ -97,6 +162,16 @@
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/zilbrysq",
       "publishedAt": "2026-08-21",
       "excerpt": "Human medicines European public assessment report (EPAR): Zilbrysq, zilucoplan, Date of authorisation: 01/12/2023, Revision: 5, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Vabysmo, faricimab, Date of authorisation: 15/09/2022, Revision: 10, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/vabysmo",
+      "publishedAt": "2026-08-21",
+      "excerpt": "Human medicines European public assessment report (EPAR): Vabysmo, faricimab, Date of authorisation: 15/09/2022, Revision: 10, Status: Authorised",
       "sourceType": "rss"
     },
     {
@@ -123,6 +198,16 @@
       "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
       "siteName": "Human medicines: EPARs and summaries of opinion",
       "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Ngenla, somatrogon, Date of authorisation: 14/02/2022, Revision: 9, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/ngenla",
+      "publishedAt": "2026-08-21",
+      "excerpt": "Human medicines European public assessment report (EPAR): Ngenla, somatrogon, Date of authorisation: 14/02/2022, Revision: 9, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
       "title": "Human medicines European public assessment report (EPAR): Artesunate Amivas, artesunate, Date of authorisation: 22/11/2021, Revision: 8, Status: Authorised",
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/artesunate-amivas",
       "publishedAt": "2026-08-21",
@@ -130,8 +215,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "ema-whats-new",
-      "siteName": "What's new",
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
       "region": "EU",
       "title": "Human medicines European public assessment report (EPAR): Aripiprazole Sandoz, aripiprazole, Date of authorisation: 20/08/2015, Revision: 14, Status: Authorised",
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/aripiprazole-sandoz",
@@ -3410,8 +3495,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 安全対策",
-      "siteName": "Adverse Health Effects Relief (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[健康]健康被害救済業務に関するデータを掲載しました",
       "url": "https://www.pmda.go.jp/relief-services/outline/0001.html",
@@ -5463,16 +5548,6 @@
       "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
       "siteName": "Human medicines: EPARs and summaries of opinion",
       "region": "EU",
-      "title": "Human medicines European public assessment report (EPAR): Vabysmo, faricimab, Date of authorisation: 15/09/2022, Revision: 9, Status: Authorised",
-      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/vabysmo",
-      "publishedAt": "2026-08-03",
-      "excerpt": "Human medicines European public assessment report (EPAR): Vabysmo, faricimab, Date of authorisation: 15/09/2022, Revision: 9, Status: Authorised",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
-      "siteName": "Human medicines: EPARs and summaries of opinion",
-      "region": "EU",
       "title": "Human medicines European public assessment report (EPAR): Twinrix Paediatric, hepatitis A (inactivated) and hepatitis B (rDNA) (HAB) vaccine (adsorbed), Date of authorisation: 10/02/1997, Revision: 25, Status: Authorised",
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/twinrix-paediatric",
       "publishedAt": "2026-08-03",
@@ -5840,8 +5915,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 安全対策",
-      "siteName": "Adverse Health Effects Relief (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[健康]副用救済給付の決定に関する情報（2026年度5月分）を掲載しました",
       "url": "https://www.pmda.go.jp/relief-services/adr-sufferers/0043.html",
