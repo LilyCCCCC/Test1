@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-24T17:00:55.152285+00:00",
-  "count": 2635,
+  "generatedAt": "2026-08-24T17:52:50.091162+00:00",
+  "count": 2636,
   "items": [
     {
       "siteId": "notice-from-tfda",
@@ -80,6 +80,16 @@
       "url": "http://www.fda.gov/drugs/news-events-human-drugs/whats-new-related-drugs",
       "publishedAt": "2026-08-24",
       "excerpt": "Want to know what's new on drugs from FDA? This page provides quick links to the latest on a variety of topics including: drug approvals, safety warnings, drug shortages, etc.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "PDUFA VII Information Technology and Bioinformatics Goals and Progress",
+      "url": "http://www.fda.gov/industry/prescription-drug-user-fee-amendments/pdufa-vii-information-technology-and-bioinformatics-goals-and-progress",
+      "publishedAt": "2026-08-24",
+      "excerpt": "PDUFA VII Information Technology and Bioinformatics Goals and Progress",
       "sourceType": "rss"
     },
     {
@@ -460,6 +470,16 @@
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/bomyntra",
       "publishedAt": "2026-08-24",
       "excerpt": "Human medicines European public assessment report (EPAR): Bomyntra, denosumab, Date of authorisation: 17/07/2025, Revision: 2, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Generic Drug Facilities, Sites and Organization Lists",
+      "url": "http://www.fda.gov/industry/generic-drug-user-fee-amendments/generic-drug-facilities-sites-and-organization-lists",
+      "publishedAt": "2026-08-24",
+      "excerpt": "Generic Drug Facilities, Sites and Organization Lists",
       "sourceType": "rss"
     },
     {
@@ -1360,16 +1380,6 @@
       "url": "http://www.fda.gov/industry/fda-user-fee-programs/generic-drug-user-fee-amendments",
       "publishedAt": "2026-08-21",
       "excerpt": "This page features news and information for industry and stakeholders about GDUFA, its fee structure, payment methods, and related information.",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "Generic Drug Facilities, Sites and Organization Lists",
-      "url": "http://www.fda.gov/industry/generic-drug-user-fee-amendments/generic-drug-facilities-sites-and-organization-lists",
-      "publishedAt": "2026-08-21",
-      "excerpt": "Generic Drug Facilities, Sites and Organization Lists",
       "sourceType": "rss"
     },
     {
@@ -4683,8 +4693,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Adverse Health Effects Relief (JP)",
       "region": "JP",
       "title": "[健康]健康被害救済業務に関するデータを掲載しました",
       "url": "https://www.pmda.go.jp/relief-services/outline/0001.html",
@@ -7033,8 +7043,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Adverse Health Effects Relief (JP)",
       "region": "JP",
       "title": "[健康]副用救済給付の決定に関する情報（2026年度5月分）を掲載しました",
       "url": "https://www.pmda.go.jp/relief-services/adr-sufferers/0043.html",
