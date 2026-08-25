@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T04:59:33.264573+00:00",
+  "generatedAt": "2026-08-25T05:54:14.225829+00:00",
   "count": 2647,
   "errors": [
     {
@@ -19,7 +19,17 @@
     },
     {
       "groupId": "pmda",
+      "siteId": "PMDA：トップ 安全対策",
+      "error": "RSS fetch failed - keeping archived data"
+    },
+    {
+      "groupId": "pmda",
       "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
+      "error": "RSS fetch failed - keeping archived data"
+    },
+    {
+      "groupId": "pmda",
+      "siteId": "PMDA：トップ 国際活動",
       "error": "RSS fetch failed - keeping archived data"
     },
     {
@@ -53,8 +63,38 @@
       "siteId": "PMDAの新着情報",
       "siteName": "What's New (JP)",
       "region": "JP",
+      "title": "[安全]使用上の注意の改訂指示通知（医薬品）2026年8月24日付及び2026年8月25日付（厚生労働省より発出）を掲載しました",
+      "url": "https://www.pmda.go.jp/safety/info-services/drugs/calling-attention/revision-of-precautions/0375.html",
+      "publishedAt": "2026-08-25",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
+      "region": "JP",
+      "title": "[安全]「医薬品に関する評価中のリスク等の情報について」を掲載しました",
+      "url": "https://www.pmda.go.jp/safety/info-services/drugs/calling-attention/risk-communications/0001.html",
+      "publishedAt": "2026-08-25",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
+      "region": "JP",
       "title": "[安全]「不具合が疑われる症例報告に関する情報（再生医療等製品）」に2026年4月分の情報を追加しました",
       "url": "https://www.pmda.go.jp/safety/info-services/ctp/0006.html",
+      "publishedAt": "2026-08-25",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
+      "region": "JP",
+      "title": "[安全]MIHARI Project  PMDAが実施している調査の一覧（No.24, 52）を更新しました",
+      "url": "https://www.pmda.go.jp/safety/surveillance-analysis/0045.html",
       "publishedAt": "2026-08-25",
       "excerpt": "",
       "sourceType": "rss"
@@ -65,6 +105,26 @@
       "region": "JP",
       "title": "[医薬]新医薬品の承認品目一覧（2026年8月24日承認分まで）を掲載しました",
       "url": "https://www.pmda.go.jp/review-services/drug-reviews/review-information/p-drugs/0040.html",
+      "publishedAt": "2026-08-25",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "safety-measures",
+      "siteName": "Safety Measures (EN)",
+      "region": "JP",
+      "title": "Revisions of PRECAUTIONS: Acetaminophen, etc. posted",
+      "url": "https://www.pmda.go.jp/english/safety/info-services/drugs/revision-of-precautions/0014.html",
+      "publishedAt": "2026-08-25",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "safety-measures",
+      "siteName": "Safety Measures (EN)",
+      "region": "JP",
+      "title": "PMDA Risk Communications: Azathioprine etc. posted",
+      "url": "https://www.pmda.go.jp/english/safety/info-services/drugs/risk-communications/0001.html",
       "publishedAt": "2026-08-25",
       "excerpt": "",
       "sourceType": "rss"
@@ -3170,16 +3230,6 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
-      "region": "JP",
-      "title": "[安全]使用上の注意の改訂指示通知（医薬品）2026年08月17日付（厚生労働省より発出）を掲載しました",
-      "url": "https://www.pmda.go.jp/safety/info-services/drugs/calling-attention/revision-of-precautions/0375.html",
-      "publishedAt": "2026-08-17",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
       "siteId": "fda-food-safety-recalls",
       "siteName": "Food Safety Recalls",
       "region": "US",
@@ -3217,16 +3267,6 @@
       "url": "https://www.ema.europa.eu/system/files/documents/report/ema-shortage-prevention-plan-spp-workshop-report-en.pdf",
       "publishedAt": "2026-08-17",
       "excerpt": "Shortage prevention plan (SPP) workshop report",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "safety-measures",
-      "siteName": "Safety Measures (EN)",
-      "region": "JP",
-      "title": "Revisions of PRECAUTIONS: Donanemab (genetical recombination), etc. posted",
-      "url": "https://www.pmda.go.jp/english/safety/info-services/drugs/revision-of-precautions/0014.html",
-      "publishedAt": "2026-08-17",
-      "excerpt": "",
       "sourceType": "rss"
     },
     {
@@ -3630,8 +3670,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 国際活動",
-      "siteName": "International (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[RS]2025年度レギュラトリーサイエンス活動報告書（日本語版 PDF）を掲載しました。",
       "url": "https://www.pmda.go.jp/rs-std-jp/outline/0001.html",
@@ -4860,8 +4900,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 安全対策",
-      "siteName": "Adverse Health Effects Relief (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[健康]健康被害救済業務に関するデータを掲載しました",
       "url": "https://www.pmda.go.jp/relief-services/outline/0001.html",
@@ -5160,8 +5200,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 国際活動",
-      "siteName": "International (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[基準]後発医薬品開発における健康成人を対象とした生物学的同等性試験の安全性確保策に関する考え方（Early Consideration）を掲載しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/guidance-guideline/0003.html",
@@ -5170,8 +5210,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 国際活動",
-      "siteName": "International (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[その他]第51回科学委員会の議事概要を掲載しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/science-committee/0059.html",
@@ -7210,8 +7250,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 安全対策",
-      "siteName": "Adverse Health Effects Relief (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[健康]副用救済給付の決定に関する情報（2026年度5月分）を掲載しました",
       "url": "https://www.pmda.go.jp/relief-services/adr-sufferers/0043.html",
@@ -12490,16 +12530,6 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 安全対策",
-      "siteName": "Safety Measures (JP)",
-      "region": "JP",
-      "title": "[医薬]「医薬品に関する評価中のリスク等の情報について」を掲載しました",
-      "url": "https://www.pmda.go.jp/safety/info-services/drugs/calling-attention/risk-communications/0001.html",
-      "publishedAt": "2026-07-14",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
       "siteId": "fda-tainted-products-dietary-supplements",
       "siteName": "Tainted Products That are Marketed as Dietary Supplements",
       "region": "US",
@@ -12687,16 +12717,6 @@
       "url": "https://www.ema.europa.eu/system/files/documents/other/2027-prime-eligibility-requests-submission-deadlines-timetable-assessment-en.pdf",
       "publishedAt": "2026-07-14",
       "excerpt": "PRIME eligibility requests: 2027 deadlines for submission and timetable for assessment",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "safety-measures",
-      "siteName": "Safety Measures (EN)",
-      "region": "JP",
-      "title": "PMDA Risk Communications: Domperidone (oral preparations) etc. posted",
-      "url": "https://www.pmda.go.jp/english/safety/info-services/drugs/risk-communications/0001.html",
-      "publishedAt": "2026-07-14",
-      "excerpt": "",
       "sourceType": "rss"
     },
     {
@@ -22575,16 +22595,6 @@
       "region": "TW",
       "title": "預告修正「生物相似性藥品查驗登記基準」草案。",
       "url": "http://www.fda.gov.tw/tc/newsContent.aspx?cid=5072&id=31551&utm_source=rss&utm_medium=feed&utm_campaign=rss_subscription",
-      "publishedAt": "2026-05-22",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "PMDA：トップ 安全対策",
-      "siteName": "Safety Measures (JP)",
-      "region": "JP",
-      "title": "[医薬]MIHARI Project  PMDAが実施している調査の一覧（No.18, 50, 51）を更新しました",
-      "url": "https://www.pmda.go.jp/safety/surveillance-analysis/0045.html",
       "publishedAt": "2026-05-22",
       "excerpt": "",
       "sourceType": "rss"
