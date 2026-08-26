@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-26T11:50:16.344674+00:00",
-  "count": 2695,
+  "generatedAt": "2026-08-26T13:28:11.109105+00:00",
+  "count": 2697,
   "errors": [
     {
       "groupId": "ema",
@@ -10,6 +10,11 @@
     {
       "groupId": "pmda",
       "siteId": "services-for-healtheffects",
+      "error": "RSS fetch failed - keeping archived data"
+    },
+    {
+      "groupId": "pmda",
+      "siteId": "PMDA：トップ 安全対策",
       "error": "RSS fetch failed - keeping archived data"
     }
   ],
@@ -65,8 +70,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 安全対策",
-      "siteName": "Adverse Health Effects Relief (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[健康]医薬品副作用被害救済制度 対象除外医薬品等一覧を更新しました",
       "url": "https://www.pmda.go.jp/relief-services/adr-sufferers/0022.html",
@@ -108,6 +113,26 @@
       "siteId": "ema-whats-new",
       "siteName": "What's new",
       "region": "EU",
+      "title": "Start of procedure: Type II Variation - Extension of indication under evaluation by the CHMP (24 July 2026 - 20 August 2026)",
+      "url": "https://www.ema.europa.eu/system/files/documents/report/start-procedure-type-ii-variation-extension-indication-24072026-20082026-en.xlsx",
+      "publishedAt": "2026-08-26",
+      "excerpt": "Start of procedure: Type II Variation - Extension of indication under evaluation by the CHMP (24 July 2026 - 20 August 2026)",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Start of procedure: Extension of marketing authorisation (24 July 2026 - 20 August 2026)",
+      "url": "https://www.ema.europa.eu/system/files/documents/report/start-procedure-extension-marketing-authorisation-24072026-20082026-en.xlsx",
+      "publishedAt": "2026-08-26",
+      "excerpt": "Start of procedure: Extension of marketing authorisation (24 July 2026 - 20 August 2026)",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
       "title": "QRD guidance on the use of adopted abbreviations and pictograms on the packaging of veterinary medicinal products authorised via the centralised (CP), mutual recognition (MRP), decentralised (DCP), subsequent recognition (SRP) and national procedures",
       "url": "https://www.ema.europa.eu/en/qrd-guidance-use-adopted-abbreviations-pictograms-packaging-veterinary-medicinal-products-authorised-centralised-cp-mutual-recognition-mrp-decentralised-dcp-subsequent-recognition-srp-national",
       "publishedAt": "2026-08-26",
@@ -132,6 +157,16 @@
       "url": "https://www.ema.europa.eu/system/files/documents/minutes/cat-minutes-11-13-may-2026-en.pdf",
       "publishedAt": "2026-08-26",
       "excerpt": "Minutes of the CAT meeting 11-13 May 2026",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Medicines for human use under evaluation",
+      "url": "https://www.ema.europa.eu/en/medicines/medicines-human-use-under-evaluation",
+      "publishedAt": "2026-08-26",
+      "excerpt": "Medicines for human use under evaluation",
       "sourceType": "rss"
     },
     {
@@ -178,6 +213,16 @@
       "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
       "siteName": "Human medicines: EPARs and summaries of opinion",
       "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Skyrizi, risankizumab, Date of authorisation: 26/04/2019, Revision: 31, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/skyrizi",
+      "publishedAt": "2026-08-26",
+      "excerpt": "Human medicines European public assessment report (EPAR): Skyrizi, risankizumab, Date of authorisation: 26/04/2019, Revision: 31, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
       "title": "Human medicines European public assessment report (EPAR): Comirnaty, COVID-19 mRNA vaccine, Date of authorisation: 21/12/2020, Revision: 63, Status: Authorised",
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/comirnaty",
       "publishedAt": "2026-08-26",
@@ -212,6 +257,16 @@
       "url": "https://www.ema.europa.eu/en/events/committee-advanced-therapies-cat-11-13-may-2026",
       "publishedAt": "2026-08-26",
       "excerpt": "Committee for Advanced Therapies (CAT): 11-13 May 2026, European Medicines Agency, Amsterdam, the Netherlands, from 11 May 2026 to 13 May 2026",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Baxter Issues Voluntary Nationwide Recall for One Lot of Anticoagulant Sodium Citrate Solution Due to Potential Presence of Particulate Matter",
+      "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/baxter-issues-voluntary-nationwide-recall-one-lot-anticoagulant-sodium-citrate-solution-due",
+      "publishedAt": "2026-08-26",
+      "excerpt": "FOR IMMEDIATE RELEASE – AUG. 25, 2026 – DEERFIELD, Ill., Baxter International Inc. (NYSE:BAX) is voluntarily recalling one lot of Anticoagulant Sodium Citrate Solution due to the potential presence of particulate matter identified as fiberglass in the solution.",
       "sourceType": "rss"
     },
     {
@@ -832,16 +887,6 @@
       "url": "http://www.fda.gov/about-fda/cder-center-clinical-trial-innovation-c3ti/c3ti-compass-knowledge-repository",
       "publishedAt": "2026-08-25",
       "excerpt": "Centralized knowledge repository for clinical trial innovation",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-medwatch",
-      "siteName": "MedWatch Safety Alerts",
-      "region": "US",
-      "title": "Baxter Issues Voluntary Nationwide Recall for One Lot of Anticoagulant Sodium Citrate Solution Due to Potential Presence of Particulate Matter",
-      "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/baxter-issues-voluntary-nationwide-recall-one-lot-anticoagulant-sodium-citrate-solution-due",
-      "publishedAt": "2026-08-25",
-      "excerpt": "FOR IMMEDIATE RELEASE – AUG. 25, 2026 – DEERFIELD, Ill., Baxter International Inc. (NYSE:BAX) is voluntarily recalling one lot of Anticoagulant Sodium Citrate Solution due to the potential presence of particulate matter identified as fiberglass in the solution.",
       "sourceType": "rss"
     },
     {
@@ -5555,8 +5600,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 安全対策",
-      "siteName": "Adverse Health Effects Relief (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[健康]健康被害救済業務に関するデータを掲載しました",
       "url": "https://www.pmda.go.jp/relief-services/outline/0001.html",
@@ -7875,8 +7920,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 安全対策",
-      "siteName": "Adverse Health Effects Relief (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[健康]副用救済給付の決定に関する情報（2026年度5月分）を掲載しました",
       "url": "https://www.pmda.go.jp/relief-services/adr-sufferers/0043.html",
@@ -7952,16 +7997,6 @@
       "url": "http://www.fda.gov/about-fda/fda-commissioner/molecular-pharmagroup-llc-new-providence-nj-untitled-letter-issued-2052026",
       "publishedAt": "2026-07-31",
       "excerpt": "Task Description Request\tPlease post to the OII FOIA Electronic Reading Room Record Date\t2/05/2026 Short Title (70 char)\tMolecular PharmaGroup LLC. New Providence, NJ. Untitled Letter issued 2/05/2026 FEI Number\t3014413265 Firm Name\tMolecular PharmaGroup LLC Record Type\tUntitled Letter State\tNJ Esta",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "ema-whats-new",
-      "siteName": "What's new",
-      "region": "EU",
-      "title": "Medicines for human use under evaluation",
-      "url": "https://www.ema.europa.eu/en/medicines/medicines-human-use-under-evaluation",
-      "publishedAt": "2026-07-31",
-      "excerpt": "Medicines for human use under evaluation",
       "sourceType": "rss"
     },
     {
@@ -19852,16 +19887,6 @@
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/tezspire",
       "publishedAt": "2026-06-25",
       "excerpt": "Human medicines European public assessment report (EPAR): Tezspire, tezepelumab, Date of authorisation: 19/09/2022, Revision: 14, Status: Authorised",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
-      "siteName": "Human medicines: EPARs and summaries of opinion",
-      "region": "EU",
-      "title": "Human medicines European public assessment report (EPAR): Skyrizi, risankizumab, Date of authorisation: 26/04/2019, Revision: 31, Status: Authorised",
-      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/skyrizi",
-      "publishedAt": "2026-06-25",
-      "excerpt": "Human medicines European public assessment report (EPAR): Skyrizi, risankizumab, Date of authorisation: 26/04/2019, Revision: 31, Status: Authorised",
       "sourceType": "rss"
     },
     {
