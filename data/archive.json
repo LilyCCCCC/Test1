@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-26T13:28:11.083546+00:00",
-  "count": 2697,
+  "generatedAt": "2026-08-26T15:55:47.753178+00:00",
+  "count": 2707,
   "items": [
     {
       "siteId": "tfda-news-and-press-releases",
@@ -8,6 +8,16 @@
       "region": "TW",
       "title": "食藥署舉辦「2026 APEC醫療器材及優良查驗登記管理法規科學卓越中心國際研討會」",
       "url": "http://www.fda.gov.tw/tc/newsContent.aspx?cid=4&id=t634630&utm_source=rss&utm_medium=feed&utm_campaign=rss_subscription",
+      "publishedAt": "2026-08-26",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "tfda-news-and-press-releases",
+      "siteName": "新聞",
+      "region": "TW",
+      "title": "食藥署公布食用油脂全國抽驗結果，中央地方攜手維護食安",
+      "url": "http://www.fda.gov.tw/tc/newsContent.aspx?cid=4&id=t634636&utm_source=rss&utm_medium=feed&utm_campaign=rss_subscription",
       "publishedAt": "2026-08-26",
       "excerpt": "",
       "sourceType": "rss"
@@ -53,8 +63,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Adverse Health Effects Relief (JP)",
       "region": "JP",
       "title": "[健康]医薬品副作用被害救済制度 対象除外医薬品等一覧を更新しました",
       "url": "https://www.pmda.go.jp/relief-services/adr-sufferers/0022.html",
@@ -113,6 +123,16 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "fda-food-safety-recalls",
+      "siteName": "Food Safety Recalls",
+      "region": "US",
+      "title": "Revival Animal Health, LLC Voluntarily Recalls Feline Milk Replacers Due to Inconsistent Levels of Vitamins and Trace Minerals",
+      "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/revival-animal-health-llc-voluntarily-recalls-feline-milk-replacers-due-inconsistent-levels-vitamins",
+      "publishedAt": "2026-08-26",
+      "excerpt": "Revival Animal Health of Orange City, IA is recalling Breeder’s Edge® and Shelter’s Choice® Feline Milk Replacers due to low, levels of potassium, copper, folic acid, choline and/or pyridoxine (vitamin B6).",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "ema-whats-new",
       "siteName": "What's new",
       "region": "EU",
@@ -120,6 +140,26 @@
       "url": "https://www.ema.europa.eu/en/qrd-guidance-use-adopted-abbreviations-pictograms-packaging-veterinary-medicinal-products-authorised-centralised-cp-mutual-recognition-mrp-decentralised-dcp-subsequent-recognition-srp-national",
       "publishedAt": "2026-08-26",
       "excerpt": "QRD guidance on the use of adopted abbreviations and pictograms on the packaging of veterinary medicinal products authorised via the centralised (CP), mutual recognition (MRP), decentralised (DCP), subsequent recognition (SRP) and national procedures",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-medwatch",
+      "siteName": "MedWatch Safety Alerts",
+      "region": "US",
+      "title": "Percutaneous Catheter Recall: Boston Scientific Removes ENROUTE Transcarotid Neuroprotection System",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/percutaneous-catheter-recall-boston-scientific-removes-enroute-transcarotid-neuroprotection-system",
+      "publishedAt": "2026-08-26",
+      "excerpt": "ENROUTE Transcarotid Neuroprotection Systems may have arterial sheath tip separation or partial tip separation during use.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-orphan-designations",
+      "siteName": "Orphan designations",
+      "region": "EU",
+      "title": "Orphan designation: daratumumab Treatment of AL amyloidosis, 25/05/2018 Withdrawn",
+      "url": "https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-18-2020",
+      "publishedAt": "2026-08-26",
+      "excerpt": "Orphan designation: daratumumab Treatment of AL amyloidosis, 25/05/2018 Withdrawn",
       "sourceType": "rss"
     },
     {
@@ -173,6 +213,16 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Learning and Education to ADvance and Empower Rare Disease Drug Developers (LEADER 3D)",
+      "url": "http://www.fda.gov/about-fda/accelerating-rare-disease-cures-arc-program/learning-and-education-advance-and-empower-rare-disease-drug-developers-leader-3d",
+      "publishedAt": "2026-08-26",
+      "excerpt": "As part of the Accelerating Rare disease Cures (ARC) Program, CDER’s Rare Diseases Team inaugurated the Learning and Education to Advance and Empower Rare Disease Drug Developers (LEADER 3D) initiative. Learn more.",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
       "siteName": "Human medicines: EPARs and summaries of opinion",
       "region": "EU",
@@ -180,6 +230,26 @@
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/wegovy",
       "publishedAt": "2026-08-26",
       "excerpt": "Human medicines European public assessment report (EPAR): Wegovy, semaglutide, Date of authorisation: 06/01/2022, Revision: 18, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Vijoice, alpelisib, Date of authorisation: 15/07/2026, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/vijoice",
+      "publishedAt": "2026-08-26",
+      "excerpt": "Human medicines European public assessment report (EPAR): Vijoice, alpelisib, Date of authorisation: 15/07/2026, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Tezspire, tezepelumab, Date of authorisation: 19/09/2022, Revision: 15, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/tezspire",
+      "publishedAt": "2026-08-26",
+      "excerpt": "Human medicines European public assessment report (EPAR): Tezspire, tezepelumab, Date of authorisation: 19/09/2022, Revision: 15, Status: Authorised",
       "sourceType": "rss"
     },
     {
@@ -206,6 +276,26 @@
       "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
       "siteName": "Human medicines: EPARs and summaries of opinion",
       "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Neofordex, dexamethasone, Date of authorisation: 16/03/2016, Revision: 16, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/neofordex",
+      "publishedAt": "2026-08-26",
+      "excerpt": "Human medicines European public assessment report (EPAR): Neofordex, dexamethasone, Date of authorisation: 16/03/2016, Revision: 16, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Darzalex, daratumumab, Date of authorisation: 20/05/2016, Revision: 30, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/darzalex",
+      "publishedAt": "2026-08-26",
+      "excerpt": "Human medicines European public assessment report (EPAR): Darzalex, daratumumab, Date of authorisation: 20/05/2016, Revision: 30, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
       "title": "Human medicines European public assessment report (EPAR): Comirnaty, COVID-19 mRNA vaccine, Date of authorisation: 21/12/2020, Revision: 63, Status: Authorised",
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/comirnaty",
       "publishedAt": "2026-08-26",
@@ -216,10 +306,60 @@
       "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
       "siteName": "Human medicines: EPARs and summaries of opinion",
       "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Bysumlog, insulin lispro, Date of authorisation: 06/05/2026, Revision: 1, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/bysumlog",
+      "publishedAt": "2026-08-26",
+      "excerpt": "Human medicines European public assessment report (EPAR): Bysumlog, insulin lispro, Date of authorisation: 06/05/2026, Revision: 1, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
       "title": "Human medicines European public assessment report (EPAR): Byfavo, remimazolam, Date of authorisation: 26/03/2021, Revision: 10, Status: Authorised",
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/byfavo",
       "publishedAt": "2026-08-26",
       "excerpt": "Human medicines European public assessment report (EPAR): Byfavo, remimazolam, Date of authorisation: 26/03/2021, Revision: 10, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Blenrep, belantamab mafodotin, Date of authorisation: 23/07/2025, Revision: 3, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/blenrep",
+      "publishedAt": "2026-08-26",
+      "excerpt": "Human medicines European public assessment report (EPAR): Blenrep, belantamab mafodotin, Date of authorisation: 23/07/2025, Revision: 3, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Guidance Documents for Rare Disease Drug Development",
+      "url": "http://www.fda.gov/drugs/guidances-drugs/guidance-documents-rare-disease-drug-development",
+      "publishedAt": "2026-08-26",
+      "excerpt": "Guidance Documents for Rare Disease Drug Development",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-criminal-investigations-press-releases",
+      "siteName": "Criminal Investigations Press Releases",
+      "region": "US",
+      "title": "FDA Approves First in Class Targeted Therapy for Metastatic Pancreatic Cancer",
+      "url": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-class-targeted-therapy-metastatic-pancreatic-cancer",
+      "publishedAt": "2026-08-26",
+      "excerpt": "The U.S. Food and Drug Administration today approved Rasonque (daraxonrasib), a RAS inhibitor for the most common form of pancreatic cancer—delivering a new treatment option to patients with advanced pancreatic cancer months ahead of schedule.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Drugs@FDA Data Files",
+      "url": "http://www.fda.gov/drugs/drug-approvals-and-databases/drugsfda-data-files",
+      "publishedAt": "2026-08-26",
+      "excerpt": "Drugs@FDA Downloadable Data File in ZIP format, Data Definitions, and Entity Relationship Diagram (ERD)",
       "sourceType": "rss"
     },
     {
@@ -246,10 +386,20 @@
       "siteId": "fda-whats-new-drugs",
       "siteName": "What's New: Drugs",
       "region": "US",
-      "title": "Baxter Issues Voluntary Nationwide Recall for One Lot of Anticoagulant Sodium Citrate Solution Due to Potential Presence of Particulate Matter",
-      "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/baxter-issues-voluntary-nationwide-recall-one-lot-anticoagulant-sodium-citrate-solution-due",
+      "title": "Commissioner's National Priority Voucher (CNPV) Pilot Program",
+      "url": "http://www.fda.gov/industry/commissioners-national-priority-voucher-cnpv-pilot-program",
       "publishedAt": "2026-08-26",
-      "excerpt": "FOR IMMEDIATE RELEASE – AUG. 25, 2026 – DEERFIELD, Ill., Baxter International Inc. (NYSE:BAX) is voluntarily recalling one lot of Anticoagulant Sodium Citrate Solution due to the potential presence of particulate matter identified as fiberglass in the solution.",
+      "excerpt": "FDA Commissioner's National Priority Voucher Program. The Commissioner's National Priority Voucher Program offers an unprecedented opportunity to reduce drug and biologic review times from 10-12 months to just 1-2 months.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-medwatch",
+      "siteName": "MedWatch Safety Alerts",
+      "region": "US",
+      "title": "Baxter Issues Voluntary Nationwide Recall for Two Lots of 0.9% Sodium Chloride Injection Due to Potential Presence of Particulate Matter",
+      "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/baxter-issues-voluntary-nationwide-recall-two-lots-09-sodium-chloride-injection-due-potential",
+      "publishedAt": "2026-08-26",
+      "excerpt": "FOR IMMEDIATE RELEASE – AUG. 25, 2026 – DEERFIELD, Ill., Baxter International Inc. (NYSE:BAX) is voluntarily recalling two lots of 0.9% Sodium Chloride Injection due to the potential presence of particulate matter identified as fiberglass in the solution.",
       "sourceType": "rss"
     },
     {
@@ -623,6 +773,16 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "fda-food-safety-recalls",
+      "siteName": "Food Safety Recalls",
+      "region": "US",
+      "title": "Jaime’s Foods ATX Issues Allergy Alert on Undeclared Egg Allergen in Jaime’s Spanish Village Jalapeno Ranch",
+      "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/jaimes-foods-atx-issues-allergy-alert-undeclared-egg-allergen-jaimes-spanish-village-jalapeno-ranch",
+      "publishedAt": "2026-08-25",
+      "excerpt": "Jaime’s Foods ATX of Austin, TEXAS is recalling Jaime’s Spanish Village Jalapeno Ranch because it contains undeclared eggs. People who have an allergy or severe sensitivity to eggs run the risk of serious or life-threatening allergic reaction if they consume this product.",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
       "siteName": "Human medicines: EPARs and summaries of opinion",
       "region": "EU",
@@ -826,16 +986,6 @@
       "siteId": "fda-whats-new-drugs",
       "siteName": "What's New: Drugs",
       "region": "US",
-      "title": "Drugs@FDA Data Files",
-      "url": "http://www.fda.gov/drugs/drug-approvals-and-databases/drugsfda-data-files",
-      "publishedAt": "2026-08-25",
-      "excerpt": "Drugs@FDA Downloadable Data File in ZIP format, Data Definitions, and Entity Relationship Diagram (ERD)",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
       "title": "Drug Shortages | Additional News and Information",
       "url": "http://www.fda.gov/drugs/drug-shortages/drug-shortages-additional-news-and-information",
       "publishedAt": "2026-08-25",
@@ -870,6 +1020,16 @@
       "url": "http://www.fda.gov/about-fda/cder-center-clinical-trial-innovation-c3ti/c3ti-compass-knowledge-repository",
       "publishedAt": "2026-08-25",
       "excerpt": "Centralized knowledge repository for clinical trial innovation",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-medwatch",
+      "siteName": "MedWatch Safety Alerts",
+      "region": "US",
+      "title": "Baxter Issues Voluntary Nationwide Recall for One Lot of Anticoagulant Sodium Citrate Solution Due to Potential Presence of Particulate Matter",
+      "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/baxter-issues-voluntary-nationwide-recall-one-lot-anticoagulant-sodium-citrate-solution-due",
+      "publishedAt": "2026-08-25",
+      "excerpt": "FOR IMMEDIATE RELEASE – AUG. 25, 2026 – DEERFIELD, Ill., Baxter International Inc. (NYSE:BAX) is voluntarily recalling one lot of Anticoagulant Sodium Citrate Solution due to the potential presence of particulate matter identified as fiberglass in the solution.",
       "sourceType": "rss"
     },
     {
@@ -4873,16 +5033,6 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "Commissioner's National Priority Voucher (CNPV) Pilot Program",
-      "url": "http://www.fda.gov/industry/commissioners-national-priority-voucher-cnpv-pilot-program",
-      "publishedAt": "2026-08-13",
-      "excerpt": "FDA Commissioner's National Priority Voucher Program. The Commissioner's National Priority Voucher Program offers an unprecedented opportunity to reduce drug and biologic review times from 10-12 months to just 1-2 months.",
-      "sourceType": "rss"
-    },
-    {
       "siteId": "notice-from-tfda",
       "siteName": "公告",
       "region": "TW",
@@ -5583,8 +5733,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Adverse Health Effects Relief (JP)",
       "region": "JP",
       "title": "[健康]健康被害救済業務に関するデータを掲載しました",
       "url": "https://www.pmda.go.jp/relief-services/outline/0001.html",
@@ -6226,16 +6376,6 @@
       "siteId": "fda-whats-new-drugs",
       "siteName": "What's New: Drugs",
       "region": "US",
-      "title": "Learning and Education to ADvance and Empower Rare Disease Drug Developers (LEADER 3D)",
-      "url": "http://www.fda.gov/about-fda/accelerating-rare-disease-cures-arc-program/learning-and-education-advance-and-empower-rare-disease-drug-developers-leader-3d",
-      "publishedAt": "2026-08-06",
-      "excerpt": "As part of the Accelerating Rare disease Cures (ARC) Program, CDER’s Rare Diseases Team inaugurated the Learning and Education to Advance and Empower Rare Disease Drug Developers (LEADER 3D) initiative. Learn more.",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
       "title": "July 23-24, 2026: Meeting of the Pharmacy Compounding Advisory Committee - 07/23/2026",
       "url": "http://www.fda.gov/advisory-committees/advisory-committee-calendar/july-23-24-2026-meeting-pharmacy-compounding-advisory-committee-07232026",
       "publishedAt": "2026-08-06",
@@ -6633,8 +6773,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "fda-food-safety-recalls",
-      "siteName": "Food Safety Recalls",
+      "siteId": "fda-food-allergies",
+      "siteName": "Food Allergies",
       "region": "US",
       "title": "Sun Noodle Issues Voluntary Recall of Sura Tanmen Hot and Sour Flavor Premium Japanese Noodles & Soup Base Due to Undeclared Fish Allergen",
       "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/sun-noodle-issues-voluntary-recall-sura-tanmen-hot-and-sour-flavor-premium-japanese-noodles-soup",
@@ -7353,8 +7493,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "fda-food-safety-recalls",
-      "siteName": "Food Safety Recalls",
+      "siteId": "fda-food-allergies",
+      "siteName": "Food Allergies",
       "region": "US",
       "title": "Blank Slate Creamery Issues Allergy Alert on Undeclared Egg in Vegan Non-Dairy Frozen Dessert Coconut Fudge Sandwiches",
       "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/blank-slate-creamery-issues-allergy-alert-undeclared-egg-vegan-non-dairy-frozen-dessert-coconut",
@@ -7903,8 +8043,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Adverse Health Effects Relief (JP)",
       "region": "JP",
       "title": "[健康]副用救済給付の決定に関する情報（2026年度5月分）を掲載しました",
       "url": "https://www.pmda.go.jp/relief-services/adr-sufferers/0043.html",
@@ -10920,16 +11060,6 @@
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/eltrombopag-accord",
       "publishedAt": "2026-07-21",
       "excerpt": "Human medicines European public assessment report (EPAR): Eltrombopag Accord, eltrombopag, Date of authorisation: 28/03/2025, Revision: 6, Status: Authorised",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
-      "siteName": "Human medicines: EPARs and summaries of opinion",
-      "region": "EU",
-      "title": "Human medicines European public assessment report (EPAR): Darzalex, daratumumab, Date of authorisation: 20/05/2016, Revision: 30, Status: Authorised",
-      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/darzalex",
-      "publishedAt": "2026-07-21",
-      "excerpt": "Human medicines European public assessment report (EPAR): Darzalex, daratumumab, Date of authorisation: 20/05/2016, Revision: 30, Status: Authorised",
       "sourceType": "rss"
     },
     {
@@ -15020,16 +15150,6 @@
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/olazax",
       "publishedAt": "2026-07-10",
       "excerpt": "Human medicines European public assessment report (EPAR): Olazax, olanzapine, Date of authorisation: 11/12/2009, Revision: 14, Status: Authorised",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
-      "siteName": "Human medicines: EPARs and summaries of opinion",
-      "region": "EU",
-      "title": "Human medicines European public assessment report (EPAR): Neofordex, dexamethasone, Date of authorisation: 16/03/2016, Revision: 15, Status: Authorised",
-      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/neofordex",
-      "publishedAt": "2026-07-10",
-      "excerpt": "Human medicines European public assessment report (EPAR): Neofordex, dexamethasone, Date of authorisation: 16/03/2016, Revision: 15, Status: Authorised",
       "sourceType": "rss"
     },
     {
@@ -19866,16 +19986,6 @@
       "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
       "siteName": "Human medicines: EPARs and summaries of opinion",
       "region": "EU",
-      "title": "Human medicines European public assessment report (EPAR): Tezspire, tezepelumab, Date of authorisation: 19/09/2022, Revision: 14, Status: Authorised",
-      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/tezspire",
-      "publishedAt": "2026-06-25",
-      "excerpt": "Human medicines European public assessment report (EPAR): Tezspire, tezepelumab, Date of authorisation: 19/09/2022, Revision: 14, Status: Authorised",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
-      "siteName": "Human medicines: EPARs and summaries of opinion",
-      "region": "EU",
       "title": "Human medicines European public assessment report (EPAR): Nintedanib Accord, nintedanib, Date of authorisation: 19/04/2024, Revision: 6, Status: Authorised",
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/nintedanib-accord",
       "publishedAt": "2026-06-25",
@@ -20120,16 +20230,6 @@
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/dazluma",
       "publishedAt": "2026-06-24",
       "excerpt": "Human medicines European public assessment report (EPAR): Dazluma, troriluzole, Status: Application withdrawn",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "Guidance Documents for Rare Disease Drug Development",
-      "url": "http://www.fda.gov/drugs/guidances-drugs/guidance-documents-rare-disease-drug-development",
-      "publishedAt": "2026-06-24",
-      "excerpt": "Guidance Documents for Rare Disease Drug Development",
       "sourceType": "rss"
     },
     {
