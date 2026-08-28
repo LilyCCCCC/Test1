@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-28T05:31:22.671853+00:00",
-  "count": 2732,
+  "generatedAt": "2026-08-28T18:52:12.295760+00:00",
+  "count": 2750,
   "errors": [
     {
       "groupId": "ema",
@@ -10,11 +10,6 @@
     {
       "groupId": "pmda",
       "siteId": "services-for-healtheffects",
-      "error": "RSS fetch failed - keeping archived data"
-    },
-    {
-      "groupId": "pmda",
-      "siteId": "PMDA：トップ 安全対策",
       "error": "RSS fetch failed - keeping archived data"
     },
     {
@@ -50,20 +45,20 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Safety Measures (JP)",
       "region": "JP",
-      "title": "[安全]［MID-NET］利活用者向け基本情報（NCDAデータ版）を更新しました",
+      "title": "[医薬]［MID-NET］利活用者向け基本情報（NCDAデータ版）を更新しました",
       "url": "https://www.pmda.go.jp/safety/mid-net/0008.html",
       "publishedAt": "2026-08-28",
       "excerpt": "",
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Safety Measures (JP)",
       "region": "JP",
-      "title": "[安全]使用上の注意の改訂指示通知（医薬品）2026年8月28日付（厚生労働省より発出）を掲載しました",
+      "title": "[医薬]使用上の注意の改訂指示通知（医薬品）2026年8月28日付（厚生労働省より発出）を掲載しました",
       "url": "https://www.pmda.go.jp/safety/info-services/drugs/calling-attention/revision-of-precautions/0375.html",
       "publishedAt": "2026-08-28",
       "excerpt": "",
@@ -90,6 +85,36 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Untitled Letters",
+      "url": "http://www.fda.gov/drugs/warning-letters-and-notice-violation-letters-pharmaceutical-companies/untitled-letters",
+      "publishedAt": "2026-08-28",
+      "excerpt": "These letters are supplied by the CDER Freedom of Information Office and only cover Office of Prescription Drug Promotion's untitled letters. FDA may have redacted or edited some of the letters to remove confidential information.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Timeline of Selected FDA Activities and Significant Events Addressing Substance Use and Overdose Prevention",
+      "url": "http://www.fda.gov/drugs/food-and-drug-administration-overdose-prevention-framework/timeline-selected-fda-activities-and-significant-events-addressing-substance-use-and-overdose",
+      "publishedAt": "2026-08-28",
+      "excerpt": "Timeline of Selected FDA Activities and Significant Events Addressing Opioid Misuse and Abuse",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "SEPA Direct Debit B2B: Guidance for marketing authorisation holders and applicants",
+      "url": "https://www.ema.europa.eu/system/files/documents/other/sepa-direct-debit-b2b-guidance-marketing-authorisation-holders-applicants_en.pdf",
+      "publishedAt": "2026-08-28",
+      "excerpt": "SEPA Direct Debit B2B: Guidance for marketing authorisation holders and applicants",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "safety-measures",
       "siteName": "Safety Measures (EN)",
       "region": "JP",
@@ -100,6 +125,246 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Registered Outsourcing Facilities",
+      "url": "http://www.fda.gov/drugs/human-drug-compounding/registered-outsourcing-facilities",
+      "publishedAt": "2026-08-28",
+      "excerpt": "Discover FDA's comprehensive list of registered outsourcing facilities engaged in human drug compounding. Get the latest updates, compliance guidelines, and resources to ensure safe, high-quality compounded medications. Explore regulations and stay informed with verified facility details.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Prescription Drug User Fee Amendments",
+      "url": "http://www.fda.gov/industry/fda-user-fee-programs/prescription-drug-user-fee-amendments",
+      "publishedAt": "2026-08-28",
+      "excerpt": "The Prescription Drug User Fee Act (PDUFA) was created by Congress in 1992 and authorizes FDA to collect fees from companies that produce certain human drug and biological products. Since the passage of PDUFA, user fees have played an important role in expediting the drug approval process.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Patent Certifications and Suitability Petitions",
+      "url": "http://www.fda.gov/drugs/abbreviated-new-drug-application-anda/patent-certifications-and-suitability-petitions",
+      "publishedAt": "2026-08-28",
+      "excerpt": "Information on patents and suitability petitions that impact the availability of generic drugs.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "PSUSA/00011041/202510",
+      "url": "https://www.ema.europa.eu/en/medicines/psusa/psusa-00011041-202510",
+      "publishedAt": "2026-08-28",
+      "excerpt": "PSUSA/00011041/202510",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "PSUSA/00001088/202512",
+      "url": "https://www.ema.europa.eu/en/medicines/psusa/psusa-00001088-202512",
+      "publishedAt": "2026-08-28",
+      "excerpt": "PSUSA/00001088/202512",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "PSUSA/00000732/202512",
+      "url": "https://www.ema.europa.eu/en/medicines/psusa/psusa-00000732-202512",
+      "publishedAt": "2026-08-28",
+      "excerpt": "PSUSA/00000732/202512",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "safety-measures",
+      "siteName": "Safety Measures (EN)",
+      "region": "JP",
+      "title": "MHLW Pharmaceuticals and Medical Devices Safety Information No.430 posted",
+      "url": "https://www.pmda.go.jp/english/safety/info-services/drugs/medical-safety-information/0024.html",
+      "publishedAt": "2026-08-28",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): SomaKit TOC, edotreotide, Date of authorisation: 08/12/2016, Revision: 24, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/somakit-toc",
+      "publishedAt": "2026-08-28",
+      "excerpt": "Human medicines European public assessment report (EPAR): SomaKit TOC, edotreotide, Date of authorisation: 08/12/2016, Revision: 24, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Mounjaro, tirzepatide, Date of authorisation: 15/09/2022, Revision: 21, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/mounjaro",
+      "publishedAt": "2026-08-28",
+      "excerpt": "Human medicines European public assessment report (EPAR): Mounjaro, tirzepatide, Date of authorisation: 15/09/2022, Revision: 21, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Herzuma, trastuzumab, Date of authorisation: 09/02/2018, Revision: 26, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/herzuma",
+      "publishedAt": "2026-08-28",
+      "excerpt": "Human medicines European public assessment report (EPAR): Herzuma, trastuzumab, Date of authorisation: 09/02/2018, Revision: 26, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "How to pay fees and charges levied by EMA: Guidance to marketing authorisation holders and applicants",
+      "url": "https://www.ema.europa.eu/system/files/documents/other/how-pay_en.pdf",
+      "publishedAt": "2026-08-28",
+      "excerpt": "How to pay fees and charges levied by EMA: Guidance to marketing authorisation holders and applicants",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "How to pay",
+      "url": "https://www.ema.europa.eu/en/about-us/fees-payable-european-medicines-agency/how-pay",
+      "publishedAt": "2026-08-28",
+      "excerpt": "How to pay",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "How to Request a Labeler Code",
+      "url": "http://www.fda.gov/drugs/drug-registration-and-listing-instructions/how-request-labeler-code",
+      "publishedAt": "2026-08-28",
+      "excerpt": "Labeler codes are used to propose and assign national drug codes (NDCs) for drugs and are required prior to listing a drug or reserving an NDC with FDA for the first time. Learn more.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Generic Drug Facilities, Sites and Organization Lists",
+      "url": "http://www.fda.gov/industry/generic-drug-user-fee-amendments/generic-drug-facilities-sites-and-organization-lists",
+      "publishedAt": "2026-08-28",
+      "excerpt": "Generic Drug Facilities, Sites and Organization Lists",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "FDA-TRACK: Biosimilar User Fee Act Procedural Response Goals Summary",
+      "url": "http://www.fda.gov/about-fda/fda-track-agency-wide-program-performance/fda-track-biosimilar-user-fee-act-procedural-response-goals-summary",
+      "publishedAt": "2026-08-28",
+      "excerpt": "FDA-TRACK: Biosimilar User Fee Act Procedural Response Goals Summary",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "FDA-TRACK: Biosimilar User Fee Act Procedural Notification Goals Summary",
+      "url": "http://www.fda.gov/about-fda/fda-track-agency-wide-program-performance/fda-track-biosimilar-user-fee-act-procedural-notification-goals-summary",
+      "publishedAt": "2026-08-28",
+      "excerpt": "FDA-TRACK: Biosimilar User Fee Act Procedural Notification Goals Summary",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "FDA-TRACK: Biosimilar User Fee Act Meeting Goals Summary",
+      "url": "http://www.fda.gov/about-fda/fda-track-agency-wide-program-performance/fda-track-biosimilar-user-fee-act-meeting-goals-summary",
+      "publishedAt": "2026-08-28",
+      "excerpt": "FDA-TRACK: Biosimilar User Fee Act Meeting Goals Summary",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "FDA Public Meeting: FDA-Led Patient-Focused Drug Development Meeting for Nonhealing Chronic Wounds - 08/25/2026",
+      "url": "http://www.fda.gov/drugs/news-events-human-drugs/fda-public-meeting-fda-led-patient-focused-drug-development-meeting-nonhealing-chronic-wounds",
+      "publishedAt": "2026-08-28",
+      "excerpt": "On August 25, 2026, the U.S. Food and Drug Administration (FDA) is hosting a hybrid public meeting on Patient-Focused Drug Development for Nonhealing Chronic Wounds.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Electronic product information (ePI)",
+      "url": "https://www.ema.europa.eu/en/human-regulatory-overview/marketing-authorisation/product-information-requirements/electronic-product-information-epi",
+      "publishedAt": "2026-08-28",
+      "excerpt": "Electronic product information (ePI)",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Electronic Registration and Listing Compliance Program",
+      "url": "http://www.fda.gov/drugs/electronic-drug-registration-and-listing-system-edrls/electronic-registration-and-listing-compliance-program",
+      "publishedAt": "2026-08-28",
+      "excerpt": "Establishment registration and drug listing data is submitted by drug manufacturers and own label drug distributors through electronic means using Structured Product Labeling format (SPL).",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-medwatch",
+      "siteName": "MedWatch Safety Alerts",
+      "region": "US",
+      "title": "Early Alert: IV Start Kit Issue from Avid Medical",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-iv-start-kit-issue-avid-medical",
+      "publishedAt": "2026-08-28",
+      "excerpt": "Avid Medical is removing certain convenience kits affected by the BD ChloraPrep Applicator Recall that may be contaminated with Aspergillus penicillioides.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-medwatch",
+      "siteName": "MedWatch Safety Alerts",
+      "region": "US",
+      "title": "Early Alert: Angiographic Catheter Issue from Boston Scientific",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-angiographic-catheter-issue-boston-scientific",
+      "publishedAt": "2026-08-28",
+      "excerpt": "Boston Scientific Imager II Angiographic Catheters removed due to a manufacturing issue leading to tip detachment; could result in procedural delays, embolism",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Drugs@FDA Data Files",
+      "url": "http://www.fda.gov/drugs/drug-approvals-and-databases/drugsfda-data-files",
+      "publishedAt": "2026-08-28",
+      "excerpt": "Drugs@FDA Downloadable Data File in ZIP format, Data Definitions, and Entity Relationship Diagram (ERD)",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Compounding Information for States",
+      "url": "http://www.fda.gov/drugs/human-drug-compounding/compounding-information-states",
+      "publishedAt": "2026-08-28",
+      "excerpt": "FDA collaborates with state officials in a variety of ways, including by sharing information about compounders who engage in poor practices that could put patients at risk, sharing information about complaints and adverse events, and sharing findings from inspections.",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "reviews",
       "siteName": "Reviews (EN)",
       "region": "JP",
@@ -107,6 +372,66 @@
       "url": "https://www.pmda.go.jp/english/rs-sb-std/rs/0027.html",
       "publishedAt": "2026-08-28",
       "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-medwatch",
+      "siteName": "MedWatch Safety Alerts",
+      "region": "US",
+      "title": "B. Braun Medical Inc. Issues Voluntary Nationwide Recall of 0.9% Sodium Chloride Injection USP, 100 mL, in a 150 mL PAB® Container Due to the Presence of Particulate Matter",
+      "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/b-braun-medical-inc-issues-voluntary-nationwide-recall-09-sodium-chloride-injection-usp-100-ml-150",
+      "publishedAt": "2026-08-28",
+      "excerpt": "FOR IMMEDIATE RELEASE – August 19, 2026– Bethlehem, PA, B. Braun Medical Inc (B. Braun) is voluntarily recalling three (3) lots of 0.9% Sodium Chloride Injection USP, 100 mL, in a 150 mL PAB® Container, to the hospital/healthcare facility/user level due to presence of particulate matter identified a",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Advancing the Use of Complex Innovative Designs in Clinical Trials: From Pilot to Practice - 03/05/2024",
+      "url": "http://www.fda.gov/news-events/fda-meetings-conferences-and-workshops/advancing-use-complex-innovative-designs-clinical-trials-pilot-practice-03052024",
+      "publishedAt": "2026-08-28",
+      "excerpt": "On March 5th, 2024, FDA is conducting a public workshop to discuss aspects of complex adaptive, Bayesian, and other novel clinical trial designs. This meeting is being conducted to meet the performance goal of convening a public workshop on complex innovative design (CID) included in the seventh authorization of the Prescription Drug User Fee Act",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Advances in PBPK Modeling and its Regulatory Utility for Oral Drug Product Development - 10/12/2023",
+      "url": "http://www.fda.gov/news-events/fda-meetings-conferences-and-workshops/advances-pbpk-modeling-and-its-regulatory-utility-oral-drug-product-development-10122023",
+      "publishedAt": "2026-08-28",
+      "excerpt": "The applications of physiologically-based pharmacokinetic (PBPK) absorption modeling and simulation (M&amp;S) have been expanding in recent years for both new drug and generic drug development.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "2026 PDA/FDA Joint Regulatory Conference - 09/14/2026",
+      "url": "http://www.fda.gov/drugs/news-events-human-drugs/2026-pdafda-joint-regulatory-conference-09142026",
+      "publishedAt": "2026-08-28",
+      "excerpt": "FDA and Parenteral Drug Association (PDA) will host the 2026 PDA/FDA Joint Regulatory Conference, Excellence in CGMP: Ensuring Quality, Protecting Patients, in Washington, D.C.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "2024 PDA/ FDA Joint Regulatory Conference - 09/09/2024",
+      "url": "http://www.fda.gov/news-events/fda-meetings-conferences-and-workshops/2024-pda-fda-joint-regulatory-conference-09092024",
+      "publishedAt": "2026-08-28",
+      "excerpt": "The FDA and Parenteral Drug Association (PDA) are leveraging their combined strengths in this annual joint Current Good Manufacturing Practices (CGMP) conference – now in its 33rd year.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "12th Annual Global Summit on Regulatory Science - 10/19/2022",
+      "url": "http://www.fda.gov/news-events/fda-meetings-conferences-and-workshops/12th-annual-global-summit-regulatory-science-10192022",
+      "publishedAt": "2026-08-28",
+      "excerpt": "12th Annual Global Summit on Regulatory Science. Registration for the Global Summit. Regulatory Science.",
       "sourceType": "rss"
     },
     {
@@ -347,16 +672,6 @@
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/bilprevda",
       "publishedAt": "2026-08-27",
       "excerpt": "Human medicines European public assessment report (EPAR): Bilprevda, denosumab, Date of authorisation: 17/09/2025, Revision: 4, Status: Authorised",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "Generic Drug Facilities, Sites and Organization Lists",
-      "url": "http://www.fda.gov/industry/generic-drug-user-fee-amendments/generic-drug-facilities-sites-and-organization-lists",
-      "publishedAt": "2026-08-27",
-      "excerpt": "Generic Drug Facilities, Sites and Organization Lists",
       "sourceType": "rss"
     },
     {
@@ -913,16 +1228,6 @@
       "siteId": "fda-whats-new-drugs",
       "siteName": "What's New: Drugs",
       "region": "US",
-      "title": "Drugs@FDA Data Files",
-      "url": "http://www.fda.gov/drugs/drug-approvals-and-databases/drugsfda-data-files",
-      "publishedAt": "2026-08-26",
-      "excerpt": "Drugs@FDA Downloadable Data File in ZIP format, Data Definitions, and Entity Relationship Diagram (ERD)",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
       "title": "Compounding Quality Center of Excellence | Engage with the Compounding Quality Center of Excellence",
       "url": "http://www.fda.gov/drugs/compounding-quality-center-excellence/compounding-quality-center-excellence-engage-compounding-quality-center-excellence",
       "publishedAt": "2026-08-26",
@@ -1000,61 +1305,61 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ 承認審査",
+      "siteName": "Review for (marketing) approval (JP)",
       "region": "JP",
-      "title": "[安全]「医薬品に関する評価中のリスク等の情報について」を掲載しました",
+      "title": "[医薬]新医薬品の承認品目一覧（2026年8月24日承認分まで）を掲載しました",
+      "url": "https://www.pmda.go.jp/review-services/drug-reviews/review-information/p-drugs/0040.html",
+      "publishedAt": "2026-08-25",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Safety Measures (JP)",
+      "region": "JP",
+      "title": "[医薬]「医薬品に関する評価中のリスク等の情報について」を掲載しました",
       "url": "https://www.pmda.go.jp/safety/info-services/drugs/calling-attention/risk-communications/0001.html",
       "publishedAt": "2026-08-25",
       "excerpt": "",
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Safety Measures (JP)",
       "region": "JP",
-      "title": "[安全]「不具合が疑われる症例報告に関する情報（医療機器）」に2026年4月分の情報を追加しました",
-      "url": "https://www.pmda.go.jp/safety/info-services/devices/0090.html",
-      "publishedAt": "2026-08-25",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
-      "region": "JP",
-      "title": "[安全]「不具合が疑われる症例報告に関する情報（再生医療等製品）」に2026年4月分の情報を追加しました",
-      "url": "https://www.pmda.go.jp/safety/info-services/ctp/0006.html",
-      "publishedAt": "2026-08-25",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
-      "region": "JP",
-      "title": "[安全]「不具合が疑われる症例報告に関する情報（コンビネーション製品）」に2026年4月分の情報を追加しました",
+      "title": "[医薬]「不具合が疑われる症例報告に関する情報（コンビネーション製品）」に2026年4月分の情報を追加しました",
       "url": "https://www.pmda.go.jp/safety/info-services/drugs/adr-info/malfunctions-combination-drugs/0001.html",
       "publishedAt": "2026-08-25",
       "excerpt": "",
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Safety Measures (JP)",
       "region": "JP",
-      "title": "[安全]MIHARI Project  PMDAが実施している調査の一覧（No.24, 52）を更新しました",
+      "title": "[医薬]MIHARI Project  PMDAが実施している調査の一覧（No.24, 52）を更新しました",
       "url": "https://www.pmda.go.jp/safety/surveillance-analysis/0045.html",
       "publishedAt": "2026-08-25",
       "excerpt": "",
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 承認審査",
-      "siteName": "Review for (marketing) approval (JP)",
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Safety Measures (JP)",
       "region": "JP",
-      "title": "[医薬]新医薬品の承認品目一覧（2026年8月24日承認分まで）を掲載しました",
-      "url": "https://www.pmda.go.jp/review-services/drug-reviews/review-information/p-drugs/0040.html",
+      "title": "[医療]「不具合が疑われる症例報告に関する情報（医療機器）」に2026年4月分の情報を追加しました",
+      "url": "https://www.pmda.go.jp/safety/info-services/devices/0090.html",
+      "publishedAt": "2026-08-25",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Safety Measures (JP)",
+      "region": "JP",
+      "title": "[再生]「不具合が疑われる症例報告に関する情報（再生医療等製品）」に2026年4月分の情報を追加しました",
+      "url": "https://www.pmda.go.jp/safety/info-services/ctp/0006.html",
       "publishedAt": "2026-08-25",
       "excerpt": "",
       "sourceType": "rss"
@@ -1140,16 +1445,6 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "Registered Outsourcing Facilities",
-      "url": "http://www.fda.gov/drugs/human-drug-compounding/registered-outsourcing-facilities",
-      "publishedAt": "2026-08-25",
-      "excerpt": "Discover FDA's comprehensive list of registered outsourcing facilities engaged in human drug compounding. Get the latest updates, compliance guidelines, and resources to ensure safe, high-quality compounded medications. Explore regulations and stay informed with verified facility details.",
-      "sourceType": "rss"
-    },
-    {
       "siteId": "fda-tainted-products-dietary-supplements",
       "siteName": "Tainted Products That are Marketed as Dietary Supplements",
       "region": "US",
@@ -1157,16 +1452,6 @@
       "url": "http://www.fda.gov/drugs/medication-health-fraud-notifications/qu-feng-huo-lou-dan-may-be-harmful-due-hidden-ingredient",
       "publishedAt": "2026-08-25",
       "excerpt": "The Food and Drug Administration is advising consumers not to purchase or use Qu Feng Huo Lou Dan, a product promoted and sold for pain relief on various websites, including www.newgreenusa.com, and possibly in some retail stores.",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "Prescription Drug User Fee Amendments",
-      "url": "http://www.fda.gov/industry/fda-user-fee-programs/prescription-drug-user-fee-amendments",
-      "publishedAt": "2026-08-25",
-      "excerpt": "The Prescription Drug User Fee Act (PDUFA) was created by Congress in 1992 and authorizes FDA to collect fees from companies that produce certain human drug and biological products. Since the passage of PDUFA, user fees have played an important role in expediting the drug approval process.",
       "sourceType": "rss"
     },
     {
@@ -1610,21 +1895,11 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Safety Measures (JP)",
       "region": "JP",
-      "title": "[安全]添付文書改訂相談に基づく添付文書改訂（医薬品）を掲載しました",
+      "title": "[医薬]添付文書改訂相談に基づく添付文書改訂（医薬品）を掲載しました",
       "url": "https://www.pmda.go.jp/safety/info-services/drugs/calling-attention/revision-based-on-the-consultation/0001.html",
-      "publishedAt": "2026-08-24",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
-      "region": "JP",
-      "title": "[安全]クラスI回収 該当回収品目　照射赤血球液-LR「日赤」",
-      "url": "https://www.pmda.go.jp/safety/info-services/drugs/calling-attention/recall-info/0002.html",
       "publishedAt": "2026-08-24",
       "excerpt": "",
       "sourceType": "rss"
@@ -1635,6 +1910,16 @@
       "region": "JP",
       "title": "[医薬]医薬品の最適使用推進ガイドラインを掲載しました",
       "url": "https://www.pmda.go.jp/review-services/drug-reviews/review-information/p-drugs/0028.html",
+      "publishedAt": "2026-08-24",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Safety Measures (JP)",
+      "region": "JP",
+      "title": "[医薬]クラスI回収 該当回収品目　照射赤血球液-LR「日赤」",
+      "url": "https://www.pmda.go.jp/safety/info-services/drugs/calling-attention/recall-info/0002.html",
       "publishedAt": "2026-08-24",
       "excerpt": "",
       "sourceType": "rss"
@@ -2270,31 +2555,31 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Safety Measures (JP)",
       "region": "JP",
-      "title": "[安全]「副作用が疑われる症例報告に関する情報」に2026年4月分の情報を追加しました",
+      "title": "[医薬]「副作用が疑われる症例報告に関する情報」に2026年4月分の情報を追加しました",
       "url": "https://www.pmda.go.jp/safety/info-services/drugs/adr-info/suspected-adr/0005.html",
       "publishedAt": "2026-08-21",
       "excerpt": "",
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Safety Measures (JP)",
       "region": "JP",
-      "title": "[安全]「2025年度医療機器相談の受付状況」を掲載しました",
-      "url": "https://www.pmda.go.jp/safety/consultation-for-patients/on-devices/state/0001.html",
+      "title": "[医薬]「2025年度くすり相談の受付状況」を掲載しました",
+      "url": "https://www.pmda.go.jp/safety/consultation-for-patients/on-drugs/state/0001.html",
       "publishedAt": "2026-08-21",
       "excerpt": "",
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Safety Measures (JP)",
       "region": "JP",
-      "title": "[安全]「2025年度くすり相談の受付状況」を掲載しました",
-      "url": "https://www.pmda.go.jp/safety/consultation-for-patients/on-drugs/state/0001.html",
+      "title": "[医療]「2025年度医療機器相談の受付状況」を掲載しました",
+      "url": "https://www.pmda.go.jp/safety/consultation-for-patients/on-devices/state/0001.html",
       "publishedAt": "2026-08-21",
       "excerpt": "",
       "sourceType": "rss"
@@ -3087,16 +3372,6 @@
       "url": "http://www.fda.gov/drugs/human-drug-compounding/compounding-and-fda-questions-and-answers",
       "publishedAt": "2026-08-21",
       "excerpt": "Creating a medication tailored to the needs of an individual patient. FDA answers the “what” and “why” of compounding. From consumers to health care professionals, there are many questions about compounding. FDA works to answer questions related to the meaning, intent and requirements of compounding",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "Compounding Information for States",
-      "url": "http://www.fda.gov/drugs/human-drug-compounding/compounding-information-states",
-      "publishedAt": "2026-08-21",
-      "excerpt": "FDA collaborates with state officials in a variety of ways, including by sharing information about compounders who engage in poor practices that could put patients at risk, sharing information about complaints and adverse events, and sharing findings from inspections.",
       "sourceType": "rss"
     },
     {
@@ -3990,8 +4265,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "fda-medwatch",
-      "siteName": "MedWatch Safety Alerts",
+      "siteId": "fda-recalls",
+      "siteName": "Recalls",
       "region": "US",
       "title": "B. Braun Medical Inc. Issues Voluntary North American Recall of Excel® Lactated Ringers Injection, 1000mL Due to the Presence of Particulate Matter",
       "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/b-braun-medical-inc-issues-voluntary-north-american-recall-excelr-lactated-ringers-injection-1000ml",
@@ -4303,16 +4578,6 @@
       "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
       "siteName": "Human medicines: EPARs and summaries of opinion",
       "region": "EU",
-      "title": "Human medicines European public assessment report (EPAR): Mounjaro, tirzepatide, Date of authorisation: 15/09/2022, Revision: 20, Status: Authorised",
-      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/mounjaro",
-      "publishedAt": "2026-08-18",
-      "excerpt": "Human medicines European public assessment report (EPAR): Mounjaro, tirzepatide, Date of authorisation: 15/09/2022, Revision: 20, Status: Authorised",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
-      "siteName": "Human medicines: EPARs and summaries of opinion",
-      "region": "EU",
       "title": "Human medicines European public assessment report (EPAR): MenQuadfi, meningococcal group A, C, W-135 and Y conjugate vaccine, Date of authorisation: 18/11/2020, Revision: 27, Status: Authorised",
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/menquadfi",
       "publishedAt": "2026-08-18",
@@ -4417,16 +4682,6 @@
       "url": "http://www.fda.gov/news-events/press-announcements/fda-seeks-public-feedback-inform-regulatory-approach-generative-ai-enabled-medical-devices",
       "publishedAt": "2026-08-18",
       "excerpt": "The U.S. Food and Drug Administration today issued a discussion paper on considerations for the regulation of generative artificial intelligence (GenAI)-enabled medical devices, seeking feedback from interested parties on risk assessment, premarket evaluation, postmarket monitoring, and other topics",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "FDA Public Meeting: FDA-Led Patient-Focused Drug Development Meeting for Nonhealing Chronic Wounds - 08/25/2026",
-      "url": "http://www.fda.gov/drugs/news-events-human-drugs/fda-public-meeting-fda-led-patient-focused-drug-development-meeting-nonhealing-chronic-wounds",
-      "publishedAt": "2026-08-18",
-      "excerpt": "On August 25, 2026, the U.S. Food and Drug Administration (FDA) is hosting a hybrid public meeting on Patient-Focused Drug Development for Nonhealing Chronic Wounds.",
       "sourceType": "rss"
     },
     {
@@ -4560,10 +4815,10 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Safety Measures (JP)",
       "region": "JP",
-      "title": "[安全]［MID-NET］MID-NETの利活用状況を更新しました",
+      "title": "[医薬]［MID-NET］MID-NETの利活用状況を更新しました",
       "url": "https://www.pmda.go.jp/safety/mid-net/0010.html",
       "publishedAt": "2026-08-17",
       "excerpt": "",
@@ -5200,16 +5455,6 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "Patent Certifications and Suitability Petitions",
-      "url": "http://www.fda.gov/drugs/abbreviated-new-drug-application-anda/patent-certifications-and-suitability-petitions",
-      "publishedAt": "2026-08-13",
-      "excerpt": "Information on patents and suitability petitions that impact the availability of generic drugs.",
-      "sourceType": "rss"
-    },
-    {
       "siteId": "ema-whats-new",
       "siteName": "What's new",
       "region": "EU",
@@ -5540,10 +5785,10 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Safety Measures (JP)",
       "region": "JP",
-      "title": "[安全]医薬品・医療機器等安全性情報 No.431（厚生労働省発行）を掲載しました",
+      "title": "[全製品]医薬品・医療機器等安全性情報 No.431（厚生労働省発行）を掲載しました",
       "url": "https://www.pmda.go.jp/safety/info-services/drugs/calling-attention/safety-info/0166.html",
       "publishedAt": "2026-08-12",
       "excerpt": "",
@@ -7763,16 +8008,6 @@
       "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
       "siteName": "Human medicines: EPARs and summaries of opinion",
       "region": "EU",
-      "title": "Human medicines European public assessment report (EPAR): SomaKit TOC, edotreotide, Date of authorisation: 08/12/2016, Revision: 23, Status: Authorised",
-      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/somakit-toc",
-      "publishedAt": "2026-08-04",
-      "excerpt": "Human medicines European public assessment report (EPAR): SomaKit TOC, edotreotide, Date of authorisation: 08/12/2016, Revision: 23, Status: Authorised",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
-      "siteName": "Human medicines: EPARs and summaries of opinion",
-      "region": "EU",
       "title": "Human medicines European public assessment report (EPAR): Silapo, epoetin zeta, Date of authorisation: 18/12/2007, Revision: 18, Status: Authorised",
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/silapo",
       "publishedAt": "2026-08-04",
@@ -7970,21 +8205,11 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Safety Measures (JP)",
       "region": "JP",
-      "title": "[安全]［MID-NET］MID-NETの利活用に関する有識者会議の情報を更新しました",
+      "title": "[医薬]［MID-NET］MID-NETの利活用に関する有識者会議の情報を更新しました",
       "url": "https://www.pmda.go.jp/safety/mid-net/0011.html",
-      "publishedAt": "2026-08-03",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
-      "region": "JP",
-      "title": "[安全][MID-NET]利活用ガイドライン、事務処理手続通知を改正しました",
-      "url": "https://www.pmda.go.jp/safety/mid-net/0016.html",
       "publishedAt": "2026-08-03",
       "excerpt": "",
       "sourceType": "rss"
@@ -7995,6 +8220,16 @@
       "region": "JP",
       "title": "[医薬]「バイオ後続品」のページを更新しました",
       "url": "https://www.pmda.go.jp/review-services/drug-reviews/about-reviews/p-drugs/0034.html",
+      "publishedAt": "2026-08-03",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Safety Measures (JP)",
+      "region": "JP",
+      "title": "[医薬][MID-NET]利活用ガイドライン、事務処理手続通知を改正しました",
+      "url": "https://www.pmda.go.jp/safety/mid-net/0016.html",
       "publishedAt": "2026-08-03",
       "excerpt": "",
       "sourceType": "rss"
@@ -8197,16 +8432,6 @@
       "url": "http://www.fda.gov/drugs/drug-registration-and-listing-instructions/how-reserve-national-drug-code",
       "publishedAt": "2026-08-03",
       "excerpt": "Reserving a national drug code is an optional step that provides an NDC up to two years before a drug is ready to launch. Learn more.",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "How to Request a Labeler Code",
-      "url": "http://www.fda.gov/drugs/drug-registration-and-listing-instructions/how-request-labeler-code",
-      "publishedAt": "2026-08-03",
-      "excerpt": "Labeler codes are used to propose and assign national drug codes (NDCs) for drugs and are required prior to listing a drug or reserving an NDC with FDA for the first time. Learn more.",
       "sourceType": "rss"
     },
     {
@@ -9220,16 +9445,6 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "Untitled Letters",
-      "url": "http://www.fda.gov/drugs/warning-letters-and-notice-violation-letters-pharmaceutical-companies/untitled-letters",
-      "publishedAt": "2026-07-28",
-      "excerpt": "These letters are supplied by the CDER Freedom of Information Office and only cover Office of Prescription Drug Promotion's untitled letters. FDA may have redacted or edited some of the letters to remove confidential information.",
-      "sourceType": "rss"
-    },
-    {
       "siteId": "fda-ora-foia-electronic-reading-room",
       "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
       "region": "US",
@@ -9627,16 +9842,6 @@
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/apixaban-accord",
       "publishedAt": "2026-07-27",
       "excerpt": "Human medicines European public assessment report (EPAR): Apixaban Accord, apixaban, Date of authorisation: 23/07/2020, Revision: 8, Status: Authorised",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "Electronic Registration and Listing Compliance Program",
-      "url": "http://www.fda.gov/drugs/electronic-drug-registration-and-listing-system-edrls/electronic-registration-and-listing-compliance-program",
-      "publishedAt": "2026-07-27",
-      "excerpt": "Establishment registration and drug listing data is submitted by drug manufacturers and own label drug distributors through electronic means using Structured Product Labeling format (SPL).",
       "sourceType": "rss"
     },
     {
@@ -16670,16 +16875,6 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "safety-measures",
-      "siteName": "Safety Measures (EN)",
-      "region": "JP",
-      "title": "MHLW Pharmaceuticals and Medical Devices Safety Information No.429 posted",
-      "url": "https://www.pmda.go.jp/english/safety/info-services/drugs/medical-safety-information/0024.html",
-      "publishedAt": "2026-07-07",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
       "siteId": "ema-whats-new",
       "siteName": "What's new",
       "region": "EU",
@@ -20883,26 +21078,6 @@
       "siteId": "fda-whats-new-drugs",
       "siteName": "What's New: Drugs",
       "region": "US",
-      "title": "FDA-TRACK: Biosimilar User Fee Act Procedural Response Goals Summary",
-      "url": "http://www.fda.gov/about-fda/fda-track-agency-wide-program-performance/fda-track-biosimilar-user-fee-act-procedural-response-goals-summary",
-      "publishedAt": "2026-06-23",
-      "excerpt": "FDA-TRACK: Biosimilar User Fee Act Procedural Response Goals Summary",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "FDA-TRACK: Biosimilar User Fee Act Meeting Goals Summary",
-      "url": "http://www.fda.gov/about-fda/fda-track-agency-wide-program-performance/fda-track-biosimilar-user-fee-act-meeting-goals-summary",
-      "publishedAt": "2026-06-23",
-      "excerpt": "FDA-TRACK: Biosimilar User Fee Act Meeting Goals Summary",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
       "title": "FDA Approves First Generic of Priftin (rifapentine) Tablets",
       "url": "http://www.fda.gov/drugs/drug-alerts-and-statements/fda-approves-first-generic-priftin-rifapentine-tablets",
       "publishedAt": "2026-06-23",
@@ -24330,8 +24505,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 承認審査",
-      "siteName": "Review for (marketing) approval (JP)",
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Safety Measures (JP)",
       "region": "JP",
       "title": "[安全][医療]「医療機器添付文書改訂相談」のページを掲載しました",
       "url": "https://www.pmda.go.jp/review-services/f2f-pre/consultations/0122.html",
@@ -24570,8 +24745,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 承認審査",
-      "siteName": "Review for (marketing) approval (JP)",
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Safety Measures (JP)",
       "region": "JP",
       "title": "[審査][安全][イベント]PMDAシンポジウム「生成AIの医療活用の最前線」の開催について（資料掲載）",
       "url": "https://www.pmda.go.jp/review-services/symposia/0198.html",
@@ -24580,8 +24755,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 承認審査",
-      "siteName": "Review for (marketing) approval (JP)",
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Safety Measures (JP)",
       "region": "JP",
       "title": "[審査][安全][イベント]PMDAシンポジウム「リアルワールドデータを活用した医療機器開発」の開催について（資料掲載）",
       "url": "https://www.pmda.go.jp/review-services/symposia/0199.html",
