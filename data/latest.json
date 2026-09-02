@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-02T18:48:30.430268+00:00",
-  "count": 2852,
+  "generatedAt": "2026-09-02T21:54:38.561886+00:00",
+  "count": 2856,
   "errors": [
     {
       "groupId": "ema",
@@ -13,8 +13,18 @@
       "error": "RSS fetch failed - keeping archived data"
     },
     {
+      "groupId": "ema",
+      "siteId": "ema-human-medicines-highlights-newsletter",
+      "error": "RSS fetch failed - keeping archived data"
+    },
+    {
       "groupId": "pmda",
       "siteId": "services-for-healtheffects",
+      "error": "RSS fetch failed - keeping archived data"
+    },
+    {
+      "groupId": "pmda",
+      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
       "error": "RSS fetch failed - keeping archived data"
     },
     {
@@ -163,6 +173,16 @@
       "siteId": "fda-whats-new-drugs",
       "siteName": "What's New: Drugs",
       "region": "US",
+      "title": "Standard Safety Tables and Figures (ST&Fs)",
+      "url": "http://www.fda.gov/drugs/development-resources/standard-safety-tables-and-figures-stfs",
+      "publishedAt": "2026-09-02",
+      "excerpt": "The Standard Safety Tables and Figures (ST&Fs) are designed to reduce clinical reviewers’ time in generating safety review content and to ensure consistency in the safety review of products across Divisions.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
       "title": "Sexual Enhancement and Energy Product Notifications",
       "url": "http://www.fda.gov/drugs/medication-health-fraud-notifications/sexual-enhancement-and-energy-product-notifications",
       "publishedAt": "2026-09-02",
@@ -177,6 +197,16 @@
       "url": "https://www.ema.europa.eu/en/medicines/human/shortages/saxenda",
       "publishedAt": "2026-09-02",
       "excerpt": "Saxenda",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Registered Outsourcing Facilities",
+      "url": "http://www.fda.gov/drugs/human-drug-compounding/registered-outsourcing-facilities",
+      "publishedAt": "2026-09-02",
+      "excerpt": "Discover FDA's comprehensive list of registered outsourcing facilities engaged in human drug compounding. Get the latest updates, compliance guidelines, and resources to ensure safe, high-quality compounded medications. Explore regulations and stay informed with verified facility details.",
       "sourceType": "rss"
     },
     {
@@ -253,6 +283,16 @@
       "siteId": "fda-whats-new-drugs",
       "siteName": "What's New: Drugs",
       "region": "US",
+      "title": "Office of New Drugs Custom Medical Queries (OCMQs)",
+      "url": "http://www.fda.gov/drugs/development-resources/office-new-drugs-custom-medical-queries-ocmqs",
+      "publishedAt": "2026-09-02",
+      "excerpt": "Office of New Drugs Custom Medical Queries (OCMQs) are standardized groupings of similar adverse event terms intended to assist with the identification of potential safety issues during review of adverse event data.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
       "title": "Non-Compliance Letters under 505B(d)(1) of the Federal Food, Drug, and Cosmetic Act",
       "url": "http://www.fda.gov/drugs/guidance-compliance-regulatory-information/non-compliance-letters-under-505bd1-federal-food-drug-and-cosmetic-act",
       "publishedAt": "2026-09-02",
@@ -267,6 +307,16 @@
       "url": "http://www.fda.gov/drugs/medication-health-fraud-notifications/maxman-coffee-may-be-harmful-due-hidden-drug-ingredients",
       "publishedAt": "2026-09-02",
       "excerpt": "The Food and Drug Administration is advising consumers not to purchase or use MAXMAN Coffee, a product promoted for sexual enhancement on various websites and possibly in some retail stores.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "List of Determinations Including Written Request",
+      "url": "http://www.fda.gov/drugs/development-resources/list-determinations-including-written-request",
+      "publishedAt": "2026-09-02",
+      "excerpt": "In accordance with section 505A(e)(1) of the Act, as amended by FDAAA (Pub. L. No. 110-85), the following list identifies those approved drugs for which a pediatric exclusivity determination was made, on or after September 27, 2007.",
       "sourceType": "rss"
     },
     {
@@ -397,6 +447,16 @@
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/cibinqo",
       "publishedAt": "2026-09-02",
       "excerpt": "Human medicines European public assessment report (EPAR): Cibinqo, abrocitinib, Date of authorisation: 09/12/2021, Revision: 18, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Good Clinical Practices Are Not Optional: The FDA’s Commitment to Human Subject Protections and Gold Standard Science in an Era of Global Clinical Research",
+      "url": "http://www.fda.gov/news-events/fda-voices/good-clinical-practices-are-not-optional-fdas-commitment-human-subject-protections-and-gold-standard",
+      "publishedAt": "2026-09-02",
+      "excerpt": "The FDA’s position is clear: GCP is not bureaucratic formality. It is the scientific and ethical foundation on which our regulatory decisions rest.",
       "sourceType": "rss"
     },
     {
@@ -550,8 +610,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[薬局方][パブコメ]日本薬局方収載原案に関する改正案の報告について（2026年9月）",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/pub-comments/jp/0264.html",
@@ -560,8 +620,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[薬局方][パブコメ]日本薬局方収載原案に関するご意見の募集について（2026年9月分 その2）",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/pub-comments/jp/0263.html",
@@ -570,8 +630,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[薬局方][パブコメ]日本薬局方収載原案に関するご意見の募集について（2026年9月分 その1）",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/pub-comments/jp/0265.html",
@@ -1480,8 +1540,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[RS][イベント]第12回PMDAレギュラトリーサイエンス研究会の開催について更新しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/symposia/0034.html",
@@ -1537,16 +1597,6 @@
       "url": "http://www.fda.gov/news-events/fda-meetings-conferences-and-workshops/regulatory-education-industry-redi-annual-conference-2026-innovative-regulatory-strategies-advance",
       "publishedAt": "2026-08-28",
       "excerpt": "Learn directly from the FDA’s regulatory experts in medical product centers: drugs, devices, and biologics.",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "Registered Outsourcing Facilities",
-      "url": "http://www.fda.gov/drugs/human-drug-compounding/registered-outsourcing-facilities",
-      "publishedAt": "2026-08-28",
-      "excerpt": "Discover FDA's comprehensive list of registered outsourcing facilities engaged in human drug compounding. Get the latest updates, compliance guidelines, and resources to ensure safe, high-quality compounded medications. Explore regulations and stay informed with verified facility details.",
       "sourceType": "rss"
     },
     {
@@ -1980,8 +2030,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[その他]研究支援委員会の委員名簿を更新しました。",
       "url": "https://www.pmda.go.jp/rs-std-jp/research/0008.html",
@@ -1990,8 +2040,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[その他]倫理審査委員会の委員名簿を更新しました。",
       "url": "https://www.pmda.go.jp/rs-std-jp/research/0009.html",
@@ -2360,8 +2410,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[その他]「申請電子データを活用した解析」のページを更新しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/0002.html",
@@ -6570,8 +6620,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[RS]2025年度レギュラトリーサイエンス活動報告書（日本語版 PDF）を掲載しました。",
       "url": "https://www.pmda.go.jp/rs-std-jp/outline/0001.html",
