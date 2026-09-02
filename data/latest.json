@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-02T14:35:28.566209+00:00",
-  "count": 2848,
+  "generatedAt": "2026-09-02T18:48:30.430268+00:00",
+  "count": 2852,
   "errors": [
     {
       "groupId": "ema",
@@ -15,16 +15,6 @@
     {
       "groupId": "pmda",
       "siteId": "services-for-healtheffects",
-      "error": "RSS fetch failed - keeping archived data"
-    },
-    {
-      "groupId": "pmda",
-      "siteId": "PMDA：トップ 安全対策",
-      "error": "RSS fetch failed - keeping archived data"
-    },
-    {
-      "groupId": "pmda",
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
       "error": "RSS fetch failed - keeping archived data"
     },
     {
@@ -130,6 +120,36 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Withdrawn | Cancer Accelerated Approvals",
+      "url": "http://www.fda.gov/drugs/resources-information-approved-drugs/withdrawn-cancer-accelerated-approvals",
+      "publishedAt": "2026-09-02",
+      "excerpt": "This listing includes accelerated approvals (AAs) for malignant hematology and oncology indications that have been subsequently withdrawn, and are therefore, no longer FDA-approved.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "What's New Related to Drugs",
+      "url": "http://www.fda.gov/drugs/news-events-human-drugs/whats-new-related-drugs",
+      "publishedAt": "2026-09-02",
+      "excerpt": "Want to know what's new on drugs from FDA? This page provides quick links to the latest on a variety of topics including: drug approvals, safety warnings, drug shortages, etc.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Veterinary medicines European public assessment report (EPAR): Bexatil, Bexagliflozin, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/veterinary/EPAR/bexatil",
+      "publishedAt": "2026-09-02",
+      "excerpt": "Veterinary medicines European public assessment report (EPAR): Bexatil, Bexagliflozin, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "ema-whats-new",
       "siteName": "What's new",
       "region": "EU",
@@ -140,6 +160,16 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Sexual Enhancement and Energy Product Notifications",
+      "url": "http://www.fda.gov/drugs/medication-health-fraud-notifications/sexual-enhancement-and-energy-product-notifications",
+      "publishedAt": "2026-09-02",
+      "excerpt": "Learn about the warnings for sexual enhancement and energy products that contain hidden drugs and other hidden ingredients.",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "ema-whats-new",
       "siteName": "What's new",
       "region": "EU",
@@ -147,6 +177,16 @@
       "url": "https://www.ema.europa.eu/en/medicines/human/shortages/saxenda",
       "publishedAt": "2026-09-02",
       "excerpt": "Saxenda",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Rare Disease Drug Approvals",
+      "url": "http://www.fda.gov/about-fda/accelerating-rare-disease-cures-arc-program/rare-disease-drug-approvals",
+      "publishedAt": "2026-09-02",
+      "excerpt": "This page describes recent rare disease drug approvals that received a CDER or FDA communication.  This is not an exhaustive list of all rare disease drug approvals.",
       "sourceType": "rss"
     },
     {
@@ -177,6 +217,56 @@
       "url": "https://www.ema.europa.eu/en/human-regulatory-overview/marketing-authorisation/pre-authorisation-guidance",
       "publishedAt": "2026-09-02",
       "excerpt": "Pre-authorisation guidance",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Plasma master file certificates",
+      "url": "https://www.ema.europa.eu/en/human-regulatory-overview/plasma-master-file-pmf-certification/plasma-master-file-certificates",
+      "publishedAt": "2026-09-02",
+      "excerpt": "Plasma master file certificates",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Pharmacokinetics in Patients with Impaired Hepatic Function: Study Design, Data Analysis, and Impact on Dosing and Labeling",
+      "url": "http://www.fda.gov/regulatory-information/search-fda-guidance-documents/pharmacokinetics-patients-impaired-hepatic-function-study-design-data-analysis-and-impact-dosing-and",
+      "publishedAt": "2026-09-02",
+      "excerpt": "Clinical Pharmacology",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Ongoing | Cancer Accelerated Approvals",
+      "url": "http://www.fda.gov/drugs/resources-information-approved-drugs/ongoing-cancer-accelerated-approvals",
+      "publishedAt": "2026-09-02",
+      "excerpt": "This listing includes accelerated approvals (AAs) for malignant hematology and oncology indications that have postmarketing requirement(s) for ongoing clinical trial(s) to verify clinical benefit.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Non-Compliance Letters under 505B(d)(1) of the Federal Food, Drug, and Cosmetic Act",
+      "url": "http://www.fda.gov/drugs/guidance-compliance-regulatory-information/non-compliance-letters-under-505bd1-federal-food-drug-and-cosmetic-act",
+      "publishedAt": "2026-09-02",
+      "excerpt": "Section 505B(d)(1) requires FDA to send a PREA Non-Compliance letter to sponsors who have failed to submit their pediatric assessments required under PREA by the final due date, have failed to seek or obtain a deferral or deferral extension.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "MAXMAN Coffee may be harmful due to hidden drug ingredients",
+      "url": "http://www.fda.gov/drugs/medication-health-fraud-notifications/maxman-coffee-may-be-harmful-due-hidden-drug-ingredients",
+      "publishedAt": "2026-09-02",
+      "excerpt": "The Food and Drug Administration is advising consumers not to purchase or use MAXMAN Coffee, a product promoted for sexual enhancement on various websites and possibly in some retail stores.",
       "sourceType": "rss"
     },
     {
@@ -313,10 +403,30 @@
       "siteId": "fda-whats-new-drugs",
       "siteName": "What's New: Drugs",
       "region": "US",
+      "title": "Generic Drug Facilities, Sites and Organization Lists",
+      "url": "http://www.fda.gov/industry/generic-drug-user-fee-amendments/generic-drug-facilities-sites-and-organization-lists",
+      "publishedAt": "2026-09-02",
+      "excerpt": "Generic Drug Facilities, Sites and Organization Lists",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
       "title": "FDALabel:  Full-Text Search of Drug Product Labeling",
       "url": "http://www.fda.gov/science-research/bioinformatics-tools/fdalabel-full-text-search-drug-product-labeling",
       "publishedAt": "2026-09-02",
       "excerpt": "FDALabel Database is a web-based application that allows users to perform customizable searches of a database containing over 160,000 labeling documents for FDA-approved drug products, including human and animal prescription and over-the-counter drugs, biological products, and medical devices.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Evaluation of Therapeutic Equivalence",
+      "url": "http://www.fda.gov/regulatory-information/search-fda-guidance-documents/evaluation-therapeutic-equivalence",
+      "publishedAt": "2026-09-02",
+      "excerpt": "Evaluation of Therapeutic Equivalence",
       "sourceType": "rss"
     },
     {
@@ -360,6 +470,16 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "fda-medwatch",
+      "siteName": "MedWatch Safety Alerts",
+      "region": "US",
+      "title": "Early Alert: Convenience Kit Issue from AVID Medical",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-convenience-kit-issue-avid-medical-0",
+      "publishedAt": "2026-09-02",
+      "excerpt": "AVID Medical is correcting convenience kits containing recalled Huons Co. sodium chloride ampules.",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "fda-whats-new-drugs",
       "siteName": "What's New: Drugs",
       "region": "US",
@@ -370,6 +490,26 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "fda-medwatch",
+      "siteName": "MedWatch Safety Alerts",
+      "region": "US",
+      "title": "Convenience Kit Correction: Medline Issues Correction for Convenience Kits Containing BD ChloraPrep Applicators",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-correction-medline-issues-correction-convenience-kits-containing-bd-chloraprep",
+      "publishedAt": "2026-09-02",
+      "excerpt": "Certain BD ChloraPrep Applicators in Convenience Kits manufactured by Medline may not be sterile.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "CDER Small Business & Industry Assistance (SBIA)",
+      "url": "http://www.fda.gov/drugs/development-approval-process-drugs/cder-small-business-industry-assistance-sbia",
+      "publishedAt": "2026-09-02",
+      "excerpt": "A Comprehensive Resource for Information on Human Drug Development in Regulation",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "ema-whats-new",
       "siteName": "What's new",
       "region": "EU",
@@ -377,6 +517,16 @@
       "url": "https://www.ema.europa.eu/en/medicines/human/shortages/brevibloc",
       "publishedAt": "2026-09-02",
       "excerpt": "Brevibloc",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Bioresearch Monitoring Information System (BMIS)",
+      "url": "http://www.fda.gov/drugs/drug-approvals-and-databases/bioresearch-monitoring-information-system-bmis",
+      "publishedAt": "2026-09-02",
+      "excerpt": "Bioresearch Monitoring Information System (BMIS) background page with download file.",
       "sourceType": "rss"
     },
     {
@@ -400,8 +550,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
+      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
       "region": "JP",
       "title": "[薬局方][パブコメ]日本薬局方収載原案に関する改正案の報告について（2026年9月）",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/pub-comments/jp/0264.html",
@@ -410,8 +560,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
+      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
       "region": "JP",
       "title": "[薬局方][パブコメ]日本薬局方収載原案に関するご意見の募集について（2026年9月分 その2）",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/pub-comments/jp/0263.html",
@@ -420,8 +570,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
+      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
       "region": "JP",
       "title": "[薬局方][パブコメ]日本薬局方収載原案に関するご意見の募集について（2026年9月分 その1）",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/pub-comments/jp/0265.html",
@@ -447,16 +597,6 @@
       "url": "http://www.fda.gov/drugs/guidances-drugs/withdrawn-and-expired-guidances-drugs",
       "publishedAt": "2026-09-01",
       "excerpt": "Withdrawn and Expired Guidances | Drugs",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "What's New Related to Drugs",
-      "url": "http://www.fda.gov/drugs/news-events-human-drugs/whats-new-related-drugs",
-      "publishedAt": "2026-09-01",
-      "excerpt": "Want to know what's new on drugs from FDA? This page provides quick links to the latest on a variety of topics including: drug approvals, safety warnings, drug shortages, etc.",
       "sourceType": "rss"
     },
     {
@@ -617,16 +757,6 @@
       "url": "https://www.ema.europa.eu/en/human-regulatory-overview/research-development/portfolio-technology-meetings",
       "publishedAt": "2026-09-01",
       "excerpt": "Portfolio and technology meetings",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "Pharmacokinetics in Patients with Impaired Hepatic Function: Study Design, Data Analysis, and Impact on Dosing and Labeling",
-      "url": "http://www.fda.gov/regulatory-information/search-fda-guidance-documents/pharmacokinetics-patients-impaired-hepatic-function-study-design-data-analysis-and-impact-dosing-and",
-      "publishedAt": "2026-09-01",
-      "excerpt": "Clinical Pharmacology",
       "sourceType": "rss"
     },
     {
@@ -853,16 +983,6 @@
       "siteId": "fda-whats-new-drugs",
       "siteName": "What's New: Drugs",
       "region": "US",
-      "title": "Generic Drug Facilities, Sites and Organization Lists",
-      "url": "http://www.fda.gov/industry/generic-drug-user-fee-amendments/generic-drug-facilities-sites-and-organization-lists",
-      "publishedAt": "2026-09-01",
-      "excerpt": "Generic Drug Facilities, Sites and Organization Lists",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
       "title": "Fresenius Medical Care AG & Co. KGaA - 730319 - 08/25/2026",
       "url": "http://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/fresenius-medical-care-ag-co-kgaa-730319-08252026",
       "publishedAt": "2026-09-01",
@@ -1070,8 +1190,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Adverse Health Effects Relief (JP)",
       "region": "JP",
       "title": "[健康]副用救済給付の決定に関する情報（2026年度6月分）を掲載しました",
       "url": "https://www.pmda.go.jp/relief-services/adr-sufferers/0043.html",
@@ -1107,16 +1227,6 @@
       "url": "http://www.fda.gov/about-fda/accelerating-rare-disease-cures-arc-program/rare-disease-news-events",
       "publishedAt": "2026-08-31",
       "excerpt": "Learn more about recent news and events related to rare diseases.",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "Rare Disease Drug Approvals",
-      "url": "http://www.fda.gov/about-fda/accelerating-rare-disease-cures-arc-program/rare-disease-drug-approvals",
-      "publishedAt": "2026-08-31",
-      "excerpt": "This page describes recent rare disease drug approvals that received a CDER or FDA communication.  This is not an exhaustive list of all rare disease drug approvals.",
       "sourceType": "rss"
     },
     {
@@ -1370,8 +1480,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
+      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
       "region": "JP",
       "title": "[RS][イベント]第12回PMDAレギュラトリーサイエンス研究会の開催について更新しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/symposia/0034.html",
@@ -1870,8 +1980,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
+      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
       "region": "JP",
       "title": "[その他]研究支援委員会の委員名簿を更新しました。",
       "url": "https://www.pmda.go.jp/rs-std-jp/research/0008.html",
@@ -1880,8 +1990,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
+      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
       "region": "JP",
       "title": "[その他]倫理審査委員会の委員名簿を更新しました。",
       "url": "https://www.pmda.go.jp/rs-std-jp/research/0009.html",
@@ -2160,16 +2270,6 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "CDER Small Business & Industry Assistance (SBIA)",
-      "url": "http://www.fda.gov/drugs/development-approval-process-drugs/cder-small-business-industry-assistance-sbia",
-      "publishedAt": "2026-08-27",
-      "excerpt": "A Comprehensive Resource for Information on Human Drug Development in Regulation",
-      "sourceType": "rss"
-    },
-    {
       "siteId": "ema-whats-new",
       "siteName": "What's new",
       "region": "EU",
@@ -2250,8 +2350,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Adverse Health Effects Relief (JP)",
       "region": "JP",
       "title": "[健康]医薬品副作用被害救済制度 対象除外医薬品等一覧を更新しました",
       "url": "https://www.pmda.go.jp/relief-services/adr-sufferers/0022.html",
@@ -2260,8 +2360,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
+      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
       "region": "JP",
       "title": "[その他]「申請電子データを活用した解析」のページを更新しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/0002.html",
@@ -4630,16 +4730,6 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "Evaluation of Therapeutic Equivalence",
-      "url": "http://www.fda.gov/regulatory-information/search-fda-guidance-documents/evaluation-therapeutic-equivalence",
-      "publishedAt": "2026-08-21",
-      "excerpt": "Evaluation of Therapeutic Equivalence",
-      "sourceType": "rss"
-    },
-    {
       "siteId": "fda-medwatch",
       "siteName": "MedWatch Safety Alerts",
       "region": "US",
@@ -4847,16 +4937,6 @@
       "url": "https://www.ema.europa.eu/system/files/documents/other/timetable-companion-diagnostic-follow-consultation-en_0.xlsx",
       "publishedAt": "2026-08-20",
       "excerpt": "Timetable: Companion diagnostic follow-up consultation",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-medwatch",
-      "siteName": "MedWatch Safety Alerts",
-      "region": "US",
-      "title": "Optimal Balance Pharmacy Issues Voluntary Nationwide Recall of Certain Lots of Compounded Glutathione 200 mg/mL Multi-Dose Vials Due to Elevated Endotoxin Levels",
-      "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/optimal-balance-pharmacy-issues-voluntary-nationwide-recall-certain-lots-compounded-glutathione-200",
-      "publishedAt": "2026-08-20",
-      "excerpt": "FOR IMMEDIATE RELEASE – August 19, 2026 – Houston, Texas, Optimal Balance Pharmacy is voluntarily recalling one lot of Compounded Glutathione 200 MG/ML 30 ML Multi-Dose Vials to the patient level. The product is being recalled because pharmacy testing identified elevated bacterial endotoxin levels.",
       "sourceType": "rss"
     },
     {
@@ -5210,6 +5290,16 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "fda-recalls",
+      "siteName": "Recalls",
+      "region": "US",
+      "title": "Optimal Balance Pharmacy Issues Voluntary Nationwide Recall of Certain Lots of Compounded Glutathione 200 mg/mL Multi-Dose Vials Due to Elevated Endotoxin Levels",
+      "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/optimal-balance-pharmacy-issues-voluntary-nationwide-recall-certain-lots-compounded-glutathione-200",
+      "publishedAt": "2026-08-19",
+      "excerpt": "FOR IMMEDIATE RELEASE – August 19, 2026 – Houston, Texas, Optimal Balance Pharmacy is voluntarily recalling one lot of Compounded Glutathione 200 MG/ML 30 ML Multi-Dose Vials to the patient level. The product is being recalled because pharmacy testing identified elevated bacterial endotoxin levels.",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "ema-whats-new",
       "siteName": "What's new",
       "region": "EU",
@@ -5217,16 +5307,6 @@
       "url": "https://www.ema.europa.eu/en/opinion-medicine-use-outside-EU/human/dengue-tetravalent-vaccine-live-attenuated-takeda",
       "publishedAt": "2026-08-19",
       "excerpt": "Opinion on medicine for use outside EU: Dengue Tetravalent Vaccine (Live, Attenuated) Takeda, Dengue virus, serotype 2, expressing Dengue virus, serotype 1, surface proteins, live, attenuated,Dengue virus, serotype 2, expressing Dengue virus, serotype 3, surface proteins, live, attenuated,Dengue virus, serotype 2, expressing Dengue virus, serotype 4, surface proteins, live, attenuated,Dengue virus, serotype 2, live, attenuated, Dengue, 13/10/2022  Positive opinion",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "Non-Compliance Letters under 505B(d)(1) of the Federal Food, Drug, and Cosmetic Act",
-      "url": "http://www.fda.gov/drugs/guidance-compliance-regulatory-information/non-compliance-letters-under-505bd1-federal-food-drug-and-cosmetic-act",
-      "publishedAt": "2026-08-19",
-      "excerpt": "Section 505B(d)(1) requires FDA to send a PREA Non-Compliance letter to sponsors who have failed to submit their pediatric assessments required under PREA by the final due date, have failed to seek or obtain a deferral or deferral extension.",
       "sourceType": "rss"
     },
     {
@@ -5740,16 +5820,6 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "Ongoing | Cancer Accelerated Approvals",
-      "url": "http://www.fda.gov/drugs/resources-information-approved-drugs/ongoing-cancer-accelerated-approvals",
-      "publishedAt": "2026-08-18",
-      "excerpt": "This listing includes accelerated approvals (AAs) for malignant hematology and oncology indications that have postmarketing requirement(s) for ongoing clinical trial(s) to verify clinical benefit.",
-      "sourceType": "rss"
-    },
-    {
       "siteId": "ema-whats-new",
       "siteName": "What's new",
       "region": "EU",
@@ -6250,16 +6320,6 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "Withdrawn | Cancer Accelerated Approvals",
-      "url": "http://www.fda.gov/drugs/resources-information-approved-drugs/withdrawn-cancer-accelerated-approvals",
-      "publishedAt": "2026-08-14",
-      "excerpt": "This listing includes accelerated approvals (AAs) for malignant hematology and oncology indications that have been subsequently withdrawn, and are therefore, no longer FDA-approved.",
-      "sourceType": "rss"
-    },
-    {
       "siteId": "fda-food-safety-recalls",
       "siteName": "Food Safety Recalls",
       "region": "US",
@@ -6510,8 +6570,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
+      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
       "region": "JP",
       "title": "[RS]2025年度レギュラトリーサイエンス活動報告書（日本語版 PDF）を掲載しました。",
       "url": "https://www.pmda.go.jp/rs-std-jp/outline/0001.html",
@@ -7093,16 +7153,6 @@
       "siteId": "fda-whats-new-drugs",
       "siteName": "What's New: Drugs",
       "region": "US",
-      "title": "Sexual Enhancement and Energy Product Notifications",
-      "url": "http://www.fda.gov/drugs/medication-health-fraud-notifications/sexual-enhancement-and-energy-product-notifications",
-      "publishedAt": "2026-08-12",
-      "excerpt": "Learn about the warnings for sexual enhancement and energy products that contain hidden drugs and other hidden ingredients.",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
       "title": "Q3C(R8) Impurities: Guidance for Residual Solvents",
       "url": "http://www.fda.gov/regulatory-information/search-fda-guidance-documents/q3cr8-impurities-guidance-residual-solvents",
       "publishedAt": "2026-08-12",
@@ -7660,8 +7710,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Adverse Health Effects Relief (JP)",
       "region": "JP",
       "title": "[健康]健康被害救済業務に関するデータを掲載しました",
       "url": "https://www.pmda.go.jp/relief-services/outline/0001.html",
@@ -8957,16 +9007,6 @@
       "url": "https://www.ema.europa.eu/system/files/documents/medical_device/ema_ex_0000340980-cecp-decision_opinion-final-nb_en.pdf",
       "publishedAt": "2026-08-04",
       "excerpt": "Retinal stimulation systems - Notified Body 0344 - 12/06/2026 - Expert decision and opinion in the context of the clinical evaluation consultation procedure (CECP)",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "ema-whats-new",
-      "siteName": "What's new",
-      "region": "EU",
-      "title": "Plasma master file certificates",
-      "url": "https://www.ema.europa.eu/en/human-regulatory-overview/plasma-master-file-pmf-certification/plasma-master-file-certificates",
-      "publishedAt": "2026-08-04",
-      "excerpt": "Plasma master file certificates",
       "sourceType": "rss"
     },
     {
@@ -13227,16 +13267,6 @@
       "url": "https://www.ema.europa.eu/system/files/documents/other/terms-reference_veterinary-pharmacovigilance-cluster_en_0.pdf",
       "publishedAt": "2026-07-17",
       "excerpt": "Veterinary pharmacovigilance cluster - Terms of reference",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "ema-whats-new",
-      "siteName": "What's new",
-      "region": "EU",
-      "title": "Veterinary medicines European public assessment report (EPAR): Bexatil, Bexagliflozin, Status: Opinion",
-      "url": "https://www.ema.europa.eu/en/medicines/veterinary/EPAR/bexatil",
-      "publishedAt": "2026-07-17",
-      "excerpt": "Veterinary medicines European public assessment report (EPAR): Bexatil, Bexagliflozin, Status: Opinion",
       "sourceType": "rss"
     },
     {
