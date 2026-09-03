@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-03T09:56:09.486804+00:00",
-  "count": 2862,
+  "generatedAt": "2026-09-03T14:38:16.817684+00:00",
+  "count": 2881,
   "items": [
     {
       "siteId": "PMDA：トップ 承認審査",
@@ -83,6 +83,66 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "What's New Related to Drugs",
+      "url": "http://www.fda.gov/drugs/news-events-human-drugs/whats-new-related-drugs",
+      "publishedAt": "2026-09-03",
+      "excerpt": "Want to know what's new on drugs from FDA? This page provides quick links to the latest on a variety of topics including: drug approvals, safety warnings, drug shortages, etc.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "What is a Botanical Drug?",
+      "url": "http://www.fda.gov/about-fda/cder-offices-and-divisions/what-botanical-drug",
+      "publishedAt": "2026-09-03",
+      "excerpt": "A botanical drug product is intended for use in the diagnosis, cure, mitigation, treatment or prevention of disease in humans. The CDER Botanical Review Team (BRT) has scientific expertise on a wide range of botanical issues. Learn more.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Tropical Disease Priority Review Voucher Program",
+      "url": "http://www.fda.gov/about-fda/center-drug-evaluation-and-research-cder/tropical-disease-priority-review-voucher-program",
+      "publishedAt": "2026-09-03",
+      "excerpt": "FDA provides information the tropical disease priority review voucher program.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Support to SMEs",
+      "url": "https://www.ema.europa.eu/en/about-us/support-smes",
+      "publishedAt": "2026-09-03",
+      "excerpt": "Support to SMEs",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Sponsor guidance:  New safety module on the annual safety report",
+      "url": "https://www.ema.europa.eu/system/files/documents/report/sponsors_safety-module-training-en.pdf",
+      "publishedAt": "2026-09-03",
+      "excerpt": "Sponsor guidance:  New safety module on the annual safety report",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Registered Outsourcing Facilities",
+      "url": "http://www.fda.gov/drugs/human-drug-compounding/registered-outsourcing-facilities",
+      "publishedAt": "2026-09-03",
+      "excerpt": "Discover FDA's comprehensive list of registered outsourcing facilities engaged in human drug compounding. Get the latest updates, compliance guidelines, and resources to ensure safe, high-quality compounded medications. Explore regulations and stay informed with verified facility details.",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "ema-whats-new",
       "siteName": "What's new",
       "region": "EU",
@@ -106,10 +166,180 @@
       "siteId": "ema-whats-new",
       "siteName": "What's new",
       "region": "EU",
+      "title": "Podcast: Inside EMA",
+      "url": "https://www.ema.europa.eu/en/news-events/podcast-inside-ema",
+      "publishedAt": "2026-09-03",
+      "excerpt": "Podcast: Inside EMA",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Phase 1 IND Procedures and Policies",
+      "url": "http://www.fda.gov/industry/phase-1-investigational-new-drug-ind-navigator/phase-1-ind-procedures-and-policies",
+      "publishedAt": "2026-09-03",
+      "excerpt": "Find FDA procedures and policies related to Phase 1 IND submissions",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Phase 1 IND Chemistry, Manufacturing, and Controls Flexibilities",
+      "url": "http://www.fda.gov/industry/phase-1-investigational-new-drug-ind-navigator/phase-1-ind-chemistry-manufacturing-and-controls-flexibilities",
+      "publishedAt": "2026-09-03",
+      "excerpt": "Information on FDA's CMC regulatory flexibilities for Phase 1 INDs",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "PSUSA/00010209/202601",
+      "url": "https://www.ema.europa.eu/en/medicines/psusa/psusa-00010209-202601",
+      "publishedAt": "2026-09-03",
+      "excerpt": "PSUSA/00010209/202601",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "PSUSA/00000414/202601",
+      "url": "https://www.ema.europa.eu/en/medicines/psusa/psusa-00000414-202601",
+      "publishedAt": "2026-09-03",
+      "excerpt": "PSUSA/00000414/202601",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
       "title": "Minutes of PRAC meeting on 8-11 June 2026",
       "url": "https://www.ema.europa.eu/system/files/documents/minutes/minutes-prac-meeting-08-11-june-2026-en.pdf",
       "publishedAt": "2026-09-03",
       "excerpt": "Minutes of PRAC meeting on 8-11 June 2026",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Minutes of PRAC meeting on 8-11 June 2026",
+      "url": "https://www.ema.europa.eu/system/files/documents/minutes/minutes-prac-meeting-08-11-june-2026-publication_en.pdf",
+      "publishedAt": "2026-09-03",
+      "excerpt": "Minutes of PRAC meeting on 8-11 June 2026",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Velsipity, etrasimod, Date of authorisation: 16/02/2024, Revision: 4, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/velsipity",
+      "publishedAt": "2026-09-03",
+      "excerpt": "Human medicines European public assessment report (EPAR): Velsipity, etrasimod, Date of authorisation: 16/02/2024, Revision: 4, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Pomalidomide Krka, pomalidomide, Date of authorisation: 24/07/2024, Revision: 3, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/pomalidomide-krka",
+      "publishedAt": "2026-09-03",
+      "excerpt": "Human medicines European public assessment report (EPAR): Pomalidomide Krka, pomalidomide, Date of authorisation: 24/07/2024, Revision: 3, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Keytruda, pembrolizumab, Date of authorisation: 17/07/2015, Revision: 72, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/keytruda",
+      "publishedAt": "2026-09-03",
+      "excerpt": "Human medicines European public assessment report (EPAR): Keytruda, pembrolizumab, Date of authorisation: 17/07/2015, Revision: 72, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Emtricitabine/Tenofovir disoproxil Mylan, emtricitabine,tenofovir disoproxil, Date of authorisation: 16/12/2016, Revision: 19, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/emtricitabine-tenofovir-disoproxil-mylan",
+      "publishedAt": "2026-09-03",
+      "excerpt": "Human medicines European public assessment report (EPAR): Emtricitabine/Tenofovir disoproxil Mylan, emtricitabine,tenofovir disoproxil, Date of authorisation: 16/12/2016, Revision: 19, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Ambrisentan Viatris (previously Ambrisentan Mylan), ambrisentan, Date of authorisation: 20/06/2019, Revision: 10, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/ambrisentan-viatris",
+      "publishedAt": "2026-09-03",
+      "excerpt": "Human medicines European public assessment report (EPAR): Ambrisentan Viatris (previously Ambrisentan Mylan), ambrisentan, Date of authorisation: 20/06/2019, Revision: 10, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Herbal medicinal product: Fragariae folium, Fragaria vesca L., Fragaria moschata Weston,Fragaria viridis Weston,Fragaria x ananassa  (Weston) Duchesne ex Rozier , F: Assessment finalised",
+      "url": "https://www.ema.europa.eu/en/medicines/herbal/fragariae-folium",
+      "publishedAt": "2026-09-03",
+      "excerpt": "Herbal medicinal product: Fragariae folium, Fragaria vesca L., Fragaria moschata Weston,Fragaria viridis Weston,Fragaria x ananassa  (Weston) Duchesne ex Rozier , F: Assessment finalised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "FDA-TRACK: Prescription Drug User Fee Act Review Goals Summary",
+      "url": "http://www.fda.gov/about-fda/fda-track-agency-wide-program-performance/fda-track-prescription-drug-user-fee-act-review-goals-summary",
+      "publishedAt": "2026-09-03",
+      "excerpt": "FDA-TRACK: Prescription Drug User Fee Act Review Goals Summary",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "FDA-TRACK: Prescription Drug User Fee Act Procedural Goals Summary",
+      "url": "http://www.fda.gov/about-fda/fda-track-agency-wide-program-performance/fda-track-prescription-drug-user-fee-act-procedural-goals-summary",
+      "publishedAt": "2026-09-03",
+      "excerpt": "FDA-TRACK: Prescription Drug User Fee Act Procedural Goals Summary",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "FDA-TRACK: Prescription Drug User Fee Act Meeting Goals Summary",
+      "url": "http://www.fda.gov/about-fda/fda-track-agency-wide-program-performance/fda-track-prescription-drug-user-fee-act-meeting-goals-summary",
+      "publishedAt": "2026-09-03",
+      "excerpt": "FDA-TRACK: Prescription Drug User Fee Act Meeting Goals Summary",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "FDA Update on Estradiol Transdermal Patch Availability",
+      "url": "http://www.fda.gov/drugs/drug-alerts-and-statements/fda-update-estradiol-transdermal-patch-availability",
+      "publishedAt": "2026-09-03",
+      "excerpt": "Although availability of certain products or brands may vary by pharmacy or location, estradiol transdermal patches remain available.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-criminal-investigations-press-releases",
+      "siteName": "Criminal Investigations Press Releases",
+      "region": "US",
+      "title": "FDA Seeks Public Input to Advance Development of Botanical Drug Products",
+      "url": "http://www.fda.gov/news-events/press-announcements/fda-seeks-public-input-advance-development-botanical-drug-products",
+      "publishedAt": "2026-09-03",
+      "excerpt": "The U.S. Food and Drug Administration today announced a request for information (RFI) to gather public input on opportunities to advance the development of botanical drug products.",
       "sourceType": "rss"
     },
     {
@@ -140,6 +370,26 @@
       "url": "https://www.pmda.go.jp/english/review-services/reviews/approved-information/0004.html",
       "publishedAt": "2026-09-03",
       "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Drug Alerts and Statements",
+      "url": "http://www.fda.gov/drugs/drug-safety-and-availability/drug-alerts-and-statements",
+      "publishedAt": "2026-09-03",
+      "excerpt": "See updates from CDER on fast-moving issues and learn about CDER's work to enhance public health",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Botanical Drug Products",
+      "url": "http://www.fda.gov/drugs/resources-drugs/botanical-drug-products",
+      "publishedAt": "2026-09-03",
+      "excerpt": "FDA has taken action to advance the development of botanical drug products. Learn more.",
       "sourceType": "rss"
     },
     {
@@ -233,16 +483,6 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "What's New Related to Drugs",
-      "url": "http://www.fda.gov/drugs/news-events-human-drugs/whats-new-related-drugs",
-      "publishedAt": "2026-09-02",
-      "excerpt": "Want to know what's new on drugs from FDA? This page provides quick links to the latest on a variety of topics including: drug approvals, safety warnings, drug shortages, etc.",
-      "sourceType": "rss"
-    },
-    {
       "siteId": "ema-whats-new",
       "siteName": "What's new",
       "region": "EU",
@@ -290,16 +530,6 @@
       "url": "https://www.ema.europa.eu/en/medicines/human/shortages/saxenda",
       "publishedAt": "2026-09-02",
       "excerpt": "Saxenda",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "Registered Outsourcing Facilities",
-      "url": "http://www.fda.gov/drugs/human-drug-compounding/registered-outsourcing-facilities",
-      "publishedAt": "2026-09-02",
-      "excerpt": "Discover FDA's comprehensive list of registered outsourcing facilities engaged in human drug compounding. Get the latest updates, compliance guidelines, and resources to ensure safe, high-quality compounded medications. Explore regulations and stay informed with verified facility details.",
       "sourceType": "rss"
     },
     {
@@ -1530,16 +1760,6 @@
       "url": "http://www.fda.gov/drugs/news-events-human-drugs/fda-approves-treatment-essential-thrombocythemia",
       "publishedAt": "2026-08-31",
       "excerpt": "The U.S. Food and Drug Administration has approved Besremi (ropeginterferon alfa-2b-njft) injection for the treatment of adults with essential thrombocythemia.",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "Drug Alerts and Statements",
-      "url": "http://www.fda.gov/drugs/drug-safety-and-availability/drug-alerts-and-statements",
-      "publishedAt": "2026-08-31",
-      "excerpt": "See updates from CDER on fast-moving issues and learn about CDER's work to enhance public health",
       "sourceType": "rss"
     },
     {
@@ -11013,16 +11233,6 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "ema-whats-new",
-      "siteName": "What's new",
-      "region": "EU",
-      "title": "Podcast: Inside EMA",
-      "url": "https://www.ema.europa.eu/en/news-events/podcast-inside-ema",
-      "publishedAt": "2026-07-27",
-      "excerpt": "Podcast: Inside EMA",
-      "sourceType": "rss"
-    },
-    {
       "siteId": "fda-ora-foia-electronic-reading-room",
       "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
       "region": "US",
@@ -20106,16 +20316,6 @@
       "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
       "siteName": "Human medicines: EPARs and summaries of opinion",
       "region": "EU",
-      "title": "Human medicines European public assessment report (EPAR): Keytruda, pembrolizumab, Date of authorisation: 17/07/2015, Revision: 72, Status: Authorised",
-      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/keytruda",
-      "publishedAt": "2026-07-01",
-      "excerpt": "Human medicines European public assessment report (EPAR): Keytruda, pembrolizumab, Date of authorisation: 17/07/2015, Revision: 72, Status: Authorised",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
-      "siteName": "Human medicines: EPARs and summaries of opinion",
-      "region": "EU",
       "title": "Human medicines European public assessment report (EPAR): Gotenfia, golimumab, Date of authorisation: 10/02/2026, Revision: 1, Status: Authorised",
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/gotenfia",
       "publishedAt": "2026-07-01",
@@ -23090,16 +23290,6 @@
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/lenalidomide-mylan",
       "publishedAt": "2026-06-12",
       "excerpt": "Human medicines European public assessment report (EPAR): Lenalidomide Mylan, lenalidomide, Date of authorisation: 18/12/2020, Revision: 14, Status: Authorised",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
-      "siteName": "Human medicines: EPARs and summaries of opinion",
-      "region": "EU",
-      "title": "Human medicines European public assessment report (EPAR): Emtricitabine/Tenofovir disoproxil Mylan, emtricitabine,tenofovir disoproxil, Date of authorisation: 16/12/2016, Revision: 18, Status: Authorised",
-      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/emtricitabine-tenofovir-disoproxil-mylan",
-      "publishedAt": "2026-06-12",
-      "excerpt": "Human medicines European public assessment report (EPAR): Emtricitabine/Tenofovir disoproxil Mylan, emtricitabine,tenofovir disoproxil, Date of authorisation: 16/12/2016, Revision: 18, Status: Authorised",
       "sourceType": "rss"
     },
     {
