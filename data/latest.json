@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-04T09:45:12.956719+00:00",
-  "count": 2894,
+  "generatedAt": "2026-09-04T14:26:20.176296+00:00",
+  "count": 2911,
   "errors": [
     {
       "groupId": "ema",
@@ -20,6 +20,11 @@
     {
       "groupId": "pmda",
       "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
+      "error": "RSS fetch failed - keeping archived data"
+    },
+    {
+      "groupId": "pmda",
+      "siteId": "PMDA：トップ 国際活動",
       "error": "RSS fetch failed - keeping archived data"
     },
     {
@@ -60,6 +65,26 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Upcoming EL-PFDD Meetings",
+      "url": "http://www.fda.gov/industry/prescription-drug-user-fee-amendments/upcoming-el-pfdd-meetings",
+      "publishedAt": "2026-09-04",
+      "excerpt": "Upcoming EL-PFDD Meetings",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Union Product Database: release notes",
+      "url": "https://www.ema.europa.eu/en/veterinary-regulatory-overview/veterinary-medicinal-products-regulation/union-product-database/union-product-database-release-notes",
+      "publishedAt": "2026-09-04",
+      "excerpt": "Union Product Database: release notes",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "ema-whats-new",
       "siteName": "What's new",
       "region": "EU",
@@ -67,6 +92,86 @@
       "url": "https://www.ema.europa.eu/en/veterinary-regulatory-overview/veterinary-medicinal-products-regulation/scientific-technical-recommendations-veterinary-medicines-regulation",
       "publishedAt": "2026-09-04",
       "excerpt": "Scientific and technical recommendations: Veterinary Medicines Regulation",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Scientific advice and protocol assistance",
+      "url": "https://www.ema.europa.eu/en/human-regulatory-overview/research-development/scientific-advice-protocol-assistance",
+      "publishedAt": "2026-09-04",
+      "excerpt": "Scientific advice and protocol assistance",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Referral: Parenteral iron-containing medicinal products, ferric carboxymaltose,ferric derisomaltose,ferric gluconate,ferric hydroxide polymaltose complex,iron dextran,iron sucrose Article 31 referrals Procedure started",
+      "url": "https://www.ema.europa.eu/en/medicines/human/referrals/parenteral-iron-containing-medicinal-products",
+      "publishedAt": "2026-09-04",
+      "excerpt": "Referral: Parenteral iron-containing medicinal products, ferric carboxymaltose,ferric derisomaltose,ferric gluconate,ferric hydroxide polymaltose complex,iron dextran,iron sucrose Article 31 referrals Procedure started",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Pharmacogenomics",
+      "url": "https://www.ema.europa.eu/en/human-regulatory-overview/post-authorisation/pharmacogenomics",
+      "publishedAt": "2026-09-04",
+      "excerpt": "Pharmacogenomics",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Pharmaceutical industry: Getting involved in EMA activities",
+      "url": "https://www.ema.europa.eu/en/pharmaceutical-industry/pharmaceutical-industry-getting-involved-ema-activities",
+      "publishedAt": "2026-09-04",
+      "excerpt": "Pharmaceutical industry: Getting involved in EMA activities",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "PSUSA/00010510/202601",
+      "url": "https://www.ema.europa.eu/en/medicines/psusa/psusa-00010510-202601",
+      "publishedAt": "2026-09-04",
+      "excerpt": "PSUSA/00010510/202601",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "PSUSA/00000378/202601",
+      "url": "https://www.ema.europa.eu/en/medicines/psusa/psusa-00000378-202601",
+      "publishedAt": "2026-09-04",
+      "excerpt": "PSUSA/00000378/202601",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Opinion/decision on a Paediatric investigation plan (PIP): Skyclarys, omaveloxolone, decision type: P: decision agreeing on a investigation plan, with or without partial waiver(s) and or deferral(s), therapeutic area: Congenital, familial and genetic disorders, PIP number: EMA/PE/0000338563",
+      "url": "https://www.ema.europa.eu/en/medicines/human/paediatric-investigation-plans/ema-pe-0000338563",
+      "publishedAt": "2026-09-04",
+      "excerpt": "Opinion/decision on a Paediatric investigation plan (PIP): Skyclarys, omaveloxolone, decision type: P: decision agreeing on a investigation plan, with or without partial waiver(s) and or deferral(s), therapeutic area: Congenital, familial and genetic disorders, PIP number: EMA/PE/0000338563",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Opinion on medicine for use outside EU: Dengue Tetravalent Vaccine (Live, Attenuated) Takeda, Dengue virus, serotype 2, expressing Dengue virus, serotype 1, surface proteins, live, attenuated,Dengue virus, serotype 2, expressing Dengue virus, serotype 3, surface proteins, live, attenuated,Dengue virus, serotype 2, expressing Dengue virus, serotype 4, surface proteins, live, attenuated,Dengue virus, serotype 2, live, attenuated, Dengue, 13/10/2022  Positive opinion",
+      "url": "https://www.ema.europa.eu/en/opinion-medicine-use-outside-EU/human/dengue-tetravalent-vaccine-live-attenuated-takeda",
+      "publishedAt": "2026-09-04",
+      "excerpt": "Opinion on medicine for use outside EU: Dengue Tetravalent Vaccine (Live, Attenuated) Takeda, Dengue virus, serotype 2, expressing Dengue virus, serotype 1, surface proteins, live, attenuated,Dengue virus, serotype 2, expressing Dengue virus, serotype 3, surface proteins, live, attenuated,Dengue virus, serotype 2, expressing Dengue virus, serotype 4, surface proteins, live, attenuated,Dengue virus, serotype 2, live, attenuated, Dengue, 13/10/2022  Positive opinion",
       "sourceType": "rss"
     },
     {
@@ -80,6 +185,36 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "ema-news-and-press-releases",
+      "siteName": "News and press releases",
+      "region": "EU",
+      "title": "Meeting highlights from the Pharmacovigilance Risk Assessment Committee (PRAC) 31 August - 3 September 2026",
+      "url": "https://www.ema.europa.eu/en/news/meeting-highlights-pharmacovigilance-risk-assessment-committee-prac-31-august-3-september-2026",
+      "publishedAt": "2026-09-04",
+      "excerpt": "Review will assess risk of low blood phosphate levels and related bone problems with injectable iron medicinesEMA’s safety committee, PRAC, has started a review of injectable…,       Agenda                        Agenda of the PRAC meeting 31 August - 3 September 2026Draft                Reference Number: EMA/PRAC/164465/2026…,       PRAC statistics: September 2026  Monthly figures for PRAC outcomes based on the draft agenda.        @ European Medicines Agency,                                   ",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Riximyo, rituximab, Date of authorisation: 15/06/2017, Revision: 18, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/riximyo",
+      "publishedAt": "2026-09-04",
+      "excerpt": "Human medicines European public assessment report (EPAR): Riximyo, rituximab, Date of authorisation: 15/06/2017, Revision: 18, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Rixathon, rituximab, Date of authorisation: 15/06/2017, Revision: 16, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/rixathon",
+      "publishedAt": "2026-09-04",
+      "excerpt": "Human medicines European public assessment report (EPAR): Rixathon, rituximab, Date of authorisation: 15/06/2017, Revision: 16, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
       "siteName": "Human medicines: EPARs and summaries of opinion",
       "region": "EU",
@@ -87,6 +222,116 @@
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/repatha",
       "publishedAt": "2026-09-04",
       "excerpt": "Human medicines European public assessment report (EPAR): Repatha, evolocumab, Date of authorisation: 17/07/2015, Revision: 28, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Qdenga, dengue tetravalent vaccine (live, attenuated), Date of authorisation: 05/12/2022, Revision: 9, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/qdenga",
+      "publishedAt": "2026-09-04",
+      "excerpt": "Human medicines European public assessment report (EPAR): Qdenga, dengue tetravalent vaccine (live, attenuated), Date of authorisation: 05/12/2022, Revision: 9, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Miglustat Dipharma, miglustat, Date of authorisation: 18/02/2019, Revision: 9, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/miglustat-dipharma",
+      "publishedAt": "2026-09-04",
+      "excerpt": "Human medicines European public assessment report (EPAR): Miglustat Dipharma, miglustat, Date of authorisation: 18/02/2019, Revision: 9, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Guidance for applicants on how to submit ePI in centralised procedures",
+      "url": "https://www.ema.europa.eu/system/files/documents/other/epi-caps_en.pdf",
+      "publishedAt": "2026-09-04",
+      "excerpt": "Guidance for applicants on how to submit ePI in centralised procedures",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "GDUFA Type II API DMF Payment Receipts Report",
+      "url": "http://www.fda.gov/industry/fda-user-fee-programs/gdufa-type-ii-api-dmf-payment-receipts-report",
+      "publishedAt": "2026-09-04",
+      "excerpt": "GDUFA Type II API DMF Payment Receipts Report",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Framework for interaction with pharmaceutical industry stakeholders",
+      "url": "https://www.ema.europa.eu/en/pharmaceutical-industry/framework-interaction-pharmaceutical-industry-stakeholders",
+      "publishedAt": "2026-09-04",
+      "excerpt": "Framework for interaction with pharmaceutical industry stakeholders",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Executive Director's speech at Duke-NUS Medical School in Singapore",
+      "url": "https://www.ema.europa.eu/en/news/executive-directors-speech-duke-nus-medical-school-singapore",
+      "publishedAt": "2026-09-04",
+      "excerpt": "Executive Director's speech at Duke-NUS Medical School in Singapore",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Electronic product information (ePI)",
+      "url": "https://www.ema.europa.eu/en/human-regulatory-overview/marketing-authorisation/product-information-requirements/electronic-product-information-epi",
+      "publishedAt": "2026-09-04",
+      "excerpt": "Electronic product information (ePI)",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Drugs@FDA Data Files",
+      "url": "http://www.fda.gov/drugs/drug-approvals-and-databases/drugsfda-data-files",
+      "publishedAt": "2026-09-04",
+      "excerpt": "Drugs@FDA Downloadable Data File in ZIP format, Data Definitions, and Entity Relationship Diagram (ERD)",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Dental Technologies Inc. - 612599 - 09/02/2026",
+      "url": "http://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/dental-technologies-inc-612599-09022026",
+      "publishedAt": "2026-09-04",
+      "excerpt": "CGMP/QSR/Medical Devices/Adulterated",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Condition-Specific Meeting Reports and Other Information Related to Patients' Experience",
+      "url": "http://www.fda.gov/industry/prescription-drug-user-fee-amendments/condition-specific-meeting-reports-and-other-information-related-patients-experience",
+      "publishedAt": "2026-09-04",
+      "excerpt": "This webpage provides links to certain publicly available external reports and resources relating to patient experience data. The patient community, patient advocates, researchers, drug developers, and federal agencies may find these materials useful.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "COVID-19 medicines",
+      "url": "https://www.ema.europa.eu/en/human-regulatory-overview/public-health-threats/coronavirus-disease-covid-19/covid-19-medicines",
+      "publishedAt": "2026-09-04",
+      "excerpt": "COVID-19 medicines",
       "sourceType": "rss"
     },
     {
@@ -120,8 +365,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 国際活動",
-      "siteName": "International (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[基準]経口製剤における食事の影響の評価に関する考え方について（Early Consideration）の英訳を掲載しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/guidance-guideline/0003.html",
@@ -140,8 +385,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 国際活動",
-      "siteName": "International (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[RS]2025年度レギュラトリーサイエンス活動報告書（英語版 PDF）を掲載しました。",
       "url": "https://www.pmda.go.jp/rs-std-jp/outline/0001.html",
@@ -227,6 +472,16 @@
       "url": "http://www.fda.gov/drugs/drug-shortages/search-list-extended-use-dates-assist-drug-shortages",
       "publishedAt": "2026-09-03",
       "excerpt": "This is to update and consolidate the extended use date information posted previously to assist with drug shortage (6/15/17 to present).",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-food-safety-recalls",
+      "siteName": "Food Safety Recalls",
+      "region": "US",
+      "title": "SUPPLX.com Issues Voluntary Nationwide Recall of Business  Pill and Branch Manager for Men Due to Undeclared  Yohimbine",
+      "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/supplxcom-issues-voluntary-nationwide-recall-business-pill-and-branch-manager-men-due-undeclared",
+      "publishedAt": "2026-09-03",
+      "excerpt": "Grant-Valkaria, Florida - SUPPLX.com is voluntarily recalling Business Pill and Branch Manager for Men, products marketed as dietary supplements for male sexual enhancement, because FDA laboratory analysis confirmed that both products contain yohimbine that is not declared on the product labels.",
       "sourceType": "rss"
     },
     {
@@ -1060,16 +1315,6 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "Drugs@FDA Data Files",
-      "url": "http://www.fda.gov/drugs/drug-approvals-and-databases/drugsfda-data-files",
-      "publishedAt": "2026-09-02",
-      "excerpt": "Drugs@FDA Downloadable Data File in ZIP format, Data Definitions, and Entity Relationship Diagram (ERD)",
-      "sourceType": "rss"
-    },
-    {
       "siteId": "fda-medwatch",
       "siteName": "MedWatch Safety Alerts",
       "region": "US",
@@ -1140,8 +1385,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 国際活動",
-      "siteName": "International (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[薬局方][パブコメ]日本薬局方収載原案に関する改正案の報告について（2026年9月）",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/pub-comments/jp/0264.html",
@@ -1150,8 +1395,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 国際活動",
-      "siteName": "International (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[薬局方][パブコメ]日本薬局方収載原案に関するご意見の募集について（2026年9月分 その2）",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/pub-comments/jp/0263.html",
@@ -1160,8 +1405,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 国際活動",
-      "siteName": "International (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[薬局方][パブコメ]日本薬局方収載原案に関するご意見の募集について（2026年9月分 その1）",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/pub-comments/jp/0265.html",
@@ -1670,16 +1915,6 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "ema-whats-new",
-      "siteName": "What's new",
-      "region": "EU",
-      "title": "COVID-19 medicines",
-      "url": "https://www.ema.europa.eu/en/human-regulatory-overview/public-health-threats/coronavirus-disease-covid-19/covid-19-medicines",
-      "publishedAt": "2026-09-01",
-      "excerpt": "COVID-19 medicines",
-      "sourceType": "rss"
-    },
-    {
       "siteId": "fda-medwatch",
       "siteName": "MedWatch Safety Alerts",
       "region": "US",
@@ -2060,8 +2295,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 国際活動",
-      "siteName": "International (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[RS][イベント]第12回PMDAレギュラトリーサイエンス研究会の開催について更新しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/symposia/0034.html",
@@ -2390,16 +2625,6 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "ema-whats-new",
-      "siteName": "What's new",
-      "region": "EU",
-      "title": "Electronic product information (ePI)",
-      "url": "https://www.ema.europa.eu/en/human-regulatory-overview/marketing-authorisation/product-information-requirements/electronic-product-information-epi",
-      "publishedAt": "2026-08-28",
-      "excerpt": "Electronic product information (ePI)",
-      "sourceType": "rss"
-    },
-    {
       "siteId": "fda-whats-new-drugs",
       "siteName": "What's New: Drugs",
       "region": "US",
@@ -2530,8 +2755,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 国際活動",
-      "siteName": "International (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[その他]研究支援委員会の委員名簿を更新しました。",
       "url": "https://www.pmda.go.jp/rs-std-jp/research/0008.html",
@@ -2540,8 +2765,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 国際活動",
-      "siteName": "International (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[その他]倫理審査委員会の委員名簿を更新しました。",
       "url": "https://www.pmda.go.jp/rs-std-jp/research/0009.html",
@@ -2900,8 +3125,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 国際活動",
-      "siteName": "International (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[その他]「申請電子データを活用した解析」のページを更新しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/0002.html",
@@ -5833,16 +6058,6 @@
       "siteId": "ema-whats-new",
       "siteName": "What's new",
       "region": "EU",
-      "title": "Opinion on medicine for use outside EU: Dengue Tetravalent Vaccine (Live, Attenuated) Takeda, Dengue virus, serotype 2, expressing Dengue virus, serotype 1, surface proteins, live, attenuated,Dengue virus, serotype 2, expressing Dengue virus, serotype 3, surface proteins, live, attenuated,Dengue virus, serotype 2, expressing Dengue virus, serotype 4, surface proteins, live, attenuated,Dengue virus, serotype 2, live, attenuated, Dengue, 13/10/2022  Positive opinion",
-      "url": "https://www.ema.europa.eu/en/opinion-medicine-use-outside-EU/human/dengue-tetravalent-vaccine-live-attenuated-takeda",
-      "publishedAt": "2026-08-19",
-      "excerpt": "Opinion on medicine for use outside EU: Dengue Tetravalent Vaccine (Live, Attenuated) Takeda, Dengue virus, serotype 2, expressing Dengue virus, serotype 1, surface proteins, live, attenuated,Dengue virus, serotype 2, expressing Dengue virus, serotype 3, surface proteins, live, attenuated,Dengue virus, serotype 2, expressing Dengue virus, serotype 4, surface proteins, live, attenuated,Dengue virus, serotype 2, live, attenuated, Dengue, 13/10/2022  Positive opinion",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "ema-whats-new",
-      "siteName": "What's new",
-      "region": "EU",
       "title": "Monitoring of medical literature and the entry of relevant information into the EudraVigilance database by the European Medicines Agency - Description of the Journal/Reference databases used",
       "url": "https://www.ema.europa.eu/system/files/documents/other/mlm-description-journal-reference-databases-en.pdf",
       "publishedAt": "2026-08-19",
@@ -5927,16 +6142,6 @@
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/rubraca",
       "publishedAt": "2026-08-19",
       "excerpt": "Human medicines European public assessment report (EPAR): Rubraca, rucaparib, Date of authorisation: 23/05/2018, Revision: 19, Status: Authorised",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
-      "siteName": "Human medicines: EPARs and summaries of opinion",
-      "region": "EU",
-      "title": "Human medicines European public assessment report (EPAR): Qdenga, dengue tetravalent vaccine (live, attenuated), Date of authorisation: 05/12/2022, Revision: 8, Status: Authorised",
-      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/qdenga",
-      "publishedAt": "2026-08-19",
-      "excerpt": "Human medicines European public assessment report (EPAR): Qdenga, dengue tetravalent vaccine (live, attenuated), Date of authorisation: 05/12/2022, Revision: 8, Status: Authorised",
       "sourceType": "rss"
     },
     {
@@ -7113,16 +7318,6 @@
       "siteId": "fda-whats-new-drugs",
       "siteName": "What's New: Drugs",
       "region": "US",
-      "title": "Upcoming EL-PFDD Meetings",
-      "url": "http://www.fda.gov/industry/prescription-drug-user-fee-amendments/upcoming-el-pfdd-meetings",
-      "publishedAt": "2026-08-13",
-      "excerpt": "Upcoming EL-PFDD Meetings",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
       "title": "Small Business Assistance",
       "url": "http://www.fda.gov/industry/small-business-assistance",
       "publishedAt": "2026-08-13",
@@ -7527,16 +7722,6 @@
       "url": "https://www.ema.europa.eu/en/events/digitalisation-artificial-intelligence-pharmaceutical-manufacturing-quality-innovation-group-qig-follow-roundtable-meeting",
       "publishedAt": "2026-08-13",
       "excerpt": "Digitalisation and artificial Intelligence in pharmaceutical manufacturing: Quality Innovation Group (QIG) - Follow-up roundtable meeting, Online, European Medicines Agency, Amsterdam, the Netherlands, Broadcast, from 18 November 2026, 09:30 (CET) to 19 November 2026, 17:30 (CET)",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "Condition-Specific Meeting Reports and Other Information Related to Patients' Experience",
-      "url": "http://www.fda.gov/industry/prescription-drug-user-fee-amendments/condition-specific-meeting-reports-and-other-information-related-patients-experience",
-      "publishedAt": "2026-08-13",
-      "excerpt": "This webpage provides links to certain publicly available external reports and resources relating to patient experience data. The patient community, patient advocates, researchers, drug developers, and federal agencies may find these materials useful.",
       "sourceType": "rss"
     },
     {
@@ -9367,16 +9552,6 @@
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/arikayce-liposomal",
       "publishedAt": "2026-08-05",
       "excerpt": "Human medicines European public assessment report (EPAR): Arikayce liposomal, amikacin, Date of authorisation: 27/10/2020, Revision: 5, Status: Authorised",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "GDUFA Type II API DMF Payment Receipts Report",
-      "url": "http://www.fda.gov/industry/fda-user-fee-programs/gdufa-type-ii-api-dmf-payment-receipts-report",
-      "publishedAt": "2026-08-05",
-      "excerpt": "GDUFA Type II API DMF Payment Receipts Report",
       "sourceType": "rss"
     },
     {
