@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-15T13:41:53.497380+00:00",
-  "count": 3061,
+  "generatedAt": "2026-09-15T18:18:36.448338+00:00",
+  "count": 3076,
   "errors": [
     {
       "groupId": "pmda",
@@ -24,6 +24,36 @@
     }
   ],
   "items": [
+    {
+      "siteId": "notice-from-tfda",
+      "siteName": "公告",
+      "region": "TW",
+      "title": "預告訂定「違反藥事法第四十六條、第五十三條及第七十五條規定，與業者依風險評估並經中央衛生主管機關認定應回收之藥品處理規定」草案",
+      "url": "http://www.fda.gov.tw/tc/newsContent.aspx?cid=5072&id=31731&utm_source=rss&utm_medium=feed&utm_campaign=rss_subscription",
+      "publishedAt": "2026-09-16",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "notice-from-tfda",
+      "siteName": "公告",
+      "region": "TW",
+      "title": "預告廢止「公告違反藥事法第三十九條、第四十六條、第五十三條、第七十五條規定者，其違規市售品及庫存品回收之處理事宜」",
+      "url": "http://www.fda.gov.tw/tc/newsContent.aspx?cid=5072&id=31732&utm_source=rss&utm_medium=feed&utm_campaign=rss_subscription",
+      "publishedAt": "2026-09-16",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "notice-from-tfda",
+      "siteName": "公告",
+      "region": "TW",
+      "title": "預告修正「藥品回收處理辦法」部分條文草案",
+      "url": "http://www.fda.gov.tw/tc/newsContent.aspx?cid=5072&id=31730&utm_source=rss&utm_medium=feed&utm_campaign=rss_subscription",
+      "publishedAt": "2026-09-16",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
     {
       "siteId": "PMDAの新着情報",
       "siteName": "What's New (JP)",
@@ -65,6 +95,46 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Nominations to the Network Portfolio Advisory Group",
+      "url": "https://www.ema.europa.eu/system/files/documents/other/list-nominated-members_npag-en.pdf",
+      "publishedAt": "2026-09-15",
+      "excerpt": "Nominations to the Network Portfolio Advisory Group",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Meeting of the Medicine Shortages Single Point of Contact (SPOC) Working Party, Online, European Medicines Agency, Amsterdam, the Netherlands, from 15 September 2026, 09:30 (CEST) to 15 September 2026, 13:30 (CEST)",
+      "url": "https://www.ema.europa.eu/en/events/meeting-medicine-shortages-single-point-contact-spoc-working-party-45",
+      "publishedAt": "2026-09-15",
+      "excerpt": "Meeting of the Medicine Shortages Single Point of Contact (SPOC) Working Party, Online, European Medicines Agency, Amsterdam, the Netherlands, from 15 September 2026, 09:30 (CEST) to 15 September 2026, 13:30 (CEST)",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Medicinal products for human use: monthly figures - August 2026",
+      "url": "https://www.ema.europa.eu/system/files/documents/report/monthly-statistics-report_-08_-2026-en.pdf",
+      "publishedAt": "2026-09-15",
+      "excerpt": "Medicinal products for human use: monthly figures - August 2026",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Trodelvy, sacituzumab govitecan, Date of authorisation: 22/11/2021, Revision: 8, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/trodelvy",
+      "publishedAt": "2026-09-15",
+      "excerpt": "Human medicines European public assessment report (EPAR): Trodelvy, sacituzumab govitecan, Date of authorisation: 22/11/2021, Revision: 8, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
       "siteName": "Human medicines: EPARs and summaries of opinion",
       "region": "EU",
@@ -72,6 +142,16 @@
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/joenja",
       "publishedAt": "2026-09-15",
       "excerpt": "Human medicines European public assessment report (EPAR): Joenja, leniolisib, Date of authorisation: 21/05/2026, Revision: 1, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Jaypirca, pirtobrutinib, Date of authorisation: 30/10/2023, Revision: 5, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/jaypirca",
+      "publishedAt": "2026-09-15",
+      "excerpt": "Human medicines European public assessment report (EPAR): Jaypirca, pirtobrutinib, Date of authorisation: 30/10/2023, Revision: 5, Status: Authorised",
       "sourceType": "rss"
     },
     {
@@ -95,6 +175,106 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Camcevi, leuprorelin, Date of authorisation: 24/05/2022, Revision: 7, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/camcevi",
+      "publishedAt": "2026-09-15",
+      "excerpt": "Human medicines European public assessment report (EPAR): Camcevi, leuprorelin, Date of authorisation: 24/05/2022, Revision: 7, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Bekemv, eculizumab, Date of authorisation: 19/04/2023, Revision: 7, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/bekemv",
+      "publishedAt": "2026-09-15",
+      "excerpt": "Human medicines European public assessment report (EPAR): Bekemv, eculizumab, Date of authorisation: 19/04/2023, Revision: 7, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Generic Drug Facilities, Sites and Organization Lists",
+      "url": "http://www.fda.gov/industry/generic-drug-user-fee-amendments/generic-drug-facilities-sites-and-organization-lists",
+      "publishedAt": "2026-09-15",
+      "excerpt": "Generic Drug Facilities, Sites and Organization Lists",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "FDALabel:  Full-Text Search of Drug Product Labeling",
+      "url": "http://www.fda.gov/science-research/bioinformatics-tools/fdalabel-full-text-search-drug-product-labeling",
+      "publishedAt": "2026-09-15",
+      "excerpt": "FDALabel Database is a web-based application that allows users to perform customizable searches of a database containing over 160,000 labeling documents for FDA-approved drug products, including human and animal prescription and over-the-counter drugs, biological products, and medical devices.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-criminal-investigations-press-releases",
+      "siteName": "Criminal Investigations Press Releases",
+      "region": "US",
+      "title": "FDA Launches Expedited IND Pilot, Begins Accepting Applications",
+      "url": "http://www.fda.gov/news-events/press-announcements/fda-launches-expedited-ind-pilot-begins-accepting-applications",
+      "publishedAt": "2026-09-15",
+      "excerpt": "The U.S. Food and Drug Administration today announced the final design of the Expedited Investigational New Drug (IND) Pilot.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "FDA Expedited Investigational New Drug (IND) Pilot Program",
+      "url": "http://www.fda.gov/industry/fda-actions-accelerate-and-modernize-early-and-late-stage-clinical-development/fda-expedited-investigational-new-drug-ind-pilot-program",
+      "publishedAt": "2026-09-15",
+      "excerpt": "The FDA Expedited IND Pilot Program is an initiative under HHS Operation TrialBlazer designed to evaluate new approaches for accelerating first-in-human (FIH) clinical trials in the United States while maintaining FDA's rigorous standards for participant safety and scientific oversight.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "FDA Actions to Accelerate and Modernize Early and Late-Stage Clinical Development",
+      "url": "http://www.fda.gov/industry/fda-actions-accelerate-and-modernize-early-and-late-stage-clinical-development",
+      "publishedAt": "2026-09-15",
+      "excerpt": "Learn more about actions to accelerate and modernize clinical research across the full continuum of drug development —from the Investigational New Drug (IND) phase to late-stage pivotal trials.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Expedited Investigational New Drug Pilot Program - Application Instructions",
+      "url": "http://www.fda.gov/industry/fda-expedited-investigational-new-drug-ind-pilot-program/expedited-investigational-new-drug-pilot-program-application-instructions",
+      "publishedAt": "2026-09-15",
+      "excerpt": "The application will consist of two sections: 1) Sponsor and Investigative New Drug Information, and 2) Prospective Research Institution Qualifications.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Expedited IND Rolling Submission Process and Program Structure",
+      "url": "http://www.fda.gov/industry/fda-expedited-investigational-new-drug-ind-pilot-program/expedited-ind-rolling-submission-process-and-program-structure",
+      "publishedAt": "2026-09-15",
+      "excerpt": "A majority of the Expedited IND Pilot will take place during the “Pre-IND” phase – the period of nonclinical development before the sponsor submits their official 30-day IND application.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-medwatch",
+      "siteName": "MedWatch Safety Alerts",
+      "region": "US",
+      "title": "Esophageal pH Monitoring Capsule Recall: Medtronic and Given Imaging Remove Esophageal pH Monitoring Capsule Delivery Device",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/esophageal-ph-monitoring-capsule-recall-medtronic-and-given-imaging-remove-esophageal-ph-monitoring",
+      "publishedAt": "2026-09-15",
+      "excerpt": "The Medtronic and Given Imaging Bravo CF esophageal pH monitoring capsule can fail to attach to the esophagus or detach from its delivery device.",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "fda-whats-new-drugs",
       "siteName": "What's New: Drugs",
       "region": "US",
@@ -112,6 +292,16 @@
       "url": "http://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/bausch-lomb-inc-732398-09042026",
       "publishedAt": "2026-09-15",
       "excerpt": "CGMP/Finished Pharmaceuticals/Adulterated",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "An America First Approach to Medical Innovation",
+      "url": "http://www.fda.gov/news-events/fda-voices/america-first-approach-medical-innovation",
+      "publishedAt": "2026-09-15",
+      "excerpt": "The FDA’s new Expedited IND Pilot will cut unnecessary delays in early-stage clinical research without compromising patient safety.",
       "sourceType": "rss"
     },
     {
@@ -332,16 +522,6 @@
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/abrysvo",
       "publishedAt": "2026-09-14",
       "excerpt": "Human medicines European public assessment report (EPAR): Abrysvo, respiratory syncytial virus vaccine (bivalent, recombinant), Date of authorisation: 23/08/2023, Revision: 17, Status: Authorised",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "Generic Drug Facilities, Sites and Organization Lists",
-      "url": "http://www.fda.gov/industry/generic-drug-user-fee-amendments/generic-drug-facilities-sites-and-organization-lists",
-      "publishedAt": "2026-09-14",
-      "excerpt": "Generic Drug Facilities, Sites and Organization Lists",
       "sourceType": "rss"
     },
     {
@@ -3222,16 +3402,6 @@
       "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/frutas-y-hortalizas-del-sur-sa-expands-recall-include-one-lot-great-value-frozen-organic-triple",
       "publishedAt": "2026-09-02",
       "excerpt": "[PRESSWIRE] San Carlos, Chile – 2 September 2026 — Frutas y Hortalizas del Sur S.A. expands its July 3, 2026, recall of frozen organic IQF blueberries to include one lot of Great Value frozen Organic Triple Berry Blend 10 OZ because of potential contamination with Escherichia coli O145 (E. coli O145",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "FDALabel:  Full-Text Search of Drug Product Labeling",
-      "url": "http://www.fda.gov/science-research/bioinformatics-tools/fdalabel-full-text-search-drug-product-labeling",
-      "publishedAt": "2026-09-02",
-      "excerpt": "FDALabel Database is a web-based application that allows users to perform customizable searches of a database containing over 160,000 labeling documents for FDA-approved drug products, including human and animal prescription and over-the-counter drugs, biological products, and medical devices.",
       "sourceType": "rss"
     },
     {
@@ -9385,16 +9555,6 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "FDA Actions to Accelerate and Modernize Early and Late-Stage Clinical Development",
-      "url": "http://www.fda.gov/industry/fda-actions-accelerate-and-modernize-early-and-late-stage-clinical-development",
-      "publishedAt": "2026-08-13",
-      "excerpt": "Learn more about actions to accelerate and modernize clinical research across the full continuum of drug development —from the Investigational New Drug (IND) phase to late-stage pivotal trials.",
-      "sourceType": "rss"
-    },
-    {
       "siteId": "ema-whats-new",
       "siteName": "What's new",
       "region": "EU",
@@ -12982,16 +13142,6 @@
       "url": "http://www.fda.gov/about-fda/invitro-research-solutions-private-ltd",
       "publishedAt": "2026-07-28",
       "excerpt": "Invitro Research Solutions Private Ltd, Bengaluru, Karnataka, India, 12/18/25, 3014372507",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
-      "siteName": "Human medicines: EPARs and summaries of opinion",
-      "region": "EU",
-      "title": "Human medicines European public assessment report (EPAR): Trodelvy, sacituzumab govitecan, Date of authorisation: 22/11/2021, Revision: 7, Status: Authorised",
-      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/trodelvy",
-      "publishedAt": "2026-07-28",
-      "excerpt": "Human medicines European public assessment report (EPAR): Trodelvy, sacituzumab govitecan, Date of authorisation: 22/11/2021, Revision: 7, Status: Authorised",
       "sourceType": "rss"
     },
     {
