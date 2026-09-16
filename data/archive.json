@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-16T11:48:44.599755+00:00",
-  "count": 3091,
+  "generatedAt": "2026-09-16T17:08:48.917918+00:00",
+  "count": 3098,
   "items": [
     {
       "siteId": "notice-from-tfda",
@@ -73,6 +73,46 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "What's New Related to Drugs",
+      "url": "http://www.fda.gov/drugs/news-events-human-drugs/whats-new-related-drugs",
+      "publishedAt": "2026-09-16",
+      "excerpt": "Want to know what's new on drugs from FDA? This page provides quick links to the latest on a variety of topics including: drug approvals, safety warnings, drug shortages, etc.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Scientific publications",
+      "url": "https://www.ema.europa.eu/en/news-and-events/publications/scientific-publications",
+      "publishedAt": "2026-09-16",
+      "excerpt": "Scientific publications",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Resources for Information | Approved Drugs",
+      "url": "http://www.fda.gov/drugs/drug-approvals-and-databases/resources-information-approved-drugs",
+      "publishedAt": "2026-09-16",
+      "excerpt": "FDA provides online resources for information on approved drugs for consumers and health care professionals--including links to Orange Book and Drugs@FDA.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Recently Issued Guidance Documents",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/biologics-guidances/recently-issued-guidance-documents",
+      "publishedAt": "2026-09-16",
+      "excerpt": "This page lists Recently Issued CBER and Cross-Center Guidance Documents.",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "ema-whats-new",
       "siteName": "What's new",
       "region": "EU",
@@ -80,6 +120,96 @@
       "url": "https://www.ema.europa.eu/system/files/documents/other/list-eligible-industry-stakeholder-organisation_en.pdf",
       "publishedAt": "2026-09-16",
       "excerpt": "List of eligible industry stakeholder organisations",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Investigational New Drug Application (IND)",
+      "url": "http://www.fda.gov/drugs/types-applications/investigational-new-drug-application-ind",
+      "publishedAt": "2026-09-16",
+      "excerpt": "Get to know the investigational new drug application (IND). This includes the types, laws and regulations, and emergency use of INDs.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "ICH E14/S7B (R1) Q&As: The clinical evaluation of QT/ QTc interval prolongation and proarrhythmic potential for non-antiarrhythmic drugs - Questions and Answers",
+      "url": "https://www.ema.europa.eu/en/ich-e14-s7b-r1-qas-clinical-evaluation-qt-qtc-interval-prolongation-proarrhythmic-potential-non-antiarrhythmic-drugs-questions-answers",
+      "publishedAt": "2026-09-16",
+      "excerpt": "ICH E14/S7B (R1) Q&As: The clinical evaluation of QT/ QTc interval prolongation and proarrhythmic potential for non-antiarrhythmic drugs - Questions and Answers",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Wezenla, ustekinumab, Date of authorisation: 20/06/2024, Revision: 10, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/wezenla",
+      "publishedAt": "2026-09-16",
+      "excerpt": "Human medicines European public assessment report (EPAR): Wezenla, ustekinumab, Date of authorisation: 20/06/2024, Revision: 10, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Symtuza, darunavir,cobicistat,emtricitabine,tenofovir alafenamide, Date of authorisation: 21/09/2017, Revision: 20, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/symtuza",
+      "publishedAt": "2026-09-16",
+      "excerpt": "Human medicines European public assessment report (EPAR): Symtuza, darunavir,cobicistat,emtricitabine,tenofovir alafenamide, Date of authorisation: 21/09/2017, Revision: 20, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Procysbi, mercaptamine, Date of authorisation: 05/09/2013, Revision: 19, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/procysbi",
+      "publishedAt": "2026-09-16",
+      "excerpt": "Human medicines European public assessment report (EPAR): Procysbi, mercaptamine, Date of authorisation: 05/09/2013, Revision: 19, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Piqray, alpelisib, Date of authorisation: 27/07/2020, Revision: 19, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/piqray",
+      "publishedAt": "2026-09-16",
+      "excerpt": "Human medicines European public assessment report (EPAR): Piqray, alpelisib, Date of authorisation: 27/07/2020, Revision: 19, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Ontruzant, trastuzumab, Date of authorisation: 15/11/2017, Revision: 17, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/ontruzant",
+      "publishedAt": "2026-09-16",
+      "excerpt": "Human medicines European public assessment report (EPAR): Ontruzant, trastuzumab, Date of authorisation: 15/11/2017, Revision: 17, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Mepact, mifamurtide, Date of authorisation: 06/03/2009, Revision: 23, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/mepact",
+      "publishedAt": "2026-09-16",
+      "excerpt": "Human medicines European public assessment report (EPAR): Mepact, mifamurtide, Date of authorisation: 06/03/2009, Revision: 23, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Ezmekly, mirdametinib, Date of authorisation: 17/07/2025, Revision: 5, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/ezmekly",
+      "publishedAt": "2026-09-16",
+      "excerpt": "Human medicines European public assessment report (EPAR): Ezmekly, mirdametinib, Date of authorisation: 17/07/2025, Revision: 5, Status: Authorised",
       "sourceType": "rss"
     },
     {
@@ -103,6 +233,26 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Drugs@FDA Data Files",
+      "url": "http://www.fda.gov/drugs/drug-approvals-and-databases/drugsfda-data-files",
+      "publishedAt": "2026-09-16",
+      "excerpt": "Drugs@FDA Downloadable Data File in ZIP format, Data Definitions, and Entity Relationship Diagram (ERD)",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Drug Shortages",
+      "url": "http://www.fda.gov/drugs/drug-safety-and-availability/drug-shortages",
+      "publishedAt": "2026-09-16",
+      "excerpt": "Drug Shortages Homepage",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "PMDA：トップ その他",
       "siteName": "Others (JP)",
       "region": "JP",
@@ -120,16 +270,6 @@
       "url": "https://www.pmda.go.jp/review-services/drug-reviews/review-information/devices/0018.html",
       "publishedAt": "2026-09-15",
       "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "What's New Related to Drugs",
-      "url": "http://www.fda.gov/drugs/news-events-human-drugs/whats-new-related-drugs",
-      "publishedAt": "2026-09-15",
-      "excerpt": "Want to know what's new on drugs from FDA? This page provides quick links to the latest on a variety of topics including: drug approvals, safety warnings, drug shortages, etc.",
       "sourceType": "rss"
     },
     {
@@ -416,16 +556,6 @@
       "siteId": "fda-whats-new-drugs",
       "siteName": "What's New: Drugs",
       "region": "US",
-      "title": "Drugs@FDA Data Files",
-      "url": "http://www.fda.gov/drugs/drug-approvals-and-databases/drugsfda-data-files",
-      "publishedAt": "2026-09-15",
-      "excerpt": "Drugs@FDA Downloadable Data File in ZIP format, Data Definitions, and Entity Relationship Diagram (ERD)",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
       "title": "Drug Safety Communications",
       "url": "http://www.fda.gov/drugs/drug-safety-and-availability/drug-safety-communications",
       "publishedAt": "2026-09-15",
@@ -493,8 +623,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 安全対策",
-      "siteName": "Adverse Health Effects Relief (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[健康]健康被害救済業務に関するデータを掲載しました",
       "url": "https://www.pmda.go.jp/relief-services/outline/0001.html",
@@ -2576,16 +2706,6 @@
       "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
       "siteName": "Human medicines: EPARs and summaries of opinion",
       "region": "EU",
-      "title": "Human medicines European public assessment report (EPAR): Symtuza, darunavir,cobicistat,emtricitabine,tenofovir alafenamide, Date of authorisation: 21/09/2017, Revision: 20, Status: Authorised",
-      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/symtuza",
-      "publishedAt": "2026-09-04",
-      "excerpt": "Human medicines European public assessment report (EPAR): Symtuza, darunavir,cobicistat,emtricitabine,tenofovir alafenamide, Date of authorisation: 21/09/2017, Revision: 20, Status: Authorised",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
-      "siteName": "Human medicines: EPARs and summaries of opinion",
-      "region": "EU",
       "title": "Human medicines European public assessment report (EPAR): Riximyo, rituximab, Date of authorisation: 15/06/2017, Revision: 18, Status: Authorised",
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/riximyo",
       "publishedAt": "2026-09-04",
@@ -3526,16 +3646,6 @@
       "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
       "siteName": "Human medicines: EPARs and summaries of opinion",
       "region": "EU",
-      "title": "Human medicines European public assessment report (EPAR): Ezmekly, mirdametinib, Date of authorisation: 17/07/2025, Revision: 4, Status: Authorised",
-      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/ezmekly",
-      "publishedAt": "2026-09-02",
-      "excerpt": "Human medicines European public assessment report (EPAR): Ezmekly, mirdametinib, Date of authorisation: 17/07/2025, Revision: 4, Status: Authorised",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
-      "siteName": "Human medicines: EPARs and summaries of opinion",
-      "region": "EU",
       "title": "Human medicines European public assessment report (EPAR): Emtricitabine/Tenofovir disoproxil Zentiva, emtricitabine,tenofovir disoproxil, Date of authorisation: 09/11/2016, Revision: 11, Status: Authorised",
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/emtricitabine-tenofovir-disoproxil-zentiva",
       "publishedAt": "2026-09-02",
@@ -4153,16 +4263,6 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "Drug Shortages",
-      "url": "http://www.fda.gov/drugs/drug-safety-and-availability/drug-shortages",
-      "publishedAt": "2026-09-01",
-      "excerpt": "Drug Shortages Homepage",
-      "sourceType": "rss"
-    },
-    {
       "siteId": "fda-medwatch",
       "siteName": "MedWatch Safety Alerts",
       "region": "US",
@@ -4263,8 +4363,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 安全対策",
-      "siteName": "Adverse Health Effects Relief (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[健康]副用救済給付の決定に関する情報（2026年度6月分）を掲載しました",
       "url": "https://www.pmda.go.jp/relief-services/adr-sufferers/0043.html",
@@ -5323,8 +5423,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 安全対策",
-      "siteName": "Adverse Health Effects Relief (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[健康]医薬品副作用被害救済制度 対象除外医薬品等一覧を更新しました",
       "url": "https://www.pmda.go.jp/relief-services/adr-sufferers/0022.html",
@@ -8023,16 +8123,6 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "Recently Issued Guidance Documents",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/biologics-guidances/recently-issued-guidance-documents",
-      "publishedAt": "2026-08-19",
-      "excerpt": "This page lists Recently Issued CBER and Cross-Center Guidance Documents.",
-      "sourceType": "rss"
-    },
-    {
       "siteId": "ema-whats-new",
       "siteName": "What's new",
       "region": "EU",
@@ -9090,16 +9180,6 @@
       "url": "http://www.fda.gov/drugs/guidance-compliance-regulatory-information/center-research-complex-generics",
       "publishedAt": "2026-08-14",
       "excerpt": "FDA awards a 5-year grant to the University of Maryland and the University of Michigan to establish a Center for Research on Complex Generics (CRCG).",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "ema-whats-new",
-      "siteName": "What's new",
-      "region": "EU",
-      "title": "Scientific publications",
-      "url": "https://www.ema.europa.eu/en/news-and-events/publications/scientific-publications",
-      "publishedAt": "2026-08-14",
-      "excerpt": "Scientific publications",
       "sourceType": "rss"
     },
     {
@@ -22380,16 +22460,6 @@
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/zypadhera",
       "publishedAt": "2026-07-01",
       "excerpt": "Human medicines European public assessment report (EPAR): Zypadhera, olanzapine, Date of authorisation: 19/11/2008, Revision: 27, Status: Authorised",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
-      "siteName": "Human medicines: EPARs and summaries of opinion",
-      "region": "EU",
-      "title": "Human medicines European public assessment report (EPAR): Wezenla, ustekinumab, Date of authorisation: 20/06/2024, Revision: 9, Status: Authorised",
-      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/wezenla",
-      "publishedAt": "2026-07-01",
-      "excerpt": "Human medicines European public assessment report (EPAR): Wezenla, ustekinumab, Date of authorisation: 20/06/2024, Revision: 9, Status: Authorised",
       "sourceType": "rss"
     },
     {
