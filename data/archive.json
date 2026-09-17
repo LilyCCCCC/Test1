@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-17T13:36:20.713686+00:00",
-  "count": 3105,
+  "generatedAt": "2026-09-17T18:21:42.389937+00:00",
+  "count": 3111,
   "items": [
     {
       "siteId": "PMDA：トップ その他",
@@ -63,6 +63,46 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Verified Clinical Benefit | Cancer Accelerated Approvals",
+      "url": "http://www.fda.gov/drugs/resources-information-approved-drugs/verified-clinical-benefit-cancer-accelerated-approvals",
+      "publishedAt": "2026-09-17",
+      "excerpt": "This listing includes accelerated approvals (AAs) for malignant hematology and oncology indications with postmarketing trials that have verified clinical benefit and for which traditional approval has been subsequently granted for the specific indication.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Untitled Letters",
+      "url": "http://www.fda.gov/drugs/warning-letters-and-notice-violation-letters-pharmaceutical-companies/untitled-letters",
+      "publishedAt": "2026-09-17",
+      "excerpt": "These letters are supplied by the CDER Freedom of Information Office and only cover Office of Prescription Drug Promotion's untitled letters. FDA may have redacted or edited some of the letters to remove confidential information.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Small Business Assistance",
+      "url": "http://www.fda.gov/industry/small-business-assistance",
+      "publishedAt": "2026-09-17",
+      "excerpt": "Contacts for small business assistance",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Recently Issued Guidance Documents",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/biologics-guidances/recently-issued-guidance-documents",
+      "publishedAt": "2026-09-17",
+      "excerpt": "This page lists Recently Issued CBER and Cross-Center Guidance Documents.",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "ema-whats-new",
       "siteName": "What's new",
       "region": "EU",
@@ -83,6 +123,16 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Ongoing | Cancer Accelerated Approvals",
+      "url": "http://www.fda.gov/drugs/resources-information-approved-drugs/ongoing-cancer-accelerated-approvals",
+      "publishedAt": "2026-09-17",
+      "excerpt": "This listing includes accelerated approvals (AAs) for malignant hematology and oncology indications that have postmarketing requirement(s) for ongoing clinical trial(s) to verify clinical benefit.",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "reviews",
       "siteName": "Reviews (EN)",
       "region": "JP",
@@ -90,6 +140,26 @@
       "url": "https://www.pmda.go.jp/english/review-services/reviews/approved-information/devices/0001.html",
       "publishedAt": "2026-09-17",
       "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Korea Filler Experts - 718706 - 11/03/2025",
+      "url": "http://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/korea-filler-experts-718706-11032025",
+      "publishedAt": "2026-09-17",
+      "excerpt": "Unapproved New Drugs/Misbranded",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Vevzuo, denosumab, Date of authorisation: 25/06/2025, Revision: 4, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/vevzuo",
+      "publishedAt": "2026-09-17",
+      "excerpt": "Human medicines European public assessment report (EPAR): Vevzuo, denosumab, Date of authorisation: 25/06/2025, Revision: 4, Status: Authorised",
       "sourceType": "rss"
     },
     {
@@ -106,10 +176,90 @@
       "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
       "siteName": "Human medicines: EPARs and summaries of opinion",
       "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Paxneury, guanfacine, Date of authorisation: 26/02/2025, Revision: 2, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/paxneury",
+      "publishedAt": "2026-09-17",
+      "excerpt": "Human medicines European public assessment report (EPAR): Paxneury, guanfacine, Date of authorisation: 26/02/2025, Revision: 2, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
       "title": "Human medicines European public assessment report (EPAR): Olumiant, baricitinib, Date of authorisation: 13/02/2017, Revision: 28, Status: Authorised",
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/olumiant",
       "publishedAt": "2026-09-17",
       "excerpt": "Human medicines European public assessment report (EPAR): Olumiant, baricitinib, Date of authorisation: 13/02/2017, Revision: 28, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Grasustek, pegfilgrastim, Date of authorisation: 20/06/2019, Revision: 9, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/grasustek",
+      "publishedAt": "2026-09-17",
+      "excerpt": "Human medicines European public assessment report (EPAR): Grasustek, pegfilgrastim, Date of authorisation: 20/06/2019, Revision: 9, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Fintepla, fenfluramine, Date of authorisation: 18/12/2020, Revision: 18, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/fintepla",
+      "publishedAt": "2026-09-17",
+      "excerpt": "Human medicines European public assessment report (EPAR): Fintepla, fenfluramine, Date of authorisation: 18/12/2020, Revision: 18, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Denbrayce, denosumab, Date of authorisation: 26/06/2025, Revision: 3, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/denbrayce",
+      "publishedAt": "2026-09-17",
+      "excerpt": "Human medicines European public assessment report (EPAR): Denbrayce, denosumab, Date of authorisation: 26/06/2025, Revision: 3, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Human Drug Compounding",
+      "url": "http://www.fda.gov/drugs/guidance-compliance-regulatory-information/human-drug-compounding",
+      "publishedAt": "2026-09-17",
+      "excerpt": "Compounded drugs can serve an important medical need for certain patients, they also present a risk to patients.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Generic Drug User Fee Amendments",
+      "url": "http://www.fda.gov/industry/fda-user-fee-programs/generic-drug-user-fee-amendments",
+      "publishedAt": "2026-09-17",
+      "excerpt": "This page features news and information for industry and stakeholders about GDUFA, its fee structure, payment methods, and related information.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Generic Drug Facilities, Sites and Organization Lists",
+      "url": "http://www.fda.gov/industry/generic-drug-user-fee-amendments/generic-drug-facilities-sites-and-organization-lists",
+      "publishedAt": "2026-09-17",
+      "excerpt": "Generic Drug Facilities, Sites and Organization Lists",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "FDA Public Workshop: Future Needs for the Development of Interchangeable Products - 09/19/2025",
+      "url": "http://www.fda.gov/industry/fda-public-workshop-future-needs-development-interchangeable-products-09192025",
+      "publishedAt": "2026-09-17",
+      "excerpt": "The public meeting will be held on September 19, 2025, from 9 a.m. to 1 p.m. The meeting agenda, federal register notice, additional materials, and any other updates will also be posted to this website as they become available.",
       "sourceType": "rss"
     },
     {
@@ -120,6 +270,16 @@
       "url": "https://www.pmda.go.jp/english/review-services/reviews/approved-information/drugs/0001.html",
       "publishedAt": "2026-09-17",
       "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Drug Safety Oversight Board (DSB) Meeting June 26, 2024",
+      "url": "http://www.fda.gov/about-fda/center-drug-evaluation-and-research-cder/drug-safety-oversight-board-dsb-meeting-june-26-2024",
+      "publishedAt": "2026-09-17",
+      "excerpt": "Public Summary for June 26, 2024 Drug Safety Oversight (DSB) Meeting. This includes a summary and links to the 5 Drug Safety Communications (DSCs) that posted since the last DSB Meeting on July 25, 2022, the title of the presentation, and names of the two FDA/CDER presenters.",
       "sourceType": "rss"
     },
     {
@@ -213,16 +373,6 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "Verified Clinical Benefit | Cancer Accelerated Approvals",
-      "url": "http://www.fda.gov/drugs/resources-information-approved-drugs/verified-clinical-benefit-cancer-accelerated-approvals",
-      "publishedAt": "2026-09-16",
-      "excerpt": "This listing includes accelerated approvals (AAs) for malignant hematology and oncology indications with postmarketing trials that have verified clinical benefit and for which traditional approval has been subsequently granted for the specific indication.",
-      "sourceType": "rss"
-    },
-    {
       "siteId": "ema-whats-new",
       "siteName": "What's new",
       "region": "EU",
@@ -250,26 +400,6 @@
       "url": "http://www.fda.gov/drugs/emergency-preparedness-drugs/reporting-prescription-drug-sample-losses-known-thefts-and-possible-diversion-aftermath-natural",
       "publishedAt": "2026-09-16",
       "excerpt": "FDA is aware that pharmaceutical manufacturers and authorized distributors may be contacted by sales representatives concerning drug sample losses in the wake of natural disasters.",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "Recently Issued Guidance Documents",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/biologics-guidances/recently-issued-guidance-documents",
-      "publishedAt": "2026-09-16",
-      "excerpt": "This page lists Recently Issued CBER and Cross-Center Guidance Documents.",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "Ongoing | Cancer Accelerated Approvals",
-      "url": "http://www.fda.gov/drugs/resources-information-approved-drugs/ongoing-cancer-accelerated-approvals",
-      "publishedAt": "2026-09-16",
-      "excerpt": "This listing includes accelerated approvals (AAs) for malignant hematology and oncology indications that have postmarketing requirement(s) for ongoing clinical trial(s) to verify clinical benefit.",
       "sourceType": "rss"
     },
     {
@@ -390,16 +520,6 @@
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/brinsupri",
       "publishedAt": "2026-09-16",
       "excerpt": "Human medicines European public assessment report (EPAR): Brinsupri, Brensocatib, Date of authorisation: 18/11/2025, Revision: 1, Status: Authorised",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "Generic Drug Facilities, Sites and Organization Lists",
-      "url": "http://www.fda.gov/industry/generic-drug-user-fee-amendments/generic-drug-facilities-sites-and-organization-lists",
-      "publishedAt": "2026-09-16",
-      "excerpt": "Generic Drug Facilities, Sites and Organization Lists",
       "sourceType": "rss"
     },
     {
@@ -1140,16 +1260,6 @@
       "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/centric-compounding-issues-nationwide-recall-glutathione-myers-cocktail-and-tri-immune-boost-due",
       "publishedAt": "2026-09-13",
       "excerpt": "FOR IMMEDIATE RELEASE – 9/9/2026 – Houston, Texas, Centric Compounding is voluntarily recalling 6 lots of Glutathione 200mg/mL, Myer’s Cocktail, and Tri-Immune Boost injectable vials to the consumer level. The products have been found to be compounded with a Glutathione API containing elevated endot",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "Generic Drug User Fee Amendments",
-      "url": "http://www.fda.gov/industry/fda-user-fee-programs/generic-drug-user-fee-amendments",
-      "publishedAt": "2026-09-12",
-      "excerpt": "This page features news and information for industry and stakeholders about GDUFA, its fee structure, payment methods, and related information.",
       "sourceType": "rss"
     },
     {
@@ -2190,16 +2300,6 @@
       "url": "https://www.pmda.go.jp/english/rs-sb-std/standards-development/jp/pub-comments/jp/0054.html",
       "publishedAt": "2026-09-08",
       "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "Untitled Letters",
-      "url": "http://www.fda.gov/drugs/warning-letters-and-notice-violation-letters-pharmaceutical-companies/untitled-letters",
-      "publishedAt": "2026-09-08",
-      "excerpt": "These letters are supplied by the CDER Freedom of Information Office and only cover Office of Prescription Drug Promotion's untitled letters. FDA may have redacted or edited some of the letters to remove confidential information.",
       "sourceType": "rss"
     },
     {
@@ -9510,16 +9610,6 @@
       "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/updated-grand-central-bakery-seattle-recalls-potato-sourdough-bread-due-possible-foreign-object",
       "publishedAt": "2026-08-13",
       "excerpt": "August 19, 2026, Grand Central Bakery of Seattle, WA is recalling loaves of Potato Sourdough bread due to the potential presence of pieces of metal.",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "Small Business Assistance",
-      "url": "http://www.fda.gov/industry/small-business-assistance",
-      "publishedAt": "2026-08-13",
-      "excerpt": "Contacts for small business assistance",
       "sourceType": "rss"
     },
     {
@@ -17340,16 +17430,6 @@
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/rozlytrek",
       "publishedAt": "2026-07-15",
       "excerpt": "Human medicines European public assessment report (EPAR): Rozlytrek, entrectinib, Date of authorisation: 31/07/2020, Revision: 11, Status: Authorised",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
-      "siteName": "Human medicines: EPARs and summaries of opinion",
-      "region": "EU",
-      "title": "Human medicines European public assessment report (EPAR): Paxneury, guanfacine, Date of authorisation: 26/02/2025, Revision: 1, Status: Authorised",
-      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/paxneury",
-      "publishedAt": "2026-07-15",
-      "excerpt": "Human medicines European public assessment report (EPAR): Paxneury, guanfacine, Date of authorisation: 26/02/2025, Revision: 1, Status: Authorised",
       "sourceType": "rss"
     },
     {
@@ -25406,30 +25486,10 @@
       "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
       "siteName": "Human medicines: EPARs and summaries of opinion",
       "region": "EU",
-      "title": "Human medicines European public assessment report (EPAR): Grasustek, pegfilgrastim, Date of authorisation: 20/06/2019, Revision: 8, Status: Authorised",
-      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/grasustek",
-      "publishedAt": "2026-06-15",
-      "excerpt": "Human medicines European public assessment report (EPAR): Grasustek, pegfilgrastim, Date of authorisation: 20/06/2019, Revision: 8, Status: Authorised",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
-      "siteName": "Human medicines: EPARs and summaries of opinion",
-      "region": "EU",
       "title": "Human medicines European public assessment report (EPAR): Entyvio, vedolizumab, Date of authorisation: 22/05/2014, Revision: 33, Status: Authorised",
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/entyvio",
       "publishedAt": "2026-06-15",
       "excerpt": "Human medicines European public assessment report (EPAR): Entyvio, vedolizumab, Date of authorisation: 22/05/2014, Revision: 33, Status: Authorised",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "Human Drug Compounding",
-      "url": "http://www.fda.gov/drugs/guidance-compliance-regulatory-information/human-drug-compounding",
-      "publishedAt": "2026-06-15",
-      "excerpt": "Compounded drugs can serve an important medical need for certain patients, they also present a risk to patients.",
       "sourceType": "rss"
     },
     {
