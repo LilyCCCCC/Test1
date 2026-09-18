@@ -1,7 +1,42 @@
 {
-  "generatedAt": "2026-09-18T16:34:45.850747+00:00",
-  "count": 3177,
+  "generatedAt": "2026-09-18T19:46:51.268785+00:00",
+  "count": 3182,
   "errors": [
+    {
+      "groupId": "tfda",
+      "siteId": "notice-from-tfda",
+      "error": "RSS fetch failed - keeping archived data"
+    },
+    {
+      "groupId": "tfda",
+      "siteId": "tfda-news-and-press-releases",
+      "error": "RSS fetch failed - keeping archived data"
+    },
+    {
+      "groupId": "tfda",
+      "siteId": "medicines-medical-devices-and-cosmetics",
+      "error": "RSS fetch failed - keeping archived data"
+    },
+    {
+      "groupId": "tfda",
+      "siteId": "controlled-drugs",
+      "error": "RSS fetch failed - keeping archived data"
+    },
+    {
+      "groupId": "tfda",
+      "siteId": "light-drugs",
+      "error": "RSS fetch failed - keeping archived data"
+    },
+    {
+      "groupId": "tfda",
+      "siteId": "fees-and-other-charges",
+      "error": "RSS fetch failed - keeping archived data"
+    },
+    {
+      "groupId": "tfda",
+      "siteId": "legislative-amendments-section",
+      "error": "RSS fetch failed - keeping archived data"
+    },
     {
       "groupId": "pmda",
       "siteId": "services-for-healtheffects",
@@ -9,22 +44,7 @@
     },
     {
       "groupId": "pmda",
-      "siteId": "PMDA：トップ 安全対策",
-      "error": "RSS fetch failed - keeping archived data"
-    },
-    {
-      "groupId": "pmda",
       "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "error": "RSS fetch failed - keeping archived data"
-    },
-    {
-      "groupId": "pmda",
-      "siteId": "PMDA：トップ 国際活動",
-      "error": "RSS fetch failed - keeping archived data"
-    },
-    {
-      "groupId": "pmda",
-      "siteId": "PMDA：トップ その他",
       "error": "RSS fetch failed - keeping archived data"
     }
   ],
@@ -40,8 +60,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[薬局方][パブコメ]日本薬局方新規収載候補品目（案）に関するご意見の募集について（2026年9月分）",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/pub-comments/jp/0266.html",
@@ -50,8 +70,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[採用]事務補助員（医薬翻訳事務）の募集について（採用時期を更新しました）",
       "url": "https://www.pmda.go.jp/recruit/0429.html",
@@ -90,8 +110,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Adverse Health Effects Relief (JP)",
       "region": "JP",
       "title": "[健康]医薬品副作用被害救済制度 対象除外医薬品等一覧を更新しました",
       "url": "https://www.pmda.go.jp/relief-services/adr-sufferers/0022.html",
@@ -100,8 +120,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[RS]2025年度レギュラトリーサイエンス活動報告書（デジタルブック）を掲載しました。",
       "url": "https://www.pmda.go.jp/rs-std-jp/outline/0001.html",
@@ -110,8 +130,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[PMDA]WOWOW「連続ドラマW MR -医薬情報担当者-」とタイアップします―「PMDAおくすりサーチ」を周知します―（ニュースリリース）",
       "url": "https://www.pmda.go.jp/about-pmda/news-release/0098.html",
@@ -157,6 +177,16 @@
       "url": "https://www.ema.europa.eu/en/medicines/human/variation/alhemo",
       "publishedAt": "2026-09-18",
       "excerpt": "Withdrawn application: Alhemo, 10/09/2026",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "What's New Related to Drugs",
+      "url": "http://www.fda.gov/drugs/news-events-human-drugs/whats-new-related-drugs",
+      "publishedAt": "2026-09-18",
+      "excerpt": "Want to know what's new on drugs from FDA? This page provides quick links to the latest on a variety of topics including: drug approvals, safety warnings, drug shortages, etc.",
       "sourceType": "rss"
     },
     {
@@ -300,6 +330,16 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "fda-medwatch",
+      "siteName": "MedWatch Safety Alerts",
+      "region": "US",
+      "title": "Sodium Chloride Flush Recall: Spectra Medical Removes Sodium Chloride Injection USP Ampules",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/sodium-chloride-flush-recall-spectra-medical-removes-sodium-chloride-injection-usp-ampules",
+      "publishedAt": "2026-09-18",
+      "excerpt": "Spectra Medical Devices is removing Sodium Chloride Flush products that were manufactured by Huons Co,. Ltd.",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "reviews",
       "siteName": "Reviews (EN)",
       "region": "JP",
@@ -390,6 +430,16 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Project Orbis",
+      "url": "http://www.fda.gov/about-fda/oncology-center-excellence/project-orbis",
+      "publishedAt": "2026-09-18",
+      "excerpt": "Information Project Orbis, an initiative of the FDA Oncology Center of Excellence (OCE) that provides a framework for concurrent submission and review of oncology products among international partners.",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "ema-whats-new",
       "siteName": "What's new",
       "region": "EU",
@@ -427,6 +477,36 @@
       "url": "https://www.ema.europa.eu/system/files/documents/other/human-division-chart_source_masterorgchart_a3_v127-en_0.pdf",
       "publishedAt": "2026-09-18",
       "excerpt": "Organisation chart: Human Medicines",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Oncology (Cancer)/Hematologic Malignancies Approval Notifications",
+      "url": "http://www.fda.gov/drugs/resources-information-approved-drugs/oncology-cancerhematologic-malignancies-approval-notifications",
+      "publishedAt": "2026-09-18",
+      "excerpt": "FDA does not issue approval announcements for every approval or drug label update that occurs in oncology and hematology. Please refer to Drugs@FDA for the latest approvals and prescribing information for specific products.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Notable Approvals | Drugs",
+      "url": "http://www.fda.gov/drugs/news-events-human-drugs/notable-approvals-drugs",
+      "publishedAt": "2026-09-18",
+      "excerpt": "News about human drug-related approvals",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-medwatch",
+      "siteName": "MedWatch Safety Alerts",
+      "region": "US",
+      "title": "Nitric Oxide Delivery System Correction: NOxBOX Updates Use Instructions for NOxBOXi Nitric Oxide Delivery System",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/nitric-oxide-delivery-system-correction-noxbox-updates-use-instructions-noxboxi-nitric-oxide",
+      "publishedAt": "2026-09-18",
+      "excerpt": "The NOxBOX NOxBOXi System may leak oxygen during inhaled nitric oxide therapy",
       "sourceType": "rss"
     },
     {
@@ -640,6 +720,36 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Generic Drugs: Questions & Answers",
+      "url": "http://www.fda.gov/drugs/generic-drugs/generic-drugs-questions-answers",
+      "publishedAt": "2026-09-18",
+      "excerpt": "A generic drug is a medication created to be the same as an already marketed brand-name drug in dosage form, safety, strength, route of administration, quality, performance characteristics, and intended use.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Generic Drugs",
+      "url": "http://www.fda.gov/drugs/buying-using-medicine-safely/generic-drugs",
+      "publishedAt": "2026-09-18",
+      "excerpt": "Understanding generic drugs: Consumer-friendly information on the safe and effective use of generic drugs. Learn about the generic drug approval process, why generic drugs are usually less expensive, and other interesting facts and figures.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Generic Drug Facilities, Sites and Organization Lists",
+      "url": "http://www.fda.gov/industry/generic-drug-user-fee-amendments/generic-drug-facilities-sites-and-organization-lists",
+      "publishedAt": "2026-09-18",
+      "excerpt": "Generic Drug Facilities, Sites and Organization Lists",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "PMDA：トップ 承認審査",
       "siteName": "Review for (marketing) approval (JP)",
       "region": "JP",
@@ -647,6 +757,26 @@
       "url": "https://www.pmda.go.jp/review-services/gmp-qms-gctp/gmp/0025.html",
       "publishedAt": "2026-09-18",
       "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "FDA approves imlunestrant in combination with abemaciclib for ER-positive, HER2-negative, ESR1-mutated advanced or metastatic breast cancer",
+      "url": "http://www.fda.gov/drugs/resources-information-approved-drugs/fda-approves-imlunestrant-combination-abemaciclib-er-positive-her2-negative-esr1-mutated-advanced-or",
+      "publishedAt": "2026-09-18",
+      "excerpt": "On September 18, 2026, the Food and Drug Administration approved imlunestrant (Inluriyo) in combination with abemaciclib (Verzenio), for adults with estrogen receptor (ER)-positive, human epidermal growth factor receptor 2 (HER2)-negative, estrogen receptor 1 (ESR1)-mutated advanced or metastatic br",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "FDA Approves Therapy to Treat Ataxia in Patients with Ataxia-Telangiectasia, a Rare Genetic Disorder",
+      "url": "http://www.fda.gov/drugs/news-events-human-drugs/fda-approves-therapy-treat-ataxia-patients-ataxia-telangiectasia-rare-genetic-disorder",
+      "publishedAt": "2026-09-18",
+      "excerpt": "FDA has approved Aqneursa (levacetylleucine) for oral suspension to treat ataxia in adults and pediatric patients with ataxia-telangiectasia weighing at least 15 kg (about 33 pounds).",
       "sourceType": "rss"
     },
     {
@@ -793,6 +923,16 @@
       "siteId": "fda-whats-new-drugs",
       "siteName": "What's New: Drugs",
       "region": "US",
+      "title": "Chemistry, Manufacturing, and Controls Development and Readiness Pilot (CDRP) Program",
+      "url": "http://www.fda.gov/drugs/pharmaceutical-quality-resources/chemistry-manufacturing-and-controls-development-and-readiness-pilot-cdrp-program",
+      "publishedAt": "2026-09-18",
+      "excerpt": "Chemistry, Manufacturing, and Controls Development and Readiness Pilot Program (CDRP)",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
       "title": "CDER Streamlined Nonclinical Studies and Acceptable New Approach Methodologies (NAMs)",
       "url": "http://www.fda.gov/drugs/science-and-research-drugs/cder-streamlined-nonclinical-studies-and-acceptable-new-approach-methodologies-nams",
       "publishedAt": "2026-09-18",
@@ -840,8 +980,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[調達]一般競争入札公告（メール誤送信防止ソフトウェア（Cipher Craft/Mail 8）ライセンス更新）",
       "url": "https://www.pmda.go.jp/procurements/public-bidding/general-competition/1708.html",
@@ -850,8 +990,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[薬局方]日局におけるPDG調和文書への対応状況（医薬品各条）を更新しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/0020.html",
@@ -1103,16 +1243,6 @@
       "siteId": "fda-whats-new-drugs",
       "siteName": "What's New: Drugs",
       "region": "US",
-      "title": "Generic Drug Facilities, Sites and Organization Lists",
-      "url": "http://www.fda.gov/industry/generic-drug-user-fee-amendments/generic-drug-facilities-sites-and-organization-lists",
-      "publishedAt": "2026-09-17",
-      "excerpt": "Generic Drug Facilities, Sites and Organization Lists",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
       "title": "FDA Public Workshop: Future Needs for the Development of Interchangeable Products - 09/19/2025",
       "url": "http://www.fda.gov/industry/fda-public-workshop-future-needs-development-interchangeable-products-09192025",
       "publishedAt": "2026-09-17",
@@ -1240,8 +1370,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[調達]一般競争入札公告（2026年度国際会議等実用英語研修）（再公告）",
       "url": "https://www.pmda.go.jp/procurements/public-bidding/general-competition/1709.html",
@@ -1260,16 +1390,6 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "What's New Related to Drugs",
-      "url": "http://www.fda.gov/drugs/news-events-human-drugs/whats-new-related-drugs",
-      "publishedAt": "2026-09-16",
-      "excerpt": "Want to know what's new on drugs from FDA? This page provides quick links to the latest on a variety of topics including: drug approvals, safety warnings, drug shortages, etc.",
-      "sourceType": "rss"
-    },
-    {
       "siteId": "ema-whats-new",
       "siteName": "What's new",
       "region": "EU",
@@ -1280,8 +1400,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "fda-food-allergies",
-      "siteName": "Food Allergies",
+      "siteId": "fda-food-safety-recalls",
+      "siteName": "Food Safety Recalls",
       "region": "US",
       "title": "Saratoga Potato Chips Issues Allergy Alert on Undeclared Soy in J. HIGGS Loaded Bacon and Cheddar Potato Chips",
       "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/saratoga-potato-chips-issues-allergy-alert-undeclared-soy-j-higgs-loaded-bacon-and-cheddar-potato",
@@ -1500,8 +1620,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[調達]一般競争入札公告（政府調達）（携帯電話端末購入及び通信サービス提供業務）",
       "url": "https://www.pmda.go.jp/procurements/public-bidding/general-competition-government/0235.html",
@@ -1850,8 +1970,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Adverse Health Effects Relief (JP)",
       "region": "JP",
       "title": "[健康]健康被害救済業務に関するデータを掲載しました",
       "url": "https://www.pmda.go.jp/relief-services/outline/0001.html",
@@ -2260,16 +2380,6 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "Notable Approvals | Drugs",
-      "url": "http://www.fda.gov/drugs/news-events-human-drugs/notable-approvals-drugs",
-      "publishedAt": "2026-09-11",
-      "excerpt": "News about human drug-related approvals",
-      "sourceType": "rss"
-    },
-    {
       "siteId": "ema-news-and-press-releases",
       "siteName": "News and press releases",
       "region": "EU",
@@ -2490,8 +2600,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[PMDA][イベント]2026年度のPMDAオープン・カンパニー情報（技術系）を更新しました",
       "url": "https://www.pmda.go.jp/about-pmda/symposia/0030.html",
@@ -2780,8 +2890,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[調達]一般競争入札公告（ICMRAサミット対面会合及び二国間会合における日英通訳業務の委託）",
       "url": "https://www.pmda.go.jp/procurements/public-bidding/general-competition/1707.html",
@@ -2867,16 +2977,6 @@
       "url": "https://www.ema.europa.eu/system/files/documents/other/orphan-device-procedures-2027-timetable-en.pdf",
       "publishedAt": "2026-09-09",
       "excerpt": "Orphan medical devices regular process: 2027 timetable",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "Oncology (Cancer)/Hematologic Malignancies Approval Notifications",
-      "url": "http://www.fda.gov/drugs/resources-information-approved-drugs/oncology-cancerhematologic-malignancies-approval-notifications",
-      "publishedAt": "2026-09-09",
-      "excerpt": "FDA does not issue approval announcements for every approval or drug label update that occurs in oncology and hematology. Please refer to Drugs@FDA for the latest approvals and prescribing information for specific products.",
       "sourceType": "rss"
     },
     {
@@ -3600,8 +3700,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[調達]一般競争入札公告（Insight Masking 導入及び運用保守業務等一式）",
       "url": "https://www.pmda.go.jp/procurements/public-bidding/general-competition/1706.html",
@@ -4060,8 +4160,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[基準]経口製剤における食事の影響の評価に関する考え方について（Early Consideration）の英訳を掲載しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/guidance-guideline/0003.html",
@@ -4080,8 +4180,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[PMDA]専門委員名簿を更新しました",
       "url": "https://www.pmda.go.jp/about-pmda/outline/0016.html",
@@ -4540,8 +4640,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[採用]2026年度1day仕事体験（技術系　薬剤疫学業務験）の情報を更新しました",
       "url": "https://www.pmda.go.jp/recruit/0855.html",
@@ -4550,8 +4650,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[採用]2026年度1day仕事体験（技術系　毒性業務体験）情報を更新しました",
       "url": "https://www.pmda.go.jp/recruit/0862.html",
@@ -4560,8 +4660,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[採用]2026年度1day仕事体験（技術系　新薬審査体験）の情報を更新しました",
       "url": "https://www.pmda.go.jp/recruit/0885.html",
@@ -4940,8 +5040,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[薬局方][パブコメ]日本薬局方収載原案に関する改正案の報告について（2026年9月）",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/pub-comments/jp/0264.html",
@@ -4950,8 +5050,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[薬局方][パブコメ]日本薬局方収載原案に関するご意見の募集について（2026年9月分 その2）",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/pub-comments/jp/0263.html",
@@ -4960,8 +5060,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[薬局方][パブコメ]日本薬局方収載原案に関するご意見の募集について（2026年9月分 その1）",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/pub-comments/jp/0265.html",
@@ -5460,8 +5560,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[調達]一般競争入札公告（2026年度（令和8年度）データヘルス改革を見据えた次世代型お薬手帳活用推進事業（患者向医薬品ガイド等閲覧推進事業）） （再公告）",
       "url": "https://www.pmda.go.jp/procurements/public-bidding/general-competition/1705.html",
@@ -5490,8 +5590,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Adverse Health Effects Relief (JP)",
       "region": "JP",
       "title": "[健康]副用救済給付の決定に関する情報（2026年度6月分）を掲載しました",
       "url": "https://www.pmda.go.jp/relief-services/adr-sufferers/0043.html",
@@ -5700,8 +5800,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[調達]一般競争入札公告（令和8年度レセプト情報等データ解析用機器向けSAS®ライセンス（継続）の調達）",
       "url": "https://www.pmda.go.jp/procurements/public-bidding/general-competition/1704.html",
@@ -5730,8 +5830,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[RS][イベント]第12回PMDAレギュラトリーサイエンス研究会の開催について更新しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/symposia/0034.html",
@@ -8660,26 +8760,6 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "Generic Drugs: Questions & Answers",
-      "url": "http://www.fda.gov/drugs/generic-drugs/generic-drugs-questions-answers",
-      "publishedAt": "2026-08-21",
-      "excerpt": "A generic drug is a medication created to be the same as an already marketed brand-name drug in dosage form, safety, strength, route of administration, quality, performance characteristics, and intended use.",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "Generic Drugs",
-      "url": "http://www.fda.gov/drugs/buying-using-medicine-safely/generic-drugs",
-      "publishedAt": "2026-08-21",
-      "excerpt": "Understanding generic drugs: Consumer-friendly information on the safe and effective use of generic drugs. Learn about the generic drug approval process, why generic drugs are usually less expensive, and other interesting facts and figures.",
-      "sourceType": "rss"
-    },
-    {
       "siteId": "fda-recalls",
       "siteName": "Recalls",
       "region": "US",
@@ -9200,8 +9280,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "fda-food-safety-recalls",
-      "siteName": "Food Safety Recalls",
+      "siteId": "fda-food-allergies",
+      "siteName": "Food Allergies",
       "region": "US",
       "title": "Prince Bakery Inc Issues Allergy Alert on Undeclared Milk and Sesame in Prince Bakery Breads",
       "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/prince-bakery-inc-issues-allergy-alert-undeclared-milk-and-sesame-prince-bakery-breads",
@@ -15767,16 +15847,6 @@
       "url": "http://www.fda.gov/science-research/science-and-research-special-topics/digital-health-technologies-dhts-drug-development",
       "publishedAt": "2026-07-23",
       "excerpt": "Digital Health Technologies (DHTs) for Drug Development",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "Chemistry, Manufacturing, and Controls Development and Readiness Pilot (CDRP) Program",
-      "url": "http://www.fda.gov/drugs/pharmaceutical-quality-resources/chemistry-manufacturing-and-controls-development-and-readiness-pilot-cdrp-program",
-      "publishedAt": "2026-07-23",
-      "excerpt": "Chemistry, Manufacturing, and Controls Development and Readiness Pilot Program (CDRP)",
       "sourceType": "rss"
     },
     {
