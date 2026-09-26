@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T13:13:55.896663+00:00",
+  "generatedAt": "2026-09-26T17:17:59.303102+00:00",
   "count": 3313,
   "errors": [
     {
@@ -15,6 +15,11 @@
     {
       "groupId": "pmda",
       "siteId": "services-for-healtheffects",
+      "error": "RSS fetch failed - keeping archived data"
+    },
+    {
+      "groupId": "pmda",
+      "siteId": "PMDA：トップ 承認審査",
       "error": "RSS fetch failed - keeping archived data"
     },
     {
@@ -60,21 +65,21 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 安全対策",
-      "siteName": "Safety Measures (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
-      "title": "[医薬]「不具合が疑われる症例報告に関する情報（コンビネーション製品）」に2026年5月分の情報を追加しました",
-      "url": "https://www.pmda.go.jp/safety/info-services/drugs/adr-info/malfunctions-combination-drugs/0001.html",
+      "title": "[審査][イベント]「2026年度マスターファイル講習会」の案内を掲載しました",
+      "url": "https://www.pmda.go.jp/review-services/symposia/0208.html",
       "publishedAt": "2026-09-25",
       "excerpt": "",
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 承認審査",
-      "siteName": "Review for (marketing) approval (JP)",
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Safety Measures (JP)",
       "region": "JP",
-      "title": "[医薬][医療][再生][イベント]「2026年度マスターファイル講習会」の案内を掲載しました",
-      "url": "https://www.pmda.go.jp/review-services/symposia/0208.html",
+      "title": "[医薬]「不具合が疑われる症例報告に関する情報（コンビネーション製品）」に2026年5月分の情報を追加しました",
+      "url": "https://www.pmda.go.jp/safety/info-services/drugs/adr-info/malfunctions-combination-drugs/0001.html",
       "publishedAt": "2026-09-25",
       "excerpt": "",
       "sourceType": "rss"
@@ -500,6 +505,16 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
+      "region": "JP",
+      "title": "[審査]外国製造業者認定・登録番号を掲載しました",
+      "url": "https://www.pmda.go.jp/review-services/drug-reviews/foreign-mfr/0003.html",
+      "publishedAt": "2026-09-24",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "PMDA：トップ 安全対策",
       "siteName": "Safety Measures (JP)",
       "region": "JP",
@@ -515,16 +530,6 @@
       "region": "JP",
       "title": "[医薬]［MID-NET］MID-NETの利活用に関する有識者会議の情報を更新しました",
       "url": "https://www.pmda.go.jp/safety/mid-net/0011.html",
-      "publishedAt": "2026-09-24",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "PMDA：トップ 承認審査",
-      "siteName": "Review for (marketing) approval (JP)",
-      "region": "JP",
-      "title": "[全製品]外国製造業者認定・登録番号を掲載しました",
-      "url": "https://www.pmda.go.jp/review-services/drug-reviews/foreign-mfr/0003.html",
       "publishedAt": "2026-09-24",
       "excerpt": "",
       "sourceType": "rss"
@@ -1970,31 +1975,41 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 安全対策",
-      "siteName": "Safety Measures (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
-      "title": "[医薬]「副作用が疑われる症例報告に関する情報」に2026年5月分の情報を追加しました",
-      "url": "https://www.pmda.go.jp/safety/info-services/drugs/adr-info/suspected-adr/0005.html",
-      "publishedAt": "2026-09-18",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "PMDA：トップ 承認審査",
-      "siteName": "Review for (marketing) approval (JP)",
-      "region": "JP",
-      "title": "[医療]生成AIを活用したプログラム医療機器(Draft)に関する審査ポイントの意見募集を開始しました。",
+      "title": "[審査]生成AIを活用したプログラム医療機器(Draft)に関する審査ポイントの意見募集を開始しました。",
       "url": "https://www.pmda.go.jp/review-services/drug-reviews/about-reviews/devices/0058.html",
       "publishedAt": "2026-09-18",
       "excerpt": "",
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 承認審査",
-      "siteName": "Review for (marketing) approval (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
-      "title": "[医療]プログラム医療機器のページを更新（手引書の改定、講習会動画・資料の公開、対面助言調整可能時期の更新）しました。",
+      "title": "[審査]プログラム医療機器のページを更新（手引書の改定、講習会動画・資料の公開、対面助言調整可能時期の更新）しました。",
       "url": "https://www.pmda.go.jp/review-services/drug-reviews/about-reviews/devices/0048.html",
+      "publishedAt": "2026-09-18",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
+      "region": "JP",
+      "title": "[審査]GMP調査不適合連絡書の一覧を更新しました",
+      "url": "https://www.pmda.go.jp/review-services/gmp-qms-gctp/gmp/0025.html",
+      "publishedAt": "2026-09-18",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Safety Measures (JP)",
+      "region": "JP",
+      "title": "[医薬]「副作用が疑われる症例報告に関する情報」に2026年5月分の情報を追加しました",
+      "url": "https://www.pmda.go.jp/safety/info-services/drugs/adr-info/suspected-adr/0005.html",
       "publishedAt": "2026-09-18",
       "excerpt": "",
       "sourceType": "rss"
@@ -2600,16 +2615,6 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 承認審査",
-      "siteName": "Review for (marketing) approval (JP)",
-      "region": "JP",
-      "title": "GMP調査不適合連絡書の一覧を更新しました",
-      "url": "https://www.pmda.go.jp/review-services/gmp-qms-gctp/gmp/0025.html",
-      "publishedAt": "2026-09-18",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
       "siteId": "fda-food-safety-recalls",
       "siteName": "Food Safety Recalls",
       "region": "US",
@@ -2870,31 +2875,31 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 安全対策",
-      "siteName": "Safety Measures (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
-      "title": "[医薬]添付文書改訂相談に基づく添付文書改訂（医薬品）を掲載しました",
-      "url": "https://www.pmda.go.jp/safety/info-services/drugs/calling-attention/revision-based-on-the-consultation/0001.html",
-      "publishedAt": "2026-09-17",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "PMDA：トップ 承認審査",
-      "siteName": "Review for (marketing) approval (JP)",
-      "region": "JP",
-      "title": "[医薬]新医薬品の承認品目一覧（2026年9月16日承認分まで）を掲載しました",
+      "title": "[審査]新医薬品の承認品目一覧（2026年9月16日承認分まで）を掲載しました",
       "url": "https://www.pmda.go.jp/review-services/drug-reviews/review-information/p-drugs/0040.html",
       "publishedAt": "2026-09-17",
       "excerpt": "",
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 承認審査",
-      "siteName": "Review for (marketing) approval (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
-      "title": "[体外][医療]医薬品の適応判定を目的として承認されたコンパニオン診断薬等（2026年9月11日版）を掲載しました",
+      "title": "[審査]医薬品の適応判定を目的として承認されたコンパニオン診断薬等（2026年9月11日版）を掲載しました",
       "url": "https://www.pmda.go.jp/review-services/drug-reviews/review-information/cd/0001.html",
+      "publishedAt": "2026-09-17",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Safety Measures (JP)",
+      "region": "JP",
+      "title": "[医薬]添付文書改訂相談に基づく添付文書改訂（医薬品）を掲載しました",
+      "url": "https://www.pmda.go.jp/safety/info-services/drugs/calling-attention/revision-based-on-the-consultation/0001.html",
       "publishedAt": "2026-09-17",
       "excerpt": "",
       "sourceType": "rss"
@@ -3210,10 +3215,10 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 承認審査",
-      "siteName": "Review for (marketing) approval (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
-      "title": "[医薬]医薬品の最適使用推進ガイドラインを掲載しました",
+      "title": "[審査]医薬品の最適使用推進ガイドラインを掲載しました",
       "url": "https://www.pmda.go.jp/review-services/drug-reviews/review-information/p-drugs/0028.html",
       "publishedAt": "2026-09-16",
       "excerpt": "",
@@ -3450,10 +3455,10 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 承認審査",
-      "siteName": "Review for (marketing) approval (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
-      "title": "[医療]2026年度　医療機器の承認品目を掲載しました",
+      "title": "[審査]2026年度　医療機器の承認品目を掲載しました",
       "url": "https://www.pmda.go.jp/review-services/drug-reviews/review-information/devices/0018.html",
       "publishedAt": "2026-09-15",
       "excerpt": "",
@@ -4060,10 +4065,10 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 承認審査",
-      "siteName": "Review for (marketing) approval (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
-      "title": "[全製品]IRB登録情報を更新しました",
+      "title": "[審査]IRB登録情報を更新しました",
       "url": "https://www.pmda.go.jp/review-services/trials/0008.html",
       "publishedAt": "2026-09-11",
       "excerpt": "",
@@ -4330,11 +4335,21 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 承認審査",
-      "siteName": "Review for (marketing) approval (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
-      "title": "[医薬]医薬品事前評価相談の2026年度受付方法を掲載しました",
+      "title": "[審査]医薬品事前評価相談の2026年度受付方法を掲載しました",
       "url": "https://www.pmda.go.jp/review-services/f2f-pre/consultations/0025.html",
+      "publishedAt": "2026-09-10",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
+      "region": "JP",
+      "title": "[審査]再生医療等製品事前評価相談の2026年度受付方法を掲載しました",
+      "url": "https://www.pmda.go.jp/review-services/f2f-pre/consultations/0024.html",
       "publishedAt": "2026-09-10",
       "excerpt": "",
       "sourceType": "rss"
@@ -4345,16 +4360,6 @@
       "region": "JP",
       "title": "[医薬]「アトモキセチン錠 ニトロソアミン化合物の管理について」を掲載しました",
       "url": "https://www.pmda.go.jp/safety/info-services/drugs/0371.html",
-      "publishedAt": "2026-09-10",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "PMDA：トップ 承認審査",
-      "siteName": "Review for (marketing) approval (JP)",
-      "region": "JP",
-      "title": "[再生]再生医療等製品事前評価相談の2026年度受付方法を掲載しました",
-      "url": "https://www.pmda.go.jp/review-services/f2f-pre/consultations/0024.html",
       "publishedAt": "2026-09-10",
       "excerpt": "",
       "sourceType": "rss"
