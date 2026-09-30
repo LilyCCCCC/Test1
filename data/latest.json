@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-29T20:55:28.620812+00:00",
-  "count": 3348,
+  "generatedAt": "2026-09-30T00:35:56.099605+00:00",
+  "count": 3349,
   "errors": [
     {
       "groupId": "ema",
@@ -15,6 +15,11 @@
     {
       "groupId": "pmda",
       "siteId": "services-for-healtheffects",
+      "error": "RSS fetch failed - keeping archived data"
+    },
+    {
+      "groupId": "pmda",
+      "siteId": "PMDA：トップ 安全対策",
       "error": "RSS fetch failed - keeping archived data"
     },
     {
@@ -34,6 +39,36 @@
     }
   ],
   "items": [
+    {
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
+      "region": "JP",
+      "title": "[国際]PMDA Updates（2026 No.3）を掲載しました",
+      "url": "https://www.pmda.go.jp/int-activities/outline/0007.html",
+      "publishedAt": "2026-09-30",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
+      "region": "JP",
+      "title": "[健康]副用救済給付の決定に関する情報（2026年度7月分）を掲載しました",
+      "url": "https://www.pmda.go.jp/relief-services/adr-sufferers/0043.html",
+      "publishedAt": "2026-09-30",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "international-activities",
+      "siteName": "International Activities (EN)",
+      "region": "JP",
+      "title": "PMDA Updates (2026 No.3) posted",
+      "url": "https://www.pmda.go.jp/english/int-activities/outline/0006.html",
+      "publishedAt": "2026-09-30",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
     {
       "siteId": "PMDA：トップ 承認審査",
       "siteName": "Review for (marketing) approval (JP)",
@@ -355,6 +390,16 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "fda-criminal-investigations-press-releases",
+      "siteName": "Criminal Investigations Press Releases",
+      "region": "US",
+      "title": "FDA Investigation Leads to Charges Against Two Indian Nationals Involved in Transnational Counterfeit Drug Distribution Scheme",
+      "url": "http://www.fda.gov/news-events/press-announcements/fda-investigation-leads-charges-against-two-indian-nationals-involved-transnational-counterfeit-drug",
+      "publishedAt": "2026-09-29",
+      "excerpt": "The U.S. Attorney’s Office for the Middle District of Florida and the Criminal Division of the U.S. Department of Justice today announced federal charges against Swapnadip Roy, 33, and Vicky Ramancha, 37, both Indian nationals.",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "reviews",
       "siteName": "Reviews (EN)",
       "region": "JP",
@@ -418,6 +463,16 @@
       "siteId": "fda-whats-new-drugs",
       "siteName": "What's New: Drugs",
       "region": "US",
+      "title": "CDER Patient-Focused Drug Development",
+      "url": "http://www.fda.gov/drugs/development-approval-process-drugs/cder-patient-focused-drug-development",
+      "publishedAt": "2026-09-29",
+      "excerpt": "Patient-focused drug development (PFDD) is a systematic approach to help ensure that patients’ experiences, perspectives, needs, and priorities are captured and meaningfully incorporated into drug development and evaluation. The primary goal of patient-focused drug development is to better incorpora",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
       "title": "Bentley Laboratories LLC - 732028 - 09/17/2026",
       "url": "http://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/bentley-laboratories-llc-732028-09172026",
       "publishedAt": "2026-09-29",
@@ -445,8 +500,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 安全対策",
-      "siteName": "Adverse Health Effects Relief (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[健康]医薬品副作用被害救済制度に関する通知等を更新しました",
       "url": "https://www.pmda.go.jp/relief-services/adr-sufferers/0001.html",
@@ -2545,8 +2600,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 安全対策",
-      "siteName": "Adverse Health Effects Relief (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[健康]医薬品副作用被害救済制度 対象除外医薬品等一覧を更新しました",
       "url": "https://www.pmda.go.jp/relief-services/adr-sufferers/0022.html",
@@ -4285,8 +4340,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 安全対策",
-      "siteName": "Adverse Health Effects Relief (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[健康]健康被害救済業務に関するデータを掲載しました",
       "url": "https://www.pmda.go.jp/relief-services/outline/0001.html",
@@ -7750,16 +7805,6 @@
       "region": "JP",
       "title": "[医薬]GMPラウンドテーブル会議（地方開催：滋賀）の開催報告を掲載しました",
       "url": "https://www.pmda.go.jp/review-services/gmp-qms-gctp/gmp/0023.html",
-      "publishedAt": "2026-08-31",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "PMDA：トップ 安全対策",
-      "siteName": "Adverse Health Effects Relief (JP)",
-      "region": "JP",
-      "title": "[健康]副用救済給付の決定に関する情報（2026年度6月分）を掲載しました",
-      "url": "https://www.pmda.go.jp/relief-services/adr-sufferers/0043.html",
       "publishedAt": "2026-08-31",
       "excerpt": "",
       "sourceType": "rss"
@@ -16635,16 +16680,6 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "CDER Patient-Focused Drug Development",
-      "url": "http://www.fda.gov/drugs/development-approval-process-drugs/cder-patient-focused-drug-development",
-      "publishedAt": "2026-07-27",
-      "excerpt": "Patient-focused drug development (PFDD) is a systematic approach to help ensure that patients’ experiences, perspectives, needs, and priorities are captured and meaningfully incorporated into drug development and evaluation. The primary goal of patient-focused drug development is to better incorpora",
-      "sourceType": "rss"
-    },
-    {
       "siteId": "fda-medwatch",
       "siteName": "MedWatch Safety Alerts",
       "region": "US",
@@ -21835,16 +21870,6 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
-      "region": "JP",
-      "title": "[国際]PMDA Updates（2026 No.2）を掲載しました",
-      "url": "https://www.pmda.go.jp/int-activities/outline/0007.html",
-      "publishedAt": "2026-07-10",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
       "siteId": "PMDA：トップ その他",
       "siteName": "Others (JP)",
       "region": "JP",
@@ -21942,16 +21967,6 @@
       "url": "https://www.ema.europa.eu/system/files/documents/other/pwcp-20th-annniversary-summary-en.pdf",
       "publishedAt": "2026-07-10",
       "excerpt": "PWCP 20th anniversary summary",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "international-activities",
-      "siteName": "International Activities (EN)",
-      "region": "JP",
-      "title": "PMDA Updates (2026 No.2) posted",
-      "url": "https://www.pmda.go.jp/english/int-activities/outline/0006.html",
-      "publishedAt": "2026-07-10",
-      "excerpt": "",
       "sourceType": "rss"
     },
     {
