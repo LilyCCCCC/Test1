@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-30T06:50:54.519461+00:00",
-  "count": 3354,
+  "generatedAt": "2026-09-30T13:58:00.012112+00:00",
+  "count": 3363,
   "errors": [
     {
       "groupId": "ema",
@@ -15,6 +15,46 @@
     {
       "groupId": "pmda",
       "siteId": "services-for-healtheffects",
+      "error": "RSS fetch failed - keeping archived data"
+    },
+    {
+      "groupId": "pmda",
+      "siteId": "international-activities",
+      "error": "RSS fetch failed - keeping archived data"
+    },
+    {
+      "groupId": "pmda",
+      "siteId": "PMDAの新着情報",
+      "error": "RSS fetch failed - keeping archived data"
+    },
+    {
+      "groupId": "pmda",
+      "siteId": "PMDA：トップ 承認審査",
+      "error": "RSS fetch failed - keeping archived data"
+    },
+    {
+      "groupId": "pmda",
+      "siteId": "PMDA：トップ 安全対策",
+      "error": "RSS fetch failed - keeping archived data"
+    },
+    {
+      "groupId": "pmda",
+      "siteId": "PMDA：トップ 安全対策",
+      "error": "RSS fetch failed - keeping archived data"
+    },
+    {
+      "groupId": "pmda",
+      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
+      "error": "RSS fetch failed - keeping archived data"
+    },
+    {
+      "groupId": "pmda",
+      "siteId": "PMDA：トップ 国際活動",
+      "error": "RSS fetch failed - keeping archived data"
+    },
+    {
+      "groupId": "pmda",
+      "siteId": "PMDA：トップ その他",
       "error": "RSS fetch failed - keeping archived data"
     }
   ],
@@ -60,13 +100,43 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "international-activities",
-      "siteName": "International Activities (EN)",
+      "siteId": "reviews",
+      "siteName": "Reviews (EN)",
       "region": "JP",
       "title": "[SHINSA][KOKUSAI]“For Industry - for development in Japan “ Updated.",
       "url": "https://www.pmda.go.jp/english/int-activities/industry/0001.html",
       "publishedAt": "2026-09-30",
       "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-news-and-press-releases",
+      "siteName": "News and press releases",
+      "region": "EU",
+      "title": "Women are missing from medicines development: EMA’s roadmap for change",
+      "url": "https://www.ema.europa.eu/en/news/women-are-missing-medicines-development-emas-roadmap-change",
+      "publishedAt": "2026-09-30",
+      "excerpt": "By the end of 2026, EMA will develop a regulatory roadmap to help drive decisive change on how women’s health is considered across medicines development and regulation. This…,         Women are still missing: from research and data, prevention, diagnosis and treatment. But the momentum to improve support for women’s health has never been stronger.…,         Meaningful change starts with dialogue and with a shared understanding of the challenges we face. We end this workshop with a clear path to ",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "What's New Related to Drugs",
+      "url": "http://www.fda.gov/drugs/news-events-human-drugs/whats-new-related-drugs",
+      "publishedAt": "2026-09-30",
+      "excerpt": "Want to know what's new on drugs from FDA? This page provides quick links to the latest on a variety of topics including: drug approvals, safety warnings, drug shortages, etc.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "Right Value Drug Stores LLC. Irving, TX. 483 issued 9/08/2026",
+      "url": "http://www.fda.gov/about-fda/fda-commissioner/right-value-drug-stores-llc-irving-tx-483-issued-9082026",
+      "publishedAt": "2026-09-30",
+      "excerpt": "Task Description Request\tPlease post to the OII FOIA Electronic Reading Room Record Date\t9/08/2026 Short Title (70 char)\tRight Value Drug Stores LLC. Irving, TX. 483 issued 9/08/2026 FEI Number\t3010589333 Firm Name\tRight Value Drug Stores LLC Record Type\t483 State\tTX Establishment Type\t503B Outsourc",
       "sourceType": "rss"
     },
     {
@@ -77,6 +147,66 @@
       "url": "https://www.pmda.go.jp/english/int-activities/outline/0006.html",
       "publishedAt": "2026-09-30",
       "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "New Safety Information or Potential Signals of Serious Risks Identified from the FDA Adverse Event Monitoring System (AEMS)",
+      "url": "http://www.fda.gov/drugs/fda-adverse-event-monitoring-system-aems/new-safety-information-or-potential-signals-serious-risks-identified-fda-adverse-event-monitoring",
+      "publishedAt": "2026-09-30",
+      "excerpt": "Discover potential signals of serious risks and new safety information identified by the FDA's Adverse Event Monitoring System (AEMS). Learn how the FDA monitors and evaluates drugs for safety concerns, providing important updates on adverse events to protect public health.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "safety-measures",
+      "siteName": "Safety Measures (EN)",
+      "region": "JP",
+      "title": "MHLW Pharmaceuticals and Medical Devices Safety Information No.431 posted",
+      "url": "https://www.pmda.go.jp/english/safety/info-services/drugs/medical-safety-information/0024.html",
+      "publishedAt": "2026-09-30",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "List of medicines under additional monitoring",
+      "url": "https://www.ema.europa.eu/en/human-regulatory-overview/post-authorisation/pharmacovigilance-post-authorisation/medicines-under-additional-monitoring/list-medicines-under-additional-monitoring",
+      "publishedAt": "2026-09-30",
+      "excerpt": "List of medicines under additional monitoring",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "List of medicinal products under additional monitoring",
+      "url": "https://www.ema.europa.eu/system/files/documents/additional-monitoring/list-medicinal-products-under-additional-monitoring_en.pdf",
+      "publishedAt": "2026-09-30",
+      "excerpt": "List of medicinal products under additional monitoring",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "List of medicinal products under additional monitoring",
+      "url": "https://www.ema.europa.eu/system/files/documents/additional-monitoring/list-medicinal-products-under-additional-monitoring_en.xlsx",
+      "publishedAt": "2026-09-30",
+      "excerpt": "List of medicinal products under additional monitoring",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Ximluci, ranibizumab, Date of authorisation: 09/11/2022, Revision: 3, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/ximluci",
+      "publishedAt": "2026-09-30",
+      "excerpt": "Human medicines European public assessment report (EPAR): Ximluci, ranibizumab, Date of authorisation: 09/11/2022, Revision: 3, Status: Authorised",
       "sourceType": "rss"
     },
     {
@@ -93,10 +223,80 @@
       "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
       "siteName": "Human medicines: EPARs and summaries of opinion",
       "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Spikevax (previously COVID-19 Vaccine Moderna), COVID-19 mRNA vaccine, Date of authorisation: 06/01/2021, Revision: 63, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/spikevax",
+      "publishedAt": "2026-09-30",
+      "excerpt": "Human medicines European public assessment report (EPAR): Spikevax (previously COVID-19 Vaccine Moderna), COVID-19 mRNA vaccine, Date of authorisation: 06/01/2021, Revision: 63, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
       "title": "Human medicines European public assessment report (EPAR): Orgovyx, relugolix, Date of authorisation: 29/04/2022, Revision: 13, Status: Authorised",
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/orgovyx",
       "publishedAt": "2026-09-30",
       "excerpt": "Human medicines European public assessment report (EPAR): Orgovyx, relugolix, Date of authorisation: 29/04/2022, Revision: 13, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Datroway, datopotamab deruxtecan, Date of authorisation: 04/04/2025, Revision: 5, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/datroway",
+      "publishedAt": "2026-09-30",
+      "excerpt": "Human medicines European public assessment report (EPAR): Datroway, datopotamab deruxtecan, Date of authorisation: 04/04/2025, Revision: 5, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Comirnaty, COVID-19 mRNA vaccine, Date of authorisation: 21/12/2020, Revision: 63, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/comirnaty",
+      "publishedAt": "2026-09-30",
+      "excerpt": "Human medicines European public assessment report (EPAR): Comirnaty, COVID-19 mRNA vaccine, Date of authorisation: 21/12/2020, Revision: 63, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Generic Drug Facilities, Sites and Organization Lists",
+      "url": "http://www.fda.gov/industry/generic-drug-user-fee-amendments/generic-drug-facilities-sites-and-organization-lists",
+      "publishedAt": "2026-09-30",
+      "excerpt": "Generic Drug Facilities, Sites and Organization Lists",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "European Shortages Monitoring Platform (ESMP): Implementation guide for national competent authorities",
+      "url": "https://www.ema.europa.eu/system/files/documents/other/2_20260929_nca-implementation-guide_updated_1_6-en.pdf",
+      "publishedAt": "2026-09-30",
+      "excerpt": "European Shortages Monitoring Platform (ESMP): Implementation guide for national competent authorities",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "European Shortages Monitoring Platform (ESMP) User guide for national competent authorities",
+      "url": "https://www.ema.europa.eu/system/files/documents/other/1_20260929_nca-user-guide_updated_1_4-en.pdf",
+      "publishedAt": "2026-09-30",
+      "excerpt": "European Shortages Monitoring Platform (ESMP) User guide for national competent authorities",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "April - June 2026 | New Safety Information or Potential Signals of Serious Risks Identified by the FDA Adverse Event Monitoring System (AEMS)",
+      "url": "http://www.fda.gov/drugs/fda-adverse-event-monitoring-system-aems/april-june-2026-new-safety-information-or-potential-signals-serious-risks-identified-fda-adverse",
+      "publishedAt": "2026-09-30",
+      "excerpt": "April - June 2026 | New Safety Information or Potential Signals of Serious Risks Identified by the FDA Adverse Event Monitoring System (AEMS)",
       "sourceType": "rss"
     },
     {
@@ -403,16 +603,6 @@
       "siteId": "fda-whats-new-drugs",
       "siteName": "What's New: Drugs",
       "region": "US",
-      "title": "Generic Drug Facilities, Sites and Organization Lists",
-      "url": "http://www.fda.gov/industry/generic-drug-user-fee-amendments/generic-drug-facilities-sites-and-organization-lists",
-      "publishedAt": "2026-09-29",
-      "excerpt": "Generic Drug Facilities, Sites and Organization Lists",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
       "title": "Fresenius Kabi AG - 733107 - 09/22/2026",
       "url": "http://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/fresenius-kabi-ag-733107-09222026",
       "publishedAt": "2026-09-29",
@@ -557,16 +747,6 @@
       "url": "https://www.pmda.go.jp/english/rs-sb-std/rs/0003.html",
       "publishedAt": "2026-09-28",
       "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "What's New Related to Drugs",
-      "url": "http://www.fda.gov/drugs/news-events-human-drugs/whats-new-related-drugs",
-      "publishedAt": "2026-09-28",
-      "excerpt": "Want to know what's new on drugs from FDA? This page provides quick links to the latest on a variety of topics including: drug approvals, safety warnings, drug shortages, etc.",
       "sourceType": "rss"
     },
     {
@@ -8200,16 +8380,6 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "safety-measures",
-      "siteName": "Safety Measures (EN)",
-      "region": "JP",
-      "title": "MHLW Pharmaceuticals and Medical Devices Safety Information No.430 posted",
-      "url": "https://www.pmda.go.jp/english/safety/info-services/drugs/medical-safety-information/0024.html",
-      "publishedAt": "2026-08-28",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
       "siteId": "ema-whats-new",
       "siteName": "What's new",
       "region": "EU",
@@ -8983,16 +9153,6 @@
       "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
       "siteName": "Human medicines: EPARs and summaries of opinion",
       "region": "EU",
-      "title": "Human medicines European public assessment report (EPAR): Spikevax (previously COVID-19 Vaccine Moderna), COVID-19 mRNA vaccine, Date of authorisation: 06/01/2021, Revision: 63, Status: Authorised",
-      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/spikevax",
-      "publishedAt": "2026-08-26",
-      "excerpt": "Human medicines European public assessment report (EPAR): Spikevax (previously COVID-19 Vaccine Moderna), COVID-19 mRNA vaccine, Date of authorisation: 06/01/2021, Revision: 63, Status: Authorised",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
-      "siteName": "Human medicines: EPARs and summaries of opinion",
-      "region": "EU",
       "title": "Human medicines European public assessment report (EPAR): Skyrizi, risankizumab, Date of authorisation: 26/04/2019, Revision: 32, Status: Authorised",
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/skyrizi",
       "publishedAt": "2026-08-26",
@@ -9017,16 +9177,6 @@
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/darzalex",
       "publishedAt": "2026-08-26",
       "excerpt": "Human medicines European public assessment report (EPAR): Darzalex, daratumumab, Date of authorisation: 20/05/2016, Revision: 30, Status: Authorised",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
-      "siteName": "Human medicines: EPARs and summaries of opinion",
-      "region": "EU",
-      "title": "Human medicines European public assessment report (EPAR): Comirnaty, COVID-19 mRNA vaccine, Date of authorisation: 21/12/2020, Revision: 63, Status: Authorised",
-      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/comirnaty",
-      "publishedAt": "2026-08-26",
-      "excerpt": "Human medicines European public assessment report (EPAR): Comirnaty, COVID-19 mRNA vaccine, Date of authorisation: 21/12/2020, Revision: 63, Status: Authorised",
       "sourceType": "rss"
     },
     {
@@ -11097,16 +11247,6 @@
       "url": "https://www.ema.europa.eu/system/files/documents/other/timetable-companion-diagnostic-follow-consultation-en_0.xlsx",
       "publishedAt": "2026-08-20",
       "excerpt": "Timetable: Companion diagnostic follow-up consultation",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "New Safety Information or Potential Signals of Serious Risks Identified from the FDA Adverse Event Monitoring System (AEMS)",
-      "url": "http://www.fda.gov/drugs/fda-adverse-event-monitoring-system-aems/new-safety-information-or-potential-signals-serious-risks-identified-fda-adverse-event-monitoring",
-      "publishedAt": "2026-08-20",
-      "excerpt": "Discover potential signals of serious risks and new safety information identified by the FDA's Adverse Event Monitoring System (AEMS). Learn how the FDA monitors and evaluates drugs for safety concerns, providing important updates on adverse events to protect public health.",
       "sourceType": "rss"
     },
     {
@@ -16097,16 +16237,6 @@
       "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/publix-recalls-all-lots-greenwise-organic-frozen-blueberries-and-whole-mixed-berries-due-potential-e",
       "publishedAt": "2026-07-29",
       "excerpt": "July 29, 2026 ¬— Publix is recalling all lots of GreenWise Organic Whole Blueberries and Whole Mixed Berries because they may be contaminated with Escherichia coli O145:H28 (E. coli O145). E. coli O145 is a Shiga toxin-producing E. coli (STEC) that can cause illness characterized by severe stomach c",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "ema-whats-new",
-      "siteName": "What's new",
-      "region": "EU",
-      "title": "List of medicines under additional monitoring",
-      "url": "https://www.ema.europa.eu/en/human-regulatory-overview/post-authorisation/pharmacovigilance-post-authorisation/medicines-under-additional-monitoring/list-medicines-under-additional-monitoring",
-      "publishedAt": "2026-07-29",
-      "excerpt": "List of medicines under additional monitoring",
       "sourceType": "rss"
     },
     {
