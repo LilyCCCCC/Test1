@@ -1,7 +1,12 @@
 {
-  "generatedAt": "2026-09-30T23:58:21.678789+00:00",
-  "count": 3372,
+  "generatedAt": "2026-10-01T06:10:17.884621+00:00",
+  "count": 3387,
   "errors": [
+    {
+      "groupId": "ema",
+      "siteId": "ema-whats-new",
+      "error": "RSS fetch failed - keeping archived data"
+    },
     {
       "groupId": "ema",
       "siteId": "ema-eurd-list",
@@ -24,11 +29,281 @@
     },
     {
       "groupId": "pmda",
+      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
+      "error": "RSS fetch failed - keeping archived data"
+    },
+    {
+      "groupId": "pmda",
+      "siteId": "PMDA：トップ 国際活動",
+      "error": "RSS fetch failed - keeping archived data"
+    },
+    {
+      "groupId": "pmda",
       "siteId": "PMDA：トップ その他",
       "error": "RSS fetch failed - keeping archived data"
     }
   ],
   "items": [
+    {
+      "siteId": "tfda-news-and-press-releases",
+      "siteName": "新聞",
+      "region": "TW",
+      "title": "食藥署呼籲食品非藥品，切勿相信誇大宣稱延誤就醫",
+      "url": "http://www.fda.gov.tw/tc/newsContent.aspx?cid=4&id=t634723&utm_source=rss&utm_medium=feed&utm_campaign=rss_subscription",
+      "publishedAt": "2026-10-01",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "PMDA：トップ 承認審査",
+      "siteName": "Review for (marketing) approval (JP)",
+      "region": "JP",
+      "title": "[部外][医薬][体外]11月簡易相談予定表を掲載しました【医薬品等】",
+      "url": "https://www.pmda.go.jp/review-services/f2f-pre/consultations/0005.html",
+      "publishedAt": "2026-10-01",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
+      "region": "JP",
+      "title": "[採用]2026年度1day仕事体験（技術系　毒性業務体験）の情報を更新しました",
+      "url": "https://www.pmda.go.jp/recruit/0862.html",
+      "publishedAt": "2026-10-01",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
+      "region": "JP",
+      "title": "[国際]PMDA-ATC ラーニングビデオとE-ラーニングコンテンツを更新しました",
+      "url": "https://www.pmda.go.jp/int-activities/training-center/0005.html",
+      "publishedAt": "2026-10-01",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "PMDA：トップ 承認審査",
+      "siteName": "Review for (marketing) approval (JP)",
+      "region": "JP",
+      "title": "[医薬]医薬品の最適使用推進ガイドラインを掲載しました",
+      "url": "https://www.pmda.go.jp/review-services/drug-reviews/review-information/p-drugs/0028.html",
+      "publishedAt": "2026-10-01",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "PMDA：トップ 承認審査",
+      "siteName": "Review for (marketing) approval (JP)",
+      "region": "JP",
+      "title": "[医療][体外]11月の簡易相談実施予定を掲載しました（医療機器等）",
+      "url": "https://www.pmda.go.jp/review-services/f2f-pre/consultations/0015.html",
+      "publishedAt": "2026-10-01",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "PMDA：トップ 承認審査",
+      "siteName": "Review for (marketing) approval (JP)",
+      "region": "JP",
+      "title": "[イベント]第31回GLP研修会（令和8年度）の動画を掲載しました",
+      "url": "https://www.pmda.go.jp/review-services/symposia/0209.html",
+      "publishedAt": "2026-10-01",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "The CDER Reference Guide",
+      "url": "http://www.fda.gov/about-fda/cder-contact-information/cder-reference-guide",
+      "publishedAt": "2026-10-01",
+      "excerpt": "The CDER Reference Guide",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "The Bad Ad Program",
+      "url": "http://www.fda.gov/drugs/prescription-drug-advertising-and-promotional-labeling/bad-ad-program",
+      "publishedAt": "2026-10-01",
+      "excerpt": "FDA's Bad Ad program is an outreach program designed to educate healthcare providers about the role they can play in helping the agency make sure that prescription drug advertising and promotion is truthful and not misleading.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Regulatory Pharmaceutical Fellowship Program",
+      "url": "http://www.fda.gov/about-fda/center-drug-evaluation-and-research-cder/regulatory-pharmaceutical-fellowship-program",
+      "publishedAt": "2026-10-01",
+      "excerpt": "Explore the FDA’s Regulatory Pharmaceutical Fellowship Program, a partnership with academia and industry, offering specialized training in regulatory science, policy, and drug development. Learn how to advance your career in the pharmaceutical field through this unique fellowship opportunity.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Q&A with FDA Podcast",
+      "url": "http://www.fda.gov/drugs/news-events-human-drugs/qa-fda-podcast",
+      "publishedAt": "2026-10-01",
+      "excerpt": "“Q&A with FDA” is a monthly podcast series that provides engaging conversation and discussion about the latest regulatory topics. In this podcast series, FDA’s Office of Drug Information will answer some of the most commonly asked questions received by FDA. Perhaps you have had the same questions",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "international-activities",
+      "siteName": "International Activities (EN)",
+      "region": "JP",
+      "title": "PMDA-ATC Training Materials have been updated",
+      "url": "https://www.pmda.go.jp/english/int-activities/training-center/0003.html",
+      "publishedAt": "2026-10-01",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Over-the-Counter (OTC) | Nonprescription Drugs",
+      "url": "http://www.fda.gov/drugs/how-drugs-are-developed-and-approved/over-counter-otc-nonprescription-drugs",
+      "publishedAt": "2026-10-01",
+      "excerpt": "Over-the-counter (OTC) drugs are developed under the OTC Monograph Process or through the New Drug Application (NDA) Process.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "How to Request Domperidone for Expanded Access Use",
+      "url": "http://www.fda.gov/drugs/investigational-new-drug-application-ind/how-request-domperidone-expanded-access-use",
+      "publishedAt": "2026-10-01",
+      "excerpt": "FDA recognizes that there are some patients with severe gastrointestinal motility disorders that are difficult to manage with available therapy for whom domperidone’s potential benefits may justify its potential risks. Patients 12 years of age and older with certain gastrointestinal (GI) conditions",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Guidances | Drugs",
+      "url": "http://www.fda.gov/drugs/guidance-compliance-regulatory-information/guidances-drugs",
+      "publishedAt": "2026-10-01",
+      "excerpt": "Newly added and withdrawn guidances can be found at Guidances (Drugs).  FDA guidance documents discuss the production, labeling, manufacturing of regulated products and denote FDA's current thinking and policy interpretation.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Guidance Documents: Office of Drug Information",
+      "url": "http://www.fda.gov/drugs/guidances-drugs/guidance-documents-office-drug-information",
+      "publishedAt": "2026-10-01",
+      "excerpt": "For information on a specific guidance document, please contact the originating office.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Generic Drugs",
+      "url": "http://www.fda.gov/drugs/buying-using-medicine-safely/generic-drugs",
+      "publishedAt": "2026-10-01",
+      "excerpt": "Understanding generic drugs: Consumer-friendly information on the safe and effective use of generic drugs. Learn about the generic drug approval process, why generic drugs are usually less expensive, and other interesting facts and figures.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Frequently Asked Questions About Drugs",
+      "url": "http://www.fda.gov/about-fda/center-drug-evaluation-and-research-cder/frequently-asked-questions-about-drugs",
+      "publishedAt": "2026-10-01",
+      "excerpt": "Frequently Asked Questions About Drugs",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "FDA’s Concerns with Unapproved GLP-1 Drugs Used for Weight Loss",
+      "url": "http://www.fda.gov/drugs/drug-alerts-and-statements/fdas-concerns-unapproved-glp-1-drugs-used-weight-loss",
+      "publishedAt": "2026-10-01",
+      "excerpt": "FDA’s Concerns with Unapproved GLP-1 Drugs Used for Weight Loss",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "FDA Drug Info Rounds Video",
+      "url": "http://www.fda.gov/drugs/information-health-care-professionals-drugs/fda-drug-info-rounds-video",
+      "publishedAt": "2026-10-01",
+      "excerpt": "A new series of training videos for practicing clinical and community pharmacists",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Drug Safety-related Labeling Changes (SrLC) Database Overview: Updates to Safety Information in FDA-Approved Prescription Drug Labeling",
+      "url": "http://www.fda.gov/drugs/drug-safety-and-availability/drug-safety-related-labeling-changes-srlc-database-overview-updates-safety-information-fda-approved",
+      "publishedAt": "2026-10-01",
+      "excerpt": "As of September 1, 2016, the safety labeling changes (SLC) program will be managed by the Center for Drug Evaluation and Research’s (CDER’s) Office of Communications (OCOMM).",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Drug Safety Information",
+      "url": "http://www.fda.gov/drugs/information-health-care-professionals-drugs/drug-safety-information",
+      "publishedAt": "2026-10-01",
+      "excerpt": "Drug Safety Information and resources for healthcare professionals",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Drug Interactions | Relevant Regulatory Guidance and Policy Documents",
+      "url": "http://www.fda.gov/drugs/drug-interactions-labeling/drug-interactions-relevant-regulatory-guidance-and-policy-documents",
+      "publishedAt": "2026-10-01",
+      "excerpt": "Drug Interactions: Relevant Regulatory Guidance and Policy Documents",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "CDERLearn",
+      "url": "http://www.fda.gov/training-and-continuing-education/cderlearn",
+      "publishedAt": "2026-10-01",
+      "excerpt": "Training and Education for healthcare professionals, academia, and consumers from FDA’s Center for Drug Evaluation and Research",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "CDER Program for the Recognition of Voluntary  Consensus Standards Related to Pharmaceutical Quality  (CDER Quality Standards Program)",
+      "url": "http://www.fda.gov/drugs/cder-program-recognition-voluntary-consensus-standards-related-pharmaceutical-quality-cder-quality",
+      "publishedAt": "2026-10-01",
+      "excerpt": "CDER Program for the Recognition of Voluntary  Consensus Standards Related to Pharmaceutical Quality  (CDER Quality Standards Program)Draft page",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "CDER Contact Information",
+      "url": "http://www.fda.gov/about-fda/center-drug-evaluation-and-research-cder/cder-contact-information",
+      "publishedAt": "2026-10-01",
+      "excerpt": "Contact Information",
+      "sourceType": "rss"
+    },
     {
       "siteId": "PMDAの新着情報",
       "siteName": "What's New (JP)",
@@ -60,8 +335,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 安全対策",
-      "siteName": "Adverse Health Effects Relief (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[健康]副用救済給付の決定に関する情報（2026年度7月分）を掲載しました",
       "url": "https://www.pmda.go.jp/relief-services/adr-sufferers/0043.html",
@@ -453,38 +728,38 @@
       "siteId": "PMDAの新着情報",
       "siteName": "What's New (JP)",
       "region": "JP",
-      "title": "[安全]医薬品・医療機器等安全性情報 No.432（厚生労働省発行）を掲載しました",
-      "url": "https://www.pmda.go.jp/safety/info-services/drugs/calling-attention/safety-info/0166.html",
+      "title": "[国際][イベント]第13回日台医薬交流会議のご案内を掲載しました",
+      "url": "https://www.pmda.go.jp/int-activities/symposia/0364.html",
       "publishedAt": "2026-09-29",
       "excerpt": "",
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Safety Measures (JP)",
       "region": "JP",
-      "title": "[安全]使用上の注意の改訂指示通知（医薬品）2026年9月29日付（厚生労働省より発出）を掲載しました",
+      "title": "[医薬]使用上の注意の改訂指示通知（医薬品）2026年9月29日付（厚生労働省より発出）を掲載しました",
       "url": "https://www.pmda.go.jp/safety/info-services/drugs/calling-attention/revision-of-precautions/0375.html",
       "publishedAt": "2026-09-29",
       "excerpt": "",
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Safety Measures (JP)",
       "region": "JP",
-      "title": "[安全]「医薬品に関する評価中のリスク等の情報について」を掲載しました",
+      "title": "[医薬]「医薬品に関する評価中のリスク等の情報について」を掲載しました",
       "url": "https://www.pmda.go.jp/safety/info-services/drugs/calling-attention/risk-communications/0001.html",
       "publishedAt": "2026-09-29",
       "excerpt": "",
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Safety Measures (JP)",
       "region": "JP",
-      "title": "[国際][イベント]第13回日台医薬交流会議のご案内を掲載しました",
-      "url": "https://www.pmda.go.jp/int-activities/symposia/0364.html",
+      "title": "[全製品]医薬品・医療機器等安全性情報 No.432（厚生労働省発行）を掲載しました",
+      "url": "https://www.pmda.go.jp/safety/info-services/drugs/calling-attention/safety-info/0166.html",
       "publishedAt": "2026-09-29",
       "excerpt": "",
       "sourceType": "rss"
@@ -850,8 +1125,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 安全対策",
-      "siteName": "Adverse Health Effects Relief (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[健康]医薬品副作用被害救済制度に関する通知等を更新しました",
       "url": "https://www.pmda.go.jp/relief-services/adr-sufferers/0001.html",
@@ -1050,30 +1325,10 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Safety Measures (JP)",
       "region": "JP",
-      "title": "[安全]「不具合が疑われる症例報告に関する情報（医療機器）」に2026年5月分の情報を追加しました",
-      "url": "https://www.pmda.go.jp/safety/info-services/devices/0090.html",
-      "publishedAt": "2026-09-25",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
-      "region": "JP",
-      "title": "[安全]「不具合が疑われる症例報告に関する情報（再生医療等製品）」に2026年5月分の情報を追加しました",
-      "url": "https://www.pmda.go.jp/safety/info-services/ctp/0006.html",
-      "publishedAt": "2026-09-25",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
-      "region": "JP",
-      "title": "[安全]「不具合が疑われる症例報告に関する情報（コンビネーション製品）」に2026年5月分の情報を追加しました",
+      "title": "[医薬]「不具合が疑われる症例報告に関する情報（コンビネーション製品）」に2026年5月分の情報を追加しました",
       "url": "https://www.pmda.go.jp/safety/info-services/drugs/adr-info/malfunctions-combination-drugs/0001.html",
       "publishedAt": "2026-09-25",
       "excerpt": "",
@@ -1085,6 +1340,26 @@
       "region": "JP",
       "title": "[医薬][医療][再生][イベント]「2026年度マスターファイル講習会」の案内を掲載しました",
       "url": "https://www.pmda.go.jp/review-services/symposia/0208.html",
+      "publishedAt": "2026-09-25",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Safety Measures (JP)",
+      "region": "JP",
+      "title": "[医療]「不具合が疑われる症例報告に関する情報（医療機器）」に2026年5月分の情報を追加しました",
+      "url": "https://www.pmda.go.jp/safety/info-services/devices/0090.html",
+      "publishedAt": "2026-09-25",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Safety Measures (JP)",
+      "region": "JP",
+      "title": "[再生]「不具合が疑われる症例報告に関する情報（再生医療等製品）」に2026年5月分の情報を追加しました",
+      "url": "https://www.pmda.go.jp/safety/info-services/ctp/0006.html",
       "publishedAt": "2026-09-25",
       "excerpt": "",
       "sourceType": "rss"
@@ -1157,16 +1432,6 @@
       "url": "https://www.ema.europa.eu/en/human-regulatory-overview/research-and-development/scientific-guidelines/biological-guidelines/questions-answers-biological-medicinal-products",
       "publishedAt": "2026-09-25",
       "excerpt": "Questions and answers for biological medicinal products",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "Q&A with FDA Podcast",
-      "url": "http://www.fda.gov/drugs/news-events-human-drugs/qa-fda-podcast",
-      "publishedAt": "2026-09-25",
-      "excerpt": "“Q&A with FDA” is a monthly podcast series that provides engaging conversation and discussion about the latest regulatory topics. In this podcast series, FDA’s Division of Drug Information will answer some of the most commonly asked questions received by FDA. Perhaps you have had the same questions",
       "sourceType": "rss"
     },
     {
@@ -1460,20 +1725,20 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Safety Measures (JP)",
       "region": "JP",
-      "title": "[安全]［MID-NET］MID-NETの利活用状況を更新しました",
+      "title": "[医薬]［MID-NET］MID-NETの利活用状況を更新しました",
       "url": "https://www.pmda.go.jp/safety/mid-net/0010.html",
       "publishedAt": "2026-09-24",
       "excerpt": "",
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Safety Measures (JP)",
       "region": "JP",
-      "title": "[安全]［MID-NET］MID-NETの利活用に関する有識者会議の情報を更新しました",
+      "title": "[医薬]［MID-NET］MID-NETの利活用に関する有識者会議の情報を更新しました",
       "url": "https://www.pmda.go.jp/safety/mid-net/0011.html",
       "publishedAt": "2026-09-24",
       "excerpt": "",
@@ -2860,8 +3125,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 国際活動",
-      "siteName": "International (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[薬局方][パブコメ]日本薬局方新規収載候補品目（案）に関するご意見の募集について（2026年9月分）",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/pub-comments/jp/0266.html",
@@ -2880,10 +3145,10 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Safety Measures (JP)",
       "region": "JP",
-      "title": "[安全]「副作用が疑われる症例報告に関する情報」に2026年5月分の情報を追加しました",
+      "title": "[医薬]「副作用が疑われる症例報告に関する情報」に2026年5月分の情報を追加しました",
       "url": "https://www.pmda.go.jp/safety/info-services/drugs/adr-info/suspected-adr/0005.html",
       "publishedAt": "2026-09-18",
       "excerpt": "",
@@ -2910,8 +3175,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 安全対策",
-      "siteName": "Adverse Health Effects Relief (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[健康]医薬品副作用被害救済制度 対象除外医薬品等一覧を更新しました",
       "url": "https://www.pmda.go.jp/relief-services/adr-sufferers/0022.html",
@@ -2920,8 +3185,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 国際活動",
-      "siteName": "International (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[RS]2025年度レギュラトリーサイエンス活動報告書（デジタルブック）を掲載しました。",
       "url": "https://www.pmda.go.jp/rs-std-jp/outline/0001.html",
@@ -3490,16 +3755,6 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "Generic Drugs",
-      "url": "http://www.fda.gov/drugs/buying-using-medicine-safely/generic-drugs",
-      "publishedAt": "2026-09-18",
-      "excerpt": "Understanding generic drugs: Consumer-friendly information on the safe and effective use of generic drugs. Learn about the generic drug approval process, why generic drugs are usually less expensive, and other interesting facts and figures.",
-      "sourceType": "rss"
-    },
-    {
       "siteId": "PMDA：トップ 承認審査",
       "siteName": "Review for (marketing) approval (JP)",
       "region": "JP",
@@ -3760,8 +4015,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 国際活動",
-      "siteName": "International (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[薬局方]日局におけるPDG調和文書への対応状況（医薬品各条）を更新しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/0020.html",
@@ -3770,10 +4025,10 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Safety Measures (JP)",
       "region": "JP",
-      "title": "[安全]添付文書改訂相談に基づく添付文書改訂（医薬品）を掲載しました",
+      "title": "[医薬]添付文書改訂相談に基づく添付文書改訂（医薬品）を掲載しました",
       "url": "https://www.pmda.go.jp/safety/info-services/drugs/calling-attention/revision-based-on-the-consultation/0001.html",
       "publishedAt": "2026-09-17",
       "excerpt": "",
@@ -4085,16 +4340,6 @@
       "region": "JP",
       "title": "[調達]一般競争入札公告（2026年度国際会議等実用英語研修）（再公告）",
       "url": "https://www.pmda.go.jp/procurements/public-bidding/general-competition/1709.html",
-      "publishedAt": "2026-09-16",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "PMDA：トップ 承認審査",
-      "siteName": "Review for (marketing) approval (JP)",
-      "region": "JP",
-      "title": "[医薬]医薬品の最適使用推進ガイドラインを掲載しました",
-      "url": "https://www.pmda.go.jp/review-services/drug-reviews/review-information/p-drugs/0028.html",
       "publishedAt": "2026-09-16",
       "excerpt": "",
       "sourceType": "rss"
@@ -4620,8 +4865,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 安全対策",
-      "siteName": "Adverse Health Effects Relief (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[健康]健康被害救済業務に関するデータを掲載しました",
       "url": "https://www.pmda.go.jp/relief-services/outline/0001.html",
@@ -5170,21 +5415,21 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
-      "region": "JP",
-      "title": "[安全]「アトモキセチン錠 ニトロソアミン化合物の管理について」を掲載しました",
-      "url": "https://www.pmda.go.jp/safety/info-services/drugs/0371.html",
-      "publishedAt": "2026-09-10",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
       "siteId": "PMDA：トップ 承認審査",
       "siteName": "Review for (marketing) approval (JP)",
       "region": "JP",
       "title": "[医薬]医薬品事前評価相談の2026年度受付方法を掲載しました",
       "url": "https://www.pmda.go.jp/review-services/f2f-pre/consultations/0025.html",
+      "publishedAt": "2026-09-10",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Safety Measures (JP)",
+      "region": "JP",
+      "title": "[医薬]「アトモキセチン錠 ニトロソアミン化合物の管理について」を掲載しました",
+      "url": "https://www.pmda.go.jp/safety/info-services/drugs/0371.html",
       "publishedAt": "2026-09-10",
       "excerpt": "",
       "sourceType": "rss"
@@ -6090,20 +6335,20 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Safety Measures (JP)",
       "region": "JP",
-      "title": "[安全]クラスI回収 該当回収品目　新鮮凍結血漿-LR「日赤」480",
+      "title": "[医薬]クラスI回収 該当回収品目　新鮮凍結血漿-LR「日赤」480",
       "url": "https://www.pmda.go.jp/safety/info-services/drugs/calling-attention/recall-info/0002.html",
       "publishedAt": "2026-09-07",
       "excerpt": "",
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Safety Measures (JP)",
       "region": "JP",
-      "title": "[安全]「サリドマイド製剤、レナリドミド製剤及びポマリドミド製剤の使用に当たっての安全管理手順の改訂について（周知依頼）」を掲載しました",
+      "title": "[医薬]「サリドマイド製剤、レナリドミド製剤及びポマリドミド製剤の使用に当たっての安全管理手順の改訂について（周知依頼）」を掲載しました",
       "url": "https://www.pmda.go.jp/safety/info-services/drugs/0002.html",
       "publishedAt": "2026-09-07",
       "excerpt": "",
@@ -7163,16 +7408,6 @@
       "siteId": "PMDA：トップ その他",
       "siteName": "Others (JP)",
       "region": "JP",
-      "title": "[採用]2026年度1day仕事体験（技術系　毒性業務体験）情報を更新しました",
-      "url": "https://www.pmda.go.jp/recruit/0862.html",
-      "publishedAt": "2026-09-02",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "PMDA：トップ その他",
-      "siteName": "Others (JP)",
-      "region": "JP",
       "title": "[採用]2026年度1day仕事体験（技術系　新薬審査体験）の情報を更新しました",
       "url": "https://www.pmda.go.jp/recruit/0885.html",
       "publishedAt": "2026-09-02",
@@ -7540,16 +7775,6 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 承認審査",
-      "siteName": "Review for (marketing) approval (JP)",
-      "region": "JP",
-      "title": "[部外][医薬][体外]10月簡易相談予定表を掲載しました【医薬品等】",
-      "url": "https://www.pmda.go.jp/review-services/f2f-pre/consultations/0005.html",
-      "publishedAt": "2026-09-01",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
       "siteId": "PMDA：トップ 国際活動",
       "siteName": "International (JP)",
       "region": "JP",
@@ -7575,16 +7800,6 @@
       "region": "JP",
       "title": "[薬局方][パブコメ]日本薬局方収載原案に関するご意見の募集について（2026年9月分 その1）",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/pub-comments/jp/0265.html",
-      "publishedAt": "2026-09-01",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
-      "region": "JP",
-      "title": "[国際]PMDA-ATC ラーニングビデオとE-ラーニングコンテンツを更新しました",
-      "url": "https://www.pmda.go.jp/int-activities/training-center/0005.html",
       "publishedAt": "2026-09-01",
       "excerpt": "",
       "sourceType": "rss"
@@ -7747,16 +7962,6 @@
       "url": "http://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/preye-llc-732141-08182026",
       "publishedAt": "2026-09-01",
       "excerpt": "CGMP/Finished Pharmaceuticals/Adulterated/Unapproved New Drug",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "international-activities",
-      "siteName": "International Activities (EN)",
-      "region": "JP",
-      "title": "PMDA-ATC Training Materials have been updated",
-      "url": "https://www.pmda.go.jp/english/int-activities/training-center/0003.html",
-      "publishedAt": "2026-09-01",
-      "excerpt": "",
       "sourceType": "rss"
     },
     {
@@ -7937,16 +8142,6 @@
       "url": "http://www.fda.gov/drugs/drug-and-biologic-approval-and-ind-activity-reports/first-generic-drug-approvals",
       "publishedAt": "2026-09-01",
       "excerpt": "Each year, FDA’s Center for Drug Evaluation and Research (CDER) approves a wide range of new drug products. FDA provides the scientific and regulatory advice needed to bring safe, effective, high-quality generic alternatives to market, which in turn creates more affordable treatment options for pati",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "FDA’s Concerns with Unapproved GLP-1 Drugs Used for Weight Loss",
-      "url": "http://www.fda.gov/drugs/drug-alerts-and-statements/fdas-concerns-unapproved-glp-1-drugs-used-weight-loss",
-      "publishedAt": "2026-09-01",
-      "excerpt": "FDA’s Concerns with Unapproved GLP-1 Drugs Used for Weight Loss",
       "sourceType": "rss"
     },
     {
@@ -10363,16 +10558,6 @@
       "siteId": "fda-whats-new-drugs",
       "siteName": "What's New: Drugs",
       "region": "US",
-      "title": "CDERLearn",
-      "url": "http://www.fda.gov/training-and-continuing-education/cderlearn",
-      "publishedAt": "2026-08-24",
-      "excerpt": "Training and Education for healthcare professionals, academia, and consumers from FDA’s Center for Drug Evaluation and Research",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
       "title": "CDER Small Business and Industry Assistance (SBIA) Learn",
       "url": "http://www.fda.gov/drugs/cder-small-business-industry-assistance-sbia/cder-small-business-and-industry-assistance-sbia-learn",
       "publishedAt": "2026-08-24",
@@ -10435,16 +10620,6 @@
       "region": "JP",
       "title": "[医療]「2025年度医療機器相談の受付状況」を掲載しました",
       "url": "https://www.pmda.go.jp/safety/consultation-for-patients/on-devices/state/0001.html",
-      "publishedAt": "2026-08-21",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "PMDA：トップ 承認審査",
-      "siteName": "Review for (marketing) approval (JP)",
-      "region": "JP",
-      "title": "[医療][体外]10月の簡易相談実施予定を掲載しました（医療機器等）",
-      "url": "https://www.pmda.go.jp/review-services/f2f-pre/consultations/0015.html",
       "publishedAt": "2026-08-21",
       "excerpt": "",
       "sourceType": "rss"
@@ -13367,16 +13542,6 @@
       "url": "https://www.ema.europa.eu/en/performance-enhancers-scientific-guideline",
       "publishedAt": "2026-08-12",
       "excerpt": "Performance enhancers - Scientific guideline",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "Over-the-Counter (OTC) | Nonprescription Drugs",
-      "url": "http://www.fda.gov/drugs/how-drugs-are-developed-and-approved/over-counter-otc-nonprescription-drugs",
-      "publishedAt": "2026-08-12",
-      "excerpt": "Over-the-counter (OTC) drugs are developed under the OTC Monograph Process or through the New Drug Application (NDA) Process.",
       "sourceType": "rss"
     },
     {
@@ -30710,8 +30875,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 承認審査",
-      "siteName": "Review for (marketing) approval (JP)",
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Safety Measures (JP)",
       "region": "JP",
       "title": "[安全][医療]「医療機器添付文書改訂相談」のページを掲載しました",
       "url": "https://www.pmda.go.jp/review-services/f2f-pre/consultations/0122.html",
@@ -30950,8 +31115,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 承認審査",
-      "siteName": "Review for (marketing) approval (JP)",
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Safety Measures (JP)",
       "region": "JP",
       "title": "[審査][安全][イベント]PMDAシンポジウム「生成AIの医療活用の最前線」の開催について（資料掲載）",
       "url": "https://www.pmda.go.jp/review-services/symposia/0198.html",
@@ -30960,8 +31125,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 承認審査",
-      "siteName": "Review for (marketing) approval (JP)",
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Safety Measures (JP)",
       "region": "JP",
       "title": "[審査][安全][イベント]PMDAシンポジウム「リアルワールドデータを活用した医療機器開発」の開催について（資料掲載）",
       "url": "https://www.pmda.go.jp/review-services/symposia/0199.html",
