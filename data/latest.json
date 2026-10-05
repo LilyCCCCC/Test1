@@ -1,7 +1,12 @@
 {
-  "generatedAt": "2026-10-05T16:10:21.588185+00:00",
-  "count": 3477,
+  "generatedAt": "2026-10-05T22:47:45.761098+00:00",
+  "count": 3484,
   "errors": [
+    {
+      "groupId": "fda",
+      "siteId": "fda-qa-with-fda",
+      "error": "RSS fetch failed - keeping archived data"
+    },
     {
       "groupId": "ema",
       "siteId": "ema-eurd-list",
@@ -15,6 +20,11 @@
     {
       "groupId": "pmda",
       "siteId": "services-for-healtheffects",
+      "error": "RSS fetch failed - keeping archived data"
+    },
+    {
+      "groupId": "pmda",
+      "siteId": "PMDA：トップ その他",
       "error": "RSS fetch failed - keeping archived data"
     }
   ],
@@ -133,6 +143,16 @@
       "siteId": "fda-whats-new-drugs",
       "siteName": "What's New: Drugs",
       "region": "US",
+      "title": "Rare Disease News & Events",
+      "url": "http://www.fda.gov/about-fda/accelerating-rare-disease-cures-arc-program/rare-disease-news-events",
+      "publishedAt": "2026-10-05",
+      "excerpt": "Learn more about recent news and events related to rare diseases.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
       "title": "Psychedelic Drugs",
       "url": "http://www.fda.gov/drugs/resources-drugs/psychedelic-drugs",
       "publishedAt": "2026-10-05",
@@ -197,6 +217,36 @@
       "url": "https://www.ema.europa.eu/system/files/documents/minutes/minutes-cat-meeting-12-14-august-2026-en.pdf",
       "publishedAt": "2026-10-05",
       "excerpt": "Minutes of the CAT meeting 12-14 August 2026",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "M15 Resource Center",
+      "url": "http://www.fda.gov/about-fda/cder-quantitative-medicine-center-excellence-qm-coe/m15-resource-center",
+      "publishedAt": "2026-10-05",
+      "excerpt": "ICH M15 General Principles for Model-Informed Drug Development is intended to facilitate a multidisciplinary understanding of model-informed drug development (MIDD) and associated evidence generation to assist with drug development and regulatory decisions.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-medwatch",
+      "siteName": "MedWatch Safety Alerts",
+      "region": "US",
+      "title": "Infusion Set Recall: BD and CareFusion 303, Inc. Remove BD Alaris Pump Infusion Sets",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/infusion-set-recall-bd-and-carefusion-303-inc-remove-bd-alaris-pump-infusion-sets",
+      "publishedAt": "2026-10-05",
+      "excerpt": "BD Alaris Pump Infusion Sets are being removed and discontinued; Alaris Pump Module model 8100 has updated performance data",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-medwatch",
+      "siteName": "MedWatch Safety Alerts",
+      "region": "US",
+      "title": "IV Tubing Set Correction: ICU Medical Updates Use Instructions for IV Tubing Sets",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/iv-tubing-set-correction-icu-medical-updates-use-instructions-iv-tubing-sets",
+      "publishedAt": "2026-10-05",
+      "excerpt": "Black specks and particulate reported in drip chambers of certain ICU Medical IV tubing sets does not affect device safety, performance, or intended use.",
       "sourceType": "rss"
     },
     {
@@ -293,6 +343,26 @@
       "siteId": "fda-whats-new-drugs",
       "siteName": "What's New: Drugs",
       "region": "US",
+      "title": "Glenmark Pharmaceuticals Limited - 637314 - 11/22/2022",
+      "url": "http://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/glenmark-pharmaceuticals-limited-637314-11222022",
+      "publishedAt": "2026-10-05",
+      "excerpt": "CGMP/Finished Pharmaceuticals/Adulterated",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Glenmark Pharmaceuticals Limited - 637314 - 09/23/2026",
+      "url": "http://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/glenmark-pharmaceuticals-limited-637314-09232026",
+      "publishedAt": "2026-10-05",
+      "excerpt": "CGMP/Finished Pharmaceuticals/Adulterated",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
       "title": "Generic Drug User Fee Amendments",
       "url": "http://www.fda.gov/industry/fda-user-fee-programs/generic-drug-user-fee-amendments",
       "publishedAt": "2026-10-05",
@@ -340,13 +410,33 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
+      "siteId": "fda-criminal-investigations-press-releases",
+      "siteName": "Criminal Investigations Press Releases",
       "region": "US",
       "title": "FDA Seeks Public Input to Support Ibogaine Research",
       "url": "http://www.fda.gov/news-events/press-announcements/fda-seeks-public-input-support-ibogaine-research",
       "publishedAt": "2026-10-05",
       "excerpt": "The U.S. Food and Drug Administration today announced a request for information (RFI) describing approaches the agency is considering for the design of early-phase clinical trials of ibogaine drug products and seeking public input on those approaches.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "FDA Listing of Authorized Generics",
+      "url": "http://www.fda.gov/about-fda/center-drug-evaluation-and-research-cder/fda-listing-authorized-generics",
+      "publishedAt": "2026-10-05",
+      "excerpt": "FDA Listing of Authorized Generics",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Expedited Investigational New Drug Pilot Program - Application Instructions",
+      "url": "http://www.fda.gov/industry/fda-expedited-investigational-new-drug-ind-pilot-program/expedited-investigational-new-drug-pilot-program-application-instructions",
+      "publishedAt": "2026-10-05",
+      "excerpt": "The application will consist of two sections: 1) Sponsor and Investigative New Drug Information, and 2) Prospective Research Institution Qualifications.",
       "sourceType": "rss"
     },
     {
@@ -370,6 +460,26 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "CDER Quantitative Medicine Center of Excellence (QM CoE)",
+      "url": "http://www.fda.gov/about-fda/center-drug-evaluation-and-research-cder/cder-quantitative-medicine-center-excellence-qm-coe",
+      "publishedAt": "2026-10-05",
+      "excerpt": "The Center for Drug Evaluation and Research Quantitative Medicine Center of Excellence is established to facilitate and coordinate the continuous evolution and consistent application of quantitative medicine for drug development and regulatory decision-making across CDER.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "C3TI Compass (Knowledge Repository)",
+      "url": "http://www.fda.gov/about-fda/cder-center-clinical-trial-innovation-c3ti/c3ti-compass-knowledge-repository",
+      "publishedAt": "2026-10-05",
+      "excerpt": "Centralized knowledge repository for clinical trial innovation",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "ema-whats-new",
       "siteName": "What's new",
       "region": "EU",
@@ -380,8 +490,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
+      "siteId": "fda-consumer-health-information-updates",
+      "siteName": "Consumer Health Information Updates",
       "region": "US",
       "title": "Advisory Committees Give FDA Critical Advice and the Public a Voice",
       "url": "http://www.fda.gov/consumers/consumer-updates/advisory-committees-give-fda-critical-advice-and-public-voice",
@@ -470,8 +580,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ その他",
-      "siteName": "Others (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[PMDA]WOWOW『連続ドラマW　MR -医薬情報担当者-』とタイアップ！",
       "url": "https://www.pmda.go.jp/about-pmda/news-release/0102.html",
@@ -870,6 +980,16 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "fda-food-safety-recalls",
+      "siteName": "Food Safety Recalls",
+      "region": "US",
+      "title": "Flowers Foods Issues Recall of Nature’s Own Hawaiian Bread Due to Undeclared Milk",
+      "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/flowers-foods-issues-recall-natures-own-hawaiian-bread-due-undeclared-milk",
+      "publishedAt": "2026-10-02",
+      "excerpt": "THOMASVILLE, GA., October 2, 2026 – Flowers Foods, Inc. (NYSE: FLO) is recalling Nature’s Own® Hawaiian Bread, 20 oz. and 40 oz. bags, due to undeclared milk. People who have an allergy or severe sensitivity to milk may run the risk of an allergic reaction if they consume this product.",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "fda-whats-new-drugs",
       "siteName": "What's New: Drugs",
       "region": "US",
@@ -970,8 +1090,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ その他",
-      "siteName": "Others (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[採用]2026年度1day仕事体験（技術系　毒性業務体験）の情報を更新しました",
       "url": "https://www.pmda.go.jp/recruit/0862.html",
@@ -2510,8 +2630,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ その他",
-      "siteName": "Others (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[調達]調達予定案件一覧",
       "url": "https://www.pmda.go.jp/procurements/public-bidding/procurement-plan/0001.html",
@@ -2520,8 +2640,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ その他",
-      "siteName": "Others (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[調達]オープンカウンター公告（医療機器製造販売業者向け説明会用ウェブシステム借上一式）",
       "url": "https://www.pmda.go.jp/procurements/public-bidding/open-counter/1662.html",
@@ -2570,8 +2690,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ その他",
-      "siteName": "Others (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[PMDA]職員の処分について（ニュースリリース）[412KB]",
       "url": "https://www.pmda.go.jp/about-pmda/news-release/0099.pdf",
@@ -4290,8 +4410,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ その他",
-      "siteName": "Others (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[採用]事務補助員（医薬翻訳事務）の募集について（採用時期を更新しました）",
       "url": "https://www.pmda.go.jp/recruit/0429.html",
@@ -4350,8 +4470,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ その他",
-      "siteName": "Others (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[PMDA]WOWOW「連続ドラマW MR -医薬情報担当者-」とタイアップします―「PMDAおくすりサーチ」を周知します―（ニュースリリース）",
       "url": "https://www.pmda.go.jp/about-pmda/news-release/0098.html",
@@ -5150,8 +5270,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ その他",
-      "siteName": "Others (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[調達]一般競争入札公告（メール誤送信防止ソフトウェア（Cipher Craft/Mail 8）ライセンス更新）",
       "url": "https://www.pmda.go.jp/procurements/public-bidding/general-competition/1708.html",
@@ -5460,8 +5580,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ その他",
-      "siteName": "Others (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[調達]一般競争入札公告（2026年度国際会議等実用英語研修）（再公告）",
       "url": "https://www.pmda.go.jp/procurements/public-bidding/general-competition/1709.html",
@@ -5680,18 +5800,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "C3TI Compass (Knowledge Repository)",
-      "url": "http://www.fda.gov/about-fda/cder-center-clinical-trial-innovation-c3ti/c3ti-compass-knowledge-repository",
-      "publishedAt": "2026-09-16",
-      "excerpt": "Centralized knowledge repository for clinical trial innovation",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "PMDA：トップ その他",
-      "siteName": "Others (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[調達]一般競争入札公告（政府調達）（携帯電話端末購入及び通信サービス提供業務）",
       "url": "https://www.pmda.go.jp/procurements/public-bidding/general-competition-government/0235.html",
@@ -5887,16 +5997,6 @@
       "url": "http://www.fda.gov/drugs/drug-safety-communications/fda-approves-additional-information-labeling-kybella-deoxycholic-acid-injection-warning-adverse",
       "publishedAt": "2026-09-15",
       "excerpt": "The Food and Drug Administration has approved an additional warning in labeling for Kybella (deoxycholic acid) injection regarding adverse reactions associated with use of the drug outside of the submental fat region and recommends against this unapproved use.",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "Expedited Investigational New Drug Pilot Program - Application Instructions",
-      "url": "http://www.fda.gov/industry/fda-expedited-investigational-new-drug-ind-pilot-program/expedited-investigational-new-drug-pilot-program-application-instructions",
-      "publishedAt": "2026-09-15",
-      "excerpt": "The application will consist of two sections: 1) Sponsor and Investigative New Drug Information, and 2) Prospective Research Institution Qualifications.",
       "sourceType": "rss"
     },
     {
@@ -7240,16 +7340,6 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "Rare Disease News & Events",
-      "url": "http://www.fda.gov/about-fda/accelerating-rare-disease-cures-arc-program/rare-disease-news-events",
-      "publishedAt": "2026-09-08",
-      "excerpt": "Learn more about recent news and events related to rare diseases.",
-      "sourceType": "rss"
-    },
-    {
       "siteId": "ema-whats-new",
       "siteName": "What's new",
       "region": "EU",
@@ -7390,8 +7480,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "fda-food-safety-recalls",
-      "siteName": "Food Safety Recalls",
+      "siteId": "fda-food-allergies",
+      "siteName": "Food Allergies",
       "region": "US",
       "title": "FreshPoint Issues Recall Due to an Improperly Declared Allergen (Egg) in Chicken Salad Wedge Sandwiches",
       "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/freshpoint-issues-recall-due-improperly-declared-allergen-egg-chicken-salad-wedge-sandwiches",
@@ -26107,16 +26197,6 @@
       "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/gellert-global-group-issues-allergy-alert-undeclared-tuna-fish-aldi-brand-fusia-asian-inspirations",
       "publishedAt": "2026-07-02",
       "excerpt": "Gellert Global Group of Elizabeth, NJ is recalling 8.1 oz packages of ALDI Brand Fusia Asian Inspirations Kimchi & Tofu Kimbap because they may contain undeclared fish (tuna).  People who have an allergy or severe sensitivity to fish run the risk of serious or life-threatening allergic reaction if t",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "FDA Listing of Authorized Generics",
-      "url": "http://www.fda.gov/about-fda/center-drug-evaluation-and-research-cder/fda-listing-authorized-generics",
-      "publishedAt": "2026-07-02",
-      "excerpt": "FDA Listing of Authorized Generics",
       "sourceType": "rss"
     },
     {
