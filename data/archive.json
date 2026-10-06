@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-06T03:09:15.800860+00:00",
-  "count": 3488,
+  "generatedAt": "2026-10-06T10:33:08.935830+00:00",
+  "count": 3501,
   "items": [
     {
       "siteId": "notice-from-tfda",
@@ -63,8 +63,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[その他]「申請電子データを活用した解析」のページを更新しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/0002.html",
@@ -73,13 +73,233 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[RS]2025年度レギュラトリーサイエンス活動報告書（日本語版 PDF）を更新しました。",
       "url": "https://www.pmda.go.jp/rs-std-jp/outline/0001.html",
       "publishedAt": "2026-10-06",
       "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Type-II variations: questions and answers",
+      "url": "https://www.ema.europa.eu/en/human-regulatory-overview/post-authorisation/variations-including-extensions-marketing-authorisations/type-ii-variations-questions-answers",
+      "publishedAt": "2026-10-06",
+      "excerpt": "Type-II variations: questions and answers",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Type-IA variations: questions and answers",
+      "url": "https://www.ema.europa.eu/en/human-regulatory-overview/post-authorisation/variations-including-extensions-marketing-authorisations/type-ia-variations-questions-answers",
+      "publishedAt": "2026-10-06",
+      "excerpt": "Type-IA variations: questions and answers",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Template for response to list of questions/list of outstanding issues: Quality / Non-clinical / Clinical",
+      "url": "https://www.ema.europa.eu/system/files/documents/template-form/template-response-list-questions-list-outstanding-issues-rsi-quality-non-clinical-clinical_en.docx",
+      "publishedAt": "2026-10-06",
+      "excerpt": "Template for response to list of questions/list of outstanding issues: Quality / Non-clinical / Clinical",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Records of data processing activity relating to the management and processing of documents related to absences due to illness or accident and consultations with the occupational health physicians",
+      "url": "https://www.ema.europa.eu/system/files/documents/other/ema-062-ropa-sickness-absences-occupational-health-en.pdf",
+      "publishedAt": "2026-10-06",
+      "excerpt": "Records of data processing activity relating to the management and processing of documents related to absences due to illness or accident and consultations with the occupational health physicians",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Pre-authorisation guidance",
+      "url": "https://www.ema.europa.eu/en/human-regulatory-overview/marketing-authorisation/pre-authorisation-guidance",
+      "publishedAt": "2026-10-06",
+      "excerpt": "Pre-authorisation guidance",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Periodic safety update reports (PSURs)",
+      "url": "https://www.ema.europa.eu/en/human-regulatory-overview/post-authorisation/pharmacovigilance-post-authorisation/periodic-safety-update-reports-psurs",
+      "publishedAt": "2026-10-06",
+      "excerpt": "Periodic safety update reports (PSURs)",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Obtaining and maintaining a scientific opinion on a medicine for use outside the European Union",
+      "url": "https://www.ema.europa.eu/en/human-regulatory-overview/marketing-authorisation/medicines-use-outside-european-union/obtaining-maintaining-scientific-opinion-medicine-use-outside-european-union",
+      "publishedAt": "2026-10-06",
+      "excerpt": "Obtaining and maintaining a scientific opinion on a medicine for use outside the European Union",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Extensions of marketing authorisations: questions and answers",
+      "url": "https://www.ema.europa.eu/en/human-regulatory-overview/post-authorisation/variations-including-extensions-marketing-authorisations/extensions-marketing-authorisations-questions-answers",
+      "publishedAt": "2026-10-06",
+      "excerpt": "Extensions of marketing authorisations: questions and answers",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "European platform for regulatory science research meeting: October 2026, Online, European Medicines Agency, Amsterdam, the Netherlands, from 22 October 2026, 09:00 (CEST) to 22 October 2026, 17:00 (CEST)",
+      "url": "https://www.ema.europa.eu/en/events/european-platform-regulatory-science-research-meeting-october-2026",
+      "publishedAt": "2026-10-06",
+      "excerpt": "European platform for regulatory science research meeting: October 2026, Online, European Medicines Agency, Amsterdam, the Netherlands, from 22 October 2026, 09:00 (CEST) to 22 October 2026, 17:00 (CEST)",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-regulatory-and-procedural-guidelines",
+      "siteName": "Regulatory and procedural guidelines (human and veterinary)",
+      "region": "EU",
+      "title": "European Medicines Agency pre-authorisation procedural advice for users of the centralised procedure: document with tracked changes",
+      "url": "https://www.ema.europa.eu/en/documents/regulatory-procedural-guideline/european-medicines-agency-pre-authorisation-procedural-advice-users-centralised-procedure-document-tracked-changes_en.pdf",
+      "publishedAt": "2026-10-06",
+      "excerpt": "European Medicines Agency pre-authorisation procedural advice for users of the centralised procedure: document with tracked changes",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "European Medicines Agency pre-authorisation procedural advice for users of the centralised procedure: document with tracked changes",
+      "url": "https://www.ema.europa.eu/system/files/documents/regulatory-procedural-guideline/pre-authorisation-guidance-integrated-version-oct-2026-track-changes-en.pdf",
+      "publishedAt": "2026-10-06",
+      "excerpt": "European Medicines Agency pre-authorisation procedural advice for users of the centralised procedure: document with tracked changes",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-regulatory-and-procedural-guidelines",
+      "siteName": "Regulatory and procedural guidelines (human and veterinary)",
+      "region": "EU",
+      "title": "European Medicines Agency pre-authorisation procedural advice for users of the centralised procedure",
+      "url": "https://www.ema.europa.eu/en/documents/regulatory-procedural-guideline/european-medicines-agency-pre-authorisation-procedural-advice-users-centralised-procedure_en.pdf",
+      "publishedAt": "2026-10-06",
+      "excerpt": "European Medicines Agency pre-authorisation procedural advice for users of the centralised procedure",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "European Medicines Agency pre-authorisation procedural advice for users of the centralised procedure",
+      "url": "https://www.ema.europa.eu/system/files/documents/regulatory-procedural-guideline/pre-authorisation-guidance-integrated-version-oct-2026-en.pdf",
+      "publishedAt": "2026-10-06",
+      "excerpt": "European Medicines Agency pre-authorisation procedural advice for users of the centralised procedure",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-regulatory-and-procedural-guidelines",
+      "siteName": "Regulatory and procedural guidelines (human and veterinary)",
+      "region": "EU",
+      "title": "European Medicines Agency post-authorisation procedural advice for users of the centralised procedure: document with tracked changes",
+      "url": "https://www.ema.europa.eu/en/documents/regulatory-procedural-guideline/european-medicines-agency-post-authorisation-procedural-advice-users-centralised-procedure-document-tracked-changes_en.pdf",
+      "publishedAt": "2026-10-06",
+      "excerpt": "European Medicines Agency post-authorisation procedural advice for users of the centralised procedure: document with tracked changes",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "European Medicines Agency post-authorisation procedural advice for users of the centralised procedure: document with tracked changes",
+      "url": "https://www.ema.europa.eu/system/files/documents/regulatory-procedural-guideline/post-authorisation-guidance-integrated-version-oct-2026-track-changes-en.pdf",
+      "publishedAt": "2026-10-06",
+      "excerpt": "European Medicines Agency post-authorisation procedural advice for users of the centralised procedure: document with tracked changes",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-regulatory-and-procedural-guidelines",
+      "siteName": "Regulatory and procedural guidelines (human and veterinary)",
+      "region": "EU",
+      "title": "European Medicines Agency post-authorisation procedural advice for users of the centralised procedure",
+      "url": "https://www.ema.europa.eu/en/documents/regulatory-procedural-guideline/european-medicines-agency-post-authorisation-procedural-advice-users-centralised-procedure_en.pdf",
+      "publishedAt": "2026-10-06",
+      "excerpt": "European Medicines Agency post-authorisation procedural advice for users of the centralised procedure",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "European Medicines Agency post-authorisation procedural advice for users of the centralised procedure",
+      "url": "https://www.ema.europa.eu/system/files/documents/regulatory-procedural-guideline/post-authorisation-guidance-integrated-version-oct-2026-en.pdf",
+      "publishedAt": "2026-10-06",
+      "excerpt": "European Medicines Agency post-authorisation procedural advice for users of the centralised procedure",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Developing cancer medicines for children",
+      "url": "https://www.ema.europa.eu/en/human-regulatory-overview/research-development/paediatric-medicines-research-development/developing-cancer-medicines-children",
+      "publishedAt": "2026-10-06",
+      "excerpt": "Developing cancer medicines for children",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Committee for Medicinal Products for Veterinary Use (CVMP): 6-8 October 2026, European Medicines Agency, Amsterdam, the Netherlands, from 6 October 2026 to 8 October 2026",
+      "url": "https://www.ema.europa.eu/en/events/committee-medicinal-products-veterinary-use-cvmp-6-8-october-2026",
+      "publishedAt": "2026-10-06",
+      "excerpt": "Committee for Medicinal Products for Veterinary Use (CVMP): 6-8 October 2026, European Medicines Agency, Amsterdam, the Netherlands, from 6 October 2026 to 8 October 2026",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Changing the labelling and package leaflet (Article 61(3) notifications)",
+      "url": "https://www.ema.europa.eu/en/human-regulatory-overview/post-authorisation/changing-labelling-package-leaflet-article-613-notifications",
+      "publishedAt": "2026-10-06",
+      "excerpt": "Changing the labelling and package leaflet (Article 61(3) notifications)",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Agenda of the CVMP meeting 6-8 October 2026",
+      "url": "https://www.ema.europa.eu/system/files/documents/agenda/cvmp-october-2026-agenda-draft_en.pdf",
+      "publishedAt": "2026-10-06",
+      "excerpt": "Agenda of the CVMP meeting 6-8 October 2026",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Accelerated assessment",
+      "url": "https://www.ema.europa.eu/en/human-regulatory-overview/marketing-authorisation/accelerated-assessment",
+      "publishedAt": "2026-10-06",
+      "excerpt": "Accelerated assessment",
       "sourceType": "rss"
     },
     {
@@ -113,41 +333,41 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 承認審査",
-      "siteName": "Review for (marketing) approval (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
-      "title": "[医薬]年末年始の治験計画届等の提出に関するお願いを掲載しました",
-      "url": "https://www.pmda.go.jp/review-services/trials/0021.html",
-      "publishedAt": "2026-10-05",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "PMDA：トップ 安全対策",
-      "siteName": "Safety Measures (JP)",
-      "region": "JP",
-      "title": "[医薬]クラスI回収 該当回収品目　新鮮凍結血漿-LR「日赤」480",
+      "title": "[安全]クラスI回収 該当回収品目　新鮮凍結血漿-LR「日赤」480",
       "url": "https://www.pmda.go.jp/safety/info-services/drugs/calling-attention/recall-info/0002.html",
       "publishedAt": "2026-10-05",
       "excerpt": "",
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 安全対策",
-      "siteName": "Safety Measures (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
-      "title": "[医薬]「製薬企業からの適正使用等に関するお知らせ」に「フィブラストスプレー250、同スプレー500の適正使用に関するお願い」を掲載しました",
+      "title": "[安全]「製薬企業からの適正使用等に関するお知らせ」に「フィブラストスプレー250、同スプレー500の適正使用に関するお願い」を掲載しました",
       "url": "https://www.pmda.go.jp/safety/info-services/drugs/calling-attention/properly-use-alert/0004.html",
       "publishedAt": "2026-10-05",
       "excerpt": "",
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 安全対策",
-      "siteName": "Safety Measures (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
-      "title": "[医薬]「ニトロソアミン化合物検出のお知らせ（セルトラリン、マプロチリン塩酸塩）」を掲載しました",
+      "title": "[安全]「ニトロソアミン化合物検出のお知らせ（セルトラリン、マプロチリン塩酸塩）」を掲載しました",
       "url": "https://www.pmda.go.jp/safety/info-services/drugs/0371.html",
+      "publishedAt": "2026-10-05",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "PMDA：トップ 承認審査",
+      "siteName": "Review for (marketing) approval (JP)",
+      "region": "JP",
+      "title": "[医薬]年末年始の治験計画届等の提出に関するお願いを掲載しました",
+      "url": "https://www.pmda.go.jp/review-services/trials/0021.html",
       "publishedAt": "2026-10-05",
       "excerpt": "",
       "sourceType": "rss"
@@ -603,20 +823,20 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 安全対策",
-      "siteName": "Safety Measures (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
-      "title": "[医薬]使用上の注意の改訂指示通知（医薬品）2026年10月2日付（厚生労働省より発出）を掲載しました",
+      "title": "[安全]使用上の注意の改訂指示通知（医薬品）2026年10月2日付（厚生労働省より発出）を掲載しました",
       "url": "https://www.pmda.go.jp/safety/info-services/drugs/calling-attention/revision-of-precautions/0375.html",
       "publishedAt": "2026-10-02",
       "excerpt": "",
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 安全対策",
-      "siteName": "Safety Measures (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
-      "title": "[全製品]「医療事故情報収集等事業第86回報告書の公表について」を掲載しました",
+      "title": "[安全]「医療事故情報収集等事業第86回報告書の公表について」を掲載しました",
       "url": "https://www.pmda.go.jp/safety/info-services/medical-safety-info/0005.html",
       "publishedAt": "2026-10-02",
       "excerpt": "",
@@ -1183,8 +1403,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Adverse Health Effects Relief (JP)",
       "region": "JP",
       "title": "[健康]医薬品副作用被害救済制度等の周知・広報について（協力依頼）を更新しました",
       "url": "https://www.pmda.go.jp/relief-services/adr-sufferers/0051.html",
@@ -1833,8 +2053,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Adverse Health Effects Relief (JP)",
       "region": "JP",
       "title": "[健康]副用救済給付の決定に関する情報（2026年度7月分）を掲載しました",
       "url": "https://www.pmda.go.jp/relief-services/adr-sufferers/0043.html",
@@ -2166,28 +2386,28 @@
       "siteId": "PMDAの新着情報",
       "siteName": "What's New (JP)",
       "region": "JP",
-      "title": "[国際][イベント]第13回日台医薬交流会議のご案内を掲載しました",
-      "url": "https://www.pmda.go.jp/int-activities/symposia/0364.html",
+      "title": "[安全]医薬品・医療機器等安全性情報 No.432（厚生労働省発行）を掲載しました",
+      "url": "https://www.pmda.go.jp/safety/info-services/drugs/calling-attention/safety-info/0166.html",
       "publishedAt": "2026-09-29",
       "excerpt": "",
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 安全対策",
-      "siteName": "Safety Measures (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
-      "title": "[医薬]「医薬品に関する評価中のリスク等の情報について」を掲載しました",
+      "title": "[安全]「医薬品に関する評価中のリスク等の情報について」を掲載しました",
       "url": "https://www.pmda.go.jp/safety/info-services/drugs/calling-attention/risk-communications/0001.html",
       "publishedAt": "2026-09-29",
       "excerpt": "",
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 安全対策",
-      "siteName": "Safety Measures (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
-      "title": "[全製品]医薬品・医療機器等安全性情報 No.432（厚生労働省発行）を掲載しました",
-      "url": "https://www.pmda.go.jp/safety/info-services/drugs/calling-attention/safety-info/0166.html",
+      "title": "[国際][イベント]第13回日台医薬交流会議のご案内を掲載しました",
+      "url": "https://www.pmda.go.jp/int-activities/symposia/0364.html",
       "publishedAt": "2026-09-29",
       "excerpt": "",
       "sourceType": "rss"
@@ -2513,8 +2733,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Adverse Health Effects Relief (JP)",
       "region": "JP",
       "title": "[健康]医薬品副作用被害救済制度に関する通知等を更新しました",
       "url": "https://www.pmda.go.jp/relief-services/adr-sufferers/0001.html",
@@ -2703,10 +2923,30 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 安全対策",
-      "siteName": "Safety Measures (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
-      "title": "[医薬]「不具合が疑われる症例報告に関する情報（コンビネーション製品）」に2026年5月分の情報を追加しました",
+      "title": "[安全]「不具合が疑われる症例報告に関する情報（医療機器）」に2026年5月分の情報を追加しました",
+      "url": "https://www.pmda.go.jp/safety/info-services/devices/0090.html",
+      "publishedAt": "2026-09-25",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
+      "region": "JP",
+      "title": "[安全]「不具合が疑われる症例報告に関する情報（再生医療等製品）」に2026年5月分の情報を追加しました",
+      "url": "https://www.pmda.go.jp/safety/info-services/ctp/0006.html",
+      "publishedAt": "2026-09-25",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
+      "region": "JP",
+      "title": "[安全]「不具合が疑われる症例報告に関する情報（コンビネーション製品）」に2026年5月分の情報を追加しました",
       "url": "https://www.pmda.go.jp/safety/info-services/drugs/adr-info/malfunctions-combination-drugs/0001.html",
       "publishedAt": "2026-09-25",
       "excerpt": "",
@@ -2718,26 +2958,6 @@
       "region": "JP",
       "title": "[医薬][医療][再生][イベント]「2026年度マスターファイル講習会」の案内を掲載しました",
       "url": "https://www.pmda.go.jp/review-services/symposia/0208.html",
-      "publishedAt": "2026-09-25",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "PMDA：トップ 安全対策",
-      "siteName": "Safety Measures (JP)",
-      "region": "JP",
-      "title": "[医療]「不具合が疑われる症例報告に関する情報（医療機器）」に2026年5月分の情報を追加しました",
-      "url": "https://www.pmda.go.jp/safety/info-services/devices/0090.html",
-      "publishedAt": "2026-09-25",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "PMDA：トップ 安全対策",
-      "siteName": "Safety Measures (JP)",
-      "region": "JP",
-      "title": "[再生]「不具合が疑われる症例報告に関する情報（再生医療等製品）」に2026年5月分の情報を追加しました",
-      "url": "https://www.pmda.go.jp/safety/info-services/ctp/0006.html",
       "publishedAt": "2026-09-25",
       "excerpt": "",
       "sourceType": "rss"
@@ -3083,20 +3303,20 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 安全対策",
-      "siteName": "Safety Measures (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
-      "title": "[医薬]［MID-NET］MID-NETの利活用状況を更新しました",
+      "title": "[安全]［MID-NET］MID-NETの利活用状況を更新しました",
       "url": "https://www.pmda.go.jp/safety/mid-net/0010.html",
       "publishedAt": "2026-09-24",
       "excerpt": "",
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 安全対策",
-      "siteName": "Safety Measures (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
-      "title": "[医薬]［MID-NET］MID-NETの利活用に関する有識者会議の情報を更新しました",
+      "title": "[安全]［MID-NET］MID-NETの利活用に関する有識者会議の情報を更新しました",
       "url": "https://www.pmda.go.jp/safety/mid-net/0011.html",
       "publishedAt": "2026-09-24",
       "excerpt": "",
@@ -4443,8 +4663,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[薬局方][パブコメ]日本薬局方新規収載候補品目（案）に関するご意見の募集について（2026年9月分）",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/pub-comments/jp/0266.html",
@@ -4463,10 +4683,10 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 安全対策",
-      "siteName": "Safety Measures (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
-      "title": "[医薬]「副作用が疑われる症例報告に関する情報」に2026年5月分の情報を追加しました",
+      "title": "[安全]「副作用が疑われる症例報告に関する情報」に2026年5月分の情報を追加しました",
       "url": "https://www.pmda.go.jp/safety/info-services/drugs/adr-info/suspected-adr/0005.html",
       "publishedAt": "2026-09-18",
       "excerpt": "",
@@ -4493,8 +4713,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Adverse Health Effects Relief (JP)",
       "region": "JP",
       "title": "[健康]医薬品副作用被害救済制度 対象除外医薬品等一覧を更新しました",
       "url": "https://www.pmda.go.jp/relief-services/adr-sufferers/0022.html",
@@ -5323,10 +5543,10 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 安全対策",
-      "siteName": "Safety Measures (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
-      "title": "[医薬]添付文書改訂相談に基づく添付文書改訂（医薬品）を掲載しました",
+      "title": "[安全]添付文書改訂相談に基づく添付文書改訂（医薬品）を掲載しました",
       "url": "https://www.pmda.go.jp/safety/info-services/drugs/calling-attention/revision-based-on-the-consultation/0001.html",
       "publishedAt": "2026-09-17",
       "excerpt": "",
@@ -8646,16 +8866,6 @@
       "siteId": "ema-whats-new",
       "siteName": "What's new",
       "region": "EU",
-      "title": "Pre-authorisation guidance",
-      "url": "https://www.ema.europa.eu/en/human-regulatory-overview/marketing-authorisation/pre-authorisation-guidance",
-      "publishedAt": "2026-09-02",
-      "excerpt": "Pre-authorisation guidance",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "ema-whats-new",
-      "siteName": "What's new",
-      "region": "EU",
       "title": "Plasma master file certificates",
       "url": "https://www.ema.europa.eu/en/human-regulatory-overview/plasma-master-file-pmf-certification/plasma-master-file-certificates",
       "publishedAt": "2026-09-02",
@@ -8833,16 +9043,6 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "ema-regulatory-and-procedural-guidelines",
-      "siteName": "Regulatory and procedural guidelines (human and veterinary)",
-      "region": "EU",
-      "title": "European Medicines Agency pre-authorisation procedural advice for users of the centralised procedure: document with tracked changes",
-      "url": "https://www.ema.europa.eu/en/documents/regulatory-procedural-guideline/european-medicines-agency-pre-authorisation-procedural-advice-users-centralised-procedure-document-tracked-changes_en.pdf",
-      "publishedAt": "2026-09-02",
-      "excerpt": "European Medicines Agency pre-authorisation procedural advice for users of the centralised procedure: document with tracked changes",
-      "sourceType": "rss"
-    },
-    {
       "siteId": "ema-whats-new",
       "siteName": "What's new",
       "region": "EU",
@@ -8850,16 +9050,6 @@
       "url": "https://www.ema.europa.eu/system/files/documents/regulatory-procedural-guideline/pre-authorisation-guidance-integrated-version-track-changes-28082026-en.pdf",
       "publishedAt": "2026-09-02",
       "excerpt": "European Medicines Agency pre-authorisation procedural advice for users of the centralised procedure: document with tracked changes",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "ema-regulatory-and-procedural-guidelines",
-      "siteName": "Regulatory and procedural guidelines (human and veterinary)",
-      "region": "EU",
-      "title": "European Medicines Agency pre-authorisation procedural advice for users of the centralised procedure",
-      "url": "https://www.ema.europa.eu/en/documents/regulatory-procedural-guideline/european-medicines-agency-pre-authorisation-procedural-advice-users-centralised-procedure_en.pdf",
-      "publishedAt": "2026-09-02",
-      "excerpt": "European Medicines Agency pre-authorisation procedural advice for users of the centralised procedure",
       "sourceType": "rss"
     },
     {
@@ -16796,16 +16986,6 @@
       "siteId": "ema-whats-new",
       "siteName": "What's new",
       "region": "EU",
-      "title": "European platform for regulatory science research meeting: October 2026, Online, European Medicines Agency, Amsterdam, the Netherlands, from 22 October 2026, 09:00 (CEST) to 22 October 2026, 17:00 (CEST)",
-      "url": "https://www.ema.europa.eu/en/events/european-platform-regulatory-science-research-meeting-october-2026",
-      "publishedAt": "2026-08-03",
-      "excerpt": "European platform for regulatory science research meeting: October 2026, Online, European Medicines Agency, Amsterdam, the Netherlands, from 22 October 2026, 09:00 (CEST) to 22 October 2026, 17:00 (CEST)",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "ema-whats-new",
-      "siteName": "What's new",
-      "region": "EU",
       "title": "European Union Member State Public Holidays Recorded in CTIS (year: 2027)",
       "url": "https://www.ema.europa.eu/system/files/documents/other/european-union-member-state-public-holidays-recorded-ctis-2027_en.pdf",
       "publishedAt": "2026-08-03",
@@ -22353,16 +22533,6 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "ema-whats-new",
-      "siteName": "What's new",
-      "region": "EU",
-      "title": "Changing the labelling and package leaflet (Article 61(3) notifications)",
-      "url": "https://www.ema.europa.eu/en/human-regulatory-overview/post-authorisation/changing-labelling-package-leaflet-article-613-notifications",
-      "publishedAt": "2026-07-14",
-      "excerpt": "Changing the labelling and package leaflet (Article 61(3) notifications)",
-      "sourceType": "rss"
-    },
-    {
       "siteId": "fda-ora-foia-electronic-reading-room",
       "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
       "region": "US",
@@ -22560,16 +22730,6 @@
       "url": "https://www.ema.europa.eu/en/human-regulatory-overview/post-authorisation/variations-including-extensions-marketing-authorisations/worksharing-questions-answers",
       "publishedAt": "2026-07-13",
       "excerpt": "Worksharing: questions and answers",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "ema-whats-new",
-      "siteName": "What's new",
-      "region": "EU",
-      "title": "Type-II variations: questions and answers",
-      "url": "https://www.ema.europa.eu/en/human-regulatory-overview/post-authorisation/variations-including-extensions-marketing-authorisations/type-ii-variations-questions-answers",
-      "publishedAt": "2026-07-13",
-      "excerpt": "Type-II variations: questions and answers",
       "sourceType": "rss"
     },
     {
@@ -23006,16 +23166,6 @@
       "siteId": "ema-whats-new",
       "siteName": "What's new",
       "region": "EU",
-      "title": "Extensions of marketing authorisations: questions and answers",
-      "url": "https://www.ema.europa.eu/en/human-regulatory-overview/post-authorisation/variations-including-extensions-marketing-authorisations/extensions-marketing-authorisations-questions-answers",
-      "publishedAt": "2026-07-13",
-      "excerpt": "Extensions of marketing authorisations: questions and answers",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "ema-whats-new",
-      "siteName": "What's new",
-      "region": "EU",
       "title": "European platform for regulatory science research meeting: June 2026 , Online, from 16 June 2026, 14:00 (CEST) to 16 June 2026, 18:00 (CEST)",
       "url": "https://www.ema.europa.eu/en/events/european-platform-regulatory-science-research-meeting-june-2026",
       "publishedAt": "2026-07-13",
@@ -23053,31 +23203,11 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "ema-regulatory-and-procedural-guidelines",
-      "siteName": "Regulatory and procedural guidelines (human and veterinary)",
-      "region": "EU",
-      "title": "European Medicines Agency post-authorisation procedural advice for users of the centralised procedure: document with tracked changes",
-      "url": "https://www.ema.europa.eu/en/documents/regulatory-procedural-guideline/european-medicines-agency-post-authorisation-procedural-advice-users-centralised-procedure-document-tracked-changes_en.pdf",
-      "publishedAt": "2026-07-13",
-      "excerpt": "European Medicines Agency post-authorisation procedural advice for users of the centralised procedure: document with tracked changes",
-      "sourceType": "rss"
-    },
-    {
       "siteId": "ema-whats-new",
       "siteName": "What's new",
       "region": "EU",
       "title": "European Medicines Agency post-authorisation procedural advice for users of the centralised procedure",
       "url": "https://www.ema.europa.eu/system/files/documents/regulatory-procedural-guideline/post-authorisation-guidance-integrated-version-clean-jul-2026-en.pdf",
-      "publishedAt": "2026-07-13",
-      "excerpt": "European Medicines Agency post-authorisation procedural advice for users of the centralised procedure",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "ema-regulatory-and-procedural-guidelines",
-      "siteName": "Regulatory and procedural guidelines (human and veterinary)",
-      "region": "EU",
-      "title": "European Medicines Agency post-authorisation procedural advice for users of the centralised procedure",
-      "url": "https://www.ema.europa.eu/en/documents/regulatory-procedural-guideline/european-medicines-agency-post-authorisation-procedural-advice-users-centralised-procedure_en.pdf",
       "publishedAt": "2026-07-13",
       "excerpt": "European Medicines Agency post-authorisation procedural advice for users of the centralised procedure",
       "sourceType": "rss"
@@ -31843,8 +31973,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 安全対策",
-      "siteName": "Safety Measures (JP)",
+      "siteId": "PMDA：トップ 承認審査",
+      "siteName": "Review for (marketing) approval (JP)",
       "region": "JP",
       "title": "[安全][医療]「医療機器添付文書改訂相談」のページを掲載しました",
       "url": "https://www.pmda.go.jp/review-services/f2f-pre/consultations/0122.html",
@@ -32083,8 +32213,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 安全対策",
-      "siteName": "Safety Measures (JP)",
+      "siteId": "PMDA：トップ 承認審査",
+      "siteName": "Review for (marketing) approval (JP)",
       "region": "JP",
       "title": "[審査][安全][イベント]PMDAシンポジウム「生成AIの医療活用の最前線」の開催について（資料掲載）",
       "url": "https://www.pmda.go.jp/review-services/symposia/0198.html",
@@ -32093,8 +32223,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 安全対策",
-      "siteName": "Safety Measures (JP)",
+      "siteId": "PMDA：トップ 承認審査",
+      "siteName": "Review for (marketing) approval (JP)",
       "region": "JP",
       "title": "[審査][安全][イベント]PMDAシンポジウム「リアルワールドデータを活用した医療機器開発」の開催について（資料掲載）",
       "url": "https://www.pmda.go.jp/review-services/symposia/0199.html",
