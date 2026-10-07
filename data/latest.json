@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-06T21:44:28.959237+00:00",
-  "count": 3543,
+  "generatedAt": "2026-10-07T01:40:34.416790+00:00",
+  "count": 3545,
   "errors": [
     {
       "groupId": "ema",
@@ -34,6 +34,26 @@
     }
   ],
   "items": [
+    {
+      "siteId": "notice-from-tfda",
+      "siteName": "公告",
+      "region": "TW",
+      "title": "公告修訂「醫療器材臨床試驗計畫案申請須知」， 並自115年10月5日生效。",
+      "url": "http://www.fda.gov.tw/tc/newsContent.aspx?cid=3&id=31744&utm_source=rss&utm_medium=feed&utm_campaign=rss_subscription",
+      "publishedAt": "2026-10-07",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
+      "region": "JP",
+      "title": "[PMDA]専門委員名簿を更新しました",
+      "url": "https://www.pmda.go.jp/about-pmda/outline/0016.html",
+      "publishedAt": "2026-10-07",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
     {
       "siteId": "tfda-news-and-press-releases",
       "siteName": "新聞",
@@ -1042,6 +1062,16 @@
       "url": "http://www.fda.gov/drugs/resources-information-approved-drugs/ongoing-cancer-accelerated-approvals",
       "publishedAt": "2026-10-05",
       "excerpt": "This listing includes accelerated approvals (AAs) for malignant hematology and oncology indications that have postmarketing requirement(s) for ongoing clinical trial(s) to verify clinical benefit.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-recalls",
+      "siteName": "Recalls",
+      "region": "US",
+      "title": "Nova Biomedical® Announces Global Medical Device Correction for StatStrip® Glucose Hospital Meter",
+      "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/nova-biomedicalr-announces-global-medical-device-correction-statstripr-glucose-hospital-meter",
+      "publishedAt": "2026-10-05",
+      "excerpt": "WALTHAM, Mass., October 5, 2026 – Nova Biomedical initiated a global Medical Device Correction on July 24, 2026, for the StatStrip® Glucose Hospital Meter System due to a software issue that may cause a glucose result to be associated with the wrong patient. When a patient ID barcode is scanned, pri",
       "sourceType": "rss"
     },
     {
@@ -8850,16 +8880,6 @@
       "region": "JP",
       "title": "[基準]経口製剤における食事の影響の評価に関する考え方について（Early Consideration）の英訳を掲載しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/guidance-guideline/0003.html",
-      "publishedAt": "2026-09-03",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "PMDA：トップ その他",
-      "siteName": "Others (JP)",
-      "region": "JP",
-      "title": "[PMDA]専門委員名簿を更新しました",
-      "url": "https://www.pmda.go.jp/about-pmda/outline/0016.html",
       "publishedAt": "2026-09-03",
       "excerpt": "",
       "sourceType": "rss"
