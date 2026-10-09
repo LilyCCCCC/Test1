@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-09T02:17:45.049860+00:00",
-  "count": 3592,
+  "generatedAt": "2026-10-09T09:17:04.607989+00:00",
+  "count": 3615,
   "errors": [
     {
       "groupId": "ema",
@@ -16,12 +16,32 @@
       "groupId": "pmda",
       "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
       "error": "RSS fetch failed - keeping archived data"
+    },
+    {
+      "groupId": "pmda",
+      "siteId": "PMDA：トップ 国際活動",
+      "error": "RSS fetch failed - keeping archived data"
+    },
+    {
+      "groupId": "pmda",
+      "siteId": "PMDA：トップ その他",
+      "error": "RSS fetch failed - keeping archived data"
     }
   ],
   "items": [
     {
-      "siteId": "PMDA：トップ 国際活動",
-      "siteName": "International (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
+      "region": "JP",
+      "title": "[調達]一般競争入札公告（総合評価落札方式）（2026年度（令和8年度）情報システム監査業務）",
+      "url": "https://www.pmda.go.jp/procurements/public-bidding/general-competition/1710.html",
+      "publishedAt": "2026-10-09",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[基準]後発医薬品開発における健康成人を対象とした生物学的同等性試験の安全性確保策に関する考え方（Early Consideration）の英訳を掲載しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/guidance-guideline/0003.html",
@@ -50,6 +70,226 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
+      "region": "JP",
+      "title": "[PMDA][イベント]2026年度のPMDAオープン・カンパニー情報（技術系）を更新しました",
+      "url": "https://www.pmda.go.jp/about-pmda/symposia/0030.html",
+      "publishedAt": "2026-10-09",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Timetable: Extension application - ATMP",
+      "url": "https://www.ema.europa.eu/system/files/documents/other/timetable-extension-application-atmp-en.xlsx",
+      "publishedAt": "2026-10-09",
+      "excerpt": "Timetable: Extension application - ATMP",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Timetable: Extension application",
+      "url": "https://www.ema.europa.eu/system/files/documents/other/timetable-extension-application-en.xlsx",
+      "publishedAt": "2026-10-09",
+      "excerpt": "Timetable: Extension application",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Opinion/decision on a Paediatric investigation plan (PIP): Stelara, ustekinumab, decision type: PM: decision on the application for modification of an agreed PIP, therapeutic area: Musculoskeletal and connective tissue disorders, PIP number: EMA/PE/0000245485",
+      "url": "https://www.ema.europa.eu/en/medicines/human/paediatric-investigation-plans/ema-pe-0000245485",
+      "publishedAt": "2026-10-09",
+      "excerpt": "Opinion/decision on a Paediatric investigation plan (PIP): Stelara, ustekinumab, decision type: PM: decision on the application for modification of an agreed PIP, therapeutic area: Musculoskeletal and connective tissue disorders, PIP number: EMA/PE/0000245485",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Opinion/decision on a Paediatric investigation plan (PIP): Nilemdo, bempedoic acid (ETC-1002), decision type: PM: decision on the application for modification of an agreed PIP, therapeutic area: Metabolism and nutrition disorders, PIP number: EMA/PE/0000238109",
+      "url": "https://www.ema.europa.eu/en/medicines/human/paediatric-investigation-plans/ema-pe-0000238109",
+      "publishedAt": "2026-10-09",
+      "excerpt": "Opinion/decision on a Paediatric investigation plan (PIP): Nilemdo, bempedoic acid (ETC-1002), decision type: PM: decision on the application for modification of an agreed PIP, therapeutic area: Metabolism and nutrition disorders, PIP number: EMA/PE/0000238109",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Opinion/decision on a Paediatric investigation plan (PIP): Inaqovi, cedazuridine,decitabine, decision type: PM: decision on the application for modification of an agreed PIP, therapeutic area: Blood and lymphatic system disorders, PIP number: EMA/PE/0000246985",
+      "url": "https://www.ema.europa.eu/en/medicines/human/paediatric-investigation-plans/ema-pe-0000246985",
+      "publishedAt": "2026-10-09",
+      "excerpt": "Opinion/decision on a Paediatric investigation plan (PIP): Inaqovi, cedazuridine,decitabine, decision type: PM: decision on the application for modification of an agreed PIP, therapeutic area: Blood and lymphatic system disorders, PIP number: EMA/PE/0000246985",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Opinion/decision on a Paediatric investigation plan (PIP): Fabhalta, iptacopan, decision type: PM: decision on the application for modification of an agreed PIP, therapeutic area: Renal and urinary disorders, PIP number: EMA/PE/0000245173",
+      "url": "https://www.ema.europa.eu/en/medicines/human/paediatric-investigation-plans/ema-pe-0000245173",
+      "publishedAt": "2026-10-09",
+      "excerpt": "Opinion/decision on a Paediatric investigation plan (PIP): Fabhalta, iptacopan, decision type: PM: decision on the application for modification of an agreed PIP, therapeutic area: Renal and urinary disorders, PIP number: EMA/PE/0000245173",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Opinion/decision on a Paediatric investigation plan (PIP): Enerzair Breezhaler, Indacaterol (acetate),mometasone (furoate),glycopyrronium bromide, decision type: PM: decision on the application for modification of an agreed PIP, therapeutic area: Respiratory, thoracic and mediastinal disorders, PIP number: EMA/PE/0000244179",
+      "url": "https://www.ema.europa.eu/en/medicines/human/paediatric-investigation-plans/ema-pe-0000244179",
+      "publishedAt": "2026-10-09",
+      "excerpt": "Opinion/decision on a Paediatric investigation plan (PIP): Enerzair Breezhaler, Indacaterol (acetate),mometasone (furoate),glycopyrronium bromide, decision type: PM: decision on the application for modification of an agreed PIP, therapeutic area: Respiratory, thoracic and mediastinal disorders, PIP number: EMA/PE/0000244179",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Opinion/decision on a Paediatric investigation plan (PIP): Emgality, Galcanezumab, decision type: PM: decision on the application for modification of an agreed PIP, therapeutic area: Surgical and medical procedures, PIP number: EMA/PE/0000227737",
+      "url": "https://www.ema.europa.eu/en/medicines/human/paediatric-investigation-plans/ema-pe-0000227737",
+      "publishedAt": "2026-10-09",
+      "excerpt": "Opinion/decision on a Paediatric investigation plan (PIP): Emgality, Galcanezumab, decision type: PM: decision on the application for modification of an agreed PIP, therapeutic area: Surgical and medical procedures, PIP number: EMA/PE/0000227737",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Opinion/decision on a Paediatric investigation plan (PIP): Aimovig, erenumab, decision type: PM: decision on the application for modification of an agreed PIP, therapeutic area: Surgical and medical procedures, PIP number: EMA/PE/0000242151",
+      "url": "https://www.ema.europa.eu/en/medicines/human/paediatric-investigation-plans/ema-pe-0000242151",
+      "publishedAt": "2026-10-09",
+      "excerpt": "Opinion/decision on a Paediatric investigation plan (PIP): Aimovig, erenumab, decision type: PM: decision on the application for modification of an agreed PIP, therapeutic area: Surgical and medical procedures, PIP number: EMA/PE/0000242151",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Opinion/decision on a Paediatric investigation plan (PIP): Agamree, vamorolone, decision type: PM: decision on the application for modification of an agreed PIP, therapeutic area: Congenital, familial and genetic disorders, PIP number: EMA/PE/0000244420",
+      "url": "https://www.ema.europa.eu/en/medicines/human/paediatric-investigation-plans/ema-pe-0000244420",
+      "publishedAt": "2026-10-09",
+      "excerpt": "Opinion/decision on a Paediatric investigation plan (PIP): Agamree, vamorolone, decision type: PM: decision on the application for modification of an agreed PIP, therapeutic area: Congenital, familial and genetic disorders, PIP number: EMA/PE/0000244420",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "EMA/PE/0000247846",
+      "url": "https://www.ema.europa.eu/en/medicines/human/paediatric-investigation-plans/ema-pe-0000247846",
+      "publishedAt": "2026-10-09",
+      "excerpt": "EMA/PE/0000247846",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "EMA/PE/0000245997",
+      "url": "https://www.ema.europa.eu/en/medicines/human/paediatric-investigation-plans/ema-pe-0000245997",
+      "publishedAt": "2026-10-09",
+      "excerpt": "EMA/PE/0000245997",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "EMA/PE/0000245980",
+      "url": "https://www.ema.europa.eu/en/medicines/human/paediatric-investigation-plans/ema-pe-0000245980",
+      "publishedAt": "2026-10-09",
+      "excerpt": "EMA/PE/0000245980",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "EMA/PE/0000245698",
+      "url": "https://www.ema.europa.eu/en/medicines/human/paediatric-investigation-plans/ema-pe-0000245698",
+      "publishedAt": "2026-10-09",
+      "excerpt": "EMA/PE/0000245698",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "EMA/PE/0000245644",
+      "url": "https://www.ema.europa.eu/en/medicines/human/paediatric-investigation-plans/ema-pe-0000245644",
+      "publishedAt": "2026-10-09",
+      "excerpt": "EMA/PE/0000245644",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "EMA/PE/0000245423",
+      "url": "https://www.ema.europa.eu/en/medicines/human/paediatric-investigation-plans/ema-pe-0000245423",
+      "publishedAt": "2026-10-09",
+      "excerpt": "EMA/PE/0000245423",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "EMA/PE/0000245146",
+      "url": "https://www.ema.europa.eu/en/medicines/human/paediatric-investigation-plans/ema-pe-0000245146",
+      "publishedAt": "2026-10-09",
+      "excerpt": "EMA/PE/0000245146",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "EMA/PE/0000243984",
+      "url": "https://www.ema.europa.eu/en/medicines/human/paediatric-investigation-plans/ema-pe-0000243984",
+      "publishedAt": "2026-10-09",
+      "excerpt": "EMA/PE/0000243984",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "EMA/PE/0000242381",
+      "url": "https://www.ema.europa.eu/en/medicines/human/paediatric-investigation-plans/ema-pe-0000242381",
+      "publishedAt": "2026-10-09",
+      "excerpt": "EMA/PE/0000242381",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "EMA/PE/0000242247",
+      "url": "https://www.ema.europa.eu/en/medicines/human/paediatric-investigation-plans/ema-pe-0000242247",
+      "publishedAt": "2026-10-09",
+      "excerpt": "EMA/PE/0000242247",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "EMA/PE/0000241641",
+      "url": "https://www.ema.europa.eu/en/medicines/human/paediatric-investigation-plans/ema-pe-0000241641",
+      "publishedAt": "2026-10-09",
+      "excerpt": "EMA/PE/0000241641",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "reviews",
       "siteName": "Reviews (EN)",
       "region": "JP",
@@ -60,8 +300,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ その他",
-      "siteName": "Others (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[調達]一般競争入札公告（政府調達）（総合評価落札方式）（組織人事の高度化のための技術的支援業務）",
       "url": "https://www.pmda.go.jp/procurements/public-bidding/general-competition-government/0239.html",
@@ -70,8 +310,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ その他",
-      "siteName": "Others (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[調達]一般競争入札公告（政府調達）（什器の納品及び設置業務一式）",
       "url": "https://www.pmda.go.jp/procurements/public-bidding/general-competition-government/0238.html",
@@ -80,8 +320,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ その他",
-      "siteName": "Others (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[採用]事務補助員（ジェネリック医薬品の審査業務に係る補助業務（技術系）等）の募集について（採用時期を更新しました）",
       "url": "https://www.pmda.go.jp/recruit/0750.html",
@@ -330,6 +570,16 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "fda-food-safety-recalls",
+      "siteName": "Food Safety Recalls",
+      "region": "US",
+      "title": "Gardeners Basics Recalls Waltham 29 Broccoli Sprouting Seeds Due to Possible Salmonella Contamination",
+      "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/gardeners-basics-recalls-waltham-29-broccoli-sprouting-seeds-due-possible-salmonella-contamination",
+      "publishedAt": "2026-10-08",
+      "excerpt": "October 8, 2026, Gardeners Basics of Spanish Fork, Utah, is recalling one-pound bags of broccoli sprouting seeds because they may be contaminated with Salmonella, an organism which can cause serious and sometimes fatal infections in young children, frail or elderly people, and others with weakened i",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "ema-whats-new",
       "siteName": "What's new",
       "region": "EU",
@@ -510,8 +760,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ その他",
-      "siteName": "Others (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[PMDA]専門委員名簿を更新しました",
       "url": "https://www.pmda.go.jp/about-pmda/outline/0016.html",
@@ -643,10 +893,10 @@
       "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
       "siteName": "Human medicines: EPARs and summaries of opinion",
       "region": "EU",
-      "title": "Human medicines European public assessment report (EPAR): Svariya (previously Rivaroxaban Koanaa), rivaroxaban, Date of authorisation: 21/11/2025, Revision: 2, Status: Authorised",
+      "title": "Human medicines European public assessment report (EPAR): Svariya (previously Rivaroxaban Koanaa), rivaroxaban, Date of authorisation: 21/11/2025, Revision: 3, Status: Authorised",
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/svariya",
       "publishedAt": "2026-10-07",
-      "excerpt": "Human medicines European public assessment report (EPAR): Svariya (previously Rivaroxaban Koanaa), rivaroxaban, Date of authorisation: 21/11/2025, Revision: 2, Status: Authorised",
+      "excerpt": "Human medicines European public assessment report (EPAR): Svariya (previously Rivaroxaban Koanaa), rivaroxaban, Date of authorisation: 21/11/2025, Revision: 3, Status: Authorised",
       "sourceType": "rss"
     },
     {
@@ -860,8 +1110,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ その他",
-      "siteName": "Others (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[調達]一般競争入札公告（政府調達）（総合評価落札方式）（次世代安全対策システム（シグナル検出製品）の導入業務）",
       "url": "https://www.pmda.go.jp/procurements/public-bidding/general-competition-government/0236.html",
@@ -870,8 +1120,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ その他",
-      "siteName": "Others (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[調達]一般競争入札公告（政府調達）（総合評価落札方式）（次世代安全対策システム（シグナル検出製品）の導入に伴う医薬品安全対策支援システム改修業務）",
       "url": "https://www.pmda.go.jp/procurements/public-bidding/general-competition-government/0237.html",
@@ -900,8 +1150,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 国際活動",
-      "siteName": "International (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[その他]「申請電子データを活用した解析」のページを更新しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/0002.html",
@@ -910,8 +1160,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 国際活動",
-      "siteName": "International (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[RS]2025年度レギュラトリーサイエンス活動報告書（日本語版 PDF）を更新しました。",
       "url": "https://www.pmda.go.jp/rs-std-jp/outline/0001.html",
@@ -2180,8 +2430,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ その他",
-      "siteName": "Others (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[PMDA]WOWOW『連続ドラマW　MR -医薬情報担当者-』とタイアップ！",
       "url": "https://www.pmda.go.jp/about-pmda/news-release/0102.html",
@@ -2640,8 +2890,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ その他",
-      "siteName": "Others (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[採用]2026年度1day仕事体験（技術系　毒性業務体験）の情報を更新しました",
       "url": "https://www.pmda.go.jp/recruit/0862.html",
@@ -4120,8 +4370,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ その他",
-      "siteName": "Others (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[調達]調達予定案件一覧",
       "url": "https://www.pmda.go.jp/procurements/public-bidding/procurement-plan/0001.html",
@@ -4130,8 +4380,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ その他",
-      "siteName": "Others (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[調達]オープンカウンター公告（医療機器製造販売業者向け説明会用ウェブシステム借上一式）",
       "url": "https://www.pmda.go.jp/procurements/public-bidding/open-counter/1662.html",
@@ -4180,8 +4430,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ その他",
-      "siteName": "Others (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[PMDA]職員の処分について（ニュースリリース）[412KB]",
       "url": "https://www.pmda.go.jp/about-pmda/news-release/0099.pdf",
@@ -7810,8 +8060,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "fda-food-safety-recalls",
-      "siteName": "Food Safety Recalls",
+      "siteId": "fda-food-allergies",
+      "siteName": "Food Allergies",
       "region": "US",
       "title": "Whole Foods Market Issues Allergy Alert on Undeclared Egg in Cabricharme Cheese",
       "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/whole-foods-market-issues-allergy-alert-undeclared-egg-cabricharme-cheese",
@@ -8075,16 +8325,6 @@
       "region": "JP",
       "title": "[再生]再生医療等製品事前評価相談の2026年度受付方法を掲載しました",
       "url": "https://www.pmda.go.jp/review-services/f2f-pre/consultations/0024.html",
-      "publishedAt": "2026-09-10",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "PMDA：トップ その他",
-      "siteName": "Others (JP)",
-      "region": "JP",
-      "title": "[PMDA][イベント]2026年度のPMDAオープン・カンパニー情報（技術系）を更新しました",
-      "url": "https://www.pmda.go.jp/about-pmda/symposia/0030.html",
       "publishedAt": "2026-09-10",
       "excerpt": "",
       "sourceType": "rss"
