@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-09T16:20:22.933994+00:00",
-  "count": 3639,
+  "generatedAt": "2026-10-09T21:03:20.906862+00:00",
+  "count": 3643,
   "errors": [
     {
       "groupId": "ema",
@@ -11,12 +11,27 @@
       "groupId": "pmda",
       "siteId": "services-for-healtheffects",
       "error": "RSS fetch failed - keeping archived data"
+    },
+    {
+      "groupId": "pmda",
+      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
+      "error": "RSS fetch failed - keeping archived data"
+    },
+    {
+      "groupId": "pmda",
+      "siteId": "PMDA：トップ 国際活動",
+      "error": "RSS fetch failed - keeping archived data"
+    },
+    {
+      "groupId": "pmda",
+      "siteId": "PMDA：トップ その他",
+      "error": "RSS fetch failed - keeping archived data"
     }
   ],
   "items": [
     {
-      "siteId": "PMDA：トップ その他",
-      "siteName": "Others (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[調達]一般競争入札公告（総合評価落札方式）（2026年度（令和8年度）情報システム監査業務）",
       "url": "https://www.pmda.go.jp/procurements/public-bidding/general-competition/1710.html",
@@ -25,8 +40,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 国際活動",
-      "siteName": "International (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[基準]後発医薬品開発における健康成人を対象とした生物学的同等性試験の安全性確保策に関する考え方（Early Consideration）の英訳を掲載しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/guidance-guideline/0003.html",
@@ -55,8 +70,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ その他",
-      "siteName": "Others (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[PMDA][イベント]2026年度のPMDAオープン・カンパニー情報（技術系）を更新しました",
       "url": "https://www.pmda.go.jp/about-pmda/symposia/0030.html",
@@ -162,6 +177,26 @@
       "url": "http://www.fda.gov/regulatory-information/search-fda-guidance-documents/postapproval-manufacturing-changes-biosimilar-and-interchangeable-biosimilar-products-questions-and",
       "publishedAt": "2026-10-09",
       "excerpt": "Postapproval Manufacturing Changes to Biosimilar and Interchangeable Biosimilar Products Questions and Answers",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Phase 1 Investigational New Drug (IND) Navigator",
+      "url": "http://www.fda.gov/industry/phase-1-investigational-new-drug-ind-navigator",
+      "publishedAt": "2026-10-09",
+      "excerpt": "The Phase 1 IND Navigator provides the tools, guidances, and regulatory expertise you need to prepare and submit an successful Investigational New Drug (IND) application.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Phase 1 IND Frequently Asked Questions",
+      "url": "http://www.fda.gov/industry/phase-1-investigational-new-drug-ind-navigator/phase-1-ind-frequently-asked-questions",
+      "publishedAt": "2026-10-09",
+      "excerpt": "Answers to frequently asked questions related to Phase 1 INDs",
       "sourceType": "rss"
     },
     {
@@ -275,6 +310,16 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "fda-food-allergies",
+      "siteName": "Food Allergies",
+      "region": "US",
+      "title": "Oliva LLC Issues Allergy Alert on Undeclared Sesame in Baba Ghanouj, Spicy Baba Ghanouj, and Hummus",
+      "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/oliva-llc-issues-allergy-alert-undeclared-sesame-baba-ghanouj-spicy-baba-ghanouj-and-hummus",
+      "publishedAt": "2026-10-09",
+      "excerpt": "Oliva LLC of Bethlehem, CT is recalling approximately 250 units of Riad’s Oliva to Go Baba Ghanouj, Spicy Baba Ghanouj, and Hummus, because it may contain undeclared sesame. People who have an allergy or severe sensitivity to sesame run the risk of serious or life-threatening allergic reaction if th",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "ema-whats-new",
       "siteName": "What's new",
       "region": "EU",
@@ -282,6 +327,26 @@
       "url": "https://www.ema.europa.eu/en/medicines/dhpc/ocrevus",
       "publishedAt": "2026-10-09",
       "excerpt": "Ocrevus",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Novel Drug Approvals for 2026",
+      "url": "http://www.fda.gov/drugs/novel-drug-approvals-fda/novel-drug-approvals-2026",
+      "publishedAt": "2026-10-09",
+      "excerpt": "FDA Novel Drug Therapy Approvals for 2026",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Notable Approvals | Drugs",
+      "url": "http://www.fda.gov/drugs/news-events-human-drugs/notable-approvals-drugs",
+      "publishedAt": "2026-10-09",
+      "excerpt": "News about human drug-related approvals",
       "sourceType": "rss"
     },
     {
@@ -312,6 +377,16 @@
       "url": "https://www.ema.europa.eu/system/files/documents/report/monthly-statistics-report-2026-09-en.pdf",
       "publishedAt": "2026-10-09",
       "excerpt": "Medicinal products for human use: monthly figures - September 2026",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-recalls",
+      "siteName": "Recalls",
+      "region": "US",
+      "title": "Krasnyi Oktyabr Inc. Recalls Starfish Seafood Trio Because of Possible Health Risk",
+      "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/krasnyi-oktyabr-inc-recalls-starfish-seafood-trio-because-possible-health-risk",
+      "publishedAt": "2026-10-09",
+      "excerpt": "Krasnyi Oktyabr Inc. of Brooklyn, New York, is voluntarily recalling Starfish Seafood Trio – Cold Smoked Salmon, Halibut, and Trout, 8 oz (227 g) packages, because the product has the potential to be contaminated with Listeria monocytogenes, an organism which can cause serious and sometimes fatal in",
       "sourceType": "rss"
     },
     {
@@ -362,6 +437,16 @@
       "url": "http://www.fda.gov/industry/generic-drug-user-fee-amendments/generic-drug-facilities-sites-and-organization-lists",
       "publishedAt": "2026-10-09",
       "excerpt": "Generic Drug Facilities, Sites and Organization Lists",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "FDA Approves Drug to Treat Lesions Caused by Herpes Simplex Virus",
+      "url": "http://www.fda.gov/drugs/news-events-human-drugs/fda-approves-drug-treat-lesions-caused-herpes-simplex-virus",
+      "publishedAt": "2026-10-09",
+      "excerpt": "FDA has approved Hovilpri (pritelivir) tablets for adults with weakened immune systems (i.e., immunocompromised patients) who have mucocutaneous lesions caused by herpes simplex virus (HSV) infection and have not responded to other therapies.",
       "sourceType": "rss"
     },
     {
@@ -595,8 +680,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ その他",
-      "siteName": "Others (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[調達]一般競争入札公告（政府調達）（総合評価落札方式）（組織人事の高度化のための技術的支援業務）",
       "url": "https://www.pmda.go.jp/procurements/public-bidding/general-competition-government/0239.html",
@@ -605,8 +690,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ その他",
-      "siteName": "Others (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[調達]一般競争入札公告（政府調達）（什器の納品及び設置業務一式）",
       "url": "https://www.pmda.go.jp/procurements/public-bidding/general-competition-government/0238.html",
@@ -615,8 +700,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ その他",
-      "siteName": "Others (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[採用]事務補助員（ジェネリック医薬品の審査業務に係る補助業務（技術系）等）の募集について（採用時期を更新しました）",
       "url": "https://www.pmda.go.jp/recruit/0750.html",
@@ -1035,8 +1120,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ その他",
-      "siteName": "Others (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[PMDA]専門委員名簿を更新しました",
       "url": "https://www.pmda.go.jp/about-pmda/outline/0016.html",
@@ -1365,8 +1450,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ その他",
-      "siteName": "Others (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[調達]一般競争入札公告（政府調達）（総合評価落札方式）（次世代安全対策システム（シグナル検出製品）の導入業務）",
       "url": "https://www.pmda.go.jp/procurements/public-bidding/general-competition-government/0236.html",
@@ -1375,8 +1460,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ その他",
-      "siteName": "Others (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[調達]一般競争入札公告（政府調達）（総合評価落札方式）（次世代安全対策システム（シグナル検出製品）の導入に伴う医薬品安全対策支援システム改修業務）",
       "url": "https://www.pmda.go.jp/procurements/public-bidding/general-competition-government/0237.html",
@@ -1405,8 +1490,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 国際活動",
-      "siteName": "International (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[その他]「申請電子データを活用した解析」のページを更新しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/0002.html",
@@ -1415,8 +1500,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 国際活動",
-      "siteName": "International (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[RS]2025年度レギュラトリーサイエンス活動報告書（日本語版 PDF）を更新しました。",
       "url": "https://www.pmda.go.jp/rs-std-jp/outline/0001.html",
@@ -2675,8 +2760,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ その他",
-      "siteName": "Others (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[PMDA]WOWOW『連続ドラマW　MR -医薬情報担当者-』とタイアップ！",
       "url": "https://www.pmda.go.jp/about-pmda/news-release/0102.html",
@@ -3135,8 +3220,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ その他",
-      "siteName": "Others (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[採用]2026年度1day仕事体験（技術系　毒性業務体験）の情報を更新しました",
       "url": "https://www.pmda.go.jp/recruit/0862.html",
@@ -3848,16 +3933,6 @@
       "siteId": "fda-whats-new-drugs",
       "siteName": "What's New: Drugs",
       "region": "US",
-      "title": "Notable Approvals | Drugs",
-      "url": "http://www.fda.gov/drugs/news-events-human-drugs/notable-approvals-drugs",
-      "publishedAt": "2026-09-30",
-      "excerpt": "News about human drug-related approvals",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
       "title": "New Safety Information or Potential Signals of Serious Risks Identified from the FDA Adverse Event Monitoring System (AEMS)",
       "url": "http://www.fda.gov/drugs/fda-adverse-event-monitoring-system-aems/new-safety-information-or-potential-signals-serious-risks-identified-fda-adverse-event-monitoring",
       "publishedAt": "2026-09-30",
@@ -4505,16 +4580,6 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "Novel Drug Approvals for 2026",
-      "url": "http://www.fda.gov/drugs/novel-drug-approvals-fda/novel-drug-approvals-2026",
-      "publishedAt": "2026-09-28",
-      "excerpt": "FDA Novel Drug Therapy Approvals for 2026",
-      "sourceType": "rss"
-    },
-    {
       "siteId": "ema-whats-new",
       "siteName": "What's new",
       "region": "EU",
@@ -4605,8 +4670,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ その他",
-      "siteName": "Others (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[調達]調達予定案件一覧",
       "url": "https://www.pmda.go.jp/procurements/public-bidding/procurement-plan/0001.html",
@@ -4615,8 +4680,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ その他",
-      "siteName": "Others (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[調達]オープンカウンター公告（医療機器製造販売業者向け説明会用ウェブシステム借上一式）",
       "url": "https://www.pmda.go.jp/procurements/public-bidding/open-counter/1662.html",
@@ -4665,8 +4730,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ その他",
-      "siteName": "Others (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[PMDA]職員の処分について（ニュースリリース）[412KB]",
       "url": "https://www.pmda.go.jp/about-pmda/news-release/0099.pdf",
@@ -15892,16 +15957,6 @@
       "url": "https://www.ema.europa.eu/system/files/documents/presentation/23-adiposity-gateway-cardiometabolic-diseases-tackling-unmet-need-cv-risk-reduction-l-fabryova-easo-en.pdf",
       "publishedAt": "2026-08-13",
       "excerpt": "Presentation - Adiposity: The gateway to cardiometabolic diseases (L. Fábryová)",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "Phase 1 Investigational New Drug (IND) Navigator",
-      "url": "http://www.fda.gov/industry/phase-1-investigational-new-drug-ind-navigator",
-      "publishedAt": "2026-08-13",
-      "excerpt": "The Phase 1 IND Navigator provides the tools, guidances, and regulatory expertise you need to prepare and submit an successful Investigational New Drug (IND) application.",
       "sourceType": "rss"
     },
     {
