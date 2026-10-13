@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-13T11:57:04.719345+00:00",
-  "count": 3667,
+  "generatedAt": "2026-10-13T19:22:14.500558+00:00",
+  "count": 3686,
   "items": [
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[調達]個人番号収集・保管・管理及び支払調書等作成業務",
       "url": "https://www.pmda.go.jp/procurements/public-bidding/general-competition/1711.html",
@@ -13,8 +13,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
+      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
       "region": "JP",
       "title": "[薬局方]日局におけるPDG調和文書への対応状況（試験法等）を更新しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/0021.html",
@@ -43,6 +43,16 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "What's New Related to Drugs",
+      "url": "http://www.fda.gov/drugs/news-events-human-drugs/whats-new-related-drugs",
+      "publishedAt": "2026-10-13",
+      "excerpt": "Want to know what's new on drugs from FDA? This page provides quick links to the latest on a variety of topics including: drug approvals, safety warnings, drug shortages, etc.",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "ema-whats-new",
       "siteName": "What's new",
       "region": "EU",
@@ -53,6 +63,26 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Silgan Dispensing Systems - 734538 - 10/05/2026",
+      "url": "http://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/silgan-dispensing-systems-734538-10052026",
+      "publishedAt": "2026-10-13",
+      "excerpt": "CGMP/Finished Pharmaceuticals/Adulterated/Unapproved New Drug",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "SCA Pharmaceuticals, LLC - 724202 - 09/14/2026",
+      "url": "http://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/sca-pharmaceuticals-llc-724202-09142026",
+      "publishedAt": "2026-10-13",
+      "excerpt": "CGMP/Finished Pharmaceuticals/Adulterated",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "ema-whats-new",
       "siteName": "What's new",
       "region": "EU",
@@ -60,6 +90,16 @@
       "url": "https://www.ema.europa.eu/en/events/risk-management-information-day-2022",
       "publishedAt": "2026-10-13",
       "excerpt": "Risk management information day 2022, Online, European Medicines Agency, Amsterdam, the Netherlands, 9 December 2022",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Registered Outsourcing Facilities",
+      "url": "http://www.fda.gov/drugs/human-drug-compounding/registered-outsourcing-facilities",
+      "publishedAt": "2026-10-13",
+      "excerpt": "Discover FDA's comprehensive list of registered outsourcing facilities engaged in human drug compounding. Get the latest updates, compliance guidelines, and resources to ensure safe, high-quality compounded medications. Explore regulations and stay informed with verified facility details.",
       "sourceType": "rss"
     },
     {
@@ -103,6 +143,76 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Postapproval Manufacturing Changes to Biosimilar and Interchangeable Biosimilar Products: Questions and Answers",
+      "url": "http://www.fda.gov/regulatory-information/search-fda-guidance-documents/postapproval-manufacturing-changes-biosimilar-and-interchangeable-biosimilar-products-questions-and",
+      "publishedAt": "2026-10-13",
+      "excerpt": "Postapproval Manufacturing Changes to Biosimilar and Interchangeable Biosimilar Products Questions and Answers",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Patient Listening Session Summaries",
+      "url": "http://www.fda.gov/patients/fda-patient-listening-sessions/patient-listening-session-summaries",
+      "publishedAt": "2026-10-13",
+      "excerpt": "Patient Listening Session summaries are published after each session to share a high-level summary of the discussion. The Public Engagement Staff draft summaries for FDA-requested sessions and the patient community requester drafts summaries for Patient-led sessions.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Opinion on medicine for use outside EU: Mosquirix, RTS,S [Portion of P. falciparum circumsporozoite protein fused with hepatitis B surface antigen (RTS), and combined with hepatitis B surface antigen (S)], Malaria, 23/07/2015  Positive opinion",
+      "url": "https://www.ema.europa.eu/en/opinion-medicine-use-outside-EU/human/mosquirix",
+      "publishedAt": "2026-10-13",
+      "excerpt": "Opinion on medicine for use outside EU: Mosquirix, RTS,S [Portion of P. falciparum circumsporozoite protein fused with hepatitis B surface antigen (RTS), and combined with hepatitis B surface antigen (S)], Malaria, 23/07/2015  Positive opinion",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Lovelace Biomedical Research Institute - 725136 - 10/06/2026",
+      "url": "http://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/lovelace-biomedical-research-institute-725136-10062026",
+      "publishedAt": "2026-10-13",
+      "excerpt": "Good Laboratory Practice (GLP) for Nonclinical Laboratory Studies",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "List of Drug Master Files (DMFs)",
+      "url": "http://www.fda.gov/drugs/drug-master-files-dmfs/list-drug-master-files-dmfs",
+      "publishedAt": "2026-10-13",
+      "excerpt": "The list is updated quarterly. Changes are made to the DMF activity status, DMF type, holder name, and subject.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "John & Nicole Santos Dairy - 735859 - 10/02/2026",
+      "url": "http://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/john-nicole-santos-dairy-735859-10022026",
+      "publishedAt": "2026-10-13",
+      "excerpt": "New Animal Drug/Adulterated",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Jiangmen Shuizirun Sanitary Articles Co., Ltd. - 722974 - 09/23/2026",
+      "url": "http://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/jiangmen-shuizirun-sanitary-articles-co-ltd-722974-09232026",
+      "publishedAt": "2026-10-13",
+      "excerpt": "CGMP/Finished Pharmaceuticals/Adulterated",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "ema-whats-new",
       "siteName": "What's new",
       "region": "EU",
@@ -113,8 +223,38 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "ema-whats-new",
-      "siteName": "What's new",
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Viagra, sildenafil, Date of authorisation: 13/09/1998, Revision: 52, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/viagra",
+      "publishedAt": "2026-10-13",
+      "excerpt": "Human medicines European public assessment report (EPAR): Viagra, sildenafil, Date of authorisation: 13/09/1998, Revision: 52, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Rinvoq, upadacitinib, Date of authorisation: 16/12/2019, Revision: 37, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/rinvoq",
+      "publishedAt": "2026-10-13",
+      "excerpt": "Human medicines European public assessment report (EPAR): Rinvoq, upadacitinib, Date of authorisation: 16/12/2019, Revision: 37, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Revatio, sildenafil, Date of authorisation: 28/10/2005, Revision: 55, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/revatio",
+      "publishedAt": "2026-10-13",
+      "excerpt": "Human medicines European public assessment report (EPAR): Revatio, sildenafil, Date of authorisation: 28/10/2005, Revision: 55, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
       "region": "EU",
       "title": "Human medicines European public assessment report (EPAR): Qalsody, tofersen, Date of authorisation: 29/05/2024, Revision: 4, Status: Authorised",
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/qalsody",
@@ -123,13 +263,103 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "ema-whats-new",
-      "siteName": "What's new",
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Olumiant, baricitinib, Date of authorisation: 13/02/2017, Revision: 29, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/olumiant",
+      "publishedAt": "2026-10-13",
+      "excerpt": "Human medicines European public assessment report (EPAR): Olumiant, baricitinib, Date of authorisation: 13/02/2017, Revision: 29, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Nexium Control, esomeprazole, Date of authorisation: 26/08/2013, Revision: 22, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/nexium-control",
+      "publishedAt": "2026-10-13",
+      "excerpt": "Human medicines European public assessment report (EPAR): Nexium Control, esomeprazole, Date of authorisation: 26/08/2013, Revision: 22, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Lyrica, pregabalin, Date of authorisation: 05/07/2004, Revision: 73, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/lyrica",
+      "publishedAt": "2026-10-13",
+      "excerpt": "Human medicines European public assessment report (EPAR): Lyrica, pregabalin, Date of authorisation: 05/07/2004, Revision: 73, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Jemperli, dostarlimab, Date of authorisation: 21/04/2021, Revision: 18, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/jemperli",
+      "publishedAt": "2026-10-13",
+      "excerpt": "Human medicines European public assessment report (EPAR): Jemperli, dostarlimab, Date of authorisation: 21/04/2021, Revision: 18, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
       "region": "EU",
       "title": "Human medicines European public assessment report (EPAR): Intuniv, guanfacine, Date of authorisation: 17/09/2015, Revision: 15, Status: Authorised",
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/intuniv",
       "publishedAt": "2026-10-13",
       "excerpt": "Human medicines European public assessment report (EPAR): Intuniv, guanfacine, Date of authorisation: 17/09/2015, Revision: 15, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Imfinzi, durvalumab, Date of authorisation: 21/09/2018, Revision: 28, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/imfinzi",
+      "publishedAt": "2026-10-13",
+      "excerpt": "Human medicines European public assessment report (EPAR): Imfinzi, durvalumab, Date of authorisation: 21/09/2018, Revision: 28, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Fingolimod Accord, fingolimod, Date of authorisation: 25/06/2020, Revision: 12, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/fingolimod-accord",
+      "publishedAt": "2026-10-13",
+      "excerpt": "Human medicines European public assessment report (EPAR): Fingolimod Accord, fingolimod, Date of authorisation: 25/06/2020, Revision: 12, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Cometriq, cabozantinib, Date of authorisation: 21/03/2014, Revision: 34, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/cometriq",
+      "publishedAt": "2026-10-13",
+      "excerpt": "Human medicines European public assessment report (EPAR): Cometriq, cabozantinib, Date of authorisation: 21/03/2014, Revision: 34, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Bemfola, follitropin alfa, Date of authorisation: 26/03/2014, Revision: 13, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/bemfola",
+      "publishedAt": "2026-10-13",
+      "excerpt": "Human medicines European public assessment report (EPAR): Bemfola, follitropin alfa, Date of authorisation: 26/03/2014, Revision: 13, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Hanlim Pharm Co., Ltd. - 734782 - 10/02/2026",
+      "url": "http://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/hanlim-pharm-co-ltd-734782-10022026",
+      "publishedAt": "2026-10-13",
+      "excerpt": "CGMP/Finished Pharmaceuticals/Adulterated",
       "sourceType": "rss"
     },
     {
@@ -143,6 +373,36 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Eurofins SF Analytical Laboratories, Inc. - 736056 - 10/06/2026",
+      "url": "http://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/eurofins-sf-analytical-laboratories-inc-736056-10062026",
+      "publishedAt": "2026-10-13",
+      "excerpt": "CGMP/Finished Pharmaceuticals/Adulterated",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Drugs@FDA Data Files",
+      "url": "http://www.fda.gov/drugs/drug-approvals-and-databases/drugsfda-data-files",
+      "publishedAt": "2026-10-13",
+      "excerpt": "Drugs@FDA Downloadable Data File in ZIP format, Data Definitions, and Entity Relationship Diagram (ERD)",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-medwatch",
+      "siteName": "MedWatch Safety Alerts",
+      "region": "US",
+      "title": "Convenience Kit Recall: Medline Removes Convenience Kits Affected by BD ChloraPrep Applicator Recall",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-recall-medline-removes-convenience-kits-affected-bd-chloraprep-applicator-recall",
+      "publishedAt": "2026-10-13",
+      "excerpt": "Certain Medline convenience kits containing recalled BD ChloraPrep applicators should be removed from use due to potential fungal contamination",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "ema-whats-new",
       "siteName": "What's new",
       "region": "EU",
@@ -150,6 +410,16 @@
       "url": "https://www.ema.europa.eu/system/files/documents/other/bpd-h-011-medical-devices-en_0.pdf",
       "publishedAt": "2026-10-13",
       "excerpt": "Business process description for medical devices",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "BsUFA II: Fiscal Years 2018 - 2022",
+      "url": "http://www.fda.gov/industry/biosimilar-user-fee-amendments/bsufa-ii-fiscal-years-2018-2022",
+      "publishedAt": "2026-10-13",
+      "excerpt": "The BsUFA II comment analysis is made available by FDA following collection and analysis of comments received in response to the BsUFA II Commitment Letter.",
       "sourceType": "rss"
     },
     {
@@ -176,6 +446,16 @@
       "siteId": "ema-whats-new",
       "siteName": "What's new",
       "region": "EU",
+      "title": "Agenda - PDCO agenda of the 13-16 October 2026 meeting",
+      "url": "https://www.ema.europa.eu/system/files/documents/agenda/draft-pdco-agenda-13-16-october-2026-publication_en.xlsx",
+      "publishedAt": "2026-10-13",
+      "excerpt": "Agenda - PDCO agenda of the 13-16 October 2026 meeting",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
       "title": "Women's health",
       "url": "https://www.ema.europa.eu/en/human-regulatory-overview/research-development/womens-health",
       "publishedAt": "2026-10-12",
@@ -193,8 +473,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "ema-whats-new",
-      "siteName": "What's new",
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
       "region": "EU",
       "title": "Human medicines European public assessment report (EPAR): Sunitinib Accord, sunitinib, Date of authorisation: 11/02/2021, Revision: 5, Status: Authorised",
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/sunitinib-accord",
@@ -203,8 +483,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "ema-whats-new",
-      "siteName": "What's new",
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
       "region": "EU",
       "title": "Human medicines European public assessment report (EPAR): Roclanda, latanoprost / netarsudil, Date of authorisation: 07/01/2021, Revision: 13, Status: Authorised",
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/roclanda",
@@ -213,8 +493,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "ema-whats-new",
-      "siteName": "What's new",
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
       "region": "EU",
       "title": "Human medicines European public assessment report (EPAR): Rhokiinsa, netarsudil, Date of authorisation: 19/11/2019, Revision: 8, Status: Authorised",
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/rhokiinsa",
@@ -223,8 +503,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "ema-whats-new",
-      "siteName": "What's new",
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
       "region": "EU",
       "title": "Human medicines European public assessment report (EPAR): Ofev, nintedanib, Date of authorisation: 14/01/2015, Revision: 30, Status: Authorised",
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/ofev",
@@ -233,8 +513,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "ema-whats-new",
-      "siteName": "What's new",
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
       "region": "EU",
       "title": "Human medicines European public assessment report (EPAR): Lazcluze, lazertinib, Date of authorisation: 20/01/2025, Revision: 4, Status: Authorised",
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/lazcluze",
@@ -243,8 +523,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "ema-whats-new",
-      "siteName": "What's new",
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
       "region": "EU",
       "title": "Human medicines European public assessment report (EPAR): Duvyzat, givinostat, Date of authorisation: 06/06/2025, Revision: 3, Status: Authorised",
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/duvyzat",
@@ -253,8 +533,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "ema-whats-new",
-      "siteName": "What's new",
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
       "region": "EU",
       "title": "Human medicines European public assessment report (EPAR): Daybu, trofinetide, Date of authorisation: 20/08/2026, Revision: 1, Status: Authorised",
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/daybu",
@@ -263,8 +543,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "ema-whats-new",
-      "siteName": "What's new",
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
       "region": "EU",
       "title": "Human medicines European public assessment report (EPAR): Casgevy, exagamglogene autotemcel, Date of authorisation: 09/02/2024, Revision: 7, Status: Authorised",
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/casgevy",
@@ -273,8 +553,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "ema-whats-new",
-      "siteName": "What's new",
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
       "region": "EU",
       "title": "Human medicines European public assessment report (EPAR): Altuvoct, efanesoctocog alfa, Date of authorisation: 17/06/2024, Revision: 5, Status: Authorised",
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/altuvoct",
@@ -323,8 +603,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[調達]一般競争入札公告（総合評価落札方式）（2026年度（令和8年度）情報システム監査業務）",
       "url": "https://www.pmda.go.jp/procurements/public-bidding/general-competition/1710.html",
@@ -333,8 +613,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
+      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
       "region": "JP",
       "title": "[基準]後発医薬品開発における健康成人を対象とした生物学的同等性試験の安全性確保策に関する考え方（Early Consideration）の英訳を掲載しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/guidance-guideline/0003.html",
@@ -363,8 +643,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[PMDA][イベント]2026年度のPMDAオープン・カンパニー情報（技術系）を更新しました",
       "url": "https://www.pmda.go.jp/about-pmda/symposia/0030.html",
@@ -380,16 +660,6 @@
       "url": "https://www.ema.europa.eu/en/medicines/human/variation/kalydeco",
       "publishedAt": "2026-10-09",
       "excerpt": "Withdrawn application: Kalydeco, 01/09/2026",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "What's New Related to Drugs",
-      "url": "http://www.fda.gov/drugs/news-events-human-drugs/whats-new-related-drugs",
-      "publishedAt": "2026-10-09",
-      "excerpt": "Want to know what's new on drugs from FDA? This page provides quick links to the latest on a variety of topics including: drug approvals, safety warnings, drug shortages, etc.",
       "sourceType": "rss"
     },
     {
@@ -433,8 +703,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "ema-whats-new",
-      "siteName": "What's new",
+      "siteId": "ema-inspections",
+      "siteName": "Inspections",
       "region": "EU",
       "title": "Questions and answers on the PIP compliance verification procedure at EMA, and on paediatric rewards",
       "url": "https://www.ema.europa.eu/system/files/documents/regulatory-procedural-guideline/questions-answers-procedure-pip-compliance-verification-en_0.pdf",
@@ -460,16 +730,6 @@
       "url": "http://www.fda.gov/regulatory-information/search-fda-guidance-documents/questions-and-answers-biosimilar-development-and-bpci-act",
       "publishedAt": "2026-10-09",
       "excerpt": "Revision 3",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "Postapproval Manufacturing Changes to Biosimilar and Interchangeable Biosimilar Products: Questions and Answers",
-      "url": "http://www.fda.gov/regulatory-information/search-fda-guidance-documents/postapproval-manufacturing-changes-biosimilar-and-interchangeable-biosimilar-products-questions-and",
-      "publishedAt": "2026-10-09",
-      "excerpt": "Postapproval Manufacturing Changes to Biosimilar and Interchangeable Biosimilar Products Questions and Answers",
       "sourceType": "rss"
     },
     {
@@ -683,8 +943,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "ema-whats-new",
-      "siteName": "What's new",
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
       "region": "EU",
       "title": "Human medicines European public assessment report (EPAR): Svariya (previously Rivaroxaban Koanaa), rivaroxaban, Date of authorisation: 21/11/2025, Revision: 3, Status: Authorised",
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/svariya",
@@ -693,8 +953,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "ema-whats-new",
-      "siteName": "What's new",
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
       "region": "EU",
       "title": "Human medicines European public assessment report (EPAR): Pylclari, piflufolastat (18F), Date of authorisation: 27/11/2023, Revision: 9, Status: Authorised",
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/pylclari",
@@ -703,8 +963,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "ema-whats-new",
-      "siteName": "What's new",
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
       "region": "EU",
       "title": "Human medicines European public assessment report (EPAR): Giapreza, angiotensin II, Date of authorisation: 23/08/2019, Revision: 7, Status: Authorised",
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/giapreza",
@@ -713,8 +973,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "ema-whats-new",
-      "siteName": "What's new",
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
       "region": "EU",
       "title": "Human medicines European public assessment report (EPAR): Etcamah, camizestrant, Date of authorisation: 20/07/2026, Status: Authorised",
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/etcamah",
@@ -903,16 +1163,6 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "Drugs@FDA Data Files",
-      "url": "http://www.fda.gov/drugs/drug-approvals-and-databases/drugsfda-data-files",
-      "publishedAt": "2026-10-09",
-      "excerpt": "Drugs@FDA Downloadable Data File in ZIP format, Data Definitions, and Entity Relationship Diagram (ERD)",
-      "sourceType": "rss"
-    },
-    {
       "siteId": "ema-whats-new",
       "siteName": "What's new",
       "region": "EU",
@@ -943,8 +1193,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "ema-whats-new",
-      "siteName": "What's new",
+      "siteId": "ema-inspections",
+      "siteName": "Inspections",
       "region": "EU",
       "title": "Annual report of the Pharmacovigilance Inspectors Working Group for 2025",
       "url": "https://www.ema.europa.eu/system/files/documents/annual-report/annual-report-pharmacovigilance-inspectors-working-group-2025-en.pdf",
@@ -973,8 +1223,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[調達]一般競争入札公告（政府調達）（総合評価落札方式）（組織人事の高度化のための技術的支援業務）",
       "url": "https://www.pmda.go.jp/procurements/public-bidding/general-competition-government/0239.html",
@@ -983,8 +1233,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[調達]一般競争入札公告（政府調達）（什器の納品及び設置業務一式）",
       "url": "https://www.pmda.go.jp/procurements/public-bidding/general-competition-government/0238.html",
@@ -993,8 +1243,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[採用]事務補助員（ジェネリック医薬品の審査業務に係る補助業務（技術系）等）の募集について（採用時期を更新しました）",
       "url": "https://www.pmda.go.jp/recruit/0750.html",
@@ -1283,8 +1533,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "ema-scientific-guidelines",
-      "siteName": "Scientific guidelines (human and veterinary)",
+      "siteId": "ema-public-consultations",
+      "siteName": "Public consultations",
       "region": "EU",
       "title": "Draft guideline on the requirements for demonstrating therapeutic equivalence for nasal products",
       "url": "https://www.ema.europa.eu/en/documents/scientific-guideline/draft-guideline-requirements-demonstrating-therapeutic-equivalence-nasal-products_en.pdf",
@@ -1413,8 +1663,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[PMDA]専門委員名簿を更新しました",
       "url": "https://www.pmda.go.jp/about-pmda/outline/0016.html",
@@ -1743,8 +1993,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[調達]一般競争入札公告（政府調達）（総合評価落札方式）（次世代安全対策システム（シグナル検出製品）の導入業務）",
       "url": "https://www.pmda.go.jp/procurements/public-bidding/general-competition-government/0236.html",
@@ -1753,8 +2003,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[調達]一般競争入札公告（政府調達）（総合評価落札方式）（次世代安全対策システム（シグナル検出製品）の導入に伴う医薬品安全対策支援システム改修業務）",
       "url": "https://www.pmda.go.jp/procurements/public-bidding/general-competition-government/0237.html",
@@ -1783,8 +2033,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
+      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
       "region": "JP",
       "title": "[その他]「申請電子データを活用した解析」のページを更新しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/0002.html",
@@ -1793,8 +2043,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
+      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
       "region": "JP",
       "title": "[RS]2025年度レギュラトリーサイエンス活動報告書（日本語版 PDF）を更新しました。",
       "url": "https://www.pmda.go.jp/rs-std-jp/outline/0001.html",
@@ -3043,8 +3293,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[PMDA]WOWOW『連続ドラマW　MR -医薬情報担当者-』とタイアップ！",
       "url": "https://www.pmda.go.jp/about-pmda/news-release/0102.html",
@@ -3503,8 +3753,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[採用]2026年度1day仕事体験（技術系　毒性業務体験）の情報を更新しました",
       "url": "https://www.pmda.go.jp/recruit/0862.html",
@@ -4193,16 +4443,6 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "Registered Outsourcing Facilities",
-      "url": "http://www.fda.gov/drugs/human-drug-compounding/registered-outsourcing-facilities",
-      "publishedAt": "2026-09-30",
-      "excerpt": "Discover FDA's comprehensive list of registered outsourcing facilities engaged in human drug compounding. Get the latest updates, compliance guidelines, and resources to ensure safe, high-quality compounded medications. Explore regulations and stay informed with verified facility details.",
-      "sourceType": "rss"
-    },
-    {
       "siteId": "international-activities",
       "siteName": "International Activities (EN)",
       "region": "JP",
@@ -4843,16 +5083,6 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "Patient Listening Session Summaries",
-      "url": "http://www.fda.gov/patients/fda-patient-listening-sessions/patient-listening-session-summaries",
-      "publishedAt": "2026-09-28",
-      "excerpt": "Patient Listening Session summaries are published after each session to share a high-level summary of the discussion. The Public Engagement Staff draft summaries for FDA-requested sessions and the patient community requester drafts summaries for Patient-led sessions.",
-      "sourceType": "rss"
-    },
-    {
       "siteId": "ema-whats-new",
       "siteName": "What's new",
       "region": "EU",
@@ -4953,8 +5183,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[調達]調達予定案件一覧",
       "url": "https://www.pmda.go.jp/procurements/public-bidding/procurement-plan/0001.html",
@@ -4963,8 +5193,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[調達]オープンカウンター公告（医療機器製造販売業者向け説明会用ウェブシステム借上一式）",
       "url": "https://www.pmda.go.jp/procurements/public-bidding/open-counter/1662.html",
@@ -5013,8 +5243,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[PMDA]職員の処分について（ニュースリリース）[412KB]",
       "url": "https://www.pmda.go.jp/about-pmda/news-release/0099.pdf",
@@ -5200,16 +5430,6 @@
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/skytrofa",
       "publishedAt": "2026-09-25",
       "excerpt": "Human medicines European public assessment report (EPAR): Skytrofa (previously Lonapegsomatropin Ascendis Pharma), lonapegsomatropin, Date of authorisation: 11/01/2022, Revision: 7, Status: Authorised",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
-      "siteName": "Human medicines: EPARs and summaries of opinion",
-      "region": "EU",
-      "title": "Human medicines European public assessment report (EPAR): Rinvoq, upadacitinib, Date of authorisation: 16/12/2019, Revision: 36, Status: Authorised",
-      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/rinvoq",
-      "publishedAt": "2026-09-25",
-      "excerpt": "Human medicines European public assessment report (EPAR): Rinvoq, upadacitinib, Date of authorisation: 16/12/2019, Revision: 36, Status: Authorised",
       "sourceType": "rss"
     },
     {
@@ -5586,16 +5806,6 @@
       "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
       "siteName": "Human medicines: EPARs and summaries of opinion",
       "region": "EU",
-      "title": "Human medicines European public assessment report (EPAR): Cometriq, cabozantinib, Date of authorisation: 21/03/2014, Revision: 33, Status: Authorised",
-      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/cometriq",
-      "publishedAt": "2026-09-24",
-      "excerpt": "Human medicines European public assessment report (EPAR): Cometriq, cabozantinib, Date of authorisation: 21/03/2014, Revision: 33, Status: Authorised",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
-      "siteName": "Human medicines: EPARs and summaries of opinion",
-      "region": "EU",
       "title": "Human medicines European public assessment report (EPAR): Atazanavir Viatris (previously Atazanavir Mylan), atazanavir, Date of authorisation: 22/08/2016, Revision: 22, Status: Authorised",
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/atazanavir-viatris",
       "publishedAt": "2026-09-24",
@@ -5683,8 +5893,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "ema-scientific-guidelines",
-      "siteName": "Scientific guidelines (human and veterinary)",
+      "siteId": "ema-public-consultations",
+      "siteName": "Public consultations",
       "region": "EU",
       "title": "Draft guideline on the clinical requirements for medicines intended for the treatment of thalassaemia",
       "url": "https://www.ema.europa.eu/en/documents/scientific-guideline/draft-guideline-clinical-requirements-medicines-intended-treatment-thalassaemia_en.pdf",
@@ -5703,8 +5913,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "ema-scientific-guidelines",
-      "siteName": "Scientific guidelines (human and veterinary)",
+      "siteId": "ema-public-consultations",
+      "siteName": "Public consultations",
       "region": "EU",
       "title": "Draft guideline on the clinical requirements for medicines intended for the treatment of sickle cell disease",
       "url": "https://www.ema.europa.eu/en/documents/scientific-guideline/draft-guideline-clinical-requirements-medicines-intended-treatment-sickle-cell-disease_en.pdf",
@@ -7353,8 +7563,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "ema-scientific-guidelines",
-      "siteName": "Scientific guidelines (human and veterinary)",
+      "siteId": "ema-public-consultations",
+      "siteName": "Public consultations",
       "region": "EU",
       "title": "Draft reflection paper on the clinical investigation of medicinal products for the treatment of systemic sclerosis",
       "url": "https://www.ema.europa.eu/en/documents/scientific-guideline/draft-reflection-paper-clinical-investigation-medicinal-products-treatment-systemic-sclerosis_en.pdf",
@@ -7373,8 +7583,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "ema-regulatory-and-procedural-guidelines",
-      "siteName": "Regulatory and procedural guidelines (human and veterinary)",
+      "siteId": "ema-public-consultations",
+      "siteName": "Public consultations",
       "region": "EU",
       "title": "Draft guideline on veterinary good pharmacovigilance practices (VGVP) Module: Signal Management - Revision 1",
       "url": "https://www.ema.europa.eu/en/documents/regulatory-procedural-guideline/draft-guideline-veterinary-good-pharmacovigilance-practices-vgvp-module-signal-management-revision-1_en.pdf",
@@ -7393,8 +7603,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "ema-scientific-guidelines",
-      "siteName": "Scientific guidelines (human and veterinary)",
+      "siteId": "ema-public-consultations",
+      "siteName": "Public consultations",
       "region": "EU",
       "title": "Draft guideline on user safety of topically administered veterinary medicinal products - Revision 1",
       "url": "https://www.ema.europa.eu/en/documents/scientific-guideline/draft-guideline-user-safety-topically-administered-veterinary-medicinal-products-revision-1_en.pdf",
@@ -7413,8 +7623,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "ema-scientific-guidelines",
-      "siteName": "Scientific guidelines (human and veterinary)",
+      "siteId": "ema-public-consultations",
+      "siteName": "Public consultations",
       "region": "EU",
       "title": "Draft guideline on user safety for pharmaceutical veterinary medicinal products - Revision 2",
       "url": "https://www.ema.europa.eu/en/documents/scientific-guideline/draft-guideline-user-safety-pharmaceutical-veterinary-medicinal-products-revision-2_en.pdf",
@@ -7433,8 +7643,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "ema-scientific-guidelines",
-      "siteName": "Scientific guidelines (human and veterinary)",
+      "siteId": "ema-public-consultations",
+      "siteName": "Public consultations",
       "region": "EU",
       "title": "Concept paper on the revision of the CVMP guideline on the summary of product characteristics (SPC) for veterinary medicinal products containing antimicrobial substances (EMA/CVMP/383441/2005-Rev.1 Corr.1)",
       "url": "https://www.ema.europa.eu/en/documents/scientific-guideline/concept-paper-revision-cvmp-guideline-summary-product-characteristics-spc-veterinary-medicinal-products-containing-antimicrobial-substances-ema-cvmp-383441-2005-rev1-corr1_en.pdf",
@@ -7670,16 +7880,6 @@
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/paxneury",
       "publishedAt": "2026-09-17",
       "excerpt": "Human medicines European public assessment report (EPAR): Paxneury, guanfacine, Date of authorisation: 26/02/2025, Revision: 2, Status: Authorised",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
-      "siteName": "Human medicines: EPARs and summaries of opinion",
-      "region": "EU",
-      "title": "Human medicines European public assessment report (EPAR): Olumiant, baricitinib, Date of authorisation: 13/02/2017, Revision: 28, Status: Authorised",
-      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/olumiant",
-      "publishedAt": "2026-09-17",
-      "excerpt": "Human medicines European public assessment report (EPAR): Olumiant, baricitinib, Date of authorisation: 13/02/2017, Revision: 28, Status: Authorised",
       "sourceType": "rss"
     },
     {
@@ -21530,16 +21730,6 @@
       "url": "http://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/mineral-biosciences-llc-724745-06052026",
       "publishedAt": "2026-07-21",
       "excerpt": "Unapproved New Drugs/Misbranded",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "List of Drug Master Files (DMFs)",
-      "url": "http://www.fda.gov/drugs/drug-master-files-dmfs/list-drug-master-files-dmfs",
-      "publishedAt": "2026-07-21",
-      "excerpt": "The list is updated quarterly. Changes are made to the DMF activity status, DMF type, holder name, and subject.",
       "sourceType": "rss"
     },
     {
