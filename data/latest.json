@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-12T23:06:17.618771+00:00",
-  "count": 3654,
+  "generatedAt": "2026-10-13T03:40:34.426714+00:00",
+  "count": 3655,
   "errors": [
     {
       "groupId": "ema",
@@ -34,6 +34,36 @@
     }
   ],
   "items": [
+    {
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
+      "region": "JP",
+      "title": "[調達]個人番号収集・保管・管理及び支払調書等作成業務",
+      "url": "https://www.pmda.go.jp/procurements/public-bidding/general-competition/1711.html",
+      "publishedAt": "2026-10-13",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
+      "region": "JP",
+      "title": "[薬局方]日局におけるPDG調和文書への対応状況（試験法等）を更新しました",
+      "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/0021.html",
+      "publishedAt": "2026-10-13",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "rs-standard-development-jp",
+      "siteName": "RS / Standard Development / JP (EN)",
+      "region": "JP",
+      "title": "[YAKKYOKUKATA]Implementation of PDG harmonized texts into Japanese Pharmacopoeia (General Chapters) updated",
+      "url": "https://www.pmda.go.jp/english/rs-sb-std/standards-development/jp/0027.html",
+      "publishedAt": "2026-10-13",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
     {
       "siteId": "ema-whats-new",
       "siteName": "What's new",
@@ -32840,26 +32870,6 @@
       "region": "TW",
       "title": "有關BSP PHARMACEUTICALS藥品Halaven 0.44 mg/ml vial（批號148318）回收警訊，國內並未輸入該批號藥品。",
       "url": "http://www.fda.gov.tw/tc/csmnewsContent.aspx?mid=269&id=7820&utm_source=rss&utm_medium=feed&utm_campaign=rss_subscription",
-      "publishedAt": "2026-05-19",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
-      "region": "JP",
-      "title": "[薬局方]日局におけるPDG調和文書への対応状況（試験法等）を更新しました",
-      "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/0021.html",
-      "publishedAt": "2026-05-19",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "rs-standard-development-jp",
-      "siteName": "RS / Standard Development / JP (EN)",
-      "region": "JP",
-      "title": "[YAKKYOKUKATA]Implementation of PDG harmonized texts into Japanese Pharmacopoeia (General Chapters) updated",
-      "url": "https://www.pmda.go.jp/english/rs-sb-std/standards-development/jp/0027.html",
       "publishedAt": "2026-05-19",
       "excerpt": "",
       "sourceType": "rss"
