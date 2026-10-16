@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-16T14:56:18.479976+00:00",
-  "count": 3777,
+  "generatedAt": "2026-10-16T18:53:48.919408+00:00",
+  "count": 3778,
   "items": [
     {
       "siteId": "PMDAの新着情報",
@@ -50,6 +50,16 @@
       "url": "http://www.fda.gov/drugs/news-events-human-drugs/whats-new-related-drugs",
       "publishedAt": "2026-10-16",
       "excerpt": "Want to know what's new on drugs from FDA? This page provides quick links to the latest on a variety of topics including: drug approvals, safety warnings, drug shortages, etc.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "What You Should Know about Eye Drops",
+      "url": "http://www.fda.gov/drugs/buying-using-medicine-safely/what-you-should-know-about-eye-drops",
+      "publishedAt": "2026-10-16",
+      "excerpt": "Ophthalmic drug products, such as eye drops, pose a heightened risk of harm to users because drugs applied to the eyes bypass some of the body’s natural defenses. Any drug used in the eyes must be sterile to reduce the risk of infection. Eye drops are available by prescription or sold as OTCs.",
       "sourceType": "rss"
     },
     {
@@ -216,6 +226,16 @@
       "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
       "siteName": "Human medicines: EPARs and summaries of opinion",
       "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Padcev, enfortumab vedotin, Date of authorisation: 13/04/2022, Revision: 11, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/padcev",
+      "publishedAt": "2026-10-16",
+      "excerpt": "Human medicines European public assessment report (EPAR): Padcev, enfortumab vedotin, Date of authorisation: 13/04/2022, Revision: 11, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
       "title": "Human medicines European public assessment report (EPAR): Ocrevus, ocrelizumab, Date of authorisation: 08/01/2018, Revision: 28, Status: Authorised",
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/ocrevus",
       "publishedAt": "2026-10-16",
@@ -360,6 +380,26 @@
       "url": "http://www.fda.gov/drugs/drug-safety-and-availability/drug-alerts-and-statements",
       "publishedAt": "2026-10-16",
       "excerpt": "See updates from CDER on fast-moving issues and learn about CDER's work to enhance public health",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Counterfeit Versions of Eye Drops Found in Several States",
+      "url": "http://www.fda.gov/drugs/counterfeit-medicine/counterfeit-versions-eye-drops-found-several-states",
+      "publishedAt": "2026-10-16",
+      "excerpt": "Counterfeit versions of over-the-counter eye drops have been found in Florida and Georgia in stores serving primarily Spanish-speaking customers. These products also may be in Louisiana, Mississippi, North Carolina and potentially other states.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Counterfeit Medicine",
+      "url": "http://www.fda.gov/drugs/buying-using-medicine-safely/counterfeit-medicine",
+      "publishedAt": "2026-10-16",
+      "excerpt": "Counterfeit (fake or falsified) medicines may be harmful to your health because while being passed off as authentic, may contain the wrong ingredients, contain too much, too little or no active ingredient at all or contain other harmful ingredients.",
       "sourceType": "rss"
     },
     {
@@ -6946,16 +6986,6 @@
       "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
       "siteName": "Human medicines: EPARs and summaries of opinion",
       "region": "EU",
-      "title": "Human medicines European public assessment report (EPAR): Padcev, enfortumab vedotin, Date of authorisation: 13/04/2022, Revision: 10, Status: Authorised",
-      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/padcev",
-      "publishedAt": "2026-09-24",
-      "excerpt": "Human medicines European public assessment report (EPAR): Padcev, enfortumab vedotin, Date of authorisation: 13/04/2022, Revision: 10, Status: Authorised",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
-      "siteName": "Human medicines: EPARs and summaries of opinion",
-      "region": "EU",
       "title": "Human medicines European public assessment report (EPAR): Nezglyal, leriglitazone, Date of authorisation: 21/09/2026, Status: Authorised",
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/nezglyal",
       "publishedAt": "2026-09-24",
@@ -8613,8 +8643,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "fda-food-safety-recalls",
-      "siteName": "Food Safety Recalls",
+      "siteId": "fda-food-allergies",
+      "siteName": "Food Allergies",
       "region": "US",
       "title": "GF Blends Recalls Truly AIP All Purpose Flour and Bread Mix, and EAT G.A.N.G.S.T.E.R. Flat Bread Pizza Mix Due to Potential Undeclared Wheat Gluten",
       "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/gf-blends-recalls-truly-aip-all-purpose-flour-and-bread-mix-and-eat-gangster-flat-bread-pizza-mix",
@@ -14960,16 +14990,6 @@
       "url": "http://www.fda.gov/drugs/drug-safety-and-availability/drug-supply-chain-integrity",
       "publishedAt": "2026-08-24",
       "excerpt": "The drug supply chain has become increasingly complex as it reaches beyond U.S. borders. Threats to the supply chain such as counterfeiting, diversion, cargo theft, and importation of unapproved or otherwise substandard drugs, could result in unsafe, ineffective drugs in U.S. distribution.",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "Counterfeit Medicine",
-      "url": "http://www.fda.gov/drugs/buying-using-medicine-safely/counterfeit-medicine",
-      "publishedAt": "2026-08-24",
-      "excerpt": "Counterfeit (fake or falsified) medicines may be harmful to your health because while being passed off as authentic, may contain the wrong ingredients, contain too much, too little or no active ingredient at all or contain other harmful ingredients.",
       "sourceType": "rss"
     },
     {
@@ -32110,16 +32130,6 @@
       "url": "https://www.pmda.go.jp/procurements/public-bidding/open-counter/1659.html",
       "publishedAt": "2026-06-15",
       "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "What You Should Know about Eye Drops",
-      "url": "http://www.fda.gov/drugs/buying-using-medicine-safely/what-you-should-know-about-eye-drops",
-      "publishedAt": "2026-06-15",
-      "excerpt": "Ophthalmic drug products, such as eye drops, pose a heightened risk of harm to users because drugs applied to the eyes bypass some of the body's natural defenses. Any drug used[...]",
       "sourceType": "rss"
     },
     {
