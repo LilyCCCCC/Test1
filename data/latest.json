@@ -1,45 +1,10 @@
 {
-  "generatedAt": "2026-10-16T18:53:48.952691+00:00",
-  "count": 3778,
+  "generatedAt": "2026-10-16T22:09:43.175727+00:00",
+  "count": 3779,
   "errors": [
     {
       "groupId": "ema",
       "siteId": "ema-eurd-list",
-      "error": "RSS fetch failed - keeping archived data"
-    },
-    {
-      "groupId": "tfda",
-      "siteId": "notice-from-tfda",
-      "error": "RSS fetch failed - keeping archived data"
-    },
-    {
-      "groupId": "tfda",
-      "siteId": "tfda-news-and-press-releases",
-      "error": "RSS fetch failed - keeping archived data"
-    },
-    {
-      "groupId": "tfda",
-      "siteId": "medicines-medical-devices-and-cosmetics",
-      "error": "RSS fetch failed - keeping archived data"
-    },
-    {
-      "groupId": "tfda",
-      "siteId": "controlled-drugs",
-      "error": "RSS fetch failed - keeping archived data"
-    },
-    {
-      "groupId": "tfda",
-      "siteId": "light-drugs",
-      "error": "RSS fetch failed - keeping archived data"
-    },
-    {
-      "groupId": "tfda",
-      "siteId": "fees-and-other-charges",
-      "error": "RSS fetch failed - keeping archived data"
-    },
-    {
-      "groupId": "tfda",
-      "siteId": "legislative-amendments-section",
       "error": "RSS fetch failed - keeping archived data"
     },
     {
@@ -49,7 +14,12 @@
     },
     {
       "groupId": "pmda",
-      "siteId": "PMDA：トップ 安全対策",
+      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
+      "error": "RSS fetch failed - keeping archived data"
+    },
+    {
+      "groupId": "pmda",
+      "siteId": "PMDA：トップ 国際活動",
       "error": "RSS fetch failed - keeping archived data"
     },
     {
@@ -120,6 +90,26 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Verified Clinical Benefit | Cancer Accelerated Approvals",
+      "url": "http://www.fda.gov/drugs/resources-information-approved-drugs/verified-clinical-benefit-cancer-accelerated-approvals",
+      "publishedAt": "2026-10-16",
+      "excerpt": "This listing includes accelerated approvals (AAs) for malignant hematology and oncology indications with postmarketing trials that have verified clinical benefit and for which traditional approval has been subsequently granted for the specific indication.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Untitled Letters",
+      "url": "http://www.fda.gov/drugs/warning-letters-and-notice-violation-letters-pharmaceutical-companies/untitled-letters",
+      "publishedAt": "2026-10-16",
+      "excerpt": "These letters are supplied by the CDER Freedom of Information Office and only cover Office of Prescription Drug Promotion's untitled letters. FDA may have redacted or edited some of the letters to remove confidential information.",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "ema-whats-new",
       "siteName": "What's new",
       "region": "EU",
@@ -137,6 +127,16 @@
       "url": "https://www.ema.europa.eu/system/files/documents/other/timetable-safety-signal-en_0.xlsx",
       "publishedAt": "2026-10-16",
       "excerpt": "Timetable: Safety signal - Assessment of responses to request for supplementary information (RSI)",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Sunscreen: How to Help Protect Your Skin from the Sun",
+      "url": "http://www.fda.gov/drugs/understanding-over-counter-medicines/sunscreen-how-help-protect-your-skin-sun",
+      "publishedAt": "2026-10-16",
+      "excerpt": "How you use sunscreens, and what other protective measures you take, make a difference in how well you are able to protect yourself and your family from sunburn, skin cancer, early skin aging and other risks of overexposure to the sun.",
       "sourceType": "rss"
     },
     {
@@ -180,6 +180,16 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Regulatory Pharmaceutical Fellowship Program",
+      "url": "http://www.fda.gov/about-fda/center-drug-evaluation-and-research-cder/regulatory-pharmaceutical-fellowship-program",
+      "publishedAt": "2026-10-16",
+      "excerpt": "Explore the FDA’s Regulatory Pharmaceutical Fellowship Program, a partnership with academia and industry, offering specialized training in regulatory science, policy, and drug development. Learn how to advance your career in the pharmaceutical field through this unique fellowship opportunity.",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "ema-whats-new",
       "siteName": "What's new",
       "region": "EU",
@@ -187,6 +197,36 @@
       "url": "https://www.ema.europa.eu/system/files/2026-10-16/Overview%20of%20%28invented%29%20names%20reviewed%20on%2022%20September%202026_en.pdf",
       "publishedAt": "2026-10-16",
       "excerpt": "Overview of (invented) names reviewed in September 2026 by the Name Review Group (NRG) - Adopted at the CHMP meeting of 15 October 2026",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Other | Cancer Accelerated Approvals",
+      "url": "http://www.fda.gov/drugs/resources-information-approved-drugs/other-cancer-accelerated-approvals",
+      "publishedAt": "2026-10-16",
+      "excerpt": "This listing includes accelerated approvals (AAs) for malignant hematology and oncology indications that have been granted for supportive care products and changes to dosing or formulation.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Ongoing | Cancer Accelerated Approvals",
+      "url": "http://www.fda.gov/drugs/resources-information-approved-drugs/ongoing-cancer-accelerated-approvals",
+      "publishedAt": "2026-10-16",
+      "excerpt": "This listing includes accelerated approvals (AAs) for malignant hematology and oncology indications that have postmarketing requirement(s) for ongoing clinical trial(s) to verify clinical benefit.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Office of Generic Drugs | Offices and Divisions",
+      "url": "http://www.fda.gov/about-fda/cder-offices-and-divisions/office-generic-drugs-offices-and-divisions",
+      "publishedAt": "2026-10-16",
+      "excerpt": "Generic Drugs Offices and Divisions",
       "sourceType": "rss"
     },
     {
@@ -413,10 +453,40 @@
       "siteId": "fda-whats-new-drugs",
       "siteName": "What's New: Drugs",
       "region": "US",
+      "title": "FDA Expedited Investigational New Drug (IND) Pilot Program",
+      "url": "http://www.fda.gov/industry/fda-actions-accelerate-and-modernize-early-and-late-stage-clinical-development/fda-expedited-investigational-new-drug-ind-pilot-program",
+      "publishedAt": "2026-10-16",
+      "excerpt": "The FDA Expedited IND Pilot Program is an initiative under HHS Operation TrialBlazer designed to evaluate new approaches for accelerating first-in-human (FIH) clinical trials in the United States while maintaining FDA's rigorous standards for participant safety and scientific oversight.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
       "title": "FDA Approves New Nonprescription Eye Drop for Relief of Eye Redness",
       "url": "http://www.fda.gov/drugs/drug-alerts-and-statements/fda-approves-new-nonprescription-eye-drop-relief-eye-redness",
       "publishedAt": "2026-10-16",
       "excerpt": "CDER Statement: FDA Approves New Nonprescription Eye Drop for Relief of Eye Redness",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Expedited Investigational New Drug Pilot Program - Application Instructions",
+      "url": "http://www.fda.gov/industry/fda-expedited-investigational-new-drug-ind-pilot-program/expedited-investigational-new-drug-pilot-program-application-instructions",
+      "publishedAt": "2026-10-16",
+      "excerpt": "The application will consist of two sections: 1) Sponsor and Investigative New Drug Information, and 2) Prospective Research Institution Qualifications.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Expedited IND Rolling Submission Process and Program Structure",
+      "url": "http://www.fda.gov/industry/fda-expedited-investigational-new-drug-ind-pilot-program/expedited-ind-rolling-submission-process-and-program-structure",
+      "publishedAt": "2026-10-16",
+      "excerpt": "A majority of the Expedited IND Pilot will take place during the “Pre-IND” phase – the period of nonclinical development before the sponsor submits their official 30-day IND application.",
       "sourceType": "rss"
     },
     {
@@ -742,6 +812,16 @@
     {
       "siteId": "fda-food-safety-recalls",
       "siteName": "Food Safety Recalls",
+      "region": "US",
+      "title": "Family Farmstead Dairy Announces Recall of Raw Mild Cheddar Cheese Due to Potential E. coli O26:H11 and O45:H2 Contamination",
+      "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/family-farmstead-dairy-announces-recall-raw-mild-cheddar-cheese-due-potential-e-coli-o26h11-and",
+      "publishedAt": "2026-10-15",
+      "excerpt": "WORCESTER, NY, October 15, 2026 - Family Farmstead Dairy of Worcester, NY is recalling specific lot of cheddar cheese because it may be contaminated with Escherichia coli O157:H7 bacteria (E. Coli O157:H7). E. coli O157:H7 causes a diarrheal illness often with bloody stools. Although most healthy ad",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-recalls",
+      "siteName": "Recalls",
       "region": "US",
       "title": "Family Farmstead Dairy Announces Recall of Raw Mild Cheddar Cheese Due to Potential E. coli O157:H7 Contamination",
       "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/family-farmstead-dairy-announces-recall-raw-mild-cheddar-cheese-due-potential-e-coli-o157h7",
@@ -1390,8 +1470,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 国際活動",
-      "siteName": "International (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[薬局方]日局におけるPDG調和文書への対応状況（試験法等）を更新しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/0021.html",
@@ -2010,8 +2090,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 国際活動",
-      "siteName": "International (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[基準]後発医薬品開発における健康成人を対象とした生物学的同等性試験の安全性確保策に関する考え方（Early Consideration）の英訳を掲載しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/guidance-guideline/0003.html",
@@ -3040,8 +3120,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Adverse Health Effects Relief (JP)",
       "region": "JP",
       "title": "[健康]生物由来製品等の一覧を更新しました",
       "url": "https://www.pmda.go.jp/relief-services/infections/0032.html",
@@ -3390,8 +3470,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 国際活動",
-      "siteName": "International (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[その他]「申請電子データを活用した解析」のページを更新しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/0002.html",
@@ -3400,8 +3480,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 国際活動",
-      "siteName": "International (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[RS]2025年度レギュラトリーサイエンス活動報告書（日本語版 PDF）を更新しました。",
       "url": "https://www.pmda.go.jp/rs-std-jp/outline/0001.html",
@@ -4300,16 +4380,6 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "Ongoing | Cancer Accelerated Approvals",
-      "url": "http://www.fda.gov/drugs/resources-information-approved-drugs/ongoing-cancer-accelerated-approvals",
-      "publishedAt": "2026-10-05",
-      "excerpt": "This listing includes accelerated approvals (AAs) for malignant hematology and oncology indications that have postmarketing requirement(s) for ongoing clinical trial(s) to verify clinical benefit.",
-      "sourceType": "rss"
-    },
-    {
       "siteId": "ema-whats-new",
       "siteName": "What's new",
       "region": "EU",
@@ -4523,16 +4593,6 @@
       "siteId": "fda-whats-new-drugs",
       "siteName": "What's New: Drugs",
       "region": "US",
-      "title": "Expedited Investigational New Drug Pilot Program - Application Instructions",
-      "url": "http://www.fda.gov/industry/fda-expedited-investigational-new-drug-ind-pilot-program/expedited-investigational-new-drug-pilot-program-application-instructions",
-      "publishedAt": "2026-10-05",
-      "excerpt": "The application will consist of two sections: 1) Sponsor and Investigative New Drug Information, and 2) Prospective Research Institution Qualifications.",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
       "title": "CDER Quantitative Medicine Center of Excellence (QM CoE)",
       "url": "http://www.fda.gov/about-fda/center-drug-evaluation-and-research-cder/cder-quantitative-medicine-center-excellence-qm-coe",
       "publishedAt": "2026-10-05",
@@ -4667,16 +4727,6 @@
       "url": "http://www.fda.gov/drugs/news-events-human-drugs/webinar-stakeholder-engagement-new-final-guideline-general-principles-model-informed-drug",
       "publishedAt": "2026-10-02",
       "excerpt": "Adopted by the International Council for Harmonisation (ICH) in February 2026, the new ICH M15 guideline, “General Principles for Model-Informed Drug Development,” provides general recommendations for planning, model evaluation, and documentation of evidence derived from model-informed drug development (MIDD).",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "Untitled Letters",
-      "url": "http://www.fda.gov/drugs/warning-letters-and-notice-violation-letters-pharmaceutical-companies/untitled-letters",
-      "publishedAt": "2026-10-02",
-      "excerpt": "These letters are supplied by the CDER Freedom of Information Office and only cover Office of Prescription Drug Promotion's untitled letters. FDA may have redacted or edited some of the letters to remove confidential information.",
       "sourceType": "rss"
     },
     {
@@ -5130,8 +5180,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Adverse Health Effects Relief (JP)",
       "region": "JP",
       "title": "[健康]医薬品副作用被害救済制度等の周知・広報について（協力依頼）を更新しました",
       "url": "https://www.pmda.go.jp/relief-services/adr-sufferers/0051.html",
@@ -5187,16 +5237,6 @@
       "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/saint-francis-apizza-llc-issues-voluntary-recall-its-frozen-pizzas-missing-sub-ingredients-label-soy",
       "publishedAt": "2026-10-01",
       "excerpt": "Cincinnati, Ohio October 1, 2026. Saint Francis Apizza LLC is issuing a voluntary recall on their frozen pizzas for misbranding due to the soy allergen not being declared on the label. The frozen pizzas were sold in ‘Pepperoni,’ ‘Plain Cheese,’ ‘Supreme,’ and ‘Mushroom and Onion’ varieties.",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "Regulatory Pharmaceutical Fellowship Program",
-      "url": "http://www.fda.gov/about-fda/center-drug-evaluation-and-research-cder/regulatory-pharmaceutical-fellowship-program",
-      "publishedAt": "2026-10-01",
-      "excerpt": "Explore the FDA’s Regulatory Pharmaceutical Fellowship Program, a partnership with academia and industry, offering specialized training in regulatory science, policy, and drug development. Learn how to advance your career in the pharmaceutical field through this unique fellowship opportunity.",
       "sourceType": "rss"
     },
     {
@@ -5277,16 +5317,6 @@
       "url": "http://www.fda.gov/industry/fda-user-fee-programs/over-counter-monograph-drug-user-fee-program-omufa",
       "publishedAt": "2026-10-01",
       "excerpt": "A user fee program for nonprescription (over-the-counter or OTC) monograph drugs would be a potential funding mechanism to supplement congressional non user-fee appropriations.",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "Office of Generic Drugs | Offices and Divisions",
-      "url": "http://www.fda.gov/about-fda/cder-offices-and-divisions/office-generic-drugs-offices-and-divisions",
-      "publishedAt": "2026-10-01",
-      "excerpt": "Generic Drugs Offices and Divisions",
       "sourceType": "rss"
     },
     {
@@ -5730,8 +5760,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Adverse Health Effects Relief (JP)",
       "region": "JP",
       "title": "[健康]副用救済給付の決定に関する情報（2026年度7月分）を掲載しました",
       "url": "https://www.pmda.go.jp/relief-services/adr-sufferers/0043.html",
@@ -6340,8 +6370,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Adverse Health Effects Relief (JP)",
       "region": "JP",
       "title": "[健康]医薬品副作用被害救済制度に関する通知等を更新しました",
       "url": "https://www.pmda.go.jp/relief-services/adr-sufferers/0001.html",
@@ -8723,16 +8753,6 @@
       "siteId": "fda-whats-new-drugs",
       "siteName": "What's New: Drugs",
       "region": "US",
-      "title": "FDA Expedited Investigational New Drug (IND) Pilot Program",
-      "url": "http://www.fda.gov/industry/fda-actions-accelerate-and-modernize-early-and-late-stage-clinical-development/fda-expedited-investigational-new-drug-ind-pilot-program",
-      "publishedAt": "2026-09-18",
-      "excerpt": "The FDA Expedited IND Pilot Program is an initiative under HHS Operation TrialBlazer designed to evaluate new approaches for accelerating first-in-human (FIH) clinical trials in the United States while maintaining FDA's rigorous standards for participant safety and scientific oversight.",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
       "title": "FDA Approves Therapy to Treat Ataxia in Patients with Ataxia-Telangiectasia, a Rare Genetic Disorder",
       "url": "http://www.fda.gov/drugs/news-events-human-drugs/fda-approves-therapy-treat-ataxia-patients-ataxia-telangiectasia-rare-genetic-disorder",
       "publishedAt": "2026-09-18",
@@ -8997,16 +9017,6 @@
       "url": "https://www.pmda.go.jp/english/rs-sb-std/standards-development/jp/0026.html",
       "publishedAt": "2026-09-17",
       "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "Verified Clinical Benefit | Cancer Accelerated Approvals",
-      "url": "http://www.fda.gov/drugs/resources-information-approved-drugs/verified-clinical-benefit-cancer-accelerated-approvals",
-      "publishedAt": "2026-09-17",
-      "excerpt": "This listing includes accelerated approvals (AAs) for malignant hematology and oncology indications with postmarketing trials that have verified clinical benefit and for which traditional approval has been subsequently granted for the specific indication.",
       "sourceType": "rss"
     },
     {
@@ -9650,16 +9660,6 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "Expedited IND Rolling Submission Process and Program Structure",
-      "url": "http://www.fda.gov/industry/fda-expedited-investigational-new-drug-ind-pilot-program/expedited-ind-rolling-submission-process-and-program-structure",
-      "publishedAt": "2026-09-15",
-      "excerpt": "A majority of the Expedited IND Pilot will take place during the “Pre-IND” phase – the period of nonclinical development before the sponsor submits their official 30-day IND application.",
-      "sourceType": "rss"
-    },
-    {
       "siteId": "fda-medwatch",
       "siteName": "MedWatch Safety Alerts",
       "region": "US",
@@ -10287,16 +10287,6 @@
       "url": "http://www.fda.gov/consumers/consumer-updates/tips-stay-safe-sun-sunscreen-sunglasses",
       "publishedAt": "2026-09-10",
       "excerpt": "Sun safety is always in season. It’s important to protect your skin from sun damage throughout the year, no matter the weather. The FDA continues to evaluate sunscreen products to ensure that their active ingredients are safe and effective.",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "Sunscreen: How to Help Protect Your Skin from the Sun",
-      "url": "http://www.fda.gov/drugs/understanding-over-counter-medicines/sunscreen-how-help-protect-your-skin-sun",
-      "publishedAt": "2026-09-10",
-      "excerpt": "How you use sunscreens, and what other protective measures you take, make a difference in how well you are able to protect yourself and your family from sunburn, skin cancer, early skin aging and other risks of overexposure to the sun.",
       "sourceType": "rss"
     },
     {
@@ -24547,16 +24537,6 @@
       "url": "https://www.ema.europa.eu/en/medicines/psusa/psusa-00000148-202506",
       "publishedAt": "2026-07-15",
       "excerpt": "PSUSA/00000148/202506",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "Other | Cancer Accelerated Approvals",
-      "url": "http://www.fda.gov/drugs/resources-information-approved-drugs/other-cancer-accelerated-approvals",
-      "publishedAt": "2026-07-15",
-      "excerpt": "This listing includes accelerated approvals (AAs) for malignant hematology and oncology indications that have been granted for supportive care products and changes to dosing or formulation.",
       "sourceType": "rss"
     },
     {
