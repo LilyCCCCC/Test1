@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T23:23:21.129171+00:00",
+  "generatedAt": "2026-10-19T01:26:22.578504+00:00",
   "count": 3780,
   "errors": [
     {
@@ -19,16 +19,31 @@
     },
     {
       "groupId": "pmda",
-      "siteId": "PMDA：トップ 国際活動",
-      "error": "RSS fetch failed - keeping archived data"
-    },
-    {
-      "groupId": "pmda",
       "siteId": "PMDA：トップ その他",
       "error": "RSS fetch failed - keeping archived data"
     }
   ],
   "items": [
+    {
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
+      "region": "JP",
+      "title": "[基準]「抗悪性腫瘍剤と並行して開発するコンパニオン診断薬等の開発に関する留意事項（Early Consideration）」（日本語・英訳版）と「初回治験届時に留意すべきヒト細胞由来の細胞外小胞（Extracellular Vesicles；EV）製剤の品質関連事項について（Early Consideration）」（英訳版）を掲載しました",
+      "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/guidance-guideline/0003.html",
+      "publishedAt": "2026-10-19",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "reviews",
+      "siteName": "Reviews (EN)",
+      "region": "JP",
+      "title": "Points to Consider for the Development of Companion Diagnostics Developed in Parallel with Anti-cancer Drugs(Early Consideration) and Quality-Related Considerations for Human Cell-Derived Extracellular Vesicle (EV) Products at the Time of Initial Clinical Trial Notification (Early Consideration) posted.",
+      "url": "https://www.pmda.go.jp/english/review-services/regulatory-info/0005.html",
+      "publishedAt": "2026-10-19",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
     {
       "siteId": "fda-whats-new-drugs",
       "siteName": "What's New: Drugs",
@@ -1480,8 +1495,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[薬局方]日局におけるPDG調和文書への対応状況（試験法等）を更新しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/0021.html",
@@ -2100,16 +2115,6 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
-      "region": "JP",
-      "title": "[基準]後発医薬品開発における健康成人を対象とした生物学的同等性試験の安全性確保策に関する考え方（Early Consideration）の英訳を掲載しました",
-      "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/guidance-guideline/0003.html",
-      "publishedAt": "2026-10-09",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
       "siteId": "PMDA：トップ 安全対策",
       "siteName": "Safety Measures (JP)",
       "region": "JP",
@@ -2667,16 +2672,6 @@
       "url": "https://www.ema.europa.eu/system/files/documents/other/decision-management-board-amending-budget-no01-amending-appropriations-budget-2026-en.pdf",
       "publishedAt": "2026-10-09",
       "excerpt": "Decision of the Management Board amending budget No. 01, amending appropriations in budget 2026 and transfer of appropriations",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "reviews",
-      "siteName": "Reviews (EN)",
-      "region": "JP",
-      "title": "Considerations for Safety Assurance Measures in Bioequivalence Studies in Healthy Adults for the Development of Generic Drugs(Early Consideration) posted.",
-      "url": "https://www.pmda.go.jp/english/review-services/regulatory-info/0005.html",
-      "publishedAt": "2026-10-09",
-      "excerpt": "",
       "sourceType": "rss"
     },
     {
@@ -3480,8 +3475,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[その他]「申請電子データを活用した解析」のページを更新しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/0002.html",
@@ -3490,8 +3485,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[RS]2025年度レギュラトリーサイエンス活動報告書（日本語版 PDF）を更新しました。",
       "url": "https://www.pmda.go.jp/rs-std-jp/outline/0001.html",
