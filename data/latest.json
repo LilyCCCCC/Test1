@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-22T13:56:00.476044+00:00",
-  "count": 3985,
+  "generatedAt": "2026-10-22T18:39:01.890620+00:00",
+  "count": 4016,
   "errors": [
     {
       "groupId": "ema",
@@ -10,11 +10,6 @@
     {
       "groupId": "pmda",
       "siteId": "services-for-healtheffects",
-      "error": "RSS fetch failed - keeping archived data"
-    },
-    {
-      "groupId": "pmda",
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
       "error": "RSS fetch failed - keeping archived data"
     },
     {
@@ -40,8 +35,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
+      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
       "region": "JP",
       "title": "[RS][イベント]第13回PMDAレギュラトリーサイエンス研究会の開催について掲載しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/symposia/0035.html",
@@ -53,10 +48,50 @@
       "siteId": "fda-ora-foia-electronic-reading-room",
       "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
       "region": "US",
+      "title": "Visionary Medical Supplies Inc.",
+      "url": "http://www.fda.gov/about-fda/visionary-medical-supplies-inc",
+      "publishedAt": "2026-10-22",
+      "excerpt": "Visionary Medical Supplies Inc., Madison, WI, 2/25/26, 3004161528",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "Veterinary Pharmacy Corporation",
+      "url": "http://www.fda.gov/about-fda/veterinary-pharmacy-corporation",
+      "publishedAt": "2026-10-22",
+      "excerpt": "Veterinary Pharmacy Corporation, Saint Peter, MN, 3/19/26, 3002726048",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "Ventana Medical Systems, Inc.",
+      "url": "http://www.fda.gov/about-fda/ventana-medical-systems-inc",
+      "publishedAt": "2026-10-22",
+      "excerpt": "Ventana Medical Systems, Inc., Oro Valley, AZ, 2/10/26, 1000125183",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
       "title": "Unilab Chemicals and Pharmaceuticals Private Ltd.",
       "url": "http://www.fda.gov/about-fda/unilab-chemicals-and-pharmaceuticals-private-ltd",
       "publishedAt": "2026-10-22",
       "excerpt": "Unilab Chemicals and Pharmaceuticals Private Ltd., India, 2/27/26, 3004985767",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "Therapak Corporation",
+      "url": "http://www.fda.gov/about-fda/therapak-corporation",
+      "publishedAt": "2026-10-22",
+      "excerpt": "Therapak Corporation, Claremont, CA, 2/12/26, 3010882984",
       "sourceType": "rss"
     },
     {
@@ -83,10 +118,130 @@
       "siteId": "fda-ora-foia-electronic-reading-room",
       "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
       "region": "US",
+      "title": "Shilpa Medicare Limited",
+      "url": "http://www.fda.gov/about-fda/shilpa-medicare-limited",
+      "publishedAt": "2026-10-22",
+      "excerpt": "Shilpa Medicare Limited, India, 5/29/26, 3018694237",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "Seniorlife Technologies Inc",
+      "url": "http://www.fda.gov/about-fda/seniorlife-technologies-inc",
+      "publishedAt": "2026-10-22",
+      "excerpt": "Seniorlife Technologies Inc, Bellevue, WA, 2/20/26, 3027535342",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
       "title": "Saptalis Pharmaceuticals LLC",
       "url": "http://www.fda.gov/about-fda/saptalis-pharmaceuticals-llc",
       "publishedAt": "2026-10-22",
       "excerpt": "Saptalis Pharmaceuticals LLC, Hauppauge, NY, 3/6/26, 3012152381",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Registered Outsourcing Facilities",
+      "url": "http://www.fda.gov/drugs/human-drug-compounding/registered-outsourcing-facilities",
+      "publishedAt": "2026-10-22",
+      "excerpt": "Discover FDA's comprehensive list of registered outsourcing facilities engaged in human drug compounding. Get the latest updates, compliance guidelines, and resources to ensure safe, high-quality compounded medications. Explore regulations and stay informed with verified facility details.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "Q-Med AB",
+      "url": "http://www.fda.gov/about-fda/q-med-ab",
+      "publishedAt": "2026-10-22",
+      "excerpt": "Q-Med AB, Sweden, 3/27/26, 3003347293",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "PACKAGE SOLUTIONS LLC",
+      "url": "http://www.fda.gov/about-fda/package-solutions-llc",
+      "publishedAt": "2026-10-22",
+      "excerpt": "PACKAGE SOLUTIONS LLC, Pompano Beach, FL, 2/10/26, 3006559549",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Non-Compliance Letters under 505B(d)(1) of the Federal Food, Drug, and Cosmetic Act",
+      "url": "http://www.fda.gov/drugs/guidance-compliance-regulatory-information/non-compliance-letters-under-505bd1-federal-food-drug-and-cosmetic-act",
+      "publishedAt": "2026-10-22",
+      "excerpt": "Section 505B(d)(1) requires FDA to send a PREA Non-Compliance letter to sponsors who have failed to submit their pediatric assessments required under PREA by the final due date, have failed to seek or obtain a deferral or deferral extension.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "Newton Laboratories, Inc.",
+      "url": "http://www.fda.gov/about-fda/newton-laboratories-inc",
+      "publishedAt": "2026-10-22",
+      "excerpt": "Newton Laboratories, Inc., Conyers, GA, 3/26/26, 1051203",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Neuroscience Advancement and Innovation Nexus (NAIN)",
+      "url": "http://www.fda.gov/industry/neuroscience-advancement-and-innovation-nexus-nain",
+      "publishedAt": "2026-10-22",
+      "excerpt": "FDA is taking action to accelerate Neuroscience Medical Product Development. Learn more.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "Medline Industries - Arlington Heights",
+      "url": "http://www.fda.gov/about-fda/medline-industries-arlington-heights",
+      "publishedAt": "2026-10-22",
+      "excerpt": "Medline Industries - Arlington Heights, Arlington Heights, IL, 2/6/26, 1417411",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "Lonza AG",
+      "url": "http://www.fda.gov/about-fda/lonza-ag",
+      "publishedAt": "2026-10-22",
+      "excerpt": "Lonza AG, Switzerland, 4/4/25, 3012793444",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "Life Recovery Systems HD, LLC",
+      "url": "http://www.fda.gov/about-fda/life-recovery-systems-hd-llc",
+      "publishedAt": "2026-10-22",
+      "excerpt": "Life Recovery Systems HD, LLC, Kinnelon, NJ, 2/5/26, 3006059109",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "Jiangsu Hansoh Pharmaceutical Group Co Ltd.",
+      "url": "http://www.fda.gov/about-fda/jiangsu-hansoh-pharmaceutical-group-co-ltd",
+      "publishedAt": "2026-10-22",
+      "excerpt": "Jiangsu Hansoh Pharmaceutical Group Co Ltd., China, 4/24/26, 3008316144",
       "sourceType": "rss"
     },
     {
@@ -97,6 +252,36 @@
       "url": "https://www.ema.europa.eu/en/events/immunogenicity-efficacy-pneumococcal-vaccines",
       "publishedAt": "2026-10-22",
       "excerpt": "Immunogenicity and efficacy of pneumococcal vaccines, Online, European Medicines Agency, Amsterdam, the Netherlands, from 16 November 2026, 09:00 (CET) to 17 November 2026, 17:00 (CET)",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Zarzio, filgrastim, Date of authorisation: 06/02/2009, Revision: 29, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/zarzio",
+      "publishedAt": "2026-10-22",
+      "excerpt": "Human medicines European public assessment report (EPAR): Zarzio, filgrastim, Date of authorisation: 06/02/2009, Revision: 29, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Vydura, rimegepant, Date of authorisation: 25/04/2022, Revision: 9, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/vydura",
+      "publishedAt": "2026-10-22",
+      "excerpt": "Human medicines European public assessment report (EPAR): Vydura, rimegepant, Date of authorisation: 25/04/2022, Revision: 9, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Vevzuo, denosumab, Date of authorisation: 25/06/2025, Revision: 5, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/vevzuo",
+      "publishedAt": "2026-10-22",
+      "excerpt": "Human medicines European public assessment report (EPAR): Vevzuo, denosumab, Date of authorisation: 25/06/2025, Revision: 5, Status: Authorised",
       "sourceType": "rss"
     },
     {
@@ -133,6 +318,26 @@
       "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
       "siteName": "Human medicines: EPARs and summaries of opinion",
       "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Instanyl, fentanyl, Date of authorisation: 20/07/2009, Revision: 42, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/instanyl",
+      "publishedAt": "2026-10-22",
+      "excerpt": "Human medicines European public assessment report (EPAR): Instanyl, fentanyl, Date of authorisation: 20/07/2009, Revision: 42, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Filgrastim Hexal, filgrastim, Date of authorisation: 06/02/2009, Revision: 27, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/filgrastim-hexal",
+      "publishedAt": "2026-10-22",
+      "excerpt": "Human medicines European public assessment report (EPAR): Filgrastim Hexal, filgrastim, Date of authorisation: 06/02/2009, Revision: 27, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
       "title": "Human medicines European public assessment report (EPAR): Eklira Genuair, aclidinium bromide, Date of authorisation: 20/07/2012, Revision: 23, Status: Authorised",
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/eklira-genuair",
       "publishedAt": "2026-10-22",
@@ -153,10 +358,50 @@
       "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
       "siteName": "Human medicines: EPARs and summaries of opinion",
       "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Cejemly, sugemalimab, Date of authorisation: 24/07/2024, Revision: 8, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/cejemly",
+      "publishedAt": "2026-10-22",
+      "excerpt": "Human medicines European public assessment report (EPAR): Cejemly, sugemalimab, Date of authorisation: 24/07/2024, Revision: 8, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
       "title": "Human medicines European public assessment report (EPAR): Byfavo, remimazolam, Date of authorisation: 26/03/2021, Revision: 11, Status: Authorised",
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/byfavo",
       "publishedAt": "2026-10-22",
       "excerpt": "Human medicines European public assessment report (EPAR): Byfavo, remimazolam, Date of authorisation: 26/03/2021, Revision: 11, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Amyvid, florbetapir (18F), Date of authorisation: 14/01/2013, Revision: 17, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/amyvid",
+      "publishedAt": "2026-10-22",
+      "excerpt": "Human medicines European public assessment report (EPAR): Amyvid, florbetapir (18F), Date of authorisation: 14/01/2013, Revision: 17, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Generic Drugs",
+      "url": "http://www.fda.gov/drugs/buying-using-medicine-safely/generic-drugs",
+      "publishedAt": "2026-10-22",
+      "excerpt": "Understanding generic drugs: Consumer-friendly information on the safe and effective use of generic drugs. Learn about the generic drug approval process, why generic drugs are usually less expensive, and other interesting facts and figures.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "Fresh & Ready Foods LLC",
+      "url": "http://www.fda.gov/about-fda/fresh-ready-foods-llc",
+      "publishedAt": "2026-10-22",
+      "excerpt": "Fresh & Ready Foods LLC, San Fernando, CA, 3/4/26, 3003328123",
       "sourceType": "rss"
     },
     {
@@ -167,6 +412,36 @@
       "url": "http://www.fda.gov/about-fda/fougera-pharmaceuticals-llc",
       "publishedAt": "2026-10-22",
       "excerpt": "Fougera Pharmaceuticals, LLC., Hicksville, NY, 3/26/26, 2410271",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "FDA Rare Disease Framework Initiative Public Meeting - 10/28/2026",
+      "url": "http://www.fda.gov/news-events/fda-meetings-conferences-and-workshops/fda-rare-disease-framework-initiative-public-meeting-10282026",
+      "publishedAt": "2026-10-22",
+      "excerpt": "On October 28, 2026, the U.S. Food and Drug Administration, in partnership with the Reagan-Udall Foundation for the FDA, will convene a hybrid public meeting to seek input related to the FDA’s Rare Disease Framework Initiative to reimagine the agency’s approach to rare disease development.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-criminal-investigations-press-releases",
+      "siteName": "Criminal Investigations Press Releases",
+      "region": "US",
+      "title": "FDA Launches New Program to Advance Neuroscience Medical Product Development",
+      "url": "http://www.fda.gov/news-events/press-announcements/fda-launches-new-program-advance-neuroscience-medical-product-development",
+      "publishedAt": "2026-10-22",
+      "excerpt": "FDA announces the launch of the Neuroscience Advancement and Innovation Nexus (NAIN), a new agency program aligned with the Trump Administration’s efforts to accelerate medical innovation and deliver breakthrough treatments.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Expanded Access | Information for Industry",
+      "url": "http://www.fda.gov/news-events/expanded-access/expanded-access-information-industry",
+      "publishedAt": "2026-10-22",
+      "excerpt": "Expanded Access information for medical product companies and other industry stakeholders",
       "sourceType": "rss"
     },
     {
@@ -210,6 +485,26 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Complex Innovative Trial Design Meeting Program",
+      "url": "http://www.fda.gov/drugs/development-resources/complex-innovative-trial-design-meeting-program",
+      "publishedAt": "2026-10-22",
+      "excerpt": "As displayed in the Federal Register notice on August 1, 2018, FDA is conducting a Complex Innovative Designs (CID) Meeting Program to support the goal of facilitating and advancing the use of complex adaptive, Bayesian, and other novel clinical trial designs, as highlighted in the sixth iteration o",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Competitive Generic Therapy Approvals",
+      "url": "http://www.fda.gov/drugs/generic-drugs/competitive-generic-therapy-approvals",
+      "publishedAt": "2026-10-22",
+      "excerpt": "Explore the FDA’s Competitive Generic Therapy Approvals page, offering insights into the program designed to encourage generic drug competition. Access information about approved CGT products and find resources, including a downloadable CGT approvals spreadsheet.",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "ema-whats-new",
       "siteName": "What's new",
       "region": "EU",
@@ -223,10 +518,70 @@
       "siteId": "fda-ora-foia-electronic-reading-room",
       "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
       "region": "US",
+      "title": "Blossom Pharmaceuticals",
+      "url": "http://www.fda.gov/about-fda/blossom-pharmaceuticals",
+      "publishedAt": "2026-10-22",
+      "excerpt": "Blossom Pharmaceuticals, India, 4/11/25, 3010806039",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "BURTON MEDICAL",
+      "url": "http://www.fda.gov/about-fda/burton-medical",
+      "publishedAt": "2026-10-22",
+      "excerpt": "BURTON MEDICAL, Addison, IL, 2/20/26, 3009542956",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "Automated Ophthalmics, Inc.",
+      "url": "http://www.fda.gov/about-fda/automated-ophthalmics-inc",
+      "publishedAt": "2026-10-22",
+      "excerpt": "Automated Ophthalmics, Inc., Elkridge, MD, 2/13/26, 3005906810",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "Apotek Production & Laboratorier AB",
+      "url": "http://www.fda.gov/about-fda/apotek-production-laboratorier-ab-0",
+      "publishedAt": "2026-10-22",
+      "excerpt": "Apotek Production & Laboratorier AB, Sweden, 1/29/26, 3003766921",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
       "title": "American Contract Systems Inc",
       "url": "http://www.fda.gov/about-fda/american-contract-systems-inc",
       "publishedAt": "2026-10-22",
       "excerpt": "American Contract Systems Inc, Tiffin, OH, 8/14/24, 3008492337",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Alzheimer’s Prevention Accelerator",
+      "url": "http://www.fda.gov/industry/neuroscience-advancement-and-innovation-nexus-nain/alzheimers-prevention-accelerator",
+      "publishedAt": "2026-10-22",
+      "excerpt": "The Alzheimer's Prevention Accelerator is an effort to advance the science, tools, and regulatory approaches needed to support the development of medical products intended to prevent or delay the onset or progression of cognitive decline due to Alzheimer's disease. Learn more.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "About NAIN",
+      "url": "http://www.fda.gov/industry/neuroscience-advancement-and-innovation-nexus-nain/about-nain",
+      "publishedAt": "2026-10-22",
+      "excerpt": "Learn more about FDA's Neuroscience Advancement and Innovation Nexus (NAIN).",
       "sourceType": "rss"
     },
     {
@@ -260,8 +615,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
+      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
       "region": "JP",
       "title": "[その他]「申請電子データを活用した解析」のページを更新しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/0002.html",
@@ -747,6 +1102,16 @@
       "url": "http://www.fda.gov/about-fda/viant-san-antonio-inc",
       "publishedAt": "2026-10-20",
       "excerpt": "Viant San Antonio, Inc., San Antonio, TX, 3/19/26, 3003640911",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-medwatch",
+      "siteName": "MedWatch Safety Alerts",
+      "region": "US",
+      "title": "Update: Import Alert for Certain Olympus Medical Devices Manufactured in Japan - Letter to Health Care Providers",
+      "url": "http://www.fda.gov/medical-devices/letters-health-care-providers/update-import-alert-certain-olympus-medical-devices-manufactured-japan-letter-health-care-providers",
+      "publishedAt": "2026-10-20",
+      "excerpt": "The U.S. Food and Drug Administration (FDA) is alerting health care providers about import alerts for certain medical devices manufactured in Japan by Olympus Medical Systems Corporation (Olympus) and its subsidiaries.",
       "sourceType": "rss"
     },
     {
@@ -1910,8 +2275,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
+      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
       "region": "JP",
       "title": "[薬局方]第二十改正日本薬局方作成基本方針を掲載しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/0262.html",
@@ -1920,8 +2285,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
+      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
       "region": "JP",
       "title": "[基準]「抗悪性腫瘍剤と並行して開発するコンパニオン診断薬等の開発に関する留意事項（Early Consideration）」（日本語・英訳版）と「初回治験届時に留意すべきヒト細胞由来の細胞外小胞（Extracellular Vesicles；EV）製剤の品質関連事項について（Early Consideration）」（英訳版）を掲載しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/guidance-guideline/0003.html",
@@ -3490,16 +3855,6 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "FDA Rare Disease Framework Initiative Public Meeting - 10/28/2026",
-      "url": "http://www.fda.gov/news-events/fda-meetings-conferences-and-workshops/fda-rare-disease-framework-initiative-public-meeting-10282026",
-      "publishedAt": "2026-10-15",
-      "excerpt": "On October 28, 2026, the U.S. Food and Drug Administration, in partnership with the Reagan-Udall Foundation for the FDA, will convene a hybrid public meeting to seek input related to the FDA’s Rare Disease Framework Initiative to reimagine the agency’s approach to rare disease development.",
-      "sourceType": "rss"
-    },
-    {
       "siteId": "fda-medwatch",
       "siteName": "MedWatch Safety Alerts",
       "region": "US",
@@ -4100,8 +4455,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
+      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
       "region": "JP",
       "title": "[薬局方]日局におけるPDG調和文書への対応状況（試験法等）を更新しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/0021.html",
@@ -4167,16 +4522,6 @@
       "url": "https://www.ema.europa.eu/en/events/risk-management-information-day-2022",
       "publishedAt": "2026-10-13",
       "excerpt": "Risk management information day 2022, Online, European Medicines Agency, Amsterdam, the Netherlands, 9 December 2022",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "Registered Outsourcing Facilities",
-      "url": "http://www.fda.gov/drugs/human-drug-compounding/registered-outsourcing-facilities",
-      "publishedAt": "2026-10-13",
-      "excerpt": "Discover FDA's comprehensive list of registered outsourcing facilities engaged in human drug compounding. Get the latest updates, compliance guidelines, and resources to ensure safe, high-quality compounded medications. Explore regulations and stay informed with verified facility details.",
       "sourceType": "rss"
     },
     {
@@ -6030,8 +6375,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
+      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
       "region": "JP",
       "title": "[RS]2025年度レギュラトリーサイエンス活動報告書（日本語版 PDF）を更新しました。",
       "url": "https://www.pmda.go.jp/rs-std-jp/outline/0001.html",
@@ -6370,16 +6715,6 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "Non-Compliance Letters under 505B(d)(1) of the Federal Food, Drug, and Cosmetic Act",
-      "url": "http://www.fda.gov/drugs/guidance-compliance-regulatory-information/non-compliance-letters-under-505bd1-federal-food-drug-and-cosmetic-act",
-      "publishedAt": "2026-10-06",
-      "excerpt": "Section 505B(d)(1) requires FDA to send a PREA Non-Compliance letter to sponsors who have failed to submit their pediatric assessments required under PREA by the final due date, have failed to seek or obtain a deferral or deferral extension.",
-      "sourceType": "rss"
-    },
-    {
       "siteId": "ema-whats-new",
       "siteName": "What's new",
       "region": "EU",
@@ -6677,16 +7012,6 @@
       "url": "https://www.ema.europa.eu/en/documents/scientific-guideline/concept-paper-guideline-revision-good-pharmacogenomic-practice_en.pdf",
       "publishedAt": "2026-10-06",
       "excerpt": "Concept paper on the guideline revision on good pharmacogenomic practice",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "Competitive Generic Therapy Approvals",
-      "url": "http://www.fda.gov/drugs/generic-drugs/competitive-generic-therapy-approvals",
-      "publishedAt": "2026-10-06",
-      "excerpt": "Explore the FDA’s Competitive Generic Therapy Approvals page, offering insights into the program designed to encourage generic drug competition. Access information about approved CGT products and find resources, including a downloadable CGT approvals spreadsheet.",
       "sourceType": "rss"
     },
     {
@@ -8017,16 +8342,6 @@
       "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/gias-foods-inc-recalls-bettergoods-authentic-italian-lemon-alfredo-fettuccine-because-possible-0",
       "publishedAt": "2026-10-01",
       "excerpt": "Gias Foods of New York, NY is recalling all lot codes of bettergoods Authentic Italian Lemon Alfredo Fettuccine, because it has the potential to be contaminated with Listeria monocytogenes, an organism which can cause serious and sometimes fatal infections in young children, frail or elderly people,",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "Generic Drugs",
-      "url": "http://www.fda.gov/drugs/buying-using-medicine-safely/generic-drugs",
-      "publishedAt": "2026-10-01",
-      "excerpt": "Understanding generic drugs: Consumer-friendly information on the safe and effective use of generic drugs. Learn about the generic drug approval process, why generic drugs are usually less expensive, and other interesting facts and figures.",
       "sourceType": "rss"
     },
     {
@@ -11513,16 +11828,6 @@
       "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
       "siteName": "Human medicines: EPARs and summaries of opinion",
       "region": "EU",
-      "title": "Human medicines European public assessment report (EPAR): Vevzuo, denosumab, Date of authorisation: 25/06/2025, Revision: 4, Status: Authorised",
-      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/vevzuo",
-      "publishedAt": "2026-09-17",
-      "excerpt": "Human medicines European public assessment report (EPAR): Vevzuo, denosumab, Date of authorisation: 25/06/2025, Revision: 4, Status: Authorised",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
-      "siteName": "Human medicines: EPARs and summaries of opinion",
-      "region": "EU",
       "title": "Human medicines European public assessment report (EPAR): Qinlock, ripretinib, Date of authorisation: 18/11/2021, Revision: 11, Status: Authorised",
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/qinlock",
       "publishedAt": "2026-09-17",
@@ -12940,6 +13245,16 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "light-drugs",
+      "siteName": "消費紅綠燈-國際藥品",
+      "region": "TW",
+      "title": "有關PIERRE FABRE MEDICAMENT藥品恩考芬尼胶囊（批號5G2T3、5G2T4）警訊，國內並未輸入該批號藥品。",
+      "url": "http://www.fda.gov.tw/tc/csmnewsContent.aspx?mid=269&id=8006&utm_source=rss&utm_medium=feed&utm_campaign=rss_subscription",
+      "publishedAt": "2026-09-09",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "PMDA：トップ その他",
       "siteName": "Others (JP)",
       "region": "JP",
@@ -13517,6 +13832,16 @@
       "url": "https://www.ema.europa.eu/system/files/documents/agenda/cvmp-september-2026-agenda-en.pdf",
       "publishedAt": "2026-09-08",
       "excerpt": "Agenda of the CVMP meeting 8-10 September 2026",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "light-drugs",
+      "siteName": "消費紅綠燈-國際藥品",
+      "region": "TW",
+      "title": "有關瑞士諾華製藥（香港）有限公司藥品Tykerb Tablets 250mg（批號RD0944）回收警訊，國內並未輸入該批號藥品。",
+      "url": "http://www.fda.gov.tw/tc/csmnewsContent.aspx?mid=269&id=8003&utm_source=rss&utm_medium=feed&utm_campaign=rss_subscription",
+      "publishedAt": "2026-09-07",
+      "excerpt": "",
       "sourceType": "rss"
     },
     {
@@ -18407,16 +18732,6 @@
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/junod",
       "publishedAt": "2026-08-20",
       "excerpt": "Human medicines European public assessment report (EPAR): Junod, denosumab, Date of authorisation: 23/06/2025, Revision: 2, Status: Authorised",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
-      "siteName": "Human medicines: EPARs and summaries of opinion",
-      "region": "EU",
-      "title": "Human medicines European public assessment report (EPAR): Instanyl, fentanyl, Date of authorisation: 20/07/2009, Revision: 41, Status: Authorised",
-      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/instanyl",
-      "publishedAt": "2026-08-20",
-      "excerpt": "Human medicines European public assessment report (EPAR): Instanyl, fentanyl, Date of authorisation: 20/07/2009, Revision: 41, Status: Authorised",
       "sourceType": "rss"
     },
     {
@@ -30987,16 +31302,6 @@
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/lorviqua",
       "publishedAt": "2026-07-03",
       "excerpt": "Human medicines European public assessment report (EPAR): Lorviqua, lorlatinib, Date of authorisation: 06/05/2019, Revision: 17, Status: Authorised",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
-      "siteName": "Human medicines: EPARs and summaries of opinion",
-      "region": "EU",
-      "title": "Human medicines European public assessment report (EPAR): Cejemly, sugemalimab, Date of authorisation: 24/07/2024, Revision: 7, Status: Authorised",
-      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/cejemly",
-      "publishedAt": "2026-07-03",
-      "excerpt": "Human medicines European public assessment report (EPAR): Cejemly, sugemalimab, Date of authorisation: 24/07/2024, Revision: 7, Status: Authorised",
       "sourceType": "rss"
     },
     {
