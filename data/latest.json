@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-22T01:38:28.966358+00:00",
-  "count": 3972,
+  "generatedAt": "2026-10-22T07:45:04.647742+00:00",
+  "count": 3973,
   "errors": [
     {
       "groupId": "ema",
@@ -10,11 +10,6 @@
     {
       "groupId": "pmda",
       "siteId": "services-for-healtheffects",
-      "error": "RSS fetch failed - keeping archived data"
-    },
-    {
-      "groupId": "pmda",
-      "siteId": "PMDA：トップ 承認審査",
       "error": "RSS fetch failed - keeping archived data"
     },
     {
@@ -30,6 +25,16 @@
   ],
   "items": [
     {
+      "siteId": "PMDA：トップ 承認審査",
+      "siteName": "Review for (marketing) approval (JP)",
+      "region": "JP",
+      "title": "[医薬]「「小児・希少疾病用医薬品等薬事相談センター事業」に係る相談手数料の助成についてに関する質疑応答集（Q＆A）」を掲載しました",
+      "url": "https://www.pmda.go.jp/review-services/f2f-pre/consultations/0118.html",
+      "publishedAt": "2026-10-22",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
       "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
       "region": "JP",
@@ -40,12 +45,22 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Immunogenicity and efficacy of pneumococcal vaccines, Online, European Medicines Agency, Amsterdam, the Netherlands, from 16 November 2026, 09:00 (CET) to 17 November 2026, 17:00 (CET)",
+      "url": "https://www.ema.europa.eu/en/events/immunogenicity-efficacy-pneumococcal-vaccines",
+      "publishedAt": "2026-10-22",
+      "excerpt": "Immunogenicity and efficacy of pneumococcal vaccines, Online, European Medicines Agency, Amsterdam, the Netherlands, from 16 November 2026, 09:00 (CET) to 17 November 2026, 17:00 (CET)",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "reviews",
+      "siteName": "Reviews (EN)",
       "region": "JP",
-      "title": "[審査]外国製造業者認定・登録番号を掲載しました",
-      "url": "https://www.pmda.go.jp/review-services/drug-reviews/foreign-mfr/0003.html",
-      "publishedAt": "2026-10-21",
+      "title": "English Translation of Review Report: Capvaxive and Ekterly",
+      "url": "https://www.pmda.go.jp/english/review-services/reviews/approved-information/drugs/0001.html",
+      "publishedAt": "2026-10-22",
       "excerpt": "",
       "sourceType": "rss"
     },
@@ -65,6 +80,16 @@
       "region": "JP",
       "title": "[医薬]「アバコパン製剤の使用に当たっての留意事項について」を掲載しました",
       "url": "https://www.pmda.go.jp/safety/info-services/drugs/0010.html",
+      "publishedAt": "2026-10-21",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "PMDA：トップ 承認審査",
+      "siteName": "Review for (marketing) approval (JP)",
+      "region": "JP",
+      "title": "[全製品]外国製造業者認定・登録番号を掲載しました",
+      "url": "https://www.pmda.go.jp/review-services/drug-reviews/foreign-mfr/0003.html",
       "publishedAt": "2026-10-21",
       "excerpt": "",
       "sourceType": "rss"
@@ -503,18 +528,18 @@
       "siteId": "PMDAの新着情報",
       "siteName": "What's New (JP)",
       "region": "JP",
-      "title": "[審査][イベント]「2026年度マスターファイル講習会」の案内を更新しました",
-      "url": "https://www.pmda.go.jp/review-services/symposia/0208.html",
+      "title": "[国際][イベント]ICH E11A「小児用医薬品開発における外挿に関するガイドライン」説明会開催のお知らせ",
+      "url": "https://www.pmda.go.jp/int-activities/symposia/0173.html",
       "publishedAt": "2026-10-20",
       "excerpt": "",
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ 承認審査",
+      "siteName": "Review for (marketing) approval (JP)",
       "region": "JP",
-      "title": "[国際][イベント]ICH E11A「小児用医薬品開発における外挿に関するガイドライン」説明会開催のお知らせ",
-      "url": "https://www.pmda.go.jp/int-activities/symposia/0173.html",
+      "title": "[医薬][医療][再生][イベント]「2026年度マスターファイル講習会」の案内を更新しました",
+      "url": "https://www.pmda.go.jp/review-services/symposia/0208.html",
       "publishedAt": "2026-10-20",
       "excerpt": "",
       "sourceType": "rss"
@@ -2600,21 +2625,21 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
-      "region": "JP",
-      "title": "[審査]プログラム医療機器の製造販売承認品目の一覧情報等を更新しました",
-      "url": "https://www.pmda.go.jp/review-services/drug-reviews/about-reviews/devices/0052.html",
-      "publishedAt": "2026-10-16",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
       "siteId": "PMDA：トップ 安全対策",
       "siteName": "Safety Measures (JP)",
       "region": "JP",
       "title": "[医薬]「副作用が疑われる症例報告に関する情報」に2026年6月分の情報を追加しました",
       "url": "https://www.pmda.go.jp/safety/info-services/drugs/adr-info/suspected-adr/0005.html",
+      "publishedAt": "2026-10-16",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "PMDA：トップ 承認審査",
+      "siteName": "Review for (marketing) approval (JP)",
+      "region": "JP",
+      "title": "[医療]プログラム医療機器の製造販売承認品目の一覧情報等を更新しました",
+      "url": "https://www.pmda.go.jp/review-services/drug-reviews/about-reviews/devices/0052.html",
       "publishedAt": "2026-10-16",
       "excerpt": "",
       "sourceType": "rss"
@@ -3420,31 +3445,31 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ 承認審査",
+      "siteName": "Review for (marketing) approval (JP)",
       "region": "JP",
-      "title": "[審査]未承認薬データベースを更新しました",
+      "title": "[医薬]未承認薬データベースを更新しました",
       "url": "https://www.pmda.go.jp/review-services/drug-reviews/review-information/p-drugs/0013.html",
       "publishedAt": "2026-10-14",
       "excerpt": "",
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ 承認審査",
+      "siteName": "Review for (marketing) approval (JP)",
       "region": "JP",
-      "title": "[審査]プログラム医療機器のページを更新（「生成AIを活用した医療機器の審査ポイント(Draft)」の英訳を公開、対面助言調整可能時期の更新）しました。",
-      "url": "https://www.pmda.go.jp/review-services/drug-reviews/about-reviews/devices/0048.html",
+      "title": "[医薬]「バイオ後続品」のページを更新しました",
+      "url": "https://www.pmda.go.jp/review-services/drug-reviews/about-reviews/p-drugs/0034.html",
       "publishedAt": "2026-10-14",
       "excerpt": "",
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ 承認審査",
+      "siteName": "Review for (marketing) approval (JP)",
       "region": "JP",
-      "title": "[審査]「バイオ後続品」のページを更新しました",
-      "url": "https://www.pmda.go.jp/review-services/drug-reviews/about-reviews/p-drugs/0034.html",
+      "title": "[医療]プログラム医療機器のページを更新（「生成AIを活用した医療機器の審査ポイント(Draft)」の英訳を公開、対面助言調整可能時期の更新）しました。",
+      "url": "https://www.pmda.go.jp/review-services/drug-reviews/about-reviews/devices/0048.html",
       "publishedAt": "2026-10-14",
       "excerpt": "",
       "sourceType": "rss"
@@ -3747,16 +3772,6 @@
       "url": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-treatment-certain-people-bcg-unresponsive-bladder-cancer",
       "publishedAt": "2026-10-14",
       "excerpt": "FDA Approves First Treatment for Certain People With BCG-Unresponsive Bladder Cancer",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "reviews",
-      "siteName": "Reviews (EN)",
-      "region": "JP",
-      "title": "English Translation of Review Report: Tecentriq (Partial Change Approval)",
-      "url": "https://www.pmda.go.jp/english/review-services/reviews/approved-information/drugs/0001.html",
-      "publishedAt": "2026-10-14",
-      "excerpt": "",
       "sourceType": "rss"
     },
     {
@@ -5160,21 +5175,21 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
-      "region": "JP",
-      "title": "[審査]「治験計画等の届出に関するFAQ」を更新しました",
-      "url": "https://www.pmda.go.jp/review-services/trials/0022.html",
-      "publishedAt": "2026-10-08",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
       "siteId": "PMDA：トップ 安全対策",
       "siteName": "Safety Measures (JP)",
       "region": "JP",
       "title": "[医薬]使用上の注意の改訂指示通知（医薬品）2026年10月8日付（厚生労働省より発出）を掲載しました",
       "url": "https://www.pmda.go.jp/safety/info-services/drugs/calling-attention/revision-of-precautions/0375.html",
+      "publishedAt": "2026-10-08",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "PMDA：トップ 承認審査",
+      "siteName": "Review for (marketing) approval (JP)",
+      "region": "JP",
+      "title": "[医薬]「治験計画等の届出に関するFAQ」を更新しました",
+      "url": "https://www.pmda.go.jp/review-services/trials/0022.html",
       "publishedAt": "2026-10-08",
       "excerpt": "",
       "sourceType": "rss"
@@ -5850,10 +5865,10 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ 承認審査",
+      "siteName": "Review for (marketing) approval (JP)",
       "region": "JP",
-      "title": "[審査][イベント]Early Consideration「少数例臨床試験に関する留意事項」説明会の資料を掲載しました",
+      "title": "[イベント]Early Consideration「少数例臨床試験に関する留意事項」説明会の資料を掲載しました",
       "url": "https://www.pmda.go.jp/review-services/symposia/0207.html",
       "publishedAt": "2026-10-06",
       "excerpt": "",
@@ -6670,10 +6685,10 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ 承認審査",
+      "siteName": "Review for (marketing) approval (JP)",
       "region": "JP",
-      "title": "[審査]年末年始の治験計画届等の提出に関するお願いを掲載しました",
+      "title": "[医薬]年末年始の治験計画届等の提出に関するお願いを掲載しました",
       "url": "https://www.pmda.go.jp/review-services/trials/0021.html",
       "publishedAt": "2026-10-05",
       "excerpt": "",
@@ -7010,6 +7025,16 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "PMDA：トップ 承認審査",
+      "siteName": "Review for (marketing) approval (JP)",
+      "region": "JP",
+      "title": "令和7年度治験エコシステム導入推進事業で作成された様式を公表しました",
+      "url": "https://www.pmda.go.jp/review-services/inspections/drugs/0013.html",
+      "publishedAt": "2026-10-02",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "fda-whats-new-drugs",
       "siteName": "What's New: Drugs",
       "region": "US",
@@ -7020,20 +7045,10 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ 承認審査",
+      "siteName": "Review for (marketing) approval (JP)",
       "region": "JP",
-      "title": "[審査]令和7年度治験エコシステム導入推進事業で作成された様式を公表しました",
-      "url": "https://www.pmda.go.jp/review-services/inspections/drugs/0013.html",
-      "publishedAt": "2026-10-02",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
-      "region": "JP",
-      "title": "[審査]2025年度GMP/GCTP Annual Reportの英訳版及び日本語改訂版を掲載しました。",
+      "title": "[部外][医薬]2025年度GMP/GCTP Annual Reportの英訳版及び日本語改訂版を掲載しました。",
       "url": "https://www.pmda.go.jp/review-services/gmp-qms-gctp/gmp/0011.html",
       "publishedAt": "2026-10-02",
       "excerpt": "",
@@ -7513,38 +7528,28 @@
       "siteId": "PMDAの新着情報",
       "siteName": "What's New (JP)",
       "region": "JP",
-      "title": "[審査]医薬品の最適使用推進ガイドラインを掲載しました",
+      "title": "[国際]PMDA-ATC ラーニングビデオとE-ラーニングコンテンツを更新しました",
+      "url": "https://www.pmda.go.jp/int-activities/training-center/0005.html",
+      "publishedAt": "2026-10-01",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "PMDA：トップ 承認審査",
+      "siteName": "Review for (marketing) approval (JP)",
+      "region": "JP",
+      "title": "[医薬]医薬品の最適使用推進ガイドラインを掲載しました",
       "url": "https://www.pmda.go.jp/review-services/drug-reviews/review-information/p-drugs/0028.html",
       "publishedAt": "2026-10-01",
       "excerpt": "",
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ 承認審査",
+      "siteName": "Review for (marketing) approval (JP)",
       "region": "JP",
-      "title": "[審査][イベント]第31回GLP研修会（令和8年度）の動画を掲載しました",
-      "url": "https://www.pmda.go.jp/review-services/symposia/0209.html",
-      "publishedAt": "2026-10-01",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
-      "region": "JP",
-      "title": "[審査]11月の簡易相談実施予定を掲載しました（医療機器等）",
+      "title": "[医療][体外]11月の簡易相談実施予定を掲載しました（医療機器等）",
       "url": "https://www.pmda.go.jp/review-services/f2f-pre/consultations/0015.html",
-      "publishedAt": "2026-10-01",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
-      "region": "JP",
-      "title": "[国際]PMDA-ATC ラーニングビデオとE-ラーニングコンテンツを更新しました",
-      "url": "https://www.pmda.go.jp/int-activities/training-center/0005.html",
       "publishedAt": "2026-10-01",
       "excerpt": "",
       "sourceType": "rss"
@@ -7555,6 +7560,16 @@
       "region": "JP",
       "title": "[健康]医薬品副作用被害救済制度等の周知・広報について（協力依頼）を更新しました",
       "url": "https://www.pmda.go.jp/relief-services/adr-sufferers/0051.html",
+      "publishedAt": "2026-10-01",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "PMDA：トップ 承認審査",
+      "siteName": "Review for (marketing) approval (JP)",
+      "region": "JP",
+      "title": "[イベント]第31回GLP研修会（令和8年度）の動画を掲載しました",
+      "url": "https://www.pmda.go.jp/review-services/symposia/0209.html",
       "publishedAt": "2026-10-01",
       "excerpt": "",
       "sourceType": "rss"
@@ -8073,28 +8088,28 @@
       "siteId": "PMDAの新着情報",
       "siteName": "What's New (JP)",
       "region": "JP",
-      "title": "[審査]人道的見地から実施される治験の情報（医薬品、機器・再生）を更新しました",
+      "title": "[国際]PMDA Updates（2026 No.3）を掲載しました",
+      "url": "https://www.pmda.go.jp/int-activities/outline/0007.html",
+      "publishedAt": "2026-09-30",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "PMDA：トップ 承認審査",
+      "siteName": "Review for (marketing) approval (JP)",
+      "region": "JP",
+      "title": "[医薬][医療][再生]人道的見地から実施される治験の情報（医薬品、機器・再生）を更新しました",
       "url": "https://www.pmda.go.jp/review-services/trials/0016.html",
       "publishedAt": "2026-09-30",
       "excerpt": "",
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ 承認審査",
+      "siteName": "Review for (marketing) approval (JP)",
       "region": "JP",
-      "title": "[審査]「令和8年度 小児用医療機器の承認申請支援事業の実施について」を掲載しました",
+      "title": "[医療]「令和8年度 小児用医療機器の承認申請支援事業の実施について」を掲載しました",
       "url": "https://www.pmda.go.jp/review-services/drug-reviews/about-reviews/devices/0046.html",
-      "publishedAt": "2026-09-30",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
-      "region": "JP",
-      "title": "[国際]PMDA Updates（2026 No.3）を掲載しました",
-      "url": "https://www.pmda.go.jp/int-activities/outline/0007.html",
       "publishedAt": "2026-09-30",
       "excerpt": "",
       "sourceType": "rss"
@@ -36875,16 +36890,6 @@
       "region": "JP",
       "title": "[薬局方]第十九改正日本薬局方を掲載しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/0260.html",
-      "publishedAt": "2026-04-10",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "PMDA：トップ 承認審査",
-      "siteName": "Review for (marketing) approval (JP)",
-      "region": "JP",
-      "title": "[医薬]小児用医薬品開発計画確認相談の実施要綱を改正しました",
-      "url": "https://www.pmda.go.jp/review-services/f2f-pre/consultations/0118.html",
       "publishedAt": "2026-04-10",
       "excerpt": "",
       "sourceType": "rss"
