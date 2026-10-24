@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-24T18:15:03.497074+00:00",
-  "count": 4088,
+  "generatedAt": "2026-10-24T21:00:21.272453+00:00",
+  "count": 4089,
   "errors": [
     {
       "groupId": "ema",
@@ -19,14 +19,34 @@
     },
     {
       "groupId": "pmda",
+      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
+      "error": "RSS fetch failed - keeping archived data"
+    },
+    {
+      "groupId": "pmda",
       "siteId": "PMDA：トップ 国際活動",
+      "error": "RSS fetch failed - keeping archived data"
+    },
+    {
+      "groupId": "pmda",
+      "siteId": "PMDA：トップ その他",
       "error": "RSS fetch failed - keeping archived data"
     }
   ],
   "items": [
     {
-      "siteId": "PMDA：トップ その他",
-      "siteName": "Others (JP)",
+      "siteId": "fda-recalls",
+      "siteName": "Recalls",
+      "region": "US",
+      "title": "Tonight We Ride, LLC Issues Voluntary Recall of Ultimate Forza Male Supplement Due to Presence of Undeclared Sildenafil, Tadalafil, and Dapoxetine",
+      "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/tonight-we-ride-llc-issues-voluntary-recall-ultimate-forza-male-supplement-due-presence-undeclared",
+      "publishedAt": "2026-10-24",
+      "excerpt": "October 24, 2026, Tonight We Ride, LLC of Lakeville, Minnesota is voluntarily recalling all lots of Ultimate Forza Male Supplement capsules to the consumer level because it has been found to contain undeclared Sildenafil, Tadalafil, and Dapoxetine.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[採用]事務補助員（規格基準作成業務に係る補助業務等（技術系））の募集について",
       "url": "https://www.pmda.go.jp/recruit/0785.html",
@@ -845,8 +865,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[RS][イベント]第13回PMDAレギュラトリーサイエンス研究会の開催について掲載しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/symposia/0035.html",
@@ -1555,8 +1575,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[その他]「申請電子データを活用した解析」のページを更新しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/0002.html",
@@ -1945,8 +1965,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ その他",
-      "siteName": "Others (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[採用]事務補助員（医薬翻訳事務）の募集について（採用時期を更新しました）",
       "url": "https://www.pmda.go.jp/recruit/0429.html",
@@ -3175,8 +3195,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[薬局方]第二十改正日本薬局方作成基本方針を掲載しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/0262.html",
@@ -3185,8 +3205,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[基準]「抗悪性腫瘍剤と並行して開発するコンパニオン診断薬等の開発に関する留意事項（Early Consideration）」（日本語・英訳版）と「初回治験届時に留意すべきヒト細胞由来の細胞外小胞（Extracellular Vesicles；EV）製剤の品質関連事項について（Early Consideration）」（英訳版）を掲載しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/guidance-guideline/0003.html",
@@ -4025,8 +4045,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ その他",
-      "siteName": "Others (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[採用]事務補助員（情報公開に関する補助業務（技術系））の募集について",
       "url": "https://www.pmda.go.jp/recruit/0895.html",
@@ -4565,8 +4585,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ その他",
-      "siteName": "Others (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[PMDA][イベント]第3回プレスセミナー「医薬品製造業を取り巻く近年の潮流とPMDAの取組 ー品質確保とイノベーションの融合を目指してー」",
       "url": "https://www.pmda.go.jp/about-pmda/symposia/0036.html",
@@ -5305,8 +5325,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ その他",
-      "siteName": "Others (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[調達]個人番号収集・保管・管理及び支払調書等作成業務",
       "url": "https://www.pmda.go.jp/procurements/public-bidding/general-competition/1711.html",
@@ -5315,8 +5335,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[薬局方]日局におけるPDG調和文書への対応状況（試験法等）を更新しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/0021.html",
@@ -5905,8 +5925,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ その他",
-      "siteName": "Others (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[調達]一般競争入札公告（総合評価落札方式）（2026年度（令和8年度）情報システム監査業務）",
       "url": "https://www.pmda.go.jp/procurements/public-bidding/general-competition/1710.html",
@@ -5935,8 +5955,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ その他",
-      "siteName": "Others (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[PMDA][イベント]2026年度のPMDAオープン・カンパニー情報（技術系）を更新しました",
       "url": "https://www.pmda.go.jp/about-pmda/symposia/0030.html",
@@ -6485,8 +6505,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ その他",
-      "siteName": "Others (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[調達]一般競争入札公告（政府調達）（総合評価落札方式）（組織人事の高度化のための技術的支援業務）",
       "url": "https://www.pmda.go.jp/procurements/public-bidding/general-competition-government/0239.html",
@@ -6495,8 +6515,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ その他",
-      "siteName": "Others (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[調達]一般競争入札公告（政府調達）（什器の納品及び設置業務一式）",
       "url": "https://www.pmda.go.jp/procurements/public-bidding/general-competition-government/0238.html",
@@ -6505,8 +6525,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ その他",
-      "siteName": "Others (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[採用]事務補助員（ジェネリック医薬品の審査業務に係る補助業務（技術系）等）の募集について（採用時期を更新しました）",
       "url": "https://www.pmda.go.jp/recruit/0750.html",
@@ -6895,8 +6915,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ その他",
-      "siteName": "Others (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[PMDA]専門委員名簿を更新しました",
       "url": "https://www.pmda.go.jp/about-pmda/outline/0016.html",
@@ -7185,8 +7205,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ その他",
-      "siteName": "Others (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[調達]一般競争入札公告（政府調達）（総合評価落札方式）（次世代安全対策システム（シグナル検出製品）の導入業務）",
       "url": "https://www.pmda.go.jp/procurements/public-bidding/general-competition-government/0236.html",
@@ -7195,8 +7215,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ その他",
-      "siteName": "Others (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[調達]一般競争入札公告（政府調達）（総合評価落札方式）（次世代安全対策システム（シグナル検出製品）の導入に伴う医薬品安全対策支援システム改修業務）",
       "url": "https://www.pmda.go.jp/procurements/public-bidding/general-competition-government/0237.html",
@@ -7215,8 +7235,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[RS]2025年度レギュラトリーサイエンス活動報告書（日本語版 PDF）を更新しました。",
       "url": "https://www.pmda.go.jp/rs-std-jp/outline/0001.html",
@@ -8395,8 +8415,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ その他",
-      "siteName": "Others (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[PMDA]WOWOW『連続ドラマW　MR -医薬情報担当者-』とタイアップ！",
       "url": "https://www.pmda.go.jp/about-pmda/news-release/0102.html",
