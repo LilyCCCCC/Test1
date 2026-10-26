@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-26T06:26:53.614048+00:00",
-  "count": 4090,
+  "generatedAt": "2026-10-26T14:24:04.939110+00:00",
+  "count": 4111,
   "errors": [
     {
       "groupId": "ema",
@@ -16,22 +16,67 @@
       "groupId": "pmda",
       "siteId": "PMDA：トップ 国際活動",
       "error": "RSS fetch failed - keeping archived data"
-    },
-    {
-      "groupId": "pmda",
-      "siteId": "PMDA：トップ その他",
-      "error": "RSS fetch failed - keeping archived data"
     }
   ],
   "items": [
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[調達]落札公示",
       "url": "https://www.pmda.go.jp/procurements/public-bidding/announcement-of-the-winning-bid/0001.html",
       "publishedAt": "2026-10-26",
       "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
+      "region": "JP",
+      "title": "[PMDA]サイバー攻撃による情報漏えい等の事案を踏まえたPMDAにおけるセキュリティ対策方針について",
+      "url": "https://www.pmda.go.jp/about-pmda/news-release/0104.html",
+      "publishedAt": "2026-10-26",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "Serum Institute of India Pvt. Ltd.",
+      "url": "http://www.fda.gov/about-fda/serum-institute-india-pvt-ltd",
+      "publishedAt": "2026-10-26",
+      "excerpt": "Serum Institute of India Pvt. Ltd.,India, 4/19/22, 3020223359",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "Sanford Clinic North",
+      "url": "http://www.fda.gov/about-fda/sanford-clinic-north",
+      "publishedAt": "2026-10-26",
+      "excerpt": "Sanford Clinic North, Fargo, ND, 5/22/25, 3013453154",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "Rejuvenating Fertility Center PLLC/AllCare Fertility Center",
+      "url": "http://www.fda.gov/about-fda/rejuvenating-fertility-center-pllcallcare-fertility-center",
+      "publishedAt": "2026-10-26",
+      "excerpt": "Rejuvenating Fertility Center PLLC/AllCare Fertility Center, Westport, CT, 10/25/24, 3027287618",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Pilot phase for the revised pre-submission interactions: Annex to request for rapporteurship",
+      "url": "https://www.ema.europa.eu/system/files/documents/other/pilot-phase-revised-pre-submission-interactions-annex-request-rapporteurship_en.docx",
+      "publishedAt": "2026-10-26",
+      "excerpt": "Pilot phase for the revised pre-submission interactions: Annex to request for rapporteurship",
       "sourceType": "rss"
     },
     {
@@ -45,6 +90,166 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "Lifesouth Community Blood Centers Inc. East Alabama Region",
+      "url": "http://www.fda.gov/about-fda/lifesouth-community-blood-centers-inc-east-alabama-region",
+      "publishedAt": "2026-10-26",
+      "excerpt": "Lifesouth Community Blood Centers Inc. East Alabama Region, Opelika, AL, 3/26/25, 1000524796",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "Lexington Medical Center",
+      "url": "http://www.fda.gov/about-fda/lexington-medical-center",
+      "publishedAt": "2026-10-26",
+      "excerpt": "Lexington Medical Center, West Columbia, SC, 10/30/24, 1073936",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "Legacy Ortho LLC",
+      "url": "http://www.fda.gov/about-fda/legacy-ortho-llc",
+      "publishedAt": "2026-10-26",
+      "excerpt": "Legacy Ortho LLC, Mason, OH, 10/29/24, 3017847299",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "Lattice Inc",
+      "url": "http://www.fda.gov/about-fda/lattice-inc",
+      "publishedAt": "2026-10-26",
+      "excerpt": "Lattice Inc, Wheaton, IL, 5/22/25, 3009542936",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "IDT Biologika GmbH",
+      "url": "http://www.fda.gov/about-fda/idt-biologika-gmbh",
+      "publishedAt": "2026-10-26",
+      "excerpt": "IDT Biologika GmbH, Germany, 9/8/23, 3005001757",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "ID Biomedical Corporation of Quebec",
+      "url": "http://www.fda.gov/about-fda/id-biomedical-corporation-quebec",
+      "publishedAt": "2026-10-26",
+      "excerpt": "ID Biomedical Corporation of Quebec, Canada, 5/20/22, 3004835647",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "Hendrick Regional Laboratory Transfusion Services",
+      "url": "http://www.fda.gov/about-fda/hendrick-regional-laboratory-transfusion-services",
+      "publishedAt": "2026-10-26",
+      "excerpt": "Hendrick Regional Laboratory Transfusion Services, Abilene, TX, 7/2/25, 1671244",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "Hans Biomed Corporation",
+      "url": "http://www.fda.gov/about-fda/hans-biomed-corporation",
+      "publishedAt": "2026-10-26",
+      "excerpt": "Hans Biomed Corporation, Korea, 9/12/25, 3003828812",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "EnduroMed",
+      "url": "http://www.fda.gov/about-fda/enduromed",
+      "publishedAt": "2026-10-26",
+      "excerpt": "EnduroMed, Brookfield, WI, 6/17/25, 3025513979",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "Elevate Surgical",
+      "url": "http://www.fda.gov/about-fda/elevate-surgical",
+      "publishedAt": "2026-10-26",
+      "excerpt": "Elevate Surgical, San Diego, CA, 3/26/26, 3012346493",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "ENDO USA, Inc.",
+      "url": "http://www.fda.gov/about-fda/endo-usa-inc",
+      "publishedAt": "2026-10-26",
+      "excerpt": "ENDO USA, Inc., Rochester, MI, 6/5/25, 1818977",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "Burgwedel Biotech GmbH",
+      "url": "http://www.fda.gov/about-fda/burgwedel-biotech-gmbh",
+      "publishedAt": "2026-10-26",
+      "excerpt": "Burgwedel Biotech GmbH, Germany, 8/29/23, 3013514411",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "Blood Connection, Inc. (The)",
+      "url": "http://www.fda.gov/about-fda/blood-connection-inc",
+      "publishedAt": "2026-10-26",
+      "excerpt": "Blood Connection, Inc. (The), Morrisville, NC, 5/27/25, 3014286287",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "BioXtek LLC",
+      "url": "http://www.fda.gov/about-fda/bioxtek-llc",
+      "publishedAt": "2026-10-26",
+      "excerpt": "BioXtek LLC, Pompano Beach, FL, 2/26/25, 3027649380",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "Altru Health System",
+      "url": "http://www.fda.gov/about-fda/altru-health-system",
+      "publishedAt": "2026-10-26",
+      "excerpt": "Altru Health System, Grand Forks, ND, 5/16/25, 3009905846",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "AGC Biologics, Inc.",
+      "url": "http://www.fda.gov/about-fda/agc-biologics-inc",
+      "publishedAt": "2026-10-26",
+      "excerpt": "AGC Biologics, Inc., Bothell, WA, 4/18/25, 3000209996",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "fda-recalls",
       "siteName": "Recalls",
       "region": "US",
@@ -55,8 +260,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[採用]事務補助員（規格基準作成業務に係る補助業務等（技術系））の募集について",
       "url": "https://www.pmda.go.jp/recruit/0785.html",
@@ -1975,8 +2180,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[採用]事務補助員（医薬翻訳事務）の募集について（採用時期を更新しました）",
       "url": "https://www.pmda.go.jp/recruit/0429.html",
@@ -4055,8 +4260,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[採用]事務補助員（情報公開に関する補助業務（技術系））の募集について",
       "url": "https://www.pmda.go.jp/recruit/0895.html",
@@ -4595,8 +4800,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[PMDA][イベント]第3回プレスセミナー「医薬品製造業を取り巻く近年の潮流とPMDAの取組 ー品質確保とイノベーションの融合を目指してー」",
       "url": "https://www.pmda.go.jp/about-pmda/symposia/0036.html",
@@ -5335,8 +5540,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[調達]個人番号収集・保管・管理及び支払調書等作成業務",
       "url": "https://www.pmda.go.jp/procurements/public-bidding/general-competition/1711.html",
@@ -5935,8 +6140,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[調達]一般競争入札公告（総合評価落札方式）（2026年度（令和8年度）情報システム監査業務）",
       "url": "https://www.pmda.go.jp/procurements/public-bidding/general-competition/1710.html",
@@ -5965,8 +6170,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[PMDA][イベント]2026年度のPMDAオープン・カンパニー情報（技術系）を更新しました",
       "url": "https://www.pmda.go.jp/about-pmda/symposia/0030.html",
@@ -6515,8 +6720,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[調達]一般競争入札公告（政府調達）（総合評価落札方式）（組織人事の高度化のための技術的支援業務）",
       "url": "https://www.pmda.go.jp/procurements/public-bidding/general-competition-government/0239.html",
@@ -6525,8 +6730,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[調達]一般競争入札公告（政府調達）（什器の納品及び設置業務一式）",
       "url": "https://www.pmda.go.jp/procurements/public-bidding/general-competition-government/0238.html",
@@ -6535,8 +6740,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[採用]事務補助員（ジェネリック医薬品の審査業務に係る補助業務（技術系）等）の募集について（採用時期を更新しました）",
       "url": "https://www.pmda.go.jp/recruit/0750.html",
@@ -6925,8 +7130,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[PMDA]専門委員名簿を更新しました",
       "url": "https://www.pmda.go.jp/about-pmda/outline/0016.html",
@@ -8425,8 +8630,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[PMDA]WOWOW『連続ドラマW　MR -医薬情報担当者-』とタイアップ！",
       "url": "https://www.pmda.go.jp/about-pmda/news-release/0102.html",
