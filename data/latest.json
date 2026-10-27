@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-27T06:26:03.149879+00:00",
-  "count": 4177,
+  "generatedAt": "2026-10-27T13:23:32.793554+00:00",
+  "count": 4188,
   "errors": [
     {
       "groupId": "ema",
@@ -10,6 +10,11 @@
     {
       "groupId": "pmda",
       "siteId": "services-for-healtheffects",
+      "error": "RSS fetch failed - keeping archived data"
+    },
+    {
+      "groupId": "pmda",
+      "siteId": "PMDA：トップ 安全対策",
       "error": "RSS fetch failed - keeping archived data"
     },
     {
@@ -70,6 +75,36 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Safety Measures (JP)",
+      "region": "JP",
+      "title": "[全製品]医薬品・医療機器等安全性情報 No.433（厚生労働省発行）を掲載しました",
+      "url": "https://www.pmda.go.jp/safety/info-services/drugs/calling-attention/safety-info/0166.html",
+      "publishedAt": "2026-10-27",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Website outages and upgrades",
+      "url": "https://www.ema.europa.eu/en/about-us/about-website/website-outages-upgrades",
+      "publishedAt": "2026-10-27",
+      "excerpt": "Website outages and upgrades",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Submitting a maximum residue limit application",
+      "url": "https://www.ema.europa.eu/en/veterinary-regulatory-overview/research-development-veterinary-medicines/maximum-residue-limits-mrl/submitting-maximum-residue-limit-application",
+      "publishedAt": "2026-10-27",
+      "excerpt": "Submitting a maximum residue limit application",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "safety-measures",
       "siteName": "Safety Measures (EN)",
       "region": "JP",
@@ -77,6 +112,166 @@
       "url": "https://www.pmda.go.jp/english/safety/info-services/drugs/revision-of-precautions/0014.html",
       "publishedAt": "2026-10-27",
       "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Recently Issued Biologics Guidance Documents",
+      "url": "http://www.fda.gov/vaccines-blood-biologics/biologics-guidances/recently-issued-biologics-guidance-documents",
+      "publishedAt": "2026-10-27",
+      "excerpt": "This page lists Recently Issued CBER and Cross-Center Guidance Documents.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "safety-measures",
+      "siteName": "Safety Measures (EN)",
+      "region": "JP",
+      "title": "PMDA Risk Communications: Tapinarof,etc. posted",
+      "url": "https://www.pmda.go.jp/english/safety/info-services/drugs/risk-communications/0001.html",
+      "publishedAt": "2026-10-27",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Opinion/decision on a Paediatric investigation plan (PIP): Voxzogo, vosoritide, decision type: PM: decision on the application for modification of an agreed PIP, therapeutic area: Congenital, familial and genetic disorders, PIP number: EMA/PE/0000235382",
+      "url": "https://www.ema.europa.eu/en/medicines/human/paediatric-investigation-plans/ema-pe-0000235382",
+      "publishedAt": "2026-10-27",
+      "excerpt": "Opinion/decision on a Paediatric investigation plan (PIP): Voxzogo, vosoritide, decision type: PM: decision on the application for modification of an agreed PIP, therapeutic area: Congenital, familial and genetic disorders, PIP number: EMA/PE/0000235382",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Opinion/decision on a Paediatric investigation plan (PIP): Fasenra, Benralizumab, decision type: PM: decision on the application for modification of an agreed PIP, therapeutic area: Blood and lymphatic system disorders, PIP number: EMA/PE/0000253868",
+      "url": "https://www.ema.europa.eu/en/medicines/human/paediatric-investigation-plans/ema-pe-0000253868",
+      "publishedAt": "2026-10-27",
+      "excerpt": "Opinion/decision on a Paediatric investigation plan (PIP): Fasenra, Benralizumab, decision type: PM: decision on the application for modification of an agreed PIP, therapeutic area: Blood and lymphatic system disorders, PIP number: EMA/PE/0000253868",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "MD Tox Laboratory",
+      "url": "http://www.fda.gov/about-fda/md-tox-laboratory",
+      "publishedAt": "2026-10-27",
+      "excerpt": "MD Tox Laboratory, Irvine, CA, 1/28/25, 3011213917",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Semglee, insulin glargine, Date of authorisation: 23/03/2018, Revision: 13, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/semglee",
+      "publishedAt": "2026-10-27",
+      "excerpt": "Human medicines European public assessment report (EPAR): Semglee, insulin glargine, Date of authorisation: 23/03/2018, Revision: 13, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Pyzchiva, ustekinumab, Date of authorisation: 19/04/2024, Revision: 16, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/pyzchiva",
+      "publishedAt": "2026-10-27",
+      "excerpt": "Human medicines European public assessment report (EPAR): Pyzchiva, ustekinumab, Date of authorisation: 19/04/2024, Revision: 16, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Pregabalin Viatris (previously Pregabalin Mylan), pregabalin, Date of authorisation: 24/06/2015, Revision: 25, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/pregabalin-viatris",
+      "publishedAt": "2026-10-27",
+      "excerpt": "Human medicines European public assessment report (EPAR): Pregabalin Viatris (previously Pregabalin Mylan), pregabalin, Date of authorisation: 24/06/2015, Revision: 25, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Lynavoy, Linerixibat, Date of authorisation: 22/10/2026, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/lynavoy",
+      "publishedAt": "2026-10-27",
+      "excerpt": "Human medicines European public assessment report (EPAR): Lynavoy, Linerixibat, Date of authorisation: 22/10/2026, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Generic Drug Facilities, Sites and Organization Lists",
+      "url": "http://www.fda.gov/industry/generic-drug-user-fee-amendments/generic-drug-facilities-sites-and-organization-lists",
+      "publishedAt": "2026-10-27",
+      "excerpt": "Generic Drug Facilities, Sites and Organization Lists",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "Forthright Medical AZ LLC",
+      "url": "http://www.fda.gov/about-fda/forthright-medical-az-llc",
+      "publishedAt": "2026-10-27",
+      "excerpt": "Forthright Medical AZ LLC, Phoenix, AZ, 2/19/25, 3027287418",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "EMA/PE/0000253350",
+      "url": "https://www.ema.europa.eu/en/medicines/human/paediatric-investigation-plans/ema-pe-0000253350",
+      "publishedAt": "2026-10-27",
+      "excerpt": "EMA/PE/0000253350",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "EMA/PE/0000225490",
+      "url": "https://www.ema.europa.eu/en/medicines/human/paediatric-investigation-plans/ema-pe-0000225490",
+      "publishedAt": "2026-10-27",
+      "excerpt": "EMA/PE/0000225490",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "Cangene Corporation",
+      "url": "http://www.fda.gov/about-fda/cangene-corporation",
+      "publishedAt": "2026-10-27",
+      "excerpt": "Cangene Corporation, Canada, 6/21/12, 3003153579",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "Bello Bio LLC",
+      "url": "http://www.fda.gov/about-fda/bello-bio-llc",
+      "publishedAt": "2026-10-27",
+      "excerpt": "Bello Bio LLC, Scottsdale, AZ, 12/16/25, 3028583081",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "Baxter Pharmaceutical Solutions LLC",
+      "url": "http://www.fda.gov/about-fda/baxter-pharmaceutical-solutions-llc",
+      "publishedAt": "2026-10-27",
+      "excerpt": "Baxter Pharmaceutical Solutions LLC, Bloomington, IN, 7/26/24, 10000115571",
       "sourceType": "rss"
     },
     {
@@ -733,16 +928,6 @@
       "siteId": "fda-whats-new-drugs",
       "siteName": "What's New: Drugs",
       "region": "US",
-      "title": "Generic Drug Facilities, Sites and Organization Lists",
-      "url": "http://www.fda.gov/industry/generic-drug-user-fee-amendments/generic-drug-facilities-sites-and-organization-lists",
-      "publishedAt": "2026-10-26",
-      "excerpt": "Generic Drug Facilities, Sites and Organization Lists",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
       "title": "GDUFA Type II API DMF Payment Receipts Report",
       "url": "http://www.fda.gov/industry/fda-user-fee-programs/gdufa-type-ii-api-dmf-payment-receipts-report",
       "publishedAt": "2026-10-26",
@@ -1287,16 +1472,6 @@
       "url": "https://www.ema.europa.eu/system/files/documents/other/ema-055-ropa-intranet-en.pdf",
       "publishedAt": "2026-10-23",
       "excerpt": "Records of data processing activity for the EMA intranet",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "Recently Issued Biologics Guidance Documents",
-      "url": "http://www.fda.gov/vaccines-blood-biologics/biologics-guidances/recently-issued-biologics-guidance-documents",
-      "publishedAt": "2026-10-23",
-      "excerpt": "This page lists Recently Issued CBER and Cross-Center Guidance Documents.",
       "sourceType": "rss"
     },
     {
@@ -7776,7 +7951,7 @@
       "title": "Clinical trial applications advice pilot becomes permanent",
       "url": "https://www.ema.europa.eu/en/news/clinical-trial-applications-advice-pilot-becomes-permanent",
       "publishedAt": "2026-10-08",
-      "excerpt": "The Accelerating Clinical Trials in the EU (ACT EU) advice pilot, which helps sponsors prepare clinical trial applications, will become a permanent initiative from January 2027…",
+      "excerpt": "The Accelerating Clinical Trials in the EU (ACT EU) advice pilot, which helps sponsors prepare clinical trial applications, will become a permanent initiative from January 2027.…",
       "sourceType": "rss"
     },
     {
@@ -7840,8 +8015,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 安全対策",
-      "siteName": "Adverse Health Effects Relief (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[健康]生物由来製品等の一覧を更新しました",
       "url": "https://www.pmda.go.jp/relief-services/infections/0032.html",
@@ -10640,16 +10815,6 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 安全対策",
-      "siteName": "Safety Measures (JP)",
-      "region": "JP",
-      "title": "[全製品]医薬品・医療機器等安全性情報 No.432（厚生労働省発行）を掲載しました",
-      "url": "https://www.pmda.go.jp/safety/info-services/drugs/calling-attention/safety-info/0166.html",
-      "publishedAt": "2026-09-29",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
       "siteId": "fda-whats-new-drugs",
       "siteName": "What's New: Drugs",
       "region": "US",
@@ -10657,16 +10822,6 @@
       "url": "http://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/wilson-livestock-728168-07242026",
       "publishedAt": "2026-09-29",
       "excerpt": "New Animal Drug/Adulterated",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "ema-whats-new",
-      "siteName": "What's new",
-      "region": "EU",
-      "title": "Website outages and upgrades",
-      "url": "https://www.ema.europa.eu/en/about-us/about-website/website-outages-upgrades",
-      "publishedAt": "2026-09-29",
-      "excerpt": "Website outages and upgrades",
       "sourceType": "rss"
     },
     {
@@ -10757,16 +10912,6 @@
       "url": "http://www.fda.gov/about-fda/oncology-center-excellence/project-orbis",
       "publishedAt": "2026-09-29",
       "excerpt": "Information Project Orbis, an initiative of the FDA Oncology Center of Excellence (OCE) that provides a framework for concurrent submission and review of oncology products among international partners.",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "safety-measures",
-      "siteName": "Safety Measures (EN)",
-      "region": "JP",
-      "title": "PMDA Risk Communications: Ibuprofen L-Lysine,etc. posted",
-      "url": "https://www.pmda.go.jp/english/safety/info-services/drugs/risk-communications/0001.html",
-      "publishedAt": "2026-09-29",
-      "excerpt": "",
       "sourceType": "rss"
     },
     {
@@ -25953,16 +26098,6 @@
       "siteId": "ema-human-medicines-highlights-newsletter",
       "siteName": "Human Medicines Highlights newsletter",
       "region": "EU",
-      "title": "Human medicines European public assessment report (EPAR): Lynavoy, Linerixibat, Status: Opinion",
-      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/lynavoy",
-      "publishedAt": "2026-07-24",
-      "excerpt": "Human medicines European public assessment report (EPAR): Lynavoy, Linerixibat, Status: Opinion",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "ema-human-medicines-highlights-newsletter",
-      "siteName": "Human Medicines Highlights newsletter",
-      "region": "EU",
       "title": "Human medicines European public assessment report (EPAR): Evlarco, obicetrapib,ezetimibe, Status: Opinion",
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/evlarco",
       "publishedAt": "2026-07-24",
@@ -32893,16 +33028,6 @@
       "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
       "siteName": "Human medicines: EPARs and summaries of opinion",
       "region": "EU",
-      "title": "Human medicines European public assessment report (EPAR): Pyzchiva, ustekinumab, Date of authorisation: 19/04/2024, Revision: 15, Status: Authorised",
-      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/pyzchiva",
-      "publishedAt": "2026-07-03",
-      "excerpt": "Human medicines European public assessment report (EPAR): Pyzchiva, ustekinumab, Date of authorisation: 19/04/2024, Revision: 15, Status: Authorised",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
-      "siteName": "Human medicines: EPARs and summaries of opinion",
-      "region": "EU",
       "title": "Human medicines European public assessment report (EPAR): NeoRecormon, epoetin beta, Date of authorisation: 16/07/1997, Revision: 35, Status: Authorised",
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/neorecormon",
       "publishedAt": "2026-07-03",
@@ -35957,16 +36082,6 @@
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/winrevair",
       "publishedAt": "2026-06-19",
       "excerpt": "Human medicines European public assessment report (EPAR): Winrevair, sotatercept, Date of authorisation: 22/08/2024, Revision: 5, Status: Authorised",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
-      "siteName": "Human medicines: EPARs and summaries of opinion",
-      "region": "EU",
-      "title": "Human medicines European public assessment report (EPAR): Semglee, insulin glargine, Date of authorisation: 23/03/2018, Revision: 12, Status: Authorised",
-      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/semglee",
-      "publishedAt": "2026-06-19",
-      "excerpt": "Human medicines European public assessment report (EPAR): Semglee, insulin glargine, Date of authorisation: 23/03/2018, Revision: 12, Status: Authorised",
       "sourceType": "rss"
     },
     {
