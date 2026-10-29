@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-29T14:28:36.199806+00:00",
-  "count": 4273,
+  "generatedAt": "2026-10-29T20:21:58.468602+00:00",
+  "count": 4282,
   "items": [
     {
       "siteId": "fda-whats-new-drugs",
@@ -33,8 +33,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ その他",
-      "siteName": "Others (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[調達]契約締結状況について",
       "url": "https://www.pmda.go.jp/procurements/contract-info/0002.html",
@@ -53,8 +53,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ その他",
-      "siteName": "Others (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[PMDA]医療機器WEB申請プラットフォーム（DWAP）の運用停止について",
       "url": "https://www.pmda.go.jp/about-pmda/news-release/0105.html",
@@ -76,10 +76,60 @@
       "siteId": "fda-whats-new-drugs",
       "siteName": "What's New: Drugs",
       "region": "US",
+      "title": "Webinar for Stakeholder Engagement on the New Final Guideline on General Principles for Model-Informed Drug Development (ICH M15) - 10/29/2026",
+      "url": "http://www.fda.gov/drugs/news-events-human-drugs/webinar-stakeholder-engagement-new-final-guideline-general-principles-model-informed-drug",
+      "publishedAt": "2026-10-29",
+      "excerpt": "Adopted by the International Council for Harmonisation (ICH) in February 2026, the new ICH M15 guideline, “General Principles for Model-Informed Drug Development,” provides general recommendations for planning, model evaluation, and documentation of evidence derived from model-informed drug development (MIDD).",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Table of Surrogate Endpoints That Were the Basis of Drug Approval or Licensure",
+      "url": "http://www.fda.gov/drugs/development-resources/table-surrogate-endpoints-were-basis-drug-approval-or-licensure",
+      "publishedAt": "2026-10-29",
+      "excerpt": "FDA’s surrogate endpoint table provides valuable information for drug developers on endpoints that may be considered and discussed with FDA for individual development programs.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
       "title": "Submit an eCTD v4.0 or Standardized Data Sample to the FDA",
       "url": "http://www.fda.gov/drugs/electronic-regulatory-submission-and-review/submit-ectd-v40-or-standardized-data-sample-fda",
       "publishedAt": "2026-10-29",
       "excerpt": "Learn more about FDA's process to validate sample new eCTD v4.0 submissions and standardized study datasets.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Stakeholder Meeting on the transferable data exclusivity voucher (TDEV) for priority antimicrobials, Online, Broadcast, from 12 November 2026, 14:00 (CET) to 12 November 2026, 17:00 (CET)",
+      "url": "https://www.ema.europa.eu/en/events/stakeholder-meeting-transferable-data-exclusivity-voucher-tdev-priority-antimicrobials",
+      "publishedAt": "2026-10-29",
+      "excerpt": "Stakeholder Meeting on the transferable data exclusivity voucher (TDEV) for priority antimicrobials, Online, Broadcast, from 12 November 2026, 14:00 (CET) to 12 November 2026, 17:00 (CET)",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Project Orbis",
+      "url": "http://www.fda.gov/about-fda/oncology-center-excellence/project-orbis",
+      "publishedAt": "2026-10-29",
+      "excerpt": "Information Project Orbis, an initiative of the FDA Oncology Center of Excellence (OCE) that provides a framework for concurrent submission and review of oncology products among international partners.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Pharmaceutical Inspections and Compliance",
+      "url": "http://www.fda.gov/drugs/guidance-compliance-regulatory-information/pharmaceutical-inspections-and-compliance",
+      "publishedAt": "2026-10-29",
+      "excerpt": "One way FDA works to ensure drug manufacturers comply with Current Good Manufacturing Practice (CGMP) requirements is through inspections. Learn more about actions that can be taken if manufacturers fail to meet CGMP regulatory standards.",
       "sourceType": "rss"
     },
     {
@@ -90,6 +140,26 @@
       "url": "http://www.fda.gov/drugs/guidances-drugs/newly-added-guidance-documents",
       "publishedAt": "2026-10-29",
       "excerpt": "Guidance documents represent the FDA's current thinking on a particular subject. New guidance documents are listed here for three months.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Importing Human Drugs",
+      "url": "http://www.fda.gov/industry/importing-fda-regulated-products/importing-human-drugs",
+      "publishedAt": "2026-10-29",
+      "excerpt": "FDA importing requirements for human drug products,",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): mResvia, respiratory syncytial virus mRNA vaccine, Date of authorisation: 22/08/2024, Revision: 12, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/mresvia",
+      "publishedAt": "2026-10-29",
+      "excerpt": "Human medicines European public assessment report (EPAR): mResvia, respiratory syncytial virus mRNA vaccine, Date of authorisation: 22/08/2024, Revision: 12, Status: Authorised",
       "sourceType": "rss"
     },
     {
@@ -106,10 +176,40 @@
       "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
       "siteName": "Human medicines: EPARs and summaries of opinion",
       "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Spikevax (previously COVID-19 Vaccine Moderna), COVID-19 mRNA vaccine, Date of authorisation: 06/01/2021, Revision: 64, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/spikevax",
+      "publishedAt": "2026-10-29",
+      "excerpt": "Human medicines European public assessment report (EPAR): Spikevax (previously COVID-19 Vaccine Moderna), COVID-19 mRNA vaccine, Date of authorisation: 06/01/2021, Revision: 64, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
       "title": "Human medicines European public assessment report (EPAR): Sogroya, somapacitan, Date of authorisation: 31/03/2021, Revision: 6, Status: Authorised",
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/sogroya",
       "publishedAt": "2026-10-29",
       "excerpt": "Human medicines European public assessment report (EPAR): Sogroya, somapacitan, Date of authorisation: 31/03/2021, Revision: 6, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Qarziba (previously Dinutuximab beta EUSA and Dinutuximab beta Apeiron), dinutuximab beta, Date of authorisation: 08/05/2017, Revision: 19, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/qarziba",
+      "publishedAt": "2026-10-29",
+      "excerpt": "Human medicines European public assessment report (EPAR): Qarziba (previously Dinutuximab beta EUSA and Dinutuximab beta Apeiron), dinutuximab beta, Date of authorisation: 08/05/2017, Revision: 19, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Opdivo, nivolumab, Date of authorisation: 19/06/2015, Revision: 77, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/opdivo",
+      "publishedAt": "2026-10-29",
+      "excerpt": "Human medicines European public assessment report (EPAR): Opdivo, nivolumab, Date of authorisation: 19/06/2015, Revision: 77, Status: Authorised",
       "sourceType": "rss"
     },
     {
@@ -126,10 +226,50 @@
       "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
       "siteName": "Human medicines: EPARs and summaries of opinion",
       "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Jubereq, denosumab, Date of authorisation: 26/05/2025, Revision: 2, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/jubereq",
+      "publishedAt": "2026-10-29",
+      "excerpt": "Human medicines European public assessment report (EPAR): Jubereq, denosumab, Date of authorisation: 26/05/2025, Revision: 2, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Infanrix Hexa, diphtheria (D), tetanus (T), pertussis (acellular, component) (Pa), hepatitis B (rDNA) (HBV), poliomyelitis (inactivated) (IPV) and Haemophilus influenzae type-b (Hib) conjugate vaccine (adsorbed), Date of authorisation: 23/10/2000, Revision: 51, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/infanrix-hexa",
+      "publishedAt": "2026-10-29",
+      "excerpt": "Human medicines European public assessment report (EPAR): Infanrix Hexa, diphtheria (D), tetanus (T), pertussis (acellular, component) (Pa), hepatitis B (rDNA) (HBV), poliomyelitis (inactivated) (IPV) and Haemophilus influenzae type-b (Hib) conjugate vaccine (adsorbed), Date of authorisation: 23/10/2000, Revision: 51, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Dimethyl fumarate Mylan, dimethyl fumarate, Date of authorisation: 22/04/2024, Revision: 6, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/dimethyl-fumarate-mylan",
+      "publishedAt": "2026-10-29",
+      "excerpt": "Human medicines European public assessment report (EPAR): Dimethyl fumarate Mylan, dimethyl fumarate, Date of authorisation: 22/04/2024, Revision: 6, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
       "title": "Human medicines European public assessment report (EPAR): Casgevy, exagamglogene autotemcel, Date of authorisation: 09/02/2024, Revision: 8, Status: Authorised",
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/casgevy",
       "publishedAt": "2026-10-29",
       "excerpt": "Human medicines European public assessment report (EPAR): Casgevy, exagamglogene autotemcel, Date of authorisation: 09/02/2024, Revision: 8, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Carvykti, ciltacabtagene autoleucel, Date of authorisation: 25/05/2022, Revision: 19, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/carvykti",
+      "publishedAt": "2026-10-29",
+      "excerpt": "Human medicines European public assessment report (EPAR): Carvykti, ciltacabtagene autoleucel, Date of authorisation: 25/05/2022, Revision: 19, Status: Authorised",
       "sourceType": "rss"
     },
     {
@@ -156,10 +296,40 @@
       "siteId": "fda-whats-new-drugs",
       "siteName": "What's New: Drugs",
       "region": "US",
+      "title": "Generic Drug Facilities, Sites and Organization Lists",
+      "url": "http://www.fda.gov/industry/generic-drug-user-fee-amendments/generic-drug-facilities-sites-and-organization-lists",
+      "publishedAt": "2026-10-29",
+      "excerpt": "Generic Drug Facilities, Sites and Organization Lists",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "GDUFA III Changes for Facilities",
+      "url": "http://www.fda.gov/industry/generic-drug-user-fee-amendments/gdufa-iii-changes-facilities",
+      "publishedAt": "2026-10-29",
+      "excerpt": "FDA has completed several commitments under the terms of the Generic Drug User Fee Amendments of 2017 (GDUFA II) commitment letter to provide greater transparency regarding prioritization and scheduling of facility inspections.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
       "title": "Frequently Requested or Proactively Posted Compliance Records",
       "url": "http://www.fda.gov/drugs/cder-foia-electronic-reading-room/frequently-requested-or-proactively-posted-compliance-records",
       "publishedAt": "2026-10-29",
       "excerpt": "Frequently requested inspection records of foreign pharmaceutical manufacturing facilities",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Expanded Access | Information for Patients",
+      "url": "http://www.fda.gov/news-events/expanded-access/expanded-access-information-patients",
+      "publishedAt": "2026-10-29",
+      "excerpt": "Expanded access is a pathway designed to make promising medical products available as early in the drug and device evaluation process as possible to patients without therapeutic options, either because they have exhausted or are intolerant of approved therapies, and cannot enter a clinical trial.",
       "sourceType": "rss"
     },
     {
@@ -193,6 +363,16 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "fda-medwatch",
+      "siteName": "MedWatch Safety Alerts",
+      "region": "US",
+      "title": "Early Alert: Medline Removes or Corrects All Medline Brand Beds and Accessories",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-medline-removes-or-corrects-all-medline-brand-beds-and-accessories",
+      "publishedAt": "2026-10-29",
+      "excerpt": "Medline removes or corrects all brand beds & accessories due to fire, electrical overheating, entrapment & asphyxiation risks. Risk of serious injury or death.",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "ema-news-and-press-releases",
       "siteName": "News and press releases",
       "region": "EU",
@@ -203,6 +383,26 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Drugs@FDA Data Files",
+      "url": "http://www.fda.gov/drugs/drug-approvals-and-databases/drugsfda-data-files",
+      "publishedAt": "2026-10-29",
+      "excerpt": "Drugs@FDA Downloadable Data File in ZIP format, Data Definitions, and Entity Relationship Diagram (ERD)",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Competitive Generic Therapy Approvals",
+      "url": "http://www.fda.gov/drugs/generic-drugs/competitive-generic-therapy-approvals",
+      "publishedAt": "2026-10-29",
+      "excerpt": "Explore the FDA’s Competitive Generic Therapy Approvals page, offering insights into the program designed to encourage generic drug competition. Access information about approved CGT products and find resources, including a downloadable CGT approvals spreadsheet.",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "ema-whats-new",
       "siteName": "What's new",
       "region": "EU",
@@ -210,6 +410,16 @@
       "url": "https://www.ema.europa.eu/system/files/documents/agenda/agenda-ema-workshop-bacteriophage-therapy_en.pdf",
       "publishedAt": "2026-10-29",
       "excerpt": "Agenda - European Medicines Agency workshop on bacteriophage therapy",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Advancing Product Quality",
+      "url": "http://www.fda.gov/drugs/pharmaceutical-quality-resources/advancing-product-quality",
+      "publishedAt": "2026-10-29",
+      "excerpt": "FDA is engaged in efforts to encourage innovations in manufacturing processes and technology and to foster a quality management system.",
       "sourceType": "rss"
     },
     {
@@ -253,8 +463,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ その他",
-      "siteName": "Others (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[PMDA][イベント]2026年度のPMDAオープン・カンパニー情報（技術系）を更新しました",
       "url": "https://www.pmda.go.jp/about-pmda/symposia/0030.html",
@@ -716,16 +926,6 @@
       "siteId": "fda-whats-new-drugs",
       "siteName": "What's New: Drugs",
       "region": "US",
-      "title": "Generic Drug Facilities, Sites and Organization Lists",
-      "url": "http://www.fda.gov/industry/generic-drug-user-fee-amendments/generic-drug-facilities-sites-and-organization-lists",
-      "publishedAt": "2026-10-28",
-      "excerpt": "Generic Drug Facilities, Sites and Organization Lists",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
       "title": "GDUFA Paid Facilities List",
       "url": "http://www.fda.gov/industry/generic-drug-user-fee-amendments/gdufa-paid-facilities-list",
       "publishedAt": "2026-10-28",
@@ -750,16 +950,6 @@
       "url": "http://www.fda.gov/drugs/information-health-care-professionals-drugs/fda-drug-info-rounds-video",
       "publishedAt": "2026-10-28",
       "excerpt": "A new series of training videos for practicing clinical and community pharmacists",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "Drugs@FDA Data Files",
-      "url": "http://www.fda.gov/drugs/drug-approvals-and-databases/drugsfda-data-files",
-      "publishedAt": "2026-10-28",
-      "excerpt": "Drugs@FDA Downloadable Data File in ZIP format, Data Definitions, and Entity Relationship Diagram (ERD)",
       "sourceType": "rss"
     },
     {
@@ -1493,8 +1683,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ その他",
-      "siteName": "Others (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[調達]落札公示",
       "url": "https://www.pmda.go.jp/procurements/public-bidding/announcement-of-the-winning-bid/0001.html",
@@ -1503,8 +1693,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ その他",
-      "siteName": "Others (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[PMDA]サイバー攻撃による情報漏えい等の事案を踏まえたPMDAにおけるセキュリティ対策方針について",
       "url": "https://www.pmda.go.jp/about-pmda/news-release/0104.html",
@@ -2483,8 +2673,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ その他",
-      "siteName": "Others (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[採用]事務補助員（規格基準作成業務に係る補助業務等（技術系））の募集について",
       "url": "https://www.pmda.go.jp/recruit/0785.html",
@@ -3703,16 +3893,6 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "Competitive Generic Therapy Approvals",
-      "url": "http://www.fda.gov/drugs/generic-drugs/competitive-generic-therapy-approvals",
-      "publishedAt": "2026-10-22",
-      "excerpt": "Explore the FDA’s Competitive Generic Therapy Approvals page, offering insights into the program designed to encourage generic drug competition. Access information about approved CGT products and find resources, including a downloadable CGT approvals spreadsheet.",
-      "sourceType": "rss"
-    },
-    {
       "siteId": "ema-whats-new",
       "siteName": "What's new",
       "region": "EU",
@@ -4223,8 +4403,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ その他",
-      "siteName": "Others (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[採用]事務補助員（医薬翻訳事務）の募集について（採用時期を更新しました）",
       "url": "https://www.pmda.go.jp/recruit/0429.html",
@@ -6263,8 +6443,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ その他",
-      "siteName": "Others (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[採用]事務補助員（情報公開に関する補助業務（技術系））の募集について",
       "url": "https://www.pmda.go.jp/recruit/0895.html",
@@ -6793,8 +6973,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ その他",
-      "siteName": "Others (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[PMDA][イベント]第3回プレスセミナー「医薬品製造業を取り巻く近年の潮流とPMDAの取組 ー品質確保とイノベーションの融合を目指してー」",
       "url": "https://www.pmda.go.jp/about-pmda/symposia/0036.html",
@@ -7196,16 +7376,6 @@
       "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
       "siteName": "Human medicines: EPARs and summaries of opinion",
       "region": "EU",
-      "title": "Human medicines European public assessment report (EPAR): mResvia, respiratory syncytial virus mRNA vaccine, Date of authorisation: 22/08/2024, Revision: 11, Status: Authorised",
-      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/mresvia",
-      "publishedAt": "2026-10-14",
-      "excerpt": "Human medicines European public assessment report (EPAR): mResvia, respiratory syncytial virus mRNA vaccine, Date of authorisation: 22/08/2024, Revision: 11, Status: Authorised",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
-      "siteName": "Human medicines: EPARs and summaries of opinion",
-      "region": "EU",
       "title": "Human medicines European public assessment report (EPAR): Welireg, belzutifan, Date of authorisation: 12/02/2025, Revision: 2, Status: Authorised",
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/welireg",
       "publishedAt": "2026-10-14",
@@ -7230,16 +7400,6 @@
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/tenofovir-disoproxil-viatris",
       "publishedAt": "2026-10-14",
       "excerpt": "Human medicines European public assessment report (EPAR): Tenofovir disoproxil Viatris (previously Tenofovir disoproxil Mylan), tenofovir disoproxil, Date of authorisation: 08/12/2016, Revision: 25, Status: Authorised",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
-      "siteName": "Human medicines: EPARs and summaries of opinion",
-      "region": "EU",
-      "title": "Human medicines European public assessment report (EPAR): Spikevax (previously COVID-19 Vaccine Moderna), COVID-19 mRNA vaccine, Date of authorisation: 06/01/2021, Revision: 63, Status: Authorised",
-      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/spikevax",
-      "publishedAt": "2026-10-14",
-      "excerpt": "Human medicines European public assessment report (EPAR): Spikevax (previously COVID-19 Vaccine Moderna), COVID-19 mRNA vaccine, Date of authorisation: 06/01/2021, Revision: 63, Status: Authorised",
       "sourceType": "rss"
     },
     {
@@ -7523,8 +7683,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ その他",
-      "siteName": "Others (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[調達]個人番号収集・保管・管理及び支払調書等作成業務",
       "url": "https://www.pmda.go.jp/procurements/public-bidding/general-competition/1711.html",
@@ -8103,8 +8263,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ その他",
-      "siteName": "Others (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[調達]一般競争入札公告（総合評価落札方式）（2026年度（令和8年度）情報システム監査業務）",
       "url": "https://www.pmda.go.jp/procurements/public-bidding/general-competition/1710.html",
@@ -8653,8 +8813,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ その他",
-      "siteName": "Others (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[調達]一般競争入札公告（政府調達）（総合評価落札方式）（組織人事の高度化のための技術的支援業務）",
       "url": "https://www.pmda.go.jp/procurements/public-bidding/general-competition-government/0239.html",
@@ -8663,8 +8823,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ その他",
-      "siteName": "Others (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[調達]一般競争入札公告（政府調達）（什器の納品及び設置業務一式）",
       "url": "https://www.pmda.go.jp/procurements/public-bidding/general-competition-government/0238.html",
@@ -8673,8 +8833,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ その他",
-      "siteName": "Others (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[採用]事務補助員（ジェネリック医薬品の審査業務に係る補助業務（技術系）等）の募集について（採用時期を更新しました）",
       "url": "https://www.pmda.go.jp/recruit/0750.html",
@@ -9033,8 +9193,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ その他",
-      "siteName": "Others (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[PMDA]専門委員名簿を更新しました",
       "url": "https://www.pmda.go.jp/about-pmda/outline/0016.html",
@@ -10516,16 +10676,6 @@
       "siteId": "fda-whats-new-drugs",
       "siteName": "What's New: Drugs",
       "region": "US",
-      "title": "Webinar for Stakeholder Engagement on the New Final Guideline on General Principles for Model-Informed Drug Development (ICH M15) - 10/29/2026",
-      "url": "http://www.fda.gov/drugs/news-events-human-drugs/webinar-stakeholder-engagement-new-final-guideline-general-principles-model-informed-drug",
-      "publishedAt": "2026-10-02",
-      "excerpt": "Adopted by the International Council for Harmonisation (ICH) in February 2026, the new ICH M15 guideline, “General Principles for Model-Informed Drug Development,” provides general recommendations for planning, model evaluation, and documentation of evidence derived from model-informed drug development (MIDD).",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
       "title": "Transparency Makes Modern Regulatory Science Stronger — FDA’s Transparency Roadmap",
       "url": "http://www.fda.gov/news-events/fda-voices/transparency-makes-modern-regulatory-science-stronger-fdas-transparency-roadmap",
       "publishedAt": "2026-10-02",
@@ -11110,16 +11260,6 @@
       "url": "http://www.fda.gov/safety/medwatch-forms-fda-safety-reporting/instructions-completing-form-fda-3500",
       "publishedAt": "2026-10-01",
       "excerpt": "Instructions for Completing Form FDA 3500",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "Importing Human Drugs",
-      "url": "http://www.fda.gov/industry/importing-fda-regulated-products/importing-human-drugs",
-      "publishedAt": "2026-10-01",
-      "excerpt": "FDA importing requirements for human drug products,",
       "sourceType": "rss"
     },
     {
@@ -11850,16 +11990,6 @@
       "url": "http://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/sciarra-aeromed-inc-728248-09232026",
       "publishedAt": "2026-09-29",
       "excerpt": "CGMP/Drugs for Animals/Prepared, Packed or Held Under Insanitary Conditions/Adulterated",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "Project Orbis",
-      "url": "http://www.fda.gov/about-fda/oncology-center-excellence/project-orbis",
-      "publishedAt": "2026-09-29",
-      "excerpt": "Information Project Orbis, an initiative of the FDA Oncology Center of Excellence (OCE) that provides a framework for concurrent submission and review of oncology products among international partners.",
       "sourceType": "rss"
     },
     {
@@ -21646,16 +21776,6 @@
       "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
       "siteName": "Human medicines: EPARs and summaries of opinion",
       "region": "EU",
-      "title": "Human medicines European public assessment report (EPAR): Opdivo, nivolumab, Date of authorisation: 19/06/2015, Revision: 76, Status: Authorised",
-      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/opdivo",
-      "publishedAt": "2026-08-19",
-      "excerpt": "Human medicines European public assessment report (EPAR): Opdivo, nivolumab, Date of authorisation: 19/06/2015, Revision: 76, Status: Authorised",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
-      "siteName": "Human medicines: EPARs and summaries of opinion",
-      "region": "EU",
       "title": "Human medicines European public assessment report (EPAR): Nivestim, filgrastim, Date of authorisation: 07/06/2010, Revision: 33, Status: Authorised",
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/nivestim",
       "publishedAt": "2026-08-19",
@@ -27396,16 +27516,6 @@
       "siteId": "fda-whats-new-drugs",
       "siteName": "What's New: Drugs",
       "region": "US",
-      "title": "GDUFA III Changes for Facilities",
-      "url": "http://www.fda.gov/industry/generic-drug-user-fee-amendments/gdufa-iii-changes-facilities",
-      "publishedAt": "2026-07-23",
-      "excerpt": "FDA has completed several commitments under the terms of the Generic Drug User Fee Amendments of 2017 (GDUFA II) commitment letter to provide greater transparency regarding prioritization and scheduling of facility inspections.",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
       "title": "FDA/Center for Research on Complex Generics (CRCG) Workshop on Navigating the GLP-1 Generic Drug Pathway - 09/23/2026",
       "url": "http://www.fda.gov/drugs/news-events-human-drugs/fdacenter-research-complex-generics-crcg-workshop-navigating-glp-1-generic-drug-pathway-09232026",
       "publishedAt": "2026-07-23",
@@ -27600,16 +27710,6 @@
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/kigabeq",
       "publishedAt": "2026-07-22",
       "excerpt": "Human medicines European public assessment report (EPAR): Kigabeq, vigabatrin, Date of authorisation: 20/09/2018, Revision: 9, Status: Authorised",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
-      "siteName": "Human medicines: EPARs and summaries of opinion",
-      "region": "EU",
-      "title": "Human medicines European public assessment report (EPAR): Dimethyl fumarate Mylan, dimethyl fumarate, Date of authorisation: 22/04/2024, Revision: 5, Status: Authorised",
-      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/dimethyl-fumarate-mylan",
-      "publishedAt": "2026-07-22",
-      "excerpt": "Human medicines European public assessment report (EPAR): Dimethyl fumarate Mylan, dimethyl fumarate, Date of authorisation: 22/04/2024, Revision: 5, Status: Authorised",
       "sourceType": "rss"
     },
     {
@@ -31680,16 +31780,6 @@
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/menveo",
       "publishedAt": "2026-07-10",
       "excerpt": "Human medicines European public assessment report (EPAR): Menveo, meningococcal group A, C, W-135 and Y conjugate vaccine, Date of authorisation: 15/03/2010, Date of refusal: 17/12/2009, Revision: 40, Status: Authorised",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
-      "siteName": "Human medicines: EPARs and summaries of opinion",
-      "region": "EU",
-      "title": "Human medicines European public assessment report (EPAR): Infanrix Hexa, diphtheria (D), tetanus (T), pertussis (acellular, component) (Pa), hepatitis B (rDNA) (HBV), poliomyelitis (inactivated) (IPV) and Haemophilus influenzae type-b (Hib) conjugate vaccine (adsorbed), Date of authorisation: 23/10/2000, Revision: 50, Status: Authorised",
-      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/infanrix-hexa",
-      "publishedAt": "2026-07-10",
-      "excerpt": "Human medicines European public assessment report (EPAR): Infanrix Hexa, diphtheria (D), tetanus (T), pertussis (acellular, component) (Pa), hepatitis B (rDNA) (HBV), poliomyelitis (inactivated) (IPV) and Haemophilus influenzae type-b (Hib) conjugate vaccine (adsorbed), Date of authorisation: 23/10/2000, Revision: 50, Status: Authorised",
       "sourceType": "rss"
     },
     {
