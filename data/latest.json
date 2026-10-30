@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-30T06:01:35.541780+00:00",
-  "count": 4285,
+  "generatedAt": "2026-10-30T13:11:50.320098+00:00",
+  "count": 4319,
   "errors": [
     {
       "groupId": "ema",
@@ -19,14 +19,14 @@
     },
     {
       "groupId": "pmda",
-      "siteId": "PMDA：トップ 国際活動",
+      "siteId": "PMDA：トップ その他",
       "error": "RSS fetch failed - keeping archived data"
     }
   ],
   "items": [
     {
-      "siteId": "PMDA：トップ その他",
-      "siteName": "Others (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[調達]オープンカウンター公告（役員応接室用什器の納品、設置業務一式）",
       "url": "https://www.pmda.go.jp/procurements/public-bidding/open-counter/1663.html",
@@ -35,8 +35,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[薬局方][パブコメ]第二十改正日本薬局方原案作成要領（案）に関するご意見の募集について",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/pub-comments/jp/0267.html",
@@ -105,6 +105,126 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Reporting suspected side effects",
+      "url": "https://www.ema.europa.eu/en/about-us/what-we-do/safety-medicines/reporting-suspected-side-effects",
+      "publishedAt": "2026-10-30",
+      "excerpt": "Reporting suspected side effects",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Referral: Flupentixol/melitracen-containing medicinal products, flupentixol,melitracen, associated names: Deanxit Article 31 referrals Procedure started",
+      "url": "https://www.ema.europa.eu/en/medicines/human/referrals/flupentixol-melitracen-containing-medicinal-products",
+      "publishedAt": "2026-10-30",
+      "excerpt": "Referral: Flupentixol/melitracen-containing medicinal products, flupentixol,melitracen, associated names: Deanxit Article 31 referrals Procedure started",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "PSUSA/00011098/202602",
+      "url": "https://www.ema.europa.eu/en/medicines/psusa/psusa-00011098-202602",
+      "publishedAt": "2026-10-30",
+      "excerpt": "PSUSA/00011098/202602",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "PSUSA/00009277/202603",
+      "url": "https://www.ema.europa.eu/en/medicines/psusa/psusa-00009277-202603",
+      "publishedAt": "2026-10-30",
+      "excerpt": "PSUSA/00009277/202603",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "PSUSA/00002486/202603",
+      "url": "https://www.ema.europa.eu/en/medicines/psusa/psusa-00002486-202603",
+      "publishedAt": "2026-10-30",
+      "excerpt": "PSUSA/00002486/202603",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "PSUSA/00002174/202602",
+      "url": "https://www.ema.europa.eu/en/medicines/psusa/psusa-00002174-202602",
+      "publishedAt": "2026-10-30",
+      "excerpt": "PSUSA/00002174/202602",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "PSUSA/00001635/202602",
+      "url": "https://www.ema.europa.eu/en/medicines/psusa/psusa-00001635-202602",
+      "publishedAt": "2026-10-30",
+      "excerpt": "PSUSA/00001635/202602",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "PSUSA/00001316/202603",
+      "url": "https://www.ema.europa.eu/en/medicines/psusa/psusa-00001316-202603",
+      "publishedAt": "2026-10-30",
+      "excerpt": "PSUSA/00001316/202603",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "PSUSA/00001099/202603",
+      "url": "https://www.ema.europa.eu/en/medicines/psusa/psusa-00001099-202603",
+      "publishedAt": "2026-10-30",
+      "excerpt": "PSUSA/00001099/202603",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "PSUSA/00001045/202603",
+      "url": "https://www.ema.europa.eu/en/medicines/psusa/psusa-00001045-202603",
+      "publishedAt": "2026-10-30",
+      "excerpt": "PSUSA/00001045/202603",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "PSUSA/00000910/202603",
+      "url": "https://www.ema.europa.eu/en/medicines/psusa/psusa-00000910-202603",
+      "publishedAt": "2026-10-30",
+      "excerpt": "PSUSA/00000910/202603",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "PSUSA/00000907/202603",
+      "url": "https://www.ema.europa.eu/en/medicines/psusa/psusa-00000907-202603",
+      "publishedAt": "2026-10-30",
+      "excerpt": "PSUSA/00000907/202603",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "safety-measures",
       "siteName": "Safety Measures (EN)",
       "region": "JP",
@@ -112,6 +232,256 @@
       "url": "https://www.pmda.go.jp/english/safety/info-services/drugs/properly-use-alert/0001.html",
       "publishedAt": "2026-10-30",
       "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "October 30, 2026: Dermatologic and Ophthalmic Drugs Advisory Committee Meeting Announcement - 10/30/2026",
+      "url": "http://www.fda.gov/advisory-committees/advisory-committee-calendar/october-30-2026-dermatologic-and-ophthalmic-drugs-advisory-committee-meeting-announcement-10302026",
+      "publishedAt": "2026-10-30",
+      "excerpt": "October 30, 2026: Dermatologic and Ophthalmic Drugs Advisory Committee Meeting Announcement",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-news-and-press-releases",
+      "siteName": "News and press releases",
+      "region": "EU",
+      "title": "Meeting highlights from the Pharmacovigilance Risk Assessment Committee (PRAC) 26 - 29 October 2026",
+      "url": "https://www.ema.europa.eu/en/news/meeting-highlights-pharmacovigilance-risk-assessment-committee-prac-26-29-october-2026",
+      "publishedAt": "2026-10-30",
+      "excerpt": "PRAC starts review of depression and anxiety medicine Deanxit (flupentixol/melitracen)PRAC has started a review of Deanxit, a fixed-dose combination medicine for treating…,       Agenda                        Agenda of the PRAC meeting 26 - 29 October 2026Draft                Reference Number: EMA/PRAC/227255/2026…,       PRAC statistics: November 2026  Monthly figures for PRAC outcomes based on the draft agenda.    ,                                                                               ",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "Medion Grifols Diagnostics AG",
+      "url": "http://www.fda.gov/about-fda/medion-grifols-diagnostics-ag",
+      "publishedAt": "2026-10-30",
+      "excerpt": "Medion Grifols Diagnostics AG, Switzerland, 4/30/24, 3002806769",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "Medimmune U.K. Limited",
+      "url": "http://www.fda.gov/about-fda/medimmune-uk-limited",
+      "publishedAt": "2026-10-30",
+      "excerpt": "Medimmune U.K. Limited, United Kingdom, 3/15/24, 3004066112",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-regulatory-and-procedural-guidelines",
+      "siteName": "Regulatory and procedural guidelines (human and veterinary)",
+      "region": "EU",
+      "title": "List of centrally authorised products with safety-related changes to the product information",
+      "url": "https://www.ema.europa.eu/en/documents/regulatory-procedural-guideline/list-centrally-authorised-products-safety-related-changes-product-information_en.xlsx",
+      "publishedAt": "2026-10-30",
+      "excerpt": "List of centrally authorised products with safety-related changes to the product information",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "List of centrally authorised products with safety-related changes to the product information",
+      "url": "https://www.ema.europa.eu/system/files/documents/regulatory-procedural-guideline/202609-list-centrally-authorised-products-safety-related-changes-product-inform-en.xlsx",
+      "publishedAt": "2026-10-30",
+      "excerpt": "List of centrally authorised products with safety-related changes to the product information",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "Lions Medical Eye Bank & Research Center of Eastern VA",
+      "url": "http://www.fda.gov/about-fda/lions-medical-eye-bank-research-center-eastern-va",
+      "publishedAt": "2026-10-30",
+      "excerpt": "Lions Medical Eye Bank & Research Center of Eastern VA, Norfolk, VA, 2/11/25, 3001236481",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "Jackson Memorial Hospital Transfusion Medicine Services",
+      "url": "http://www.fda.gov/about-fda/jackson-memorial-hospital-transfusion-medicine-services",
+      "publishedAt": "2026-10-30",
+      "excerpt": "Jackson Memorial Hospital Transfusion Medicine Services, Miami, FL, 12/17/24, 1047303",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "Innovative Fertility Center",
+      "url": "http://www.fda.gov/about-fda/innovative-fertility-center",
+      "publishedAt": "2026-10-30",
+      "excerpt": "Innovative Fertility Center, Manhattan Beach, CA, 12/17/24, 3009258903",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "Indiana Coast Medical LLC",
+      "url": "http://www.fda.gov/about-fda/indiana-coast-medical-llc",
+      "publishedAt": "2026-10-30",
+      "excerpt": "Indiana Coast Medical LLC, Valparaiso, IN, 4/2/25, 3019704381",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "IndeCon, Inc.",
+      "url": "http://www.fda.gov/about-fda/indecon-inc",
+      "publishedAt": "2026-10-30",
+      "excerpt": "IndeCon, Inc., Dallas, TX, 12/12/24, 3010056143",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Oxlumo, lumasiran, Date of authorisation: 19/11/2020, Revision: 7, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/oxlumo",
+      "publishedAt": "2026-10-30",
+      "excerpt": "Human medicines European public assessment report (EPAR): Oxlumo, lumasiran, Date of authorisation: 19/11/2020, Revision: 7, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "GlaxoSmithKline Biologicals",
+      "url": "http://www.fda.gov/about-fda/glaxosmithkline-biologicals",
+      "publishedAt": "2026-10-30",
+      "excerpt": "GlaxoSmithKline Biologicals, France, 3/12/24, 3014752610",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "Foundation Medical LLC",
+      "url": "http://www.fda.gov/about-fda/foundation-medical-llc",
+      "publishedAt": "2026-10-30",
+      "excerpt": "Foundation Medical LLC, Mendota Heights, MN, 12/6/24, 3015514993",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "Fin Vector Oy",
+      "url": "http://www.fda.gov/about-fda/fin-vector-oy-1",
+      "publishedAt": "2026-10-30",
+      "excerpt": "Fin Vector Oy, Finland, 3/4/26, 3010227150",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Executive decision the contribution to travel and subsistence expenses for the candidate invited to attend a selection procedure",
+      "url": "https://www.ema.europa.eu/system/files/documents/other/2020-12-03-executive-decision-contribution-travel-subsistence-expenses-candi-en.pdf",
+      "publishedAt": "2026-10-30",
+      "excerpt": "Executive decision the contribution to travel and subsistence expenses for the candidate invited to attend a selection procedure",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "Clongen Laboratories, LLC",
+      "url": "http://www.fda.gov/about-fda/clongen-laboratories-llc-0",
+      "publishedAt": "2026-10-30",
+      "excerpt": "Clongen Laboratories, LLC, Gaithersburg, MD, 6/17/25, 3006579817",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "Clinical Laboratories of Hawaii Inc",
+      "url": "http://www.fda.gov/about-fda/clinical-laboratories-hawaii-inc",
+      "publishedAt": "2026-10-30",
+      "excerpt": "Clinical Laboratories of Hawaii Inc, Hilo, HI, 5/6/25, 2974624",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "Charles River Laboratories",
+      "url": "http://www.fda.gov/about-fda/charles-river-laboratories",
+      "publishedAt": "2026-10-30",
+      "excerpt": "Charles River Laboratories, Memphis, TN, 2/7/25, 3006500433",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "Central California Blood Center/ Clovis Donor Center",
+      "url": "http://www.fda.gov/about-fda/central-california-blood-center-clovis-donor-center",
+      "publishedAt": "2026-10-30",
+      "excerpt": "Central California Blood Center/ Clovis Donor Center, Clovis, CA, 12/11/24, 3022480823",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "CellTrans Islet Isolation facility",
+      "url": "http://www.fda.gov/about-fda/celltrans-islet-isolation-facility",
+      "publishedAt": "2026-10-30",
+      "excerpt": "CellTrans Islet Isolation facility, Chicago, IL, 6/11/21, 3019202665",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "Baxter Healthcare Corporation",
+      "url": "http://www.fda.gov/about-fda/baxter-healthcare-corporation",
+      "publishedAt": "2026-10-30",
+      "excerpt": "Baxter Healthcare Corporation, Round Lake, IL, 11/25/25, 1416980",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "Aurora St. Luke's Medical Center",
+      "url": "http://www.fda.gov/about-fda/aurora-st-lukes-medical-center",
+      "publishedAt": "2026-10-30",
+      "excerpt": "Aurora St. Luke's Medical Center, Milwaukee, WI, 6/24/25, 1000389954",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "Ascension Saint John Medical Center",
+      "url": "http://www.fda.gov/about-fda/ascension-saint-john-medical-center",
+      "publishedAt": "2026-10-30",
+      "excerpt": "Ascension Saint John Medical Center, Tulsa, OK, 5/9/25, 1671035",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "21st industry stakeholder platform - operation of European Union (EU) pharmacovigilance, Online, European Medicines Agency, Amsterdam, the Netherlands, from 20 October 2026, 13:00 (CEST) to 20 October 2026, 17:30 (CEST)",
+      "url": "https://www.ema.europa.eu/en/events/21st-industry-stakeholder-platform-operation-european-union-eu-pharmacovigilance",
+      "publishedAt": "2026-10-30",
+      "excerpt": "21st industry stakeholder platform - operation of European Union (EU) pharmacovigilance, Online, European Medicines Agency, Amsterdam, the Netherlands, from 20 October 2026, 13:00 (CEST) to 20 October 2026, 17:30 (CEST)",
       "sourceType": "rss"
     },
     {
@@ -145,8 +515,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ その他",
-      "siteName": "Others (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[調達]契約締結状況について",
       "url": "https://www.pmda.go.jp/procurements/contract-info/0002.html",
@@ -165,8 +535,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ その他",
-      "siteName": "Others (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[PMDA]医療機器WEB申請プラットフォーム（DWAP）の運用停止について",
       "url": "https://www.pmda.go.jp/about-pmda/news-release/0105.html",
@@ -575,8 +945,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[その他]令和8年度第2回倫理審査委員会の議事要旨を掲載しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/research/0009.html",
@@ -585,8 +955,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ その他",
-      "siteName": "Others (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[PMDA][イベント]2026年度のPMDAオープン・カンパニー情報（技術系）を更新しました",
       "url": "https://www.pmda.go.jp/about-pmda/symposia/0030.html",
@@ -762,16 +1132,6 @@
       "url": "http://www.fda.gov/drugs/medication-health-fraud-notifications/ort-flx-may-be-harmful-due-hidden-ingredients",
       "publishedAt": "2026-10-28",
       "excerpt": "The Food and Drug Administration is advising consumers not to purchase or use Ort-Flx, a product promoted and sold for pain, arthritis, and allergies on various websites, including ebay.com, and possibly in some retail stores.",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "October 30, 2026: Dermatologic and Ophthalmic Drugs Advisory Committee Meeting Announcement - 10/30/2026",
-      "url": "http://www.fda.gov/advisory-committees/advisory-committee-calendar/october-30-2026-dermatologic-and-ophthalmic-drugs-advisory-committee-meeting-announcement-10302026",
-      "publishedAt": "2026-10-28",
-      "excerpt": "October 30, 2026: Dermatologic and Ophthalmic Drugs Advisory Committee Meeting Announcement",
       "sourceType": "rss"
     },
     {
@@ -1805,8 +2165,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ その他",
-      "siteName": "Others (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[調達]落札公示",
       "url": "https://www.pmda.go.jp/procurements/public-bidding/announcement-of-the-winning-bid/0001.html",
@@ -1815,8 +2175,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ その他",
-      "siteName": "Others (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[PMDA]サイバー攻撃による情報漏えい等の事案を踏まえたPMDAにおけるセキュリティ対策方針について",
       "url": "https://www.pmda.go.jp/about-pmda/news-release/0104.html",
@@ -2795,8 +3155,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ その他",
-      "siteName": "Others (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[採用]事務補助員（規格基準作成業務に係る補助業務等（技術系））の募集について",
       "url": "https://www.pmda.go.jp/recruit/0785.html",
@@ -3535,8 +3895,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[RS][イベント]第13回PMDAレギュラトリーサイエンス研究会の開催について掲載しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/symposia/0035.html",
@@ -4155,8 +4515,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[その他]「申請電子データを活用した解析」のページを更新しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/0002.html",
@@ -4525,8 +4885,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ その他",
-      "siteName": "Others (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[採用]事務補助員（医薬翻訳事務）の募集について（採用時期を更新しました）",
       "url": "https://www.pmda.go.jp/recruit/0429.html",
@@ -5725,8 +6085,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[薬局方]第二十改正日本薬局方作成基本方針を掲載しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/0262.html",
@@ -5735,8 +6095,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[基準]「抗悪性腫瘍剤と並行して開発するコンパニオン診断薬等の開発に関する留意事項（Early Consideration）」（日本語・英訳版）と「初回治験届時に留意すべきヒト細胞由来の細胞外小胞（Extracellular Vesicles；EV）製剤の品質関連事項について（Early Consideration）」（英訳版）を掲載しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/guidance-guideline/0003.html",
@@ -6565,8 +6925,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ その他",
-      "siteName": "Others (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[採用]事務補助員（情報公開に関する補助業務（技術系））の募集について",
       "url": "https://www.pmda.go.jp/recruit/0895.html",
@@ -7095,8 +7455,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ その他",
-      "siteName": "Others (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[PMDA][イベント]第3回プレスセミナー「医薬品製造業を取り巻く近年の潮流とPMDAの取組 ー品質確保とイノベーションの融合を目指してー」",
       "url": "https://www.pmda.go.jp/about-pmda/symposia/0036.html",
@@ -7805,8 +8165,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ その他",
-      "siteName": "Others (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[調達]個人番号収集・保管・管理及び支払調書等作成業務",
       "url": "https://www.pmda.go.jp/procurements/public-bidding/general-competition/1711.html",
@@ -7815,8 +8175,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[薬局方]日局におけるPDG調和文書への対応状況（試験法等）を更新しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/0021.html",
@@ -8385,8 +8745,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ その他",
-      "siteName": "Others (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[調達]一般競争入札公告（総合評価落札方式）（2026年度（令和8年度）情報システム監査業務）",
       "url": "https://www.pmda.go.jp/procurements/public-bidding/general-competition/1710.html",
@@ -8922,16 +9282,6 @@
       "url": "https://www.ema.europa.eu/system/files/documents/annual-report/annual-report-pharmacovigilance-inspectors-working-group-2025-en.pdf",
       "publishedAt": "2026-10-09",
       "excerpt": "Annual report of the Pharmacovigilance Inspectors Working Group for 2025",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "ema-whats-new",
-      "siteName": "What's new",
-      "region": "EU",
-      "title": "21st industry stakeholder platform - operation of European Union (EU) pharmacovigilance, Online, European Medicines Agency, Amsterdam, the Netherlands, from 20 October 2026, 13:00 (CEST) to 20 October 2026, 17:30 (CEST)",
-      "url": "https://www.ema.europa.eu/en/events/21st-industry-stakeholder-platform-operation-european-union-eu-pharmacovigilance",
-      "publishedAt": "2026-10-09",
-      "excerpt": "21st industry stakeholder platform - operation of European Union (EU) pharmacovigilance, Online, European Medicines Agency, Amsterdam, the Netherlands, from 20 October 2026, 13:00 (CEST) to 20 October 2026, 17:30 (CEST)",
       "sourceType": "rss"
     },
     {
@@ -9625,8 +9975,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[RS]2025年度レギュラトリーサイエンス活動報告書（日本語版 PDF）を更新しました。",
       "url": "https://www.pmda.go.jp/rs-std-jp/outline/0001.html",
@@ -10902,16 +11252,6 @@
       "url": "https://www.ema.europa.eu/en/news/meeting-highlights-pharmacovigilance-risk-assessment-committee-prac-28-september-1-october",
       "publishedAt": "2026-10-02",
       "excerpt": "At its monthly meeting, EMA’s safety committee (PRAC) carried out its broad range of responsibilities to manage the safety of medicines, including the assessment of safety…,       Agenda                        Agenda of the PRAC meeting 28 September - 1 October 2026Draft                Reference Number: EMA/PRAC/204838/2026…,       PRAC statistics: October 2026  Monthly figures for PRAC outcomes based on the draft agenda.        © European Medicines Agency,                                       ",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "ema-regulatory-and-procedural-guidelines",
-      "siteName": "Regulatory and procedural guidelines (human and veterinary)",
-      "region": "EU",
-      "title": "List of centrally authorised products with safety-related changes to the product information",
-      "url": "https://www.ema.europa.eu/en/documents/regulatory-procedural-guideline/list-centrally-authorised-products-safety-related-changes-product-information_en.xlsx",
-      "publishedAt": "2026-10-02",
-      "excerpt": "List of centrally authorised products with safety-related changes to the product information",
       "sourceType": "rss"
     },
     {
@@ -13955,8 +14295,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[薬局方][パブコメ]日本薬局方新規収載候補品目（案）に関するご意見の募集について（2026年9月分）",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/pub-comments/jp/0266.html",
@@ -14745,8 +15085,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[薬局方]日局におけるPDG調和文書への対応状況（医薬品各条）を更新しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/0020.html",
@@ -18045,8 +18385,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[薬局方][パブコメ]日本薬局方収載原案に関する改正案の報告について（2026年9月）",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/pub-comments/jp/0264.html",
@@ -18055,8 +18395,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[薬局方][パブコメ]日本薬局方収載原案に関するご意見の募集について（2026年9月分 その2）",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/pub-comments/jp/0263.html",
@@ -18735,8 +19075,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[RS][イベント]第12回PMDAレギュラトリーサイエンス研究会の開催について更新しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/symposia/0034.html",
@@ -19105,8 +19445,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[その他]研究支援委員会の委員名簿を更新しました。",
       "url": "https://www.pmda.go.jp/rs-std-jp/research/0008.html",
@@ -24055,8 +24395,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[その他]第51回科学委員会の議事概要を掲載しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/science-committee/0059.html",
@@ -30945,8 +31285,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[薬局方]薬局方に関する国際的な活動についてのプレスリリースを掲載しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/0005.html",
@@ -35815,8 +36155,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[その他]公的研究費に基づく研究ページを更新しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/research/0004.html",
@@ -36935,8 +37275,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[薬局方][パブコメ]日本薬局方新規収載候補品目（案）に関するご意見の募集について（2026年6月分）",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/pub-comments/jp/0262.html",
@@ -37425,8 +37765,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[薬局方]PDG（薬局方調和国際会議）ニュースを掲載しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/0012.html",
@@ -38075,8 +38415,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[その他]「AI利活用に関する基本的考え方」検討PTを設置しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/cross-sectional-project/0001.html",
@@ -38145,8 +38485,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[薬局方][パブコメ]日本薬局方収載原案に関するご意見の募集について（2026年6月分 その2）",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/pub-comments/jp/0258.html",
@@ -38155,8 +38495,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[薬局方][パブコメ]日本薬局方収載原案に関するご意見の募集について（2026年6月分 その1）",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/pub-comments/jp/0261.html",
@@ -38165,8 +38505,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[薬局方][パブコメ]日本薬局方から削除予定の（案）試薬・試液に関するご意見の募集について（2026年6月分）",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/pub-comments/jp/0259.html",
@@ -38175,8 +38515,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[薬局方][パブコメ]日本薬局方から削除予定の（案）医薬品各条・標準品に関するご意見の募集について（2026年6月分）",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/pub-comments/jp/0260.html",
@@ -39715,8 +40055,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[その他]研究推進業務のページを更新しました。",
       "url": "https://www.pmda.go.jp/rs-std-jp/research/0001.html",
@@ -40195,8 +40535,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[その他]研究紹介動画第6弾を更新しました。",
       "url": "https://www.pmda.go.jp/rs-std-jp/research/0016.html",
@@ -40415,8 +40755,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[その他]第50回科学委員会の議事概要を掲載しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/science-committee/0055.html",
@@ -40455,8 +40795,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[薬局方][パブコメ]薬局方調和国際会議調和案（Stage 2）に関するご意見の募集について（2026年3月分）",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/pub-comments/pdg/0058.html",
@@ -40465,8 +40805,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[薬局方][パブコメ]日本薬局方収載原案に関するご意見の募集について（2026年3月分）",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/pub-comments/jp/0257.html",
@@ -40805,8 +41145,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[薬局方]PDG（薬局方調和国際会議）の議事要旨を掲載しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/0009.html",
@@ -40925,8 +41265,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[その他]薬剤耐性菌感染症に用いるファージ製剤の開発における留意事項を掲載しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/subcommittees/0001.html",
@@ -41045,8 +41385,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[その他]「AI対応WG」のページを新設しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/cross-sectional-project/0024.html",
@@ -41105,8 +41445,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[薬局方][パブコメ]日本薬局方収載原案に関するご意見の募集について（2025年12月分 その2）",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/pub-comments/jp/0256.html",
@@ -41115,8 +41455,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[薬局方][パブコメ]日本薬局方収載原案に関するご意見の募集について（2025年12月分 その1）",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/pub-comments/jp/0255.html",
@@ -41145,8 +41485,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[薬局方][パブコメ]日本薬局方新規収載候補品目（案）に関するご意見の募集について（2025年11月分）",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/pub-comments/jp/0254.html",
@@ -41155,8 +41495,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[薬局方]PDG調和作業手順の改訂版を掲載しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/0022.html",
