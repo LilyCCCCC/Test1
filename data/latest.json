@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-04T22:42:25.214627+00:00",
-  "count": 4437,
+  "generatedAt": "2026-11-05T03:33:25.377617+00:00",
+  "count": 4438,
   "errors": [
     {
       "groupId": "ema",
@@ -11,19 +11,19 @@
       "groupId": "pmda",
       "siteId": "services-for-healtheffects",
       "error": "RSS fetch failed - keeping archived data"
-    },
-    {
-      "groupId": "pmda",
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "error": "RSS fetch failed - keeping archived data"
-    },
-    {
-      "groupId": "pmda",
-      "siteId": "PMDA：トップ その他",
-      "error": "RSS fetch failed - keeping archived data"
     }
   ],
   "items": [
+    {
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
+      "region": "JP",
+      "title": "[薬局方]日本薬局方技術情報「ミニタブレット等の剤形としての取扱いについて」を掲載しました",
+      "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/0008.html",
+      "publishedAt": "2026-11-05",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
     {
       "siteId": "tfda-news-and-press-releases",
       "siteName": "新聞",
@@ -295,6 +295,26 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "FDA Expedited Investigational New Drug (IND) Pilot Program",
+      "url": "http://www.fda.gov/industry/fda-actions-accelerate-and-modernize-early-and-late-stage-clinical-development/fda-expedited-investigational-new-drug-ind-pilot-program",
+      "publishedAt": "2026-11-04",
+      "excerpt": "The FDA Expedited IND Pilot Program is an initiative under HHS Operation TrialBlazer designed to evaluate new approaches for accelerating first-in-human (FIH) clinical trials in the United States while maintaining FDA's rigorous standards for participant safety and scientific oversight.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Expedited IND Rolling Submission Process and Program Structure",
+      "url": "http://www.fda.gov/industry/fda-expedited-investigational-new-drug-ind-pilot-program/expedited-ind-rolling-submission-process-and-program-structure",
+      "publishedAt": "2026-11-04",
+      "excerpt": "A majority of the Expedited IND Pilot will take place during the “Pre-IND” phase – the period of nonclinical development before the sponsor submits their official 30-day IND application.",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "ema-whats-new",
       "siteName": "What's new",
       "region": "EU",
@@ -462,6 +482,16 @@
       "url": "https://www.ema.europa.eu/system/files/documents/agenda/hma-ema-ai-data-forum-2026_draft-event-agenda-en_1.pdf",
       "publishedAt": "2026-11-04",
       "excerpt": "Agenda - HMA / EMA multistakeholder AI and Data forum: Build trustworthy AI on strong data foundations",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Advancing Generic Drug Development: Modernizing Bioequivalence Approaches for Topical & Transdermal Products - 09/10/2026",
+      "url": "http://www.fda.gov/drugs/news-events-human-drugs/advancing-generic-drug-development-modernizing-bioequivalence-approaches-topical-transdermal",
+      "publishedAt": "2026-11-04",
+      "excerpt": "This half-day virtual workshop features FDA expert presentations and audience Q&A on bioequivalence (BE) approaches for topical and transdermal generic drug products.",
       "sourceType": "rss"
     },
     {
@@ -1155,8 +1185,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[調達]オープンカウンター公告（役員応接室用什器の納品、設置業務一式）",
       "url": "https://www.pmda.go.jp/procurements/public-bidding/open-counter/1663.html",
@@ -2185,8 +2215,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[調達]契約締結状況について",
       "url": "https://www.pmda.go.jp/procurements/contract-info/0002.html",
@@ -2205,8 +2235,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[PMDA]医療機器WEB申請プラットフォーム（DWAP）の運用停止について",
       "url": "https://www.pmda.go.jp/about-pmda/news-release/0105.html",
@@ -2565,8 +2595,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[PMDA][イベント]2026年度のPMDAオープン・カンパニー情報（技術系）を更新しました",
       "url": "https://www.pmda.go.jp/about-pmda/symposia/0030.html",
@@ -3745,8 +3775,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[調達]落札公示",
       "url": "https://www.pmda.go.jp/procurements/public-bidding/announcement-of-the-winning-bid/0001.html",
@@ -3755,8 +3785,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[PMDA]サイバー攻撃による情報漏えい等の事案を踏まえたPMDAにおけるセキュリティ対策方針について",
       "url": "https://www.pmda.go.jp/about-pmda/news-release/0104.html",
@@ -4725,8 +4755,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[採用]事務補助員（規格基準作成業務に係る補助業務等（技術系））の募集について",
       "url": "https://www.pmda.go.jp/recruit/0785.html",
@@ -6435,8 +6465,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[採用]事務補助員（医薬翻訳事務）の募集について（採用時期を更新しました）",
       "url": "https://www.pmda.go.jp/recruit/0429.html",
@@ -8415,8 +8445,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[採用]事務補助員（情報公開に関する補助業務（技術系））の募集について",
       "url": "https://www.pmda.go.jp/recruit/0895.html",
@@ -8778,16 +8808,6 @@
       "siteId": "fda-whats-new-drugs",
       "siteName": "What's New: Drugs",
       "region": "US",
-      "title": "FDA Expedited Investigational New Drug (IND) Pilot Program",
-      "url": "http://www.fda.gov/industry/fda-actions-accelerate-and-modernize-early-and-late-stage-clinical-development/fda-expedited-investigational-new-drug-ind-pilot-program",
-      "publishedAt": "2026-10-16",
-      "excerpt": "The FDA Expedited IND Pilot Program is an initiative under HHS Operation TrialBlazer designed to evaluate new approaches for accelerating first-in-human (FIH) clinical trials in the United States while maintaining FDA's rigorous standards for participant safety and scientific oversight.",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
       "title": "FDA Approves New Nonprescription Eye Drop for Relief of Eye Redness",
       "url": "http://www.fda.gov/drugs/drug-alerts-and-statements/fda-approves-new-nonprescription-eye-drop-relief-eye-redness",
       "publishedAt": "2026-10-16",
@@ -8802,16 +8822,6 @@
       "url": "http://www.fda.gov/industry/fda-expedited-investigational-new-drug-ind-pilot-program/expedited-investigational-new-drug-pilot-program-application-instructions",
       "publishedAt": "2026-10-16",
       "excerpt": "The application will consist of two sections: 1) Sponsor and Investigative New Drug Information, and 2) Prospective Research Institution Qualifications.",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "Expedited IND Rolling Submission Process and Program Structure",
-      "url": "http://www.fda.gov/industry/fda-expedited-investigational-new-drug-ind-pilot-program/expedited-ind-rolling-submission-process-and-program-structure",
-      "publishedAt": "2026-10-16",
-      "excerpt": "A majority of the Expedited IND Pilot will take place during the “Pre-IND” phase – the period of nonclinical development before the sponsor submits their official 30-day IND application.",
       "sourceType": "rss"
     },
     {
@@ -8935,8 +8945,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[PMDA][イベント]第3回プレスセミナー「医薬品製造業を取り巻く近年の潮流とPMDAの取組 ー品質確保とイノベーションの融合を目指してー」",
       "url": "https://www.pmda.go.jp/about-pmda/symposia/0036.html",
@@ -9142,16 +9152,6 @@
       "url": "https://www.ema.europa.eu/en/documents/scientific-guideline/draft-reflection-paper-investigation-drug-interactions-herbal-medicinal-products_en.pdf",
       "publishedAt": "2026-10-15",
       "excerpt": "Draft reflection paper on the investigation of drug interactions of herbal medicinal products",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "Advancing Generic Drug Development: Modernizing Bioequivalence Approaches for Topical & Transdermal Products - 09/10/2026",
-      "url": "http://www.fda.gov/drugs/news-events-human-drugs/advancing-generic-drug-development-modernizing-bioequivalence-approaches-topical-transdermal",
-      "publishedAt": "2026-10-15",
-      "excerpt": "This half-day virtual workshop features FDA expert presentations and audience Q&A on bioequivalence (BE) approaches for topical and transdermal generic drug products.",
       "sourceType": "rss"
     },
     {
