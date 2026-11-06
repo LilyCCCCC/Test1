@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-06T17:34:49.029774+00:00",
-  "count": 4490,
+  "generatedAt": "2026-11-06T23:17:40.192066+00:00",
+  "count": 4510,
   "errors": [
     {
       "groupId": "ema",
@@ -14,12 +14,12 @@
     },
     {
       "groupId": "pmda",
-      "siteId": "PMDAの新着情報",
+      "siteId": "PMDA：トップ 安全対策",
       "error": "RSS fetch failed - keeping archived data"
     },
     {
       "groupId": "pmda",
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
+      "siteId": "PMDA：トップ その他",
       "error": "RSS fetch failed - keeping archived data"
     }
   ],
@@ -65,8 +65,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ その他",
-      "siteName": "Others (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[PMDA]新霞が関ビル全館停電に伴うファクシミリによる受付の一時停止について[156KB]（2026年11月6日）",
       "url": "https://www.pmda.go.jp/about-pmda/news-release/0098.pdf",
@@ -75,13 +75,23 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ その他",
-      "siteName": "Others (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[PMDA]専門委員名簿を更新しました",
       "url": "https://www.pmda.go.jp/about-pmda/outline/0016.html",
       "publishedAt": "2026-11-06",
       "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "What Is the Approval Process for Generic Drugs?",
+      "url": "http://www.fda.gov/drugs/generic-drugs/what-approval-process-generic-drugs",
+      "publishedAt": "2026-11-06",
+      "excerpt": "Overview of the FDA review and approval process for generic drugs",
       "sourceType": "rss"
     },
     {
@@ -125,6 +135,16 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "Superior Felt & Filtration LLC",
+      "url": "http://www.fda.gov/about-fda/superior-felt-filtration-llc",
+      "publishedAt": "2026-11-06",
+      "excerpt": "Superior Felt & Filtration LLC, McHenry, IL, 12/5/2025, 2000044808",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "ema-whats-new",
       "siteName": "What's new",
       "region": "EU",
@@ -132,6 +152,76 @@
       "url": "https://www.ema.europa.eu/en/medicines/veterinary/variation/credelio",
       "publishedAt": "2026-11-06",
       "excerpt": "Summary of opinion: Credelio, 05/11/2026 Positive",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "Soma Technology Inc",
+      "url": "http://www.fda.gov/about-fda/soma-technology-inc",
+      "publishedAt": "2026-11-06",
+      "excerpt": "Soma Technology Inc, Bloomfield, CT, 2/18/2026, 1000634785",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Science & Research",
+      "url": "http://www.fda.gov/drugs/generic-drugs/science-research",
+      "publishedAt": "2026-11-06",
+      "excerpt": "In collaboration with industry and the public, FDA creates an annual list of regulatory science initiatives on generic drugs.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "Safesource Direct Glove Plant",
+      "url": "http://www.fda.gov/about-fda/safesource-direct-glove-plant",
+      "publishedAt": "2026-11-06",
+      "excerpt": "Safesource Direct Glove Plant, Broussard, LA, 12/5/2025, 3024999439",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "Rogers Foam Corporation",
+      "url": "http://www.fda.gov/about-fda/rogers-foam-corporation",
+      "publishedAt": "2026-11-06",
+      "excerpt": "Rogers Foam Corporation, Mount Sterling, KY, 2/25/2026, 3004082002",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "Radiation Products Design, Inc",
+      "url": "http://www.fda.gov/about-fda/radiation-products-design-inc",
+      "publishedAt": "2026-11-06",
+      "excerpt": "Radiation Products Design, Inc, Albertville, MN, 3/4/2026, 2182762",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "Provisio Medical Inc.",
+      "url": "http://www.fda.gov/about-fda/provisio-medical-inc",
+      "publishedAt": "2026-11-06",
+      "excerpt": "Provisio Medical Inc., San Diego, CA, 2/27/2026, 3016171942",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "Protagonist Therapeutics Inc",
+      "url": "http://www.fda.gov/about-fda/protagonist-therapeutics-inc",
+      "publishedAt": "2026-11-06",
+      "excerpt": "Protagonist Therapeutics Inc, Newark, CA, 4/3/2026, 3013745424",
       "sourceType": "rss"
     },
     {
@@ -162,6 +252,16 @@
       "url": "http://www.fda.gov/about-fda/ocho-rios-miami-inc",
       "publishedAt": "2026-11-06",
       "excerpt": "Ocho Rios-Miami, Inc., Miami, FL, 7/17/2023, 1000208659",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "Novo Nordisk",
+      "url": "http://www.fda.gov/about-fda/novo-nordisk",
+      "publishedAt": "2026-11-06",
+      "excerpt": "Novo Nordisk, Malov, Denmark, 4/17/2026, 3003037054",
       "sourceType": "rss"
     },
     {
@@ -212,6 +312,36 @@
       "url": "http://www.fda.gov/about-fda/mom-enterprises-llc",
       "publishedAt": "2026-11-06",
       "excerpt": "MOM Enterprises, LLC, Richmond, CA, 11/5/2025, 3004137354",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "Koven Technology, Inc.",
+      "url": "http://www.fda.gov/about-fda/koven-technology-inc",
+      "publishedAt": "2026-11-06",
+      "excerpt": "Koven Technology, Inc., St Louis, MO, 2/6/2026, 1937397",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "Kevin E. Miller, MD",
+      "url": "http://www.fda.gov/about-fda/kevin-e-miller-md",
+      "publishedAt": "2026-11-06",
+      "excerpt": "Kevin E. Miller, MD, Wichita, KS, 2/13/2026, 3042247790",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "Immuno-Mycologics, Inc",
+      "url": "http://www.fda.gov/about-fda/immuno-mycologics-inc",
+      "publishedAt": "2026-11-06",
+      "excerpt": "Immuno-Mycologics, Inc, Norman, OK, 3/5/2026, 1627497",
       "sourceType": "rss"
     },
     {
@@ -358,10 +488,30 @@
       "siteId": "fda-whats-new-drugs",
       "siteName": "What's New: Drugs",
       "region": "US",
+      "title": "Generic Drug Facilities, Sites and Organization Lists",
+      "url": "http://www.fda.gov/industry/generic-drug-user-fee-amendments/generic-drug-facilities-sites-and-organization-lists",
+      "publishedAt": "2026-11-06",
+      "excerpt": "Generic Drug Facilities, Sites and Organization Lists",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
       "title": "GDUFA Type II API DMF Payment Receipts Report",
       "url": "http://www.fda.gov/industry/fda-user-fee-programs/gdufa-type-ii-api-dmf-payment-receipts-report",
       "publishedAt": "2026-11-06",
       "excerpt": "GDUFA Type II API DMF Payment Receipts Report",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "Focalyx Technologies, LLC",
+      "url": "http://www.fda.gov/about-fda/focalyx-technologies-llc",
+      "publishedAt": "2026-11-06",
+      "excerpt": "Focalyx Technologies, LLC, Hialeah, FL, 12/1/2025, 3016567400",
       "sourceType": "rss"
     },
     {
@@ -385,6 +535,16 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "Eduardo Patricio Yanez Ruiz, MD",
+      "url": "http://www.fda.gov/about-fda/eduardo-patricio-yanez-ruiz-md-0",
+      "publishedAt": "2026-11-06",
+      "excerpt": "Eduardo Patricio Yanez Ruiz, MD, Temuco, Chile, 1/22/2026, 3022159116",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "fda-whats-new-drugs",
       "siteName": "What's New: Drugs",
       "region": "US",
@@ -395,6 +555,46 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Complex Generics News",
+      "url": "http://www.fda.gov/drugs/generic-drugs/complex-generics-news",
+      "publishedAt": "2026-11-06",
+      "excerpt": "Generally, complex generics are products that have complex active ingredients, formulations, dosage forms, or routes of administration, or are complex drug-device combination products. Generics of complex brand name drugs (i.e., reference listed drugs) can be more difficult to develop.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "Comparative Biosciences, Inc",
+      "url": "http://www.fda.gov/about-fda/comparative-biosciences-inc",
+      "publishedAt": "2026-11-06",
+      "excerpt": "Comparative Biosciences, Inc, Sunnyvale, CA, 4/10/2026, 3004538500",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "Charles River Laboratories",
+      "url": "http://www.fda.gov/about-fda/charles-river-laboratories-0",
+      "publishedAt": "2026-11-06",
+      "excerpt": "Charles River Laboratories, Mattawan, MI, 6/8/2026, 1813181",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "Cardionxt",
+      "url": "http://www.fda.gov/about-fda/cardionxt",
+      "publishedAt": "2026-11-06",
+      "excerpt": "Cardionxt, Denver, CO, 12/15/2025, 3020036682",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "fda-ora-foia-electronic-reading-room",
       "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
       "region": "US",
@@ -402,6 +602,46 @@
       "url": "http://www.fda.gov/about-fda/bodyhealthcom-llc",
       "publishedAt": "2026-11-06",
       "excerpt": "Bodyhealth.com LLC, Dunedin, FL, 8/20/2021, 3011105330",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "Ascendis Pharma LLC",
+      "url": "http://www.fda.gov/about-fda/ascendis-pharma-llc-0",
+      "publishedAt": "2026-11-06",
+      "excerpt": "Ascendis Pharma LLC, Palo Alto, CA, 3/6/2026, 3022069968",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "AnaptysBio",
+      "url": "http://www.fda.gov/about-fda/anaptysbio",
+      "publishedAt": "2026-11-06",
+      "excerpt": "AnaptysBio, San Diego, CA, 4/29/2026, 3020705743",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "American Contract Systems, Inc",
+      "url": "http://www.fda.gov/about-fda/american-contract-systems-inc-1",
+      "publishedAt": "2026-11-06",
+      "excerpt": "American Contract Systems, Inc, Tampa, FL, 8/16/2019, 3003309947",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "American Contract Systems, Inc",
+      "url": "http://www.fda.gov/about-fda/american-contract-systems-inc-0",
+      "publishedAt": "2026-11-06",
+      "excerpt": "American Contract Systems, Inc, Kansas City, MO, 5/24/2018, 3003419114",
       "sourceType": "rss"
     },
     {
@@ -712,16 +952,6 @@
       "url": "http://www.fda.gov/industry/fda-user-fee-programs/generic-drug-user-fee-amendments",
       "publishedAt": "2026-11-05",
       "excerpt": "This page features news and information for industry and stakeholders about GDUFA, its fee structure, payment methods, and related information.",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "Generic Drug Facilities, Sites and Organization Lists",
-      "url": "http://www.fda.gov/industry/generic-drug-user-fee-amendments/generic-drug-facilities-sites-and-organization-lists",
-      "publishedAt": "2026-11-05",
-      "excerpt": "Generic Drug Facilities, Sites and Organization Lists",
       "sourceType": "rss"
     },
     {
@@ -1965,8 +2195,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ その他",
-      "siteName": "Others (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[調達]オープンカウンター公告（役員応接室用什器の納品、設置業務一式）",
       "url": "https://www.pmda.go.jp/procurements/public-bidding/open-counter/1663.html",
@@ -2035,8 +2265,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 安全対策",
-      "siteName": "Adverse Health Effects Relief (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[健康]副作用救済給付の決定に関する情報（2026年度8月分）を掲載しました",
       "url": "https://www.pmda.go.jp/relief-services/adr-sufferers/0043.html",
@@ -2965,8 +3195,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ その他",
-      "siteName": "Others (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[調達]契約締結状況について",
       "url": "https://www.pmda.go.jp/procurements/contract-info/0002.html",
@@ -2985,8 +3215,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ その他",
-      "siteName": "Others (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[PMDA]医療機器WEB申請プラットフォーム（DWAP）の運用停止について",
       "url": "https://www.pmda.go.jp/about-pmda/news-release/0105.html",
@@ -3335,8 +3565,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ その他",
-      "siteName": "Others (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[PMDA][イベント]2026年度のPMDAオープン・カンパニー情報（技術系）を更新しました",
       "url": "https://www.pmda.go.jp/about-pmda/symposia/0030.html",
@@ -4495,8 +4725,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ その他",
-      "siteName": "Others (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[調達]落札公示",
       "url": "https://www.pmda.go.jp/procurements/public-bidding/announcement-of-the-winning-bid/0001.html",
@@ -4505,8 +4735,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ その他",
-      "siteName": "Others (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[PMDA]サイバー攻撃による情報漏えい等の事案を踏まえたPMDAにおけるセキュリティ対策方針について",
       "url": "https://www.pmda.go.jp/about-pmda/news-release/0104.html",
@@ -5455,8 +5685,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ その他",
-      "siteName": "Others (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[採用]事務補助員（規格基準作成業務に係る補助業務等（技術系））の募集について",
       "url": "https://www.pmda.go.jp/recruit/0785.html",
@@ -7135,8 +7365,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ その他",
-      "siteName": "Others (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[採用]事務補助員（医薬翻訳事務）の募集について（採用時期を更新しました）",
       "url": "https://www.pmda.go.jp/recruit/0429.html",
@@ -11422,16 +11652,6 @@
       "url": "https://www.pmda.go.jp/review-services/trials/0022.html",
       "publishedAt": "2026-10-08",
       "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "What Is the Approval Process for Generic Drugs?",
-      "url": "http://www.fda.gov/drugs/generic-drugs/what-approval-process-generic-drugs",
-      "publishedAt": "2026-10-08",
-      "excerpt": "Overview of the FDA review and approval process for generic drugs",
       "sourceType": "rss"
     },
     {
@@ -18795,16 +19015,6 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "Complex Generics News",
-      "url": "http://www.fda.gov/drugs/generic-drugs/complex-generics-news",
-      "publishedAt": "2026-09-09",
-      "excerpt": "Generally, complex generics are products that have complex active ingredients, formulations, dosage forms, or routes of administration, or are complex drug-device combination products. Generics of complex brand name drugs (i.e., reference listed drugs) can be more difficult to develop.",
-      "sourceType": "rss"
-    },
-    {
       "siteId": "ema-whats-new",
       "siteName": "What's new",
       "region": "EU",
@@ -22002,16 +22212,6 @@
       "url": "http://www.fda.gov/consumers/health-fraud-scams/tianeptine",
       "publishedAt": "2026-08-25",
       "excerpt": "FDA alerts and notices regarding tianeptine",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "Science & Research",
-      "url": "http://www.fda.gov/drugs/generic-drugs/science-research",
-      "publishedAt": "2026-08-25",
-      "excerpt": "In collaboration with industry and the public, FDA creates an annual list of regulatory science initiatives on generic drugs.",
       "sourceType": "rss"
     },
     {
