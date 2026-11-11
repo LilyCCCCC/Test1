@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-10T23:32:28.836841+00:00",
-  "count": 4647,
+  "generatedAt": "2026-11-11T06:48:42.772894+00:00",
+  "count": 4649,
   "errors": [
     {
       "groupId": "ema",
@@ -11,9 +11,54 @@
       "groupId": "pmda",
       "siteId": "services-for-healtheffects",
       "error": "RSS fetch failed - keeping archived data"
+    },
+    {
+      "groupId": "pmda",
+      "siteId": "PMDAの新着情報",
+      "error": "RSS fetch failed - keeping archived data"
+    },
+    {
+      "groupId": "pmda",
+      "siteId": "PMDA：トップ 承認審査",
+      "error": "RSS fetch failed - keeping archived data"
+    },
+    {
+      "groupId": "pmda",
+      "siteId": "PMDA：トップ 安全対策",
+      "error": "RSS fetch failed - keeping archived data"
+    },
+    {
+      "groupId": "pmda",
+      "siteId": "PMDA：トップ 安全対策",
+      "error": "RSS fetch failed - keeping archived data"
+    },
+    {
+      "groupId": "pmda",
+      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
+      "error": "RSS fetch failed - keeping archived data"
+    },
+    {
+      "groupId": "pmda",
+      "siteId": "PMDA：トップ 国際活動",
+      "error": "RSS fetch failed - keeping archived data"
+    },
+    {
+      "groupId": "pmda",
+      "siteId": "PMDA：トップ その他",
+      "error": "RSS fetch failed - keeping archived data"
     }
   ],
   "items": [
+    {
+      "siteId": "notice-from-tfda",
+      "siteName": "公告",
+      "region": "TW",
+      "title": "預告廢止「食品中甲醛之檢驗方法(二)(MOHWA0004.03)」。",
+      "url": "http://www.fda.gov.tw/tc/newsContent.aspx?cid=5072&id=31782&utm_source=rss&utm_medium=feed&utm_campaign=rss_subscription",
+      "publishedAt": "2026-11-11",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
     {
       "siteId": "PMDA：トップ その他",
       "siteName": "Others (JP)",
@@ -182,6 +227,16 @@
       "url": "https://www.ema.europa.eu/system/files/documents/report/2026-10-human-maa-paa-report_en.pdf",
       "publishedAt": "2026-11-10",
       "excerpt": "Medicinal products for human use: monthly figures - October 2026",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-recalls",
+      "siteName": "Recalls",
+      "region": "US",
+      "title": "Laub's Feeding & Cubing, Inc. Voluntary Recalls Grade A Mini Hay Cubes Because of Potential Clostridium Botulinum Contamination",
+      "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/laubs-feeding-cubing-inc-voluntary-recalls-grade-mini-hay-cubes-because-potential-clostridium",
+      "publishedAt": "2026-11-10",
+      "excerpt": "Laub’s Feeding and Cubing, Inc. of Beryl, Utah is voluntary recalling up 89 ton of Grade A Mini Hay Cubes sold from October 3 – October 31 because the product has the potential to be contaminated with Clostridium botulinum, a bacterium that can cause botulism, leading to severe and potentially fatal",
       "sourceType": "rss"
     },
     {
