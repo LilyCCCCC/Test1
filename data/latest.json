@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-11T22:50:51.566560+00:00",
-  "count": 4662,
+  "generatedAt": "2026-11-12T03:56:37.759234+00:00",
+  "count": 4663,
   "errors": [
     {
       "groupId": "ema",
@@ -34,6 +34,26 @@
     }
   ],
   "items": [
+    {
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
+      "region": "JP",
+      "title": "[基準]小児用医薬品開発に関する治験相談についてのQ&Aを掲載しました",
+      "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/guidance-guideline/0006.html",
+      "publishedAt": "2026-11-13",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "reviews",
+      "siteName": "Reviews (EN)",
+      "region": "JP",
+      "title": "English Translation of Review Report: Lunsumio and Uplizna (Partial Change Approval)",
+      "url": "https://www.pmda.go.jp/english/review-services/reviews/approved-information/drugs/0001.html",
+      "publishedAt": "2026-11-12",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
     {
       "siteId": "notice-from-tfda",
       "siteName": "公告",
@@ -5322,16 +5342,6 @@
       "url": "http://www.fda.gov/regulatory-information/search-fda-guidance-documents/essential-drug-delivery-performance-characteristics-devices-intended-deliver-drugs-and-biological",
       "publishedAt": "2026-10-29",
       "excerpt": "To facilitate and streamline development of stand-alone devices, and combination products with device constituent parts, intended to deliver drugs and biological products, by improving the consistency of drug delivery performance information developed and included in applications.",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "reviews",
-      "siteName": "Reviews (EN)",
-      "region": "JP",
-      "title": "English Translation of Review Report: Zurzuvae",
-      "url": "https://www.pmda.go.jp/english/review-services/reviews/approved-information/drugs/0001.html",
-      "publishedAt": "2026-10-29",
-      "excerpt": "",
       "sourceType": "rss"
     },
     {
