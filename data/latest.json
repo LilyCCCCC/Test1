@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-13T23:42:19.967286+00:00",
-  "count": 4803,
+  "generatedAt": "2026-11-14T06:43:48.393646+00:00",
+  "count": 4804,
   "errors": [
     {
       "groupId": "ema",
@@ -14,16 +14,21 @@
     },
     {
       "groupId": "pmda",
-      "siteId": "PMDA：トップ 安全対策",
-      "error": "RSS fetch failed - keeping archived data"
-    },
-    {
-      "groupId": "pmda",
       "siteId": "PMDA：トップ 国際活動",
       "error": "RSS fetch failed - keeping archived data"
     }
   ],
   "items": [
+    {
+      "siteId": "fda-recalls",
+      "siteName": "Recalls",
+      "region": "US",
+      "title": "bioQuad Life Sciences Issues Allergy Alert on Undeclared Milk in OsteoDenx® Dietary Supplement",
+      "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/bioquad-life-sciences-issues-allergy-alert-undeclared-milk-osteodenxr-dietary-supplement",
+      "publishedAt": "2026-11-13",
+      "excerpt": "bioQuad Life Sciences of Yorba Linda, California is recalling two lots of OsteoDenx® dietary supplement capsules because they contain undeclared milk. People who have an allergy or severe sensitivity to milk run the risk of a serious or life-threatening allergic reaction if they consume this product",
+      "sourceType": "rss"
+    },
     {
       "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
       "siteName": "RS, Standards Creation, Japanese Pharmacy (JP)",
@@ -822,6 +827,16 @@
       "url": "http://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/genuine-virgin-aloe-corp-dba-triderma-679744-07012024",
       "publishedAt": "2026-11-13",
       "excerpt": "CGMP/Finished Pharmaceuticals/Adulterated",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Generic Drug User Fee Amendments",
+      "url": "http://www.fda.gov/industry/fda-user-fee-programs/generic-drug-user-fee-amendments",
+      "publishedAt": "2026-11-13",
+      "excerpt": "This page features news and information for industry and stakeholders about GDUFA, its fee structure, payment methods, and related information.",
       "sourceType": "rss"
     },
     {
@@ -4618,16 +4633,6 @@
       "siteId": "fda-whats-new-drugs",
       "siteName": "What's New: Drugs",
       "region": "US",
-      "title": "Generic Drug User Fee Amendments",
-      "url": "http://www.fda.gov/industry/fda-user-fee-programs/generic-drug-user-fee-amendments",
-      "publishedAt": "2026-11-05",
-      "excerpt": "This page features news and information for industry and stakeholders about GDUFA, its fee structure, payment methods, and related information.",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
       "title": "Generic Competition and Drug Prices",
       "url": "http://www.fda.gov/about-fda/center-drug-evaluation-and-research-cder/generic-competition-and-drug-prices",
       "publishedAt": "2026-11-05",
@@ -5885,8 +5890,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Adverse Health Effects Relief (JP)",
       "region": "JP",
       "title": "[健康]副作用救済給付の決定に関する情報（2026年度8月分）を掲載しました",
       "url": "https://www.pmda.go.jp/relief-services/adr-sufferers/0043.html",
