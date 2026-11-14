@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T19:15:54.300367+00:00",
+  "generatedAt": "2026-11-14T23:07:36.307181+00:00",
   "count": 4804,
   "errors": [
     {
@@ -14,11 +14,56 @@
     },
     {
       "groupId": "pmda",
+      "siteId": "PMDA：トップ 安全対策",
+      "error": "RSS fetch failed - keeping archived data"
+    },
+    {
+      "groupId": "pmda",
+      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
+      "error": "RSS fetch failed - keeping archived data"
+    },
+    {
+      "groupId": "pmda",
+      "siteId": "PMDA：トップ 国際活動",
+      "error": "RSS fetch failed - keeping archived data"
+    },
+    {
+      "groupId": "pmda",
       "siteId": "PMDA：トップ その他",
       "error": "RSS fetch failed - keeping archived data"
     }
   ],
   "items": [
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "CDER Manual of Policies & Procedures | MAPP",
+      "url": "http://www.fda.gov/about-fda/center-drug-evaluation-and-research-cder/cder-manual-policies-procedures-mapp",
+      "publishedAt": "2026-11-14",
+      "excerpt": "CDER's Manual of Policies and Procedures (MAPPs) are federal directives and documentation of internal policies and procedures.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Antimicrobial Resistance",
+      "url": "http://www.fda.gov/emergency-preparedness-and-response/medical-countermeasure-mcm-issues/antimicrobial-resistance",
+      "publishedAt": "2026-11-14",
+      "excerpt": "Antimicrobial resistance (AMR)—the ability of a microorganism (bacteria, virus, fungi, parasite) to resist the effects of a drug—is a serious, complex and costly public health problem. Learn what FDA is doing to address AMR.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Activities Report of the Generic Drug Program | FDARA Title VIII Sections 807 and 805",
+      "url": "http://www.fda.gov/industry/generic-drug-user-fee-amendments/activities-report-generic-drug-program-fdara-title-viii-sections-807-and-805",
+      "publishedAt": "2026-11-14",
+      "excerpt": "Section 807 of the FDA Reauthorization Act of 2017 (FDARA) requires the FDA to report on certain abbreviated new drug applications (ANDAs).",
+      "sourceType": "rss"
+    },
     {
       "siteId": "fda-recalls",
       "siteName": "Recalls",
@@ -30,8 +75,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 国際活動",
-      "siteName": "International (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[基準]小児用医薬品開発に関する治験相談についてのQ&Aを掲載しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/guidance-guideline/0006.html",
@@ -1770,16 +1815,6 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "Antimicrobial Resistance",
-      "url": "http://www.fda.gov/emergency-preparedness-and-response/medical-countermeasure-mcm-issues/antimicrobial-resistance",
-      "publishedAt": "2026-11-12",
-      "excerpt": "Antimicrobial resistance (AMR)—the ability of a microorganism (bacteria, virus, fungi, parasite) to resist the effects of a drug—is a serious, complex and costly public health problem. Learn what FDA is doing to address AMR.",
-      "sourceType": "rss"
-    },
-    {
       "siteId": "ema-whats-new",
       "siteName": "What's new",
       "region": "EU",
@@ -2667,16 +2702,6 @@
       "url": "https://www.ema.europa.eu/system/files/documents/other/final-chmp-dates-2027-2028_en_1.pdf",
       "publishedAt": "2026-11-10",
       "excerpt": "CHMP meeting dates 2027 and 2028",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "CDER Manual of Policies & Procedures | MAPP",
-      "url": "http://www.fda.gov/about-fda/center-drug-evaluation-and-research-cder/cder-manual-policies-procedures-mapp",
-      "publishedAt": "2026-11-10",
-      "excerpt": "CDER's Manual of Policies and Procedures (MAPPs) are federal directives and documentation of internal policies and procedures.",
       "sourceType": "rss"
     },
     {
@@ -4390,8 +4415,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 国際活動",
-      "siteName": "International (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[薬局方]日本薬局方技術情報「ミニタブレット等の剤形としての取扱いについて」を掲載しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/0008.html",
@@ -5620,8 +5645,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 国際活動",
-      "siteName": "International (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[基準]「薬事活動におけるAI利活用に関する基本的考え方（Early Consideration）」（日本語・英訳版）を掲載しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/guidance-guideline/0003.html",
@@ -5830,8 +5855,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 国際活動",
-      "siteName": "International (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[薬局方][パブコメ]第二十改正日本薬局方原案作成要領（案）に関するご意見の募集について",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/pub-comments/jp/0267.html",
@@ -5890,8 +5915,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 安全対策",
-      "siteName": "Adverse Health Effects Relief (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[健康]副作用救済給付の決定に関する情報（2026年度8月分）を掲載しました",
       "url": "https://www.pmda.go.jp/relief-services/adr-sufferers/0043.html",
@@ -7140,8 +7165,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 国際活動",
-      "siteName": "International (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[その他]令和8年度第2回倫理審査委員会の議事要旨を掲載しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/research/0009.html",
@@ -9930,8 +9955,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 国際活動",
-      "siteName": "International (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[RS][イベント]第13回PMDAレギュラトリーサイエンス研究会の開催について掲載しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/symposia/0035.html",
@@ -10500,8 +10525,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 国際活動",
-      "siteName": "International (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[その他]「申請電子データを活用した解析」のページを更新しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/0002.html",
@@ -29087,16 +29112,6 @@
       "url": "http://www.fda.gov/drugs/medication-health-fraud-notifications/anaconda-premium-500k-may-be-harmful-due-hidden-ingredient",
       "publishedAt": "2026-08-12",
       "excerpt": "The Food and Drug Administration is advising consumers not to purchase or use Anaconda Premium 500K, a product promoted and sold for sexual enhancement on various websites and in some retail stores.",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "Activities Report of the Generic Drug Program | FDARA Title VIII Sections 807 and 805",
-      "url": "http://www.fda.gov/industry/generic-drug-user-fee-amendments/activities-report-generic-drug-program-fdara-title-viii-sections-807-and-805",
-      "publishedAt": "2026-08-12",
-      "excerpt": "Section 807 of the FDA Reauthorization Act of 2017 (FDARA) requires the FDA to report on certain abbreviated new drug applications (ANDAs).",
       "sourceType": "rss"
     },
     {
