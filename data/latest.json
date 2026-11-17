@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-17T14:41:35.614315+00:00",
-  "count": 4881,
+  "generatedAt": "2026-11-17T22:59:11.653742+00:00",
+  "count": 4906,
   "errors": [
     {
       "groupId": "ema",
@@ -10,26 +10,6 @@
     {
       "groupId": "pmda",
       "siteId": "services-for-healtheffects",
-      "error": "RSS fetch failed - keeping archived data"
-    },
-    {
-      "groupId": "pmda",
-      "siteId": "PMDA：トップ 安全対策",
-      "error": "RSS fetch failed - keeping archived data"
-    },
-    {
-      "groupId": "pmda",
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "error": "RSS fetch failed - keeping archived data"
-    },
-    {
-      "groupId": "pmda",
-      "siteId": "PMDA：トップ 国際活動",
-      "error": "RSS fetch failed - keeping archived data"
-    },
-    {
-      "groupId": "pmda",
-      "siteId": "PMDA：トップ その他",
       "error": "RSS fetch failed - keeping archived data"
     }
   ],
@@ -85,13 +65,13 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
-      "region": "JP",
-      "title": "[PMDA][イベント]2026年度のPMDAオープン・カンパニー情報（技術系）を更新しました",
-      "url": "https://www.pmda.go.jp/about-pmda/symposia/0030.html",
+      "siteId": "ema-withdrawn-applications",
+      "siteName": "Withdrawn applications",
+      "region": "EU",
+      "title": "Withdrawn application: Ibrance, 15/10/2026",
+      "url": "https://www.ema.europa.eu/en/medicines/human/variation/ibrance",
       "publishedAt": "2026-11-17",
-      "excerpt": "",
+      "excerpt": "Withdrawn application: Ibrance, 15/10/2026",
       "sourceType": "rss"
     },
     {
@@ -118,10 +98,50 @@
       "siteId": "fda-ora-foia-electronic-reading-room",
       "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
       "region": "US",
+      "title": "USV Private Limited",
+      "url": "http://www.fda.gov/about-fda/usv-private-limited",
+      "publishedAt": "2026-11-17",
+      "excerpt": "USV Private Limited, India, 4/17/26, 3004086192",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "Tony L. Lopes Dairy L.P.",
+      "url": "http://www.fda.gov/about-fda/tony-l-lopes-dairy-lp",
+      "publishedAt": "2026-11-17",
+      "excerpt": "Tony L. Lopes Dairy L.P., Gustine, CA, 12/2/25, 1000522918",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "Thermo Fisher Biopharma Services PTE, LTD (TFBS)",
+      "url": "http://www.fda.gov/about-fda/thermo-fisher-biopharma-services-pte-ltd-tfbs",
+      "publishedAt": "2026-11-17",
+      "excerpt": "Thermo Fisher Biopharma Services PTE, LTD (TFBS), Singapore, 5/5/26, 3035338829",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
       "title": "The Harvard Drug Group LLC dba Major Pharmaceuticals and Rugby Laboratories",
       "url": "http://www.fda.gov/about-fda/harvard-drug-group-llc-dba-major-pharmaceuticals-and-rugby-laboratories-0",
       "publishedAt": "2026-11-17",
       "excerpt": "The Harvard Drug Group LLC dba Major Pharmaceuticals and Rugby Laboratories, La Vergne, TN, 03/20/2026, 1818658",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "Talbot's Pharmaceuticals Family Products, LLC",
+      "url": "http://www.fda.gov/about-fda/talbots-pharmaceuticals-family-products-llc",
+      "publishedAt": "2026-11-17",
+      "excerpt": "Talbot's Pharmaceuticals Family Products, LLC, Monroe, LA, 5/20/26, 3010822231",
       "sourceType": "rss"
     },
     {
@@ -145,6 +165,16 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "Somerset Medical Center IRB",
+      "url": "http://www.fda.gov/about-fda/somerset-medical-center-irb",
+      "publishedAt": "2026-11-17",
+      "excerpt": "Somerset Medical Center IRB, Somerville, NJ, 3/11/26, 3012733828",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "fda-whats-new-drugs",
       "siteName": "What's New: Drugs",
       "region": "US",
@@ -162,6 +192,16 @@
       "url": "http://www.fda.gov/drugs/postmarket-drug-safety-information-patients-and-providers/questions-and-answers-mifepristone-medical-termination-pregnancy-through-ten-weeks-gestation",
       "publishedAt": "2026-11-17",
       "excerpt": "Questions and Answers on Mifeprex",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "Pausch LLC",
+      "url": "http://www.fda.gov/about-fda/pausch-llc",
+      "publishedAt": "2026-11-17",
+      "excerpt": "Pausch LLC, Tinton Falls, NJ, 3/23/26, 2243057",
       "sourceType": "rss"
     },
     {
@@ -255,6 +295,26 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "MicroTransponder, Inc.",
+      "url": "http://www.fda.gov/about-fda/microtransponder-inc",
+      "publishedAt": "2026-11-17",
+      "excerpt": "MicroTransponder, Inc., Lakeway, TX, 3/19/26, 3012309950",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "Levo Medical Corporation",
+      "url": "http://www.fda.gov/about-fda/levo-medical-corporation",
+      "publishedAt": "2026-11-17",
+      "excerpt": "Levo Medical Corporation, Canada, 5/15/24, 3020982310",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "fda-whats-new-drugs",
       "siteName": "What's New: Drugs",
       "region": "US",
@@ -262,6 +322,36 @@
       "url": "http://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/lgm-pharma-solutions-llc-736085-11022026",
       "publishedAt": "2026-11-17",
       "excerpt": "CGMP/Finished Pharmaceuticals/Adulterated",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "Kurin, Inc.",
+      "url": "http://www.fda.gov/about-fda/kurin-inc",
+      "publishedAt": "2026-11-17",
+      "excerpt": "Kurin, Inc., San Diego, CA, 1/9/26, 3013696224",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "Kite Pharma, Inc.",
+      "url": "http://www.fda.gov/about-fda/kite-pharma-inc-0",
+      "publishedAt": "2026-11-17",
+      "excerpt": "Kite Pharma, Inc., El Segundo, CA, 8/27/25, 3012583739",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "Kenneth F Tesch",
+      "url": "http://www.fda.gov/about-fda/kenneth-f-tesch",
+      "publishedAt": "2026-11-17",
+      "excerpt": "Kenneth F Tesch, Dorchester, WI, 12/22/25, 3041017158",
       "sourceType": "rss"
     },
     {
@@ -295,6 +385,16 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "InvaGen Pharmaceuticals, Inc.",
+      "url": "http://www.fda.gov/about-fda/invagen-pharmaceuticals-inc",
+      "publishedAt": "2026-11-17",
+      "excerpt": "InvaGen Pharmaceuticals, Inc., Central Islip, NY, 7/17/26, 3012696190",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
       "siteName": "Human medicines: EPARs and summaries of opinion",
       "region": "EU",
@@ -302,6 +402,26 @@
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/zeydovio",
       "publishedAt": "2026-11-17",
       "excerpt": "Human medicines European public assessment report (EPAR): Zeydovio, glepaglutide, Date of authorisation: 12/11/2026, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Tecovirimat SIGA, tecovirimat monohydrate, Date of authorisation: 06/01/2022, Revision: 7, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/tecovirimat-siga",
+      "publishedAt": "2026-11-17",
+      "excerpt": "Human medicines European public assessment report (EPAR): Tecovirimat SIGA, tecovirimat monohydrate, Date of authorisation: 06/01/2022, Revision: 7, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Talmanco (previously Tadalafil Generics), tadalafil, Date of authorisation: 09/01/2017, Revision: 12, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/talmanco",
+      "publishedAt": "2026-11-17",
+      "excerpt": "Human medicines European public assessment report (EPAR): Talmanco (previously Tadalafil Generics), tadalafil, Date of authorisation: 09/01/2017, Revision: 12, Status: Authorised",
       "sourceType": "rss"
     },
     {
@@ -318,10 +438,40 @@
       "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
       "siteName": "Human medicines: EPARs and summaries of opinion",
       "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Ngenla, somatrogon, Date of authorisation: 14/02/2022, Revision: 12, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/ngenla",
+      "publishedAt": "2026-11-17",
+      "excerpt": "Human medicines European public assessment report (EPAR): Ngenla, somatrogon, Date of authorisation: 14/02/2022, Revision: 12, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Keytruda, pembrolizumab, Date of authorisation: 17/07/2015, Revision: 73, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/keytruda",
+      "publishedAt": "2026-11-17",
+      "excerpt": "Human medicines European public assessment report (EPAR): Keytruda, pembrolizumab, Date of authorisation: 17/07/2015, Revision: 73, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
       "title": "Human medicines European public assessment report (EPAR): Inijaq, tofacitinib, Date of authorisation: 12/11/2026, Status: Authorised",
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/inijaq",
       "publishedAt": "2026-11-17",
       "excerpt": "Human medicines European public assessment report (EPAR): Inijaq, tofacitinib, Date of authorisation: 12/11/2026, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "Hanlim Pharm Co., Ltd.",
+      "url": "http://www.fda.gov/about-fda/hanlim-pharm-co-ltd",
+      "publishedAt": "2026-11-17",
+      "excerpt": "Hanlim Pharm Co., Ltd., Korea, 4/24/26, 3004886113",
       "sourceType": "rss"
     },
     {
@@ -338,10 +488,30 @@
       "siteId": "fda-ora-foia-electronic-reading-room",
       "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
       "region": "US",
+      "title": "Great Lakes Neurotechnologies Inc",
+      "url": "http://www.fda.gov/about-fda/great-lakes-neurotechnologies-inc",
+      "publishedAt": "2026-11-17",
+      "excerpt": "Great Lakes Neurotechnologies Inc, Independence, OH, 3/12/26, 3009134706",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
       "title": "Genzyme Ireland Limited",
       "url": "http://www.fda.gov/about-fda/genzyme-ireland-limited-0",
       "publishedAt": "2026-11-17",
       "excerpt": "Genzyme Ireland Limited, Ireland, 1/20/26, 3003809840",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "Freudenberg Medical Europe GmbH",
+      "url": "http://www.fda.gov/about-fda/freudenberg-medical-europe-gmbh",
+      "publishedAt": "2026-11-17",
+      "excerpt": "Freudenberg Medical Europe GmbH, Germany, 10/30/25, 3013445086",
       "sourceType": "rss"
     },
     {
@@ -352,6 +522,36 @@
       "url": "https://www.ema.europa.eu/en/events/fifth-european-medicines-agency-ema-european-confederation-pharmaceutical-entrepreneurs-eucope-bilateral-meeting",
       "publishedAt": "2026-11-17",
       "excerpt": "Fifth European Medicines Agency (EMA) and European Confederation of Pharmaceutical Entrepreneurs (EUCOPE) bilateral meeting, Online, European Medicines Agency, Amsterdam, the Netherlands, 17 November 2026",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-criminal-investigations-press-releases",
+      "siteName": "Criminal Investigations Press Releases",
+      "region": "US",
+      "title": "FDA Launches the Global Reliance Disclosure Program to Expand Patient Access to Medicines Worldwide",
+      "url": "http://www.fda.gov/news-events/press-announcements/fda-launches-global-reliance-disclosure-program-expand-patient-access-medicines-worldwide",
+      "publishedAt": "2026-11-17",
+      "excerpt": "FDA  today announced the Global Reliance Disclosure Program (GRDP), a landmark initiative that will fundamentally transform how the FDA's regulatory drug and biologic approval decisions are leveraged by health authorities around the world.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-criminal-investigations-press-releases",
+      "siteName": "Criminal Investigations Press Releases",
+      "region": "US",
+      "title": "FDA Approves First Drug Shown to Help Patients with Infantile-Onset Niemann-Pick Disease Type C Live Longer",
+      "url": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-drug-shown-help-patients-infantile-onset-niemann-pick-disease-type-c-live-longer",
+      "publishedAt": "2026-11-17",
+      "excerpt": "FDA approved Lembaz (adrabetadex) injection, the first treatment shown to help people with a severe form of Niemann-Pick disease type C (NPC) live longer.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "Evers, Wayne F.",
+      "url": "http://www.fda.gov/about-fda/evers-wayne-f",
+      "publishedAt": "2026-11-17",
+      "excerpt": "Evers, Wayne F., Theilman, MN, 12/3/25, 3008273739",
       "sourceType": "rss"
     },
     {
@@ -395,16 +595,6 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "Drugs@FDA Data Files",
-      "url": "http://www.fda.gov/drugs/drug-approvals-and-databases/drugsfda-data-files",
-      "publishedAt": "2026-11-17",
-      "excerpt": "Drugs@FDA Downloadable Data File in ZIP format, Data Definitions, and Entity Relationship Diagram (ERD)",
-      "sourceType": "rss"
-    },
-    {
       "siteId": "fda-ora-foia-electronic-reading-room",
       "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
       "region": "US",
@@ -422,6 +612,16 @@
       "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-correction-cardinal-health-issues-correction-presource-packs-containing-bd-alaris",
       "publishedAt": "2026-11-17",
       "excerpt": "Cardinal Health Presource Kits containing recalled BD Alaris Pump Infusion Sets should be corrected prior to continued use",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "Clavmed",
+      "url": "http://www.fda.gov/about-fda/clavmed",
+      "publishedAt": "2026-11-17",
+      "excerpt": "Clavmed, Poland, 10/29/25, 3008856394",
       "sourceType": "rss"
     },
     {
@@ -445,6 +645,16 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "Carolina Prime Pet, Inc",
+      "url": "http://www.fda.gov/about-fda/carolina-prime-pet-inc",
+      "publishedAt": "2026-11-17",
+      "excerpt": "Carolina Prime Pet, Inc, Lenoir, NC, 12/12/25, 3004319366",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "ema-whats-new",
       "siteName": "What's new",
       "region": "EU",
@@ -452,6 +662,16 @@
       "url": "https://www.ema.europa.eu/en/medicines/dhpc/caelyx-pegylated-liposomal",
       "publishedAt": "2026-11-17",
       "excerpt": "Caelyx pegylated liposomal",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "Cadex Electronics Inc.",
+      "url": "http://www.fda.gov/about-fda/cadex-electronics-inc",
+      "publishedAt": "2026-11-17",
+      "excerpt": "Cadex Electronics Inc., Canada, 1/9/26, 3003800159",
       "sourceType": "rss"
     },
     {
@@ -568,6 +788,16 @@
       "siteId": "fda-ora-foia-electronic-reading-room",
       "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
       "region": "US",
+      "title": "Advanced Breath Diagnostics LLC",
+      "url": "http://www.fda.gov/about-fda/advanced-breath-diagnostics-llc",
+      "publishedAt": "2026-11-17",
+      "excerpt": "Advanced Breath Diagnostics LLC, Franklin, TN, 3/9/26, 3010484784",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
       "title": "Adimmune Corporation",
       "url": "http://www.fda.gov/about-fda/adimmune-corporation",
       "publishedAt": "2026-11-17",
@@ -645,8 +875,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[RS][イベント]第13回PMDAレギュラトリーサイエンス研究会の開催について更新しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/symposia/0035.html",
@@ -655,8 +885,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[PMDA]令和8年度第2回運営評議会　開催案内を掲載しました。",
       "url": "https://www.pmda.go.jp/about-pmda/advisory-council-information/meetings/0102.html",
@@ -862,6 +1092,16 @@
       "url": "http://www.fda.gov/about-fda/nortec-quimica-sa",
       "publishedAt": "2026-11-16",
       "excerpt": "Nortec Quimica S.A., Brazil, 08/04/2023, 3007616930",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-food-safety-recalls",
+      "siteName": "Food Safety Recalls",
+      "region": "US",
+      "title": "Naia, Inc. Recalls Chocolate Banana Bar Sorbetto Because of Undeclared Milk, Eggs, and Nuts",
+      "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/naia-inc-recalls-chocolate-banana-bar-sorbetto-because-undeclared-milk-eggs-and-nuts",
+      "publishedAt": "2026-11-16",
+      "excerpt": "Naia, Inc. of Hercules, CA is recalling Chocolate Banana Bar Sorbetto with code dates of 10/5/2027, 10/6/2027, 10/7/2027, and 10/8/2026, because it may contain undeclared tree nuts (pistachio), milk, and egg allergens. People who have an allergy or severe sensitivity to tree nuts (pistachio), milk o",
       "sourceType": "rss"
     },
     {
@@ -1125,6 +1365,16 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Drugs@FDA Data Files",
+      "url": "http://www.fda.gov/drugs/drug-approvals-and-databases/drugsfda-data-files",
+      "publishedAt": "2026-11-16",
+      "excerpt": "Drugs@FDA Downloadable Data File in ZIP format, Data Definitions, and Entity Relationship Diagram (ERD)",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "fda-ora-foia-electronic-reading-room",
       "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
       "region": "US",
@@ -1205,6 +1455,16 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "fda-food-safety-recalls",
+      "siteName": "Food Safety Recalls",
+      "region": "US",
+      "title": "ALDI Recalls Priano Protein Carbonara Tortelloni and Priano Protein Herb & Cheese Tortelloni Because Of Possible Health Risk",
+      "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/aldi-recalls-priano-protein-carbonara-tortelloni-and-priano-protein-herb-cheese-tortelloni-because",
+      "publishedAt": "2026-11-16",
+      "excerpt": "ALDI of Batavia, IL, is recalling Priano Protein Carbonara Tortelloni and Priano Protein Herb & Cheese Tortelloni sold at select stores because the products may not have been stored, distributed or sold at appropriate temperatures, which may allow growth of pathogens including Clostridium botulinum",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "fda-whats-new-drugs",
       "siteName": "What's New: Drugs",
       "region": "US",
@@ -1235,8 +1495,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[基準]小児用医薬品開発に関する治験相談についてのQ&Aを掲載しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/guidance-guideline/0006.html",
@@ -3185,8 +3445,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[調達]一般競争入札公告（政府調達）（2027年（令和9年）定期購読洋雑誌の調達）",
       "url": "https://www.pmda.go.jp/procurements/public-bidding/general-competition-government/0240.html",
@@ -4735,8 +4995,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[PMDA]新霞が関ビル全館停電に伴うファクシミリによる受付の一時停止について[156KB]（2026年11月6日）",
       "url": "https://www.pmda.go.jp/about-pmda/news-release/0098.pdf",
@@ -4745,8 +5005,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[PMDA]専門委員名簿を更新しました",
       "url": "https://www.pmda.go.jp/about-pmda/outline/0016.html",
@@ -5505,8 +5765,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[薬局方]日本薬局方技術情報「ミニタブレット等の剤形としての取扱いについて」を掲載しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/0008.html",
@@ -6685,8 +6945,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[基準]「薬事活動におけるAI利活用に関する基本的考え方（Early Consideration）」（日本語・英訳版）を掲載しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/guidance-guideline/0003.html",
@@ -6885,8 +7145,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[調達]オープンカウンター公告（役員応接室用什器の納品、設置業務一式）",
       "url": "https://www.pmda.go.jp/procurements/public-bidding/open-counter/1663.html",
@@ -6895,8 +7155,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[薬局方][パブコメ]第二十改正日本薬局方原案作成要領（案）に関するご意見の募集について",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/pub-comments/jp/0267.html",
@@ -6955,8 +7215,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ 安全対策",
+      "siteName": "Adverse Health Effects Relief (JP)",
       "region": "JP",
       "title": "[健康]副作用救済給付の決定に関する情報（2026年度8月分）を掲載しました",
       "url": "https://www.pmda.go.jp/relief-services/adr-sufferers/0043.html",
@@ -7508,16 +7768,6 @@
       "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
       "siteName": "Human medicines: EPARs and summaries of opinion",
       "region": "EU",
-      "title": "Human medicines European public assessment report (EPAR): Keytruda, pembrolizumab, Date of authorisation: 17/07/2015, Revision: 73, Status: Authorised",
-      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/keytruda",
-      "publishedAt": "2026-10-30",
-      "excerpt": "Human medicines European public assessment report (EPAR): Keytruda, pembrolizumab, Date of authorisation: 17/07/2015, Revision: 73, Status: Authorised",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
-      "siteName": "Human medicines: EPARs and summaries of opinion",
-      "region": "EU",
       "title": "Human medicines European public assessment report (EPAR): Hirobriz Breezhaler, indacaterol, Date of authorisation: 30/11/2009, Revision: 21, Status: Withdrawn",
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/hirobriz-breezhaler",
       "publishedAt": "2026-10-30",
@@ -7885,8 +8135,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[調達]契約締結状況について",
       "url": "https://www.pmda.go.jp/procurements/contract-info/0002.html",
@@ -7895,8 +8145,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[PMDA]医療機器WEB申請プラットフォーム（DWAP）の運用停止について",
       "url": "https://www.pmda.go.jp/about-pmda/news-release/0105.html",
@@ -8195,8 +8445,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ 国際活動",
+      "siteName": "International (JP)",
       "region": "JP",
       "title": "[その他]令和8年度第2回倫理審査委員会の議事要旨を掲載しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/research/0009.html",
@@ -8205,13 +8455,13 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "ema-withdrawn-applications",
-      "siteName": "Withdrawn applications",
-      "region": "EU",
-      "title": "Withdrawn application: Ibrance, 15/10/2026",
-      "url": "https://www.ema.europa.eu/en/medicines/human/variation/ibrance",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
+      "region": "JP",
+      "title": "[PMDA][イベント]2026年度のPMDAオープン・カンパニー情報（技術系）を更新しました",
+      "url": "https://www.pmda.go.jp/about-pmda/symposia/0030.html",
       "publishedAt": "2026-10-28",
-      "excerpt": "Withdrawn application: Ibrance, 15/10/2026",
+      "excerpt": "",
       "sourceType": "rss"
     },
     {
@@ -9305,8 +9555,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[調達]落札公示",
       "url": "https://www.pmda.go.jp/procurements/public-bidding/announcement-of-the-winning-bid/0001.html",
@@ -9315,8 +9565,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[PMDA]サイバー攻撃による情報漏えい等の事案を踏まえたPMDAにおけるセキュリティ対策方針について",
       "url": "https://www.pmda.go.jp/about-pmda/news-release/0104.html",
@@ -20645,8 +20895,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "fda-criminal-investigations-press-releases",
-      "siteName": "Criminal Investigations Press Releases",
+      "siteId": "fda-press-releases",
+      "siteName": "Press Releases",
       "region": "US",
       "title": "FDA Updates Regulations to Advance Innovative Alternatives to Animal Testing",
       "url": "http://www.fda.gov/news-events/press-announcements/fda-updates-regulations-advance-innovative-alternatives-animal-testing",
@@ -24412,16 +24662,6 @@
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/prasugrel-viatris",
       "publishedAt": "2026-09-02",
       "excerpt": "Human medicines European public assessment report (EPAR): Prasugrel Viatris (previously Prasugrel Mylan), prasugrel, Date of authorisation: 15/05/2018, Revision: 14, Status: Authorised",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
-      "siteName": "Human medicines: EPARs and summaries of opinion",
-      "region": "EU",
-      "title": "Human medicines European public assessment report (EPAR): Ngenla, somatrogon, Date of authorisation: 14/02/2022, Revision: 11, Status: Authorised",
-      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/ngenla",
-      "publishedAt": "2026-09-02",
-      "excerpt": "Human medicines European public assessment report (EPAR): Ngenla, somatrogon, Date of authorisation: 14/02/2022, Revision: 11, Status: Authorised",
       "sourceType": "rss"
     },
     {
@@ -43332,16 +43572,6 @@
       "url": "https://www.ema.europa.eu/en/documents/regulatory-procedural-guideline/iris-guide-registration-rpis_en.pdf",
       "publishedAt": "2026-06-15",
       "excerpt": "IRIS guide to registration and RPIs",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
-      "siteName": "Human medicines: EPARs and summaries of opinion",
-      "region": "EU",
-      "title": "Human medicines European public assessment report (EPAR): Tecovirimat SIGA, tecovirimat monohydrate, Date of authorisation: 06/01/2022, Revision: 6, Status: Authorised",
-      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/tecovirimat-siga",
-      "publishedAt": "2026-06-15",
-      "excerpt": "Human medicines European public assessment report (EPAR): Tecovirimat SIGA, tecovirimat monohydrate, Date of authorisation: 06/01/2022, Revision: 6, Status: Authorised",
       "sourceType": "rss"
     },
     {
