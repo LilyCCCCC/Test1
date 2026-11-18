@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-18T04:35:25.900222+00:00",
-  "count": 4931,
+  "generatedAt": "2026-11-18T14:18:54.451499+00:00",
+  "count": 4937,
   "errors": [
     {
       "groupId": "ema",
@@ -10,6 +10,11 @@
     {
       "groupId": "pmda",
       "siteId": "services-for-healtheffects",
+      "error": "RSS fetch failed - keeping archived data"
+    },
+    {
+      "groupId": "pmda",
+      "siteId": "PMDA：トップ 承認審査",
       "error": "RSS fetch failed - keeping archived data"
     },
     {
@@ -40,13 +45,113 @@
   ],
   "items": [
     {
-      "siteId": "PMDA：トップ 承認審査",
-      "siteName": "Review for (marketing) approval (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
-      "title": "[全製品]IRB登録情報を更新しました",
+      "title": "[審査]IRB登録情報を更新しました",
       "url": "https://www.pmda.go.jp/review-services/trials/0008.html",
       "publishedAt": "2026-11-18",
       "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
+      "region": "JP",
+      "title": "[安全]クラスI回収 該当回収品目　照射赤血球液-LR「日赤」、他1件",
+      "url": "https://www.pmda.go.jp/safety/info-services/drugs/calling-attention/recall-info/0002.html",
+      "publishedAt": "2026-11-18",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Second ACT EU webinar on contractual agreements , Online, European Medicines Agency, Amsterdam, the Netherlands, from 7 December 2026, 10:00 (CET) to 7 December 2026, 15:00 (CET)",
+      "url": "https://www.ema.europa.eu/en/events/second-act-eu-webinar-contractual-agreements",
+      "publishedAt": "2026-11-18",
+      "excerpt": "Second ACT EU webinar on contractual agreements , Online, European Medicines Agency, Amsterdam, the Netherlands, from 7 December 2026, 10:00 (CET) to 7 December 2026, 15:00 (CET)",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Questions and answers for biological medicinal products",
+      "url": "https://www.ema.europa.eu/en/human-regulatory-overview/research-and-development/scientific-guidelines/biological-guidelines/questions-answers-biological-medicinal-products",
+      "publishedAt": "2026-11-18",
+      "excerpt": "Questions and answers for biological medicinal products",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Quality of medicines: questions and answers - Part 2",
+      "url": "https://www.ema.europa.eu/en/human-regulatory-overview/research-development/scientific-guidelines/quality-medicines-questions-answers-introduction/quality-medicines-questions-answers-part-2",
+      "publishedAt": "2026-11-18",
+      "excerpt": "Quality of medicines: questions and answers - Part 2",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "List of Union reference dates and frequency of submission of periodic safety update reports (PSURs)",
+      "url": "https://www.ema.europa.eu/system/files/documents/other/166-eurd-list-publication-18-nov-2026_en.xlsx",
+      "publishedAt": "2026-11-18",
+      "excerpt": "List of Union reference dates and frequency of submission of periodic safety update reports (PSURs)",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Sotyktu, deucravacitinib, Date of authorisation: 24/03/2023, Revision: 7, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/sotyktu",
+      "publishedAt": "2026-11-18",
+      "excerpt": "Human medicines European public assessment report (EPAR): Sotyktu, deucravacitinib, Date of authorisation: 24/03/2023, Revision: 7, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-human-medicines-epars-and-summaries-of-opinion",
+      "siteName": "Human medicines: EPARs and summaries of opinion",
+      "region": "EU",
+      "title": "Human medicines European public assessment report (EPAR): Exelon, rivastigmine, Date of authorisation: 11/05/1998, Revision: 52, Status: Authorised",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/exelon",
+      "publishedAt": "2026-11-18",
+      "excerpt": "Human medicines European public assessment report (EPAR): Exelon, rivastigmine, Date of authorisation: 11/05/1998, Revision: 52, Status: Authorised",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "HMA / EMA multistakeholder AI and Data forum: Build trustworthy AI on strong data foundations, Online, European Medicines Agency, Amsterdam, the Netherlands, Broadcast, from 12 November 2026 to 13 November 2026",
+      "url": "https://www.ema.europa.eu/en/events/hma-ema-multistakeholder-ai-data-forum-build-trustworthy-ai-strong-data-foundations",
+      "publishedAt": "2026-11-18",
+      "excerpt": "HMA / EMA multistakeholder AI and Data forum: Build trustworthy AI on strong data foundations, Online, European Medicines Agency, Amsterdam, the Netherlands, Broadcast, from 12 November 2026 to 13 November 2026",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "DARWIN EU Advisory Board: Mandate",
+      "url": "https://www.ema.europa.eu/system/files/documents/other/darwin-eur-advisory-board-mandate-en.pdf",
+      "publishedAt": "2026-11-18",
+      "excerpt": "DARWIN EU Advisory Board: Mandate",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Antimicrobial resistance",
+      "url": "https://www.ema.europa.eu/en/human-regulatory-overview/public-health-threats/antimicrobial-resistance",
+      "publishedAt": "2026-11-18",
+      "excerpt": "Antimicrobial resistance",
       "sourceType": "rss"
     },
     {
@@ -80,20 +185,20 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 承認審査",
-      "siteName": "Review for (marketing) approval (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
-      "title": "[医薬]新医薬品の承認品目一覧（2026年11月16日承認分まで）を掲載しました",
+      "title": "[審査]新医薬品の承認品目一覧（2026年11月16日承認分まで）を掲載しました",
       "url": "https://www.pmda.go.jp/review-services/drug-reviews/review-information/p-drugs/0040.html",
       "publishedAt": "2026-11-17",
       "excerpt": "",
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 承認審査",
-      "siteName": "Review for (marketing) approval (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
-      "title": "[体外][医療]医薬品の適応判定を目的として承認されたコンパニオン診断薬等（2026年11月12日版）を掲載しました",
+      "title": "[審査]医薬品の適応判定を目的として承認されたコンパニオン診断薬等（2026年11月12日版）を掲載しました",
       "url": "https://www.pmda.go.jp/review-services/drug-reviews/review-information/cd/0001.html",
       "publishedAt": "2026-11-17",
       "excerpt": "",
@@ -2880,10 +2985,10 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 承認審査",
-      "siteName": "Review for (marketing) approval (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
-      "title": "[医薬]医薬品の最適使用推進ガイドラインを掲載しました",
+      "title": "[審査]医薬品の最適使用推進ガイドラインを掲載しました",
       "url": "https://www.pmda.go.jp/review-services/drug-reviews/review-information/p-drugs/0028.html",
       "publishedAt": "2026-11-12",
       "excerpt": "",
@@ -4503,17 +4608,7 @@
       "siteId": "PMDAの新着情報",
       "siteName": "What's New (JP)",
       "region": "JP",
-      "title": "[安全]クラスI回収 該当回収品目　照射赤血球液-LR「日赤」",
-      "url": "https://www.pmda.go.jp/safety/info-services/drugs/calling-attention/recall-info/0002.html",
-      "publishedAt": "2026-11-09",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "PMDA：トップ 承認審査",
-      "siteName": "Review for (marketing) approval (JP)",
-      "region": "JP",
-      "title": "[医薬]「申請電子データ提出に関する技術情報」を更新しました",
+      "title": "[審査]「申請電子データ提出に関する技術情報」を更新しました",
       "url": "https://www.pmda.go.jp/review-services/drug-reviews/about-reviews/p-drugs/0028.html",
       "publishedAt": "2026-11-09",
       "excerpt": "",
@@ -5293,6 +5388,26 @@
       "siteId": "PMDAの新着情報",
       "siteName": "What's New (JP)",
       "region": "JP",
+      "title": "[審査]外国製造業者認定・登録番号を掲載しました",
+      "url": "https://www.pmda.go.jp/review-services/drug-reviews/foreign-mfr/0003.html",
+      "publishedAt": "2026-11-06",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
+      "region": "JP",
+      "title": "[審査][イベント]「こどもくすり会議【序章】―みんなの“こえ”が小児がんのお薬を届ける力になる―」の開催について",
+      "url": "https://www.pmda.go.jp/review-services/symposia/0212.html",
+      "publishedAt": "2026-11-06",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
+      "region": "JP",
       "title": "[安全]クラスI回収 該当回収品目　ARROW PICカテーテルキット HP",
       "url": "https://www.pmda.go.jp/safety/info-services/devices/0054.html",
       "publishedAt": "2026-11-06",
@@ -5305,26 +5420,6 @@
       "region": "JP",
       "title": "[安全]「医療機器自主回収のおしらせ（クラスI）（販売名：ARROW PICカテーテルキット HP）」を掲載しました",
       "url": "https://www.pmda.go.jp/safety/info-services/devices/0096.html",
-      "publishedAt": "2026-11-06",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "PMDA：トップ 承認審査",
-      "siteName": "Review for (marketing) approval (JP)",
-      "region": "JP",
-      "title": "[全製品]外国製造業者認定・登録番号を掲載しました",
-      "url": "https://www.pmda.go.jp/review-services/drug-reviews/foreign-mfr/0003.html",
-      "publishedAt": "2026-11-06",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "PMDA：トップ 承認審査",
-      "siteName": "Review for (marketing) approval (JP)",
-      "region": "JP",
-      "title": "[イベント]「こどもくすり会議【序章】―みんなの“こえ”が小児がんのお薬を届ける力になる―」の開催について",
-      "url": "https://www.pmda.go.jp/review-services/symposia/0212.html",
       "publishedAt": "2026-11-06",
       "excerpt": "",
       "sourceType": "rss"
@@ -7270,10 +7365,50 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 承認審査",
-      "siteName": "Review for (marketing) approval (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
-      "title": "[部外][医薬][体外]12月簡易相談予定表を掲載しました【医薬品等】",
+      "title": "[審査][イベント]第2回「こどものがん治療薬開発シンポジウム」の共同開催について",
+      "url": "https://www.pmda.go.jp/review-services/symposia/0211.html",
+      "publishedAt": "2026-11-02",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
+      "region": "JP",
+      "title": "[審査][イベント]「第6回GMPラウンドテーブル会議　開催のご案内」を掲載しました",
+      "url": "https://www.pmda.go.jp/review-services/symposia/0210.html",
+      "publishedAt": "2026-11-02",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
+      "region": "JP",
+      "title": "[審査]RS総合相談・RS戦略相談リーフレットを掲載しました",
+      "url": "https://www.pmda.go.jp/review-services/f2f-pre/strategies/0003.html",
+      "publishedAt": "2026-11-02",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
+      "region": "JP",
+      "title": "[審査]GLP業務に関するSOPを掲載しました",
+      "url": "https://www.pmda.go.jp/review-services/inspections/drugs/0008.html",
+      "publishedAt": "2026-11-02",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
+      "region": "JP",
+      "title": "[審査]12月簡易相談予定表を掲載しました【医薬品等】",
       "url": "https://www.pmda.go.jp/review-services/f2f-pre/consultations/0005.html",
       "publishedAt": "2026-11-02",
       "excerpt": "",
@@ -7295,46 +7430,6 @@
       "region": "JP",
       "title": "[国際]PMDA-ATC ラーニングビデオを更新しました",
       "url": "https://www.pmda.go.jp/int-activities/training-center/0005.html",
-      "publishedAt": "2026-11-02",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "PMDA：トップ 承認審査",
-      "siteName": "Review for (marketing) approval (JP)",
-      "region": "JP",
-      "title": "[医薬][再生][医療]GLP業務に関するSOPを掲載しました",
-      "url": "https://www.pmda.go.jp/review-services/inspections/drugs/0008.html",
-      "publishedAt": "2026-11-02",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "PMDA：トップ 承認審査",
-      "siteName": "Review for (marketing) approval (JP)",
-      "region": "JP",
-      "title": "[医薬][イベント]第2回「こどものがん治療薬開発シンポジウム」の共同開催について",
-      "url": "https://www.pmda.go.jp/review-services/symposia/0211.html",
-      "publishedAt": "2026-11-02",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "PMDA：トップ 承認審査",
-      "siteName": "Review for (marketing) approval (JP)",
-      "region": "JP",
-      "title": "[全製品]RS総合相談・RS戦略相談リーフレットを掲載しました",
-      "url": "https://www.pmda.go.jp/review-services/f2f-pre/strategies/0003.html",
-      "publishedAt": "2026-11-02",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "PMDA：トップ 承認審査",
-      "siteName": "Review for (marketing) approval (JP)",
-      "region": "JP",
-      "title": "[イベント]「第6回GMPラウンドテーブル会議　開催のご案内」を掲載しました",
-      "url": "https://www.pmda.go.jp/review-services/symposia/0210.html",
       "publishedAt": "2026-11-02",
       "excerpt": "",
       "sourceType": "rss"
@@ -7503,6 +7598,36 @@
       "siteId": "PMDAの新着情報",
       "siteName": "What's New (JP)",
       "region": "JP",
+      "title": "[審査]特定の製剤や特定の条件下においてのみ使用が認められた添加剤リストを更新しました。",
+      "url": "https://www.pmda.go.jp/review-services/drug-reviews/pharmaceutical-excipients/0001.html",
+      "publishedAt": "2026-10-30",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
+      "region": "JP",
+      "title": "[審査]保険適用される公知申請品目に関する情報を更新しました",
+      "url": "https://www.pmda.go.jp/review-services/drug-reviews/review-information/p-drugs/0017.html",
+      "publishedAt": "2026-10-30",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
+      "region": "JP",
+      "title": "[審査]人道的見地から実施される治験の情報（医薬品、機器・再生）を更新しました",
+      "url": "https://www.pmda.go.jp/review-services/trials/0016.html",
+      "publishedAt": "2026-10-30",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
+      "region": "JP",
       "title": "[安全]「製薬企業からの医薬品の安全使用に関するお知らせ」に「ファンギゾンとアムビゾームの取り違え注意のお願い」を掲載しました",
       "url": "https://www.pmda.go.jp/safety/info-services/medical-safety-info/0178.html",
       "publishedAt": "2026-10-30",
@@ -7515,36 +7640,6 @@
       "region": "JP",
       "title": "[安全]「PMDAからの医薬品適正使用のお願い」に「GLP-1受容体作動薬及びGIP/GLP-1受容体作動薬の適正使用のお願い」を掲載しました",
       "url": "https://www.pmda.go.jp/safety/info-services/drugs/calling-attention/properly-use-alert/0002.html",
-      "publishedAt": "2026-10-30",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "PMDA：トップ 承認審査",
-      "siteName": "Review for (marketing) approval (JP)",
-      "region": "JP",
-      "title": "[医薬]特定の製剤や特定の条件下においてのみ使用が認められた添加剤リストを更新しました。",
-      "url": "https://www.pmda.go.jp/review-services/drug-reviews/pharmaceutical-excipients/0001.html",
-      "publishedAt": "2026-10-30",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "PMDA：トップ 承認審査",
-      "siteName": "Review for (marketing) approval (JP)",
-      "region": "JP",
-      "title": "[医薬]保険適用される公知申請品目に関する情報を更新しました",
-      "url": "https://www.pmda.go.jp/review-services/drug-reviews/review-information/p-drugs/0017.html",
-      "publishedAt": "2026-10-30",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "PMDA：トップ 承認審査",
-      "siteName": "Review for (marketing) approval (JP)",
-      "region": "JP",
-      "title": "[医薬][医療][再生]人道的見地から実施される治験の情報（医薬品、機器・再生）を更新しました",
-      "url": "https://www.pmda.go.jp/review-services/trials/0016.html",
       "publishedAt": "2026-10-30",
       "excerpt": "",
       "sourceType": "rss"
@@ -8753,18 +8848,18 @@
       "siteId": "PMDAの新着情報",
       "siteName": "What's New (JP)",
       "region": "JP",
-      "title": "[安全]「医療事故の再発防止に向けた警鐘レポートNo.7の公表について」を掲載しました",
-      "url": "https://www.pmda.go.jp/safety/info-services/medical-safety-info/0005.html",
+      "title": "[審査]12月の簡易相談実施予定を掲載しました（医療機器等）",
+      "url": "https://www.pmda.go.jp/review-services/f2f-pre/consultations/0015.html",
       "publishedAt": "2026-10-28",
       "excerpt": "",
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 承認審査",
-      "siteName": "Review for (marketing) approval (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
-      "title": "[医療][体外]12月の簡易相談実施予定を掲載しました（医療機器等）",
-      "url": "https://www.pmda.go.jp/review-services/f2f-pre/consultations/0015.html",
+      "title": "[安全]「医療事故の再発防止に向けた警鐘レポートNo.7の公表について」を掲載しました",
+      "url": "https://www.pmda.go.jp/safety/info-services/medical-safety-info/0005.html",
       "publishedAt": "2026-10-28",
       "excerpt": "",
       "sourceType": "rss"
@@ -9233,6 +9328,16 @@
       "siteId": "PMDAの新着情報",
       "siteName": "What's New (JP)",
       "region": "JP",
+      "title": "[審査]我が国における医薬品一般的名称（JAN）の申請等についてのページ 3.JANの変更手続 を更新しました",
+      "url": "https://www.pmda.go.jp/review-services/drug-reviews/procedures/0023.html",
+      "publishedAt": "2026-10-27",
+      "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
+      "region": "JP",
       "title": "[安全]医薬品・医療機器等安全性情報 No.433（厚生労働省発行）を掲載しました",
       "url": "https://www.pmda.go.jp/safety/info-services/drugs/calling-attention/safety-info/0166.html",
       "publishedAt": "2026-10-27",
@@ -9255,16 +9360,6 @@
       "region": "JP",
       "title": "[安全]「医薬品に関する評価中のリスク等の情報について」を掲載しました",
       "url": "https://www.pmda.go.jp/safety/info-services/drugs/calling-attention/risk-communications/0001.html",
-      "publishedAt": "2026-10-27",
-      "excerpt": "",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "PMDA：トップ 承認審査",
-      "siteName": "Review for (marketing) approval (JP)",
-      "region": "JP",
-      "title": "[医薬]我が国における医薬品一般的名称（JAN）の申請等についてのページ 3.JANの変更手続 を更新しました",
-      "url": "https://www.pmda.go.jp/review-services/drug-reviews/procedures/0023.html",
       "publishedAt": "2026-10-27",
       "excerpt": "",
       "sourceType": "rss"
@@ -12627,16 +12722,6 @@
       "url": "http://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/signature-formulations-llc-737964-10012026",
       "publishedAt": "2026-10-20",
       "excerpt": "CGMP/Finished Pharmaceuticals/Adulterated",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "ema-whats-new",
-      "siteName": "What's new",
-      "region": "EU",
-      "title": "Second ACT EU webinar on contractual agreements , Online, European Medicines Agency, Amsterdam, the Netherlands, from 7 December 2026, 10:00 (CET) to 7 December 2026, 15:00 (CET)",
-      "url": "https://www.ema.europa.eu/en/events/second-act-eu-webinar-contractual-agreements",
-      "publishedAt": "2026-10-20",
-      "excerpt": "Second ACT EU webinar on contractual agreements , Online, European Medicines Agency, Amsterdam, the Netherlands, from 7 December 2026, 10:00 (CET) to 7 December 2026, 15:00 (CET)",
       "sourceType": "rss"
     },
     {
@@ -19870,16 +19955,6 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "ema-whats-new",
-      "siteName": "What's new",
-      "region": "EU",
-      "title": "Questions and answers for biological medicinal products",
-      "url": "https://www.ema.europa.eu/en/human-regulatory-overview/research-and-development/scientific-guidelines/biological-guidelines/questions-answers-biological-medicinal-products",
-      "publishedAt": "2026-09-25",
-      "excerpt": "Questions and answers for biological medicinal products",
-      "sourceType": "rss"
-    },
-    {
       "siteId": "fda-tainted-products-dietary-supplements",
       "siteName": "Tainted Products That are Marketed as Dietary Supplements",
       "region": "US",
@@ -23237,16 +23312,6 @@
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/moventig",
       "publishedAt": "2026-09-10",
       "excerpt": "Human medicines European public assessment report (EPAR): Moventig, naloxegol, Date of authorisation: 07/12/2014, Revision: 20, Status: Authorised",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "ema-whats-new",
-      "siteName": "What's new",
-      "region": "EU",
-      "title": "HMA / EMA multistakeholder AI and Data forum: Build trustworthy AI on strong data foundations, Online, European Medicines Agency, Amsterdam, the Netherlands, Broadcast, from 12 November 2026 to 13 November 2026",
-      "url": "https://www.ema.europa.eu/en/events/hma-ema-multistakeholder-ai-data-forum-build-trustworthy-ai-strong-data-foundations",
-      "publishedAt": "2026-09-10",
-      "excerpt": "HMA / EMA multistakeholder AI and Data forum: Build trustworthy AI on strong data foundations, Online, European Medicines Agency, Amsterdam, the Netherlands, Broadcast, from 12 November 2026 to 13 November 2026",
       "sourceType": "rss"
     },
     {
