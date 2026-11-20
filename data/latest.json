@@ -1,72 +1,7 @@
 {
-  "generatedAt": "2026-11-20T13:11:22.130685+00:00",
-  "count": 5024,
+  "generatedAt": "2026-11-20T21:18:35.465402+00:00",
+  "count": 5071,
   "errors": [
-    {
-      "groupId": "fda",
-      "siteId": "fda-whats-new-drugs",
-      "error": "RSS fetch failed - keeping archived data"
-    },
-    {
-      "groupId": "fda",
-      "siteId": "fda-press-releases",
-      "error": "RSS fetch failed - keeping archived data"
-    },
-    {
-      "groupId": "fda",
-      "siteId": "fda-qa-with-fda",
-      "error": "RSS fetch failed - keeping archived data"
-    },
-    {
-      "groupId": "fda",
-      "siteId": "fda-recalls",
-      "error": "RSS fetch failed - keeping archived data"
-    },
-    {
-      "groupId": "fda",
-      "siteId": "fda-consumer-health-information-updates",
-      "error": "RSS fetch failed - keeping archived data"
-    },
-    {
-      "groupId": "fda",
-      "siteId": "fda-criminal-investigations-press-releases",
-      "error": "RSS fetch failed - keeping archived data"
-    },
-    {
-      "groupId": "fda",
-      "siteId": "fda-outbreaks",
-      "error": "RSS fetch failed - keeping archived data"
-    },
-    {
-      "groupId": "fda",
-      "siteId": "fda-food-allergies",
-      "error": "RSS fetch failed - keeping archived data"
-    },
-    {
-      "groupId": "fda",
-      "siteId": "fda-food-safety-recalls",
-      "error": "RSS fetch failed - keeping archived data"
-    },
-    {
-      "groupId": "fda",
-      "siteId": "fda-health-fraud",
-      "error": "RSS fetch failed - keeping archived data"
-    },
-    {
-      "groupId": "fda",
-      "siteId": "fda-medwatch",
-      "error": "RSS fetch failed - keeping archived data"
-    },
-    {
-      "groupId": "fda",
-      "siteId": "fda-ora-foia-electronic-reading-room",
-      "error": "RSS fetch failed - keeping archived data"
-    },
-    {
-      "groupId": "fda",
-      "siteId": "fda-tainted-products-dietary-supplements",
-      "error": "RSS fetch failed - keeping archived data"
-    },
     {
       "groupId": "ema",
       "siteId": "ema-eurd-list",
@@ -76,12 +11,27 @@
       "groupId": "pmda",
       "siteId": "services-for-healtheffects",
       "error": "RSS fetch failed - keeping archived data"
+    },
+    {
+      "groupId": "pmda",
+      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
+      "error": "RSS fetch failed - keeping archived data"
+    },
+    {
+      "groupId": "pmda",
+      "siteId": "PMDA：トップ 国際活動",
+      "error": "RSS fetch failed - keeping archived data"
+    },
+    {
+      "groupId": "pmda",
+      "siteId": "PMDA：トップ その他",
+      "error": "RSS fetch failed - keeping archived data"
     }
   ],
   "items": [
     {
-      "siteId": "PMDA：トップ その他",
-      "siteName": "Others (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[採用]事務補助員（医薬翻訳事務）の募集について（採用時期を更新しました）",
       "url": "https://www.pmda.go.jp/recruit/0429.html",
@@ -103,10 +53,90 @@
       "siteId": "ema-whats-new",
       "siteName": "What's new",
       "region": "EU",
+      "title": "Work instructions for organisation of CVMP Working Party meetings",
+      "url": "https://www.ema.europa.eu/system/files/documents/win/4102-win-organisation-cvmp-working-party-meetings_en.pdf",
+      "publishedAt": "2026-11-20",
+      "excerpt": "Work instructions for organisation of CVMP Working Party meetings",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Work instructions for Processing requests for inclusion in the list of substances not falling within the scope of Regulation EC 470/2009 (out of scope)",
+      "url": "https://www.ema.europa.eu/system/files/documents/win/4151-win-processing-requests-inclusion-out-scope-list_en.pdf",
+      "publishedAt": "2026-11-20",
+      "excerpt": "Work instructions for Processing requests for inclusion in the list of substances not falling within the scope of Regulation EC 470/2009 (out of scope)",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
       "title": "Unified application programming interface (API) platform event, Online, European Medicines Agency, Amsterdam, the Netherlands, Broadcast, from 2 December 2026, 10:00 (CET) to 2 December 2026, 12:00 (CET)",
       "url": "https://www.ema.europa.eu/en/events/unified-application-programming-interface-api-platform-event",
       "publishedAt": "2026-11-20",
       "excerpt": "Unified application programming interface (API) platform event, Online, European Medicines Agency, Amsterdam, the Netherlands, Broadcast, from 2 December 2026, 10:00 (CET) to 2 December 2026, 12:00 (CET)",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Standard operating procedure for the preparation of ESUAvet annual reports",
+      "url": "https://www.ema.europa.eu/system/files/documents/sop/4160-sop-preparation-esuavet-annual-reports_en_0.pdf",
+      "publishedAt": "2026-11-20",
+      "excerpt": "Standard operating procedure for the preparation of ESUAvet annual reports",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Standard operating procedure for evaluation procedure for CVMP scientific advice requests",
+      "url": "https://www.ema.europa.eu/system/files/documents/sop/4112-sop-provision-cvmp-scientific-advice_en.pdf",
+      "publishedAt": "2026-11-20",
+      "excerpt": "Standard operating procedure for evaluation procedure for CVMP scientific advice requests",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Standard operating procedure for evaluation of requests for evaluation of the need for a full MRL evaluation for chemical-unlike biologicals",
+      "url": "https://www.ema.europa.eu/system/files/documents/sop/4152-sop-evaluation-requests-establishment-mrls-chemical-unlike-biologicals_en_0.pdf",
+      "publishedAt": "2026-11-20",
+      "excerpt": "Standard operating procedure for evaluation of requests for evaluation of the need for a full MRL evaluation for chemical-unlike biologicals",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Stakeholder meeting on the transferable data exclusivity voucher for priority antimicrobials, Online, Broadcast, from 12 November 2026, 14:00 (CET) to 12 November 2026, 17:00 (CET)",
+      "url": "https://www.ema.europa.eu/en/events/stakeholder-meeting-transferable-data-exclusivity-voucher-priority-antimicrobials",
+      "publishedAt": "2026-11-20",
+      "excerpt": "Stakeholder meeting on the transferable data exclusivity voucher for priority antimicrobials, Online, Broadcast, from 12 November 2026, 14:00 (CET) to 12 November 2026, 17:00 (CET)",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "Saris and Things, Inc.",
+      "url": "http://www.fda.gov/about-fda/saris-and-things-inc",
+      "publishedAt": "2026-11-20",
+      "excerpt": "Saris and Things, Inc., Plainfield, IL, 6/10/2026, 3017923561",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "Pregis Protective Files & Coatings LLC",
+      "url": "http://www.fda.gov/about-fda/pregis-protective-files-coatings-llc",
+      "publishedAt": "2026-11-20",
+      "excerpt": "Pregis Protective Files & Coatings LLC, Aurora, IL, 6/3/2026, 3008654268",
       "sourceType": "rss"
     },
     {
@@ -173,10 +203,90 @@
       "siteId": "ema-whats-new",
       "siteName": "What's new",
       "region": "EU",
+      "title": "Opinion/decision on a Paediatric investigation plan (PIP): Ontozry, cenobamate, decision type: PM: decision on the application for modification of an agreed PIP, therapeutic area: Nervous system disorders, PIP number: EMA/PE/0000250233",
+      "url": "https://www.ema.europa.eu/en/medicines/human/paediatric-investigation-plans/ema-pe-0000250233",
+      "publishedAt": "2026-11-20",
+      "excerpt": "Opinion/decision on a Paediatric investigation plan (PIP): Ontozry, cenobamate, decision type: PM: decision on the application for modification of an agreed PIP, therapeutic area: Nervous system disorders, PIP number: EMA/PE/0000250233",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
       "title": "Opinion/decision on a Paediatric investigation plan (PIP): Fycompa, perampanel, decision type: PM: decision on the application for modification of an agreed PIP, therapeutic area: Nervous system disorders, PIP number: EMA/PE/0000254635",
       "url": "https://www.ema.europa.eu/en/medicines/human/paediatric-investigation-plans/ema-pe-0000254635",
       "publishedAt": "2026-11-20",
       "excerpt": "Opinion/decision on a Paediatric investigation plan (PIP): Fycompa, perampanel, decision type: PM: decision on the application for modification of an agreed PIP, therapeutic area: Nervous system disorders, PIP number: EMA/PE/0000254635",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Opinion/decision on a Paediatric investigation plan (PIP): Adtralza, tralokinumab, decision type: PM: decision on the application for modification of an agreed PIP, therapeutic area: Skin and subcutaneous tissue disorders, PIP number: EMA/PE/0000256717",
+      "url": "https://www.ema.europa.eu/en/medicines/human/paediatric-investigation-plans/ema-pe-0000256717",
+      "publishedAt": "2026-11-20",
+      "excerpt": "Opinion/decision on a Paediatric investigation plan (PIP): Adtralza, tralokinumab, decision type: PM: decision on the application for modification of an agreed PIP, therapeutic area: Skin and subcutaneous tissue disorders, PIP number: EMA/PE/0000256717",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Ogle Cattle Company, Inc. - 713311 - 09/05/2025",
+      "url": "http://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/ogle-cattle-company-inc-713311-09052025",
+      "publishedAt": "2026-11-20",
+      "excerpt": "New Animal Drug/Adulterated",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Office of Infectious Diseases Research Activities",
+      "url": "http://www.fda.gov/about-fda/center-drug-evaluation-and-research-cder/office-infectious-diseases-research-activities",
+      "publishedAt": "2026-11-20",
+      "excerpt": "Overview of research needs, requests for information (RFIs), public workshops/meetings, opportunities for collaboration (this applies to RFI),  notable guidances related to regulatory science, externally awarded research studies, and other important regulatory science and research activities.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Office of Health Advancement (OHA) Guidance Documents",
+      "url": "http://www.fda.gov/about-fda/office-health-advancement/office-health-advancement-oha-guidance-documents",
+      "publishedAt": "2026-11-20",
+      "excerpt": "Guidance documents are intended to assist industry and other interested parties in understanding regulatory expectations, complying with applicable laws, and developing new and innovative products that improve public health.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Medicine shortage communication (MSC): Lenzetto (estradiol hemihydrate solution) 1.53 mg/spray: supply shortage",
+      "url": "https://www.ema.europa.eu/system/files/documents/other/lenzetto_msc_en.pdf",
+      "publishedAt": "2026-11-20",
+      "excerpt": "Medicine shortage communication (MSC): Lenzetto (estradiol hemihydrate solution) 1.53 mg/spray: supply shortage",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "Maternova Inc.",
+      "url": "http://www.fda.gov/about-fda/maternova-inc",
+      "publishedAt": "2026-11-20",
+      "excerpt": "Maternova Inc., Providence, RI, 6/12/2024, 3022579801",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "MPS Pharma & Medical Inc.",
+      "url": "http://www.fda.gov/about-fda/mps-pharma-medical-inc",
+      "publishedAt": "2026-11-20",
+      "excerpt": "MPS Pharma & Medical Inc., Brea, CA, 2/13/2026, 3018125942",
       "sourceType": "rss"
     },
     {
@@ -187,6 +297,46 @@
       "url": "https://www.pmda.go.jp/english/safety/info-services/drugs/medical-safety-information/0024.html",
       "publishedAt": "2026-11-20",
       "excerpt": "",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Lenzetto",
+      "url": "https://www.ema.europa.eu/en/medicines/human/shortages/lenzetto",
+      "publishedAt": "2026-11-20",
+      "excerpt": "Lenzetto",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "Legacy Pharmaceutical Packaging LLC",
+      "url": "http://www.fda.gov/about-fda/legacy-pharmaceutical-packaging-llc",
+      "publishedAt": "2026-11-20",
+      "excerpt": "Legacy Pharmaceutical Packaging LLC, Earth City, MO, 6/20/2023, 3004453700",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "Joylux, Inc.",
+      "url": "http://www.fda.gov/about-fda/joylux-inc",
+      "publishedAt": "2026-11-20",
+      "excerpt": "Joylux, Inc., Seattle, WA, 6/15/2026, 3012262584",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "Jilin Asymchem Pharmaceuticals Co., Ltd.",
+      "url": "http://www.fda.gov/about-fda/jilin-asymchem-pharmaceuticals-co-ltd",
+      "publishedAt": "2026-11-20",
+      "excerpt": "Jilin Asymchem Pharmaceuticals Co., Ltd., Dunhua, Jilin, China, 4/30/2026, 3015314582",
       "sourceType": "rss"
     },
     {
@@ -260,6 +410,66 @@
       "sourceType": "rss"
     },
     {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "Guidemia Technologies LLC",
+      "url": "http://www.fda.gov/about-fda/guidemia-technologies-llc",
+      "publishedAt": "2026-11-20",
+      "excerpt": "Guidemia Technologies LLC, Buena Park, CA, 7/6/2026, 3013634985",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "Guardian Medical USA Inc.",
+      "url": "http://www.fda.gov/about-fda/guardian-medical-usa-inc",
+      "publishedAt": "2026-11-20",
+      "excerpt": "Guardian Medical USA Inc., Swanton, OH, 6/2/2026, 3016261131",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "GDUFA Paid Facilities List",
+      "url": "http://www.fda.gov/industry/generic-drug-user-fee-amendments/gdufa-paid-facilities-list",
+      "publishedAt": "2026-11-20",
+      "excerpt": "This list contains GDUFA facility payments received by the Agency.  Data are extract from the User Fee System and GDUFA Facility User Fee Coversheets.  The following table explains the terms used in the list:",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "First Generic Drug Approvals",
+      "url": "http://www.fda.gov/drugs/drug-and-biologic-approval-and-ind-activity-reports/first-generic-drug-approvals",
+      "publishedAt": "2026-11-20",
+      "excerpt": "Each year, FDA’s Center for Drug Evaluation and Research (CDER) approves a wide range of new drug products. FDA provides the scientific and regulatory advice needed to bring safe, effective, high-quality generic alternatives to market, which in turn creates more affordable treatment options for pati",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "Essex Industries, Inc.",
+      "url": "http://www.fda.gov/about-fda/essex-industries-inc",
+      "publishedAt": "2026-11-20",
+      "excerpt": "Essex Industries, Inc., Affton, MO, 2/23/2026, 1937980",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "EMA/PE/0000266764",
+      "url": "https://www.ema.europa.eu/en/medicines/human/paediatric-investigation-plans/ema-pe-0000266764",
+      "publishedAt": "2026-11-20",
+      "excerpt": "EMA/PE/0000266764",
+      "sourceType": "rss"
+    },
+    {
       "siteId": "ema-whats-new",
       "siteName": "What's new",
       "region": "EU",
@@ -267,6 +477,76 @@
       "url": "https://www.ema.europa.eu/en/medicines/human/paediatric-investigation-plans/ema-pe-0000261407",
       "publishedAt": "2026-11-20",
       "excerpt": "EMA/PE/0000261407",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "EMA/PE/0000261344",
+      "url": "https://www.ema.europa.eu/en/medicines/human/paediatric-investigation-plans/ema-pe-0000261344",
+      "publishedAt": "2026-11-20",
+      "excerpt": "EMA/PE/0000261344",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "EMA/PE/0000261065",
+      "url": "https://www.ema.europa.eu/en/medicines/human/paediatric-investigation-plans/ema-pe-0000261065",
+      "publishedAt": "2026-11-20",
+      "excerpt": "EMA/PE/0000261065",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "EMA/PE/0000261062",
+      "url": "https://www.ema.europa.eu/en/medicines/human/paediatric-investigation-plans/ema-pe-0000261062",
+      "publishedAt": "2026-11-20",
+      "excerpt": "EMA/PE/0000261062",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "EMA/PE/0000259562",
+      "url": "https://www.ema.europa.eu/en/medicines/human/paediatric-investigation-plans/ema-pe-0000259562",
+      "publishedAt": "2026-11-20",
+      "excerpt": "EMA/PE/0000259562",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "EMA/PE/0000258613",
+      "url": "https://www.ema.europa.eu/en/medicines/human/paediatric-investigation-plans/ema-pe-0000258613",
+      "publishedAt": "2026-11-20",
+      "excerpt": "EMA/PE/0000258613",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "EMA/PE/0000258527",
+      "url": "https://www.ema.europa.eu/en/medicines/human/paediatric-investigation-plans/ema-pe-0000258527",
+      "publishedAt": "2026-11-20",
+      "excerpt": "EMA/PE/0000258527",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "EMA/PE/0000258356",
+      "url": "https://www.ema.europa.eu/en/medicines/human/paediatric-investigation-plans/ema-pe-0000258356",
+      "publishedAt": "2026-11-20",
+      "excerpt": "EMA/PE/0000258356",
       "sourceType": "rss"
     },
     {
@@ -283,10 +563,200 @@
       "siteId": "ema-whats-new",
       "siteName": "What's new",
       "region": "EU",
+      "title": "EMA/PE/0000256674",
+      "url": "https://www.ema.europa.eu/en/medicines/human/paediatric-investigation-plans/ema-pe-0000256674",
+      "publishedAt": "2026-11-20",
+      "excerpt": "EMA/PE/0000256674",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "EMA/PE/0000255611",
+      "url": "https://www.ema.europa.eu/en/medicines/human/paediatric-investigation-plans/ema-pe-0000255611",
+      "publishedAt": "2026-11-20",
+      "excerpt": "EMA/PE/0000255611",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "EMA/PE/0000254280",
+      "url": "https://www.ema.europa.eu/en/medicines/human/paediatric-investigation-plans/ema-pe-0000254280",
+      "publishedAt": "2026-11-20",
+      "excerpt": "EMA/PE/0000254280",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "EMA/PE/0000253679",
+      "url": "https://www.ema.europa.eu/en/medicines/human/paediatric-investigation-plans/ema-pe-0000253679",
+      "publishedAt": "2026-11-20",
+      "excerpt": "EMA/PE/0000253679",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "EMA/PE/0000249626",
+      "url": "https://www.ema.europa.eu/en/medicines/human/paediatric-investigation-plans/ema-pe-0000249626",
+      "publishedAt": "2026-11-20",
+      "excerpt": "EMA/PE/0000249626",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
       "title": "EMA/PE/0000249207",
       "url": "https://www.ema.europa.eu/en/medicines/human/paediatric-investigation-plans/ema-pe-0000249207",
       "publishedAt": "2026-11-20",
       "excerpt": "EMA/PE/0000249207",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "EMA/PE/0000247324",
+      "url": "https://www.ema.europa.eu/en/medicines/human/paediatric-investigation-plans/ema-pe-0000247324",
+      "publishedAt": "2026-11-20",
+      "excerpt": "EMA/PE/0000247324",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "EMA/PE/0000233980",
+      "url": "https://www.ema.europa.eu/en/medicines/human/paediatric-investigation-plans/ema-pe-0000233980",
+      "publishedAt": "2026-11-20",
+      "excerpt": "EMA/PE/0000233980",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "EMA/PE/0000228795",
+      "url": "https://www.ema.europa.eu/en/medicines/human/paediatric-investigation-plans/ema-pe-0000228795",
+      "publishedAt": "2026-11-20",
+      "excerpt": "EMA/PE/0000228795",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "EMA/PE/0000226201",
+      "url": "https://www.ema.europa.eu/en/medicines/human/paediatric-investigation-plans/ema-pe-0000226201",
+      "publishedAt": "2026-11-20",
+      "excerpt": "EMA/PE/0000226201",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "EMA/PE/0000182782",
+      "url": "https://www.ema.europa.eu/en/medicines/human/paediatric-investigation-plans/ema-pe-0000182782",
+      "publishedAt": "2026-11-20",
+      "excerpt": "EMA/PE/0000182782",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "EMA/PE/0000181364",
+      "url": "https://www.ema.europa.eu/en/medicines/human/paediatric-investigation-plans/ema-pe-0000181364",
+      "publishedAt": "2026-11-20",
+      "excerpt": "EMA/PE/0000181364",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Drugs@FDA Data Files",
+      "url": "http://www.fda.gov/drugs/drug-approvals-and-databases/drugsfda-data-files",
+      "publishedAt": "2026-11-20",
+      "excerpt": "Drugs@FDA Downloadable Data File in ZIP format, Data Definitions, and Entity Relationship Diagram (ERD)",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "DeGen Medical Inc.",
+      "url": "http://www.fda.gov/about-fda/degen-medical-inc",
+      "publishedAt": "2026-11-20",
+      "excerpt": "DeGen Medical Inc., Florence, SC, 9/12/2024, 3010663372",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "Comfortland Medical, Inc.",
+      "url": "http://www.fda.gov/about-fda/comfortland-medical-inc",
+      "publishedAt": "2026-11-20",
+      "excerpt": "Comfortland Medical, Inc., Mebane, NC, 6/12/2026, 3008724689",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-whats-new-drugs",
+      "siteName": "What's New: Drugs",
+      "region": "US",
+      "title": "Breckenridge Pharmaceutical, Inc. Issues Voluntary Nationwide Consumer-Level Recall of One Lot of Propranolol Hydrochloride Extended-Release Capsules, USP, 60 mg, Due to Potential Metal Contamination",
+      "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/breckenridge-pharmaceutical-inc-issues-voluntary-nationwide-consumer-level-recall-one-lot",
+      "publishedAt": "2026-11-20",
+      "excerpt": "November 16, 2026— Breckenridge Pharmaceutical, Inc. (Breckenridge) is voluntarily recalling to the consumer level one lot of Propranolol Hydrochloride Extended-Release Capsules, USP, 60 mg, manufactured by Adare Pharma Solutions, due to potential metal contamination.",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "Artaflex Buffalo Inc.",
+      "url": "http://www.fda.gov/about-fda/artaflex-buffalo-inc",
+      "publishedAt": "2026-11-20",
+      "excerpt": "Artaflex Buffalo Inc., Buffalo, NY, 7/9/2026, 3041244757",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "ema-whats-new",
+      "siteName": "What's new",
+      "region": "EU",
+      "title": "Antimicrobial resistance",
+      "url": "https://www.ema.europa.eu/en/human-regulatory-overview/public-health-threats/antimicrobial-resistance",
+      "publishedAt": "2026-11-20",
+      "excerpt": "Antimicrobial resistance",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "Always More Marketing Inc",
+      "url": "http://www.fda.gov/about-fda/always-more-marketing-inc",
+      "publishedAt": "2026-11-20",
+      "excerpt": "Always More Marketing Inc, Calabasas, CA, 10/17/2024, 3009549313",
+      "sourceType": "rss"
+    },
+    {
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "siteName": "Office of Regulatory Affairs (ORA) FOIA Electronic Reading Room",
+      "region": "US",
+      "title": "Accupac, LLC",
+      "url": "http://www.fda.gov/about-fda/accupac-llc",
+      "publishedAt": "2026-11-20",
+      "excerpt": "Accupac, LLC, Lakewood, NJ, 2/13/2026, 3010166945",
       "sourceType": "rss"
     },
     {
@@ -300,8 +770,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 国際活動",
-      "siteName": "International (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[基準]小児用医薬品開発に関する治験相談についてのQ&A（英訳版）を掲載しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/guidance-guideline/0006.html",
@@ -310,8 +780,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 国際活動",
-      "siteName": "International (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[基準]「DNAシークエンサーを使用したコンパニオン診断薬等の同等性評価に関する留意事項（Early Consideration）」について 、及び「治験実施施設で選択された検査で患者組入れが行われ、有効性及び安全性が検証された医薬品のコンパニオン診断薬等の開発にかかる留意事項（Early Consideration）」について（日本語・英訳版）を掲載しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/guidance-guideline/0003.html",
@@ -320,8 +790,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ その他",
-      "siteName": "Others (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[PMDA]新霞が関ビル全館停電に伴うファクシミリによる受付の一時停止について[156KB]（2026年11月19日）",
       "url": "https://www.pmda.go.jp/about-pmda/news-release/0098.pdf",
@@ -1073,16 +1543,6 @@
       "siteId": "fda-whats-new-drugs",
       "siteName": "What's New: Drugs",
       "region": "US",
-      "title": "Drugs@FDA Data Files",
-      "url": "http://www.fda.gov/drugs/drug-approvals-and-databases/drugsfda-data-files",
-      "publishedAt": "2026-11-19",
-      "excerpt": "Drugs@FDA Downloadable Data File in ZIP format, Data Definitions, and Entity Relationship Diagram (ERD)",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
       "title": "Drug Alerts and Statements",
       "url": "http://www.fda.gov/drugs/drug-safety-and-availability/drug-alerts-and-statements",
       "publishedAt": "2026-11-19",
@@ -1343,16 +1803,6 @@
       "siteId": "fda-whats-new-drugs",
       "siteName": "What's New: Drugs",
       "region": "US",
-      "title": "GDUFA Paid Facilities List",
-      "url": "http://www.fda.gov/industry/generic-drug-user-fee-amendments/gdufa-paid-facilities-list",
-      "publishedAt": "2026-11-18",
-      "excerpt": "This list contains GDUFA facility payments received by the Agency.  Data are extract from the User Fee System and GDUFA Facility User Fee Coversheets.  The following table explains the terms used in the list:",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
       "title": "FDA’s Enhanced Approach for Sampling and Testing",
       "url": "http://www.fda.gov/drugs/science-and-research-drugs/fdas-enhanced-approach-sampling-and-testing",
       "publishedAt": "2026-11-18",
@@ -1440,16 +1890,6 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "ema-whats-new",
-      "siteName": "What's new",
-      "region": "EU",
-      "title": "Antimicrobial resistance",
-      "url": "https://www.ema.europa.eu/en/human-regulatory-overview/public-health-threats/antimicrobial-resistance",
-      "publishedAt": "2026-11-18",
-      "excerpt": "Antimicrobial resistance",
-      "sourceType": "rss"
-    },
-    {
       "siteId": "notice-from-tfda",
       "siteName": "公告",
       "region": "TW",
@@ -1500,8 +1940,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ その他",
-      "siteName": "Others (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[PMDA][イベント]2026年度のPMDAオープン・カンパニー情報（技術系）を更新しました",
       "url": "https://www.pmda.go.jp/about-pmda/symposia/0030.html",
@@ -2610,8 +3050,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 国際活動",
-      "siteName": "International (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[RS][イベント]第13回PMDAレギュラトリーサイエンス研究会の開催について更新しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/symposia/0035.html",
@@ -2620,8 +3060,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ その他",
-      "siteName": "Others (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[PMDA]令和8年度第2回運営評議会　開催案内を掲載しました。",
       "url": "https://www.pmda.go.jp/about-pmda/advisory-council-information/meetings/0102.html",
@@ -5120,8 +5560,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ その他",
-      "siteName": "Others (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[調達]一般競争入札公告（政府調達）（2027年（令和9年）定期購読洋雑誌の調達）",
       "url": "https://www.pmda.go.jp/procurements/public-bidding/general-competition-government/0240.html",
@@ -6640,8 +7080,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ その他",
-      "siteName": "Others (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[PMDA]専門委員名簿を更新しました",
       "url": "https://www.pmda.go.jp/about-pmda/outline/0016.html",
@@ -6787,16 +7227,6 @@
       "url": "http://www.fda.gov/about-fda/protagonist-therapeutics-inc",
       "publishedAt": "2026-11-06",
       "excerpt": "Protagonist Therapeutics Inc, Newark, CA, 4/3/2026, 3013745424",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "Office of Health Advancement (OHA) Guidance Documents",
-      "url": "http://www.fda.gov/about-fda/office-health-advancement/office-health-advancement-oha-guidance-documents",
-      "publishedAt": "2026-11-06",
-      "excerpt": "Guidance documents are intended to assist industry and other interested parties in understanding regulatory expectations, complying with applicable laws, and developing new and innovative products that improve public health.",
       "sourceType": "rss"
     },
     {
@@ -7400,8 +7830,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 国際活動",
-      "siteName": "International (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[薬局方]日本薬局方技術情報「ミニタブレット等の剤形としての取扱いについて」を掲載しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/0008.html",
@@ -8730,8 +9160,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ その他",
-      "siteName": "Others (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[調達]オープンカウンター公告（役員応接室用什器の納品、設置業務一式）",
       "url": "https://www.pmda.go.jp/procurements/public-bidding/open-counter/1663.html",
@@ -8740,8 +9170,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 国際活動",
-      "siteName": "International (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[薬局方][パブコメ]第二十改正日本薬局方原案作成要領（案）に関するご意見の募集について",
       "url": "https://www.pmda.go.jp/rs-std-jp/standards-development/jp/pub-comments/jp/0267.html",
@@ -9720,8 +10150,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ その他",
-      "siteName": "Others (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[調達]契約締結状況について",
       "url": "https://www.pmda.go.jp/procurements/contract-info/0002.html",
@@ -9730,8 +10160,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ その他",
-      "siteName": "Others (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[PMDA]医療機器WEB申請プラットフォーム（DWAP）の運用停止について",
       "url": "https://www.pmda.go.jp/about-pmda/news-release/0105.html",
@@ -10020,8 +10450,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDA：トップ 国際活動",
-      "siteName": "International (JP)",
+      "siteId": "PMDAの新着情報",
+      "siteName": "What's New (JP)",
       "region": "JP",
       "title": "[その他]令和8年度第2回倫理審査委員会の議事要旨を掲載しました",
       "url": "https://www.pmda.go.jp/rs-std-jp/research/0009.html",
@@ -19297,16 +19727,6 @@
       "url": "http://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/glenmark-pharmaceuticals-limited-637314-09232026",
       "publishedAt": "2026-10-05",
       "excerpt": "CGMP/Finished Pharmaceuticals/Adulterated",
-      "sourceType": "rss"
-    },
-    {
-      "siteId": "fda-whats-new-drugs",
-      "siteName": "What's New: Drugs",
-      "region": "US",
-      "title": "First Generic Drug Approvals",
-      "url": "http://www.fda.gov/drugs/drug-and-biologic-approval-and-ind-activity-reports/first-generic-drug-approvals",
-      "publishedAt": "2026-10-05",
-      "excerpt": "Each year, FDA’s Center for Drug Evaluation and Research (CDER) approves a wide range of new drug products. FDA provides the scientific and regulatory advice needed to bring safe, effective, high-quality generic alternatives to market, which in turn creates more affordable treatment options for pati",
       "sourceType": "rss"
     },
     {
