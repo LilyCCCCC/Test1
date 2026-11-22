@@ -1,7 +1,72 @@
 {
-  "generatedAt": "2026-11-22T16:26:40.295467+00:00",
+  "generatedAt": "2026-11-22T22:33:20.661763+00:00",
   "count": 5075,
   "errors": [
+    {
+      "groupId": "fda",
+      "siteId": "fda-whats-new-drugs",
+      "error": "RSS fetch failed - keeping archived data"
+    },
+    {
+      "groupId": "fda",
+      "siteId": "fda-press-releases",
+      "error": "RSS fetch failed - keeping archived data"
+    },
+    {
+      "groupId": "fda",
+      "siteId": "fda-qa-with-fda",
+      "error": "RSS fetch failed - keeping archived data"
+    },
+    {
+      "groupId": "fda",
+      "siteId": "fda-recalls",
+      "error": "RSS fetch failed - keeping archived data"
+    },
+    {
+      "groupId": "fda",
+      "siteId": "fda-consumer-health-information-updates",
+      "error": "RSS fetch failed - keeping archived data"
+    },
+    {
+      "groupId": "fda",
+      "siteId": "fda-criminal-investigations-press-releases",
+      "error": "RSS fetch failed - keeping archived data"
+    },
+    {
+      "groupId": "fda",
+      "siteId": "fda-outbreaks",
+      "error": "RSS fetch failed - keeping archived data"
+    },
+    {
+      "groupId": "fda",
+      "siteId": "fda-food-allergies",
+      "error": "RSS fetch failed - keeping archived data"
+    },
+    {
+      "groupId": "fda",
+      "siteId": "fda-food-safety-recalls",
+      "error": "RSS fetch failed - keeping archived data"
+    },
+    {
+      "groupId": "fda",
+      "siteId": "fda-health-fraud",
+      "error": "RSS fetch failed - keeping archived data"
+    },
+    {
+      "groupId": "fda",
+      "siteId": "fda-medwatch",
+      "error": "RSS fetch failed - keeping archived data"
+    },
+    {
+      "groupId": "fda",
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "error": "RSS fetch failed - keeping archived data"
+    },
+    {
+      "groupId": "fda",
+      "siteId": "fda-tainted-products-dietary-supplements",
+      "error": "RSS fetch failed - keeping archived data"
+    },
     {
       "groupId": "ema",
       "siteId": "ema-eurd-list",
@@ -11,22 +76,12 @@
       "groupId": "pmda",
       "siteId": "services-for-healtheffects",
       "error": "RSS fetch failed - keeping archived data"
-    },
-    {
-      "groupId": "pmda",
-      "siteId": "PMDA：トップ RS・基準作成・日本薬局方",
-      "error": "RSS fetch failed - keeping archived data"
-    },
-    {
-      "groupId": "pmda",
-      "siteId": "PMDA：トップ その他",
-      "error": "RSS fetch failed - keeping archived data"
     }
   ],
   "items": [
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[採用]事務補助員（医薬翻訳事務）の募集について（採用時期を更新しました）",
       "url": "https://www.pmda.go.jp/recruit/0429.html",
@@ -845,8 +900,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[PMDA]新霞が関ビル全館停電に伴うファクシミリによる受付の一時停止について[156KB]（2026年11月19日）",
       "url": "https://www.pmda.go.jp/about-pmda/news-release/0098.pdf",
@@ -1985,8 +2040,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[PMDA][イベント]2026年度のPMDAオープン・カンパニー情報（技術系）を更新しました",
       "url": "https://www.pmda.go.jp/about-pmda/symposia/0030.html",
@@ -3105,8 +3160,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[PMDA]令和8年度第2回運営評議会　開催案内を掲載しました。",
       "url": "https://www.pmda.go.jp/about-pmda/advisory-council-information/meetings/0102.html",
@@ -5595,8 +5650,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[調達]一般競争入札公告（政府調達）（2027年（令和9年）定期購読洋雑誌の調達）",
       "url": "https://www.pmda.go.jp/procurements/public-bidding/general-competition-government/0240.html",
@@ -7115,8 +7170,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[PMDA]専門委員名簿を更新しました",
       "url": "https://www.pmda.go.jp/about-pmda/outline/0016.html",
@@ -9195,8 +9250,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[調達]オープンカウンター公告（役員応接室用什器の納品、設置業務一式）",
       "url": "https://www.pmda.go.jp/procurements/public-bidding/open-counter/1663.html",
@@ -10185,8 +10240,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[調達]契約締結状況について",
       "url": "https://www.pmda.go.jp/procurements/contract-info/0002.html",
@@ -10195,8 +10250,8 @@
       "sourceType": "rss"
     },
     {
-      "siteId": "PMDAの新着情報",
-      "siteName": "What's New (JP)",
+      "siteId": "PMDA：トップ その他",
+      "siteName": "Others (JP)",
       "region": "JP",
       "title": "[PMDA]医療機器WEB申請プラットフォーム（DWAP）の運用停止について",
       "url": "https://www.pmda.go.jp/about-pmda/news-release/0105.html",
