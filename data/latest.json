@@ -1,7 +1,72 @@
 {
-  "generatedAt": "2026-11-27T22:06:58.059148+00:00",
+  "generatedAt": "2026-11-28T03:59:42.222784+00:00",
   "count": 5286,
   "errors": [
+    {
+      "groupId": "fda",
+      "siteId": "fda-whats-new-drugs",
+      "error": "RSS fetch failed - keeping archived data"
+    },
+    {
+      "groupId": "fda",
+      "siteId": "fda-press-releases",
+      "error": "RSS fetch failed - keeping archived data"
+    },
+    {
+      "groupId": "fda",
+      "siteId": "fda-qa-with-fda",
+      "error": "RSS fetch failed - keeping archived data"
+    },
+    {
+      "groupId": "fda",
+      "siteId": "fda-recalls",
+      "error": "RSS fetch failed - keeping archived data"
+    },
+    {
+      "groupId": "fda",
+      "siteId": "fda-consumer-health-information-updates",
+      "error": "RSS fetch failed - keeping archived data"
+    },
+    {
+      "groupId": "fda",
+      "siteId": "fda-criminal-investigations-press-releases",
+      "error": "RSS fetch failed - keeping archived data"
+    },
+    {
+      "groupId": "fda",
+      "siteId": "fda-outbreaks",
+      "error": "RSS fetch failed - keeping archived data"
+    },
+    {
+      "groupId": "fda",
+      "siteId": "fda-food-allergies",
+      "error": "RSS fetch failed - keeping archived data"
+    },
+    {
+      "groupId": "fda",
+      "siteId": "fda-food-safety-recalls",
+      "error": "RSS fetch failed - keeping archived data"
+    },
+    {
+      "groupId": "fda",
+      "siteId": "fda-health-fraud",
+      "error": "RSS fetch failed - keeping archived data"
+    },
+    {
+      "groupId": "fda",
+      "siteId": "fda-medwatch",
+      "error": "RSS fetch failed - keeping archived data"
+    },
+    {
+      "groupId": "fda",
+      "siteId": "fda-ora-foia-electronic-reading-room",
+      "error": "RSS fetch failed - keeping archived data"
+    },
+    {
+      "groupId": "fda",
+      "siteId": "fda-tainted-products-dietary-supplements",
+      "error": "RSS fetch failed - keeping archived data"
+    },
     {
       "groupId": "ema",
       "siteId": "ema-eurd-list",
